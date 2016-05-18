@@ -1,2 +1,2 @@
-# geowahl
-GeoWahl App for Web, iOS and Android
+# GeoWahl
+Visualizes geo–political data for Web, Smartphone (iPhone, Android) and Smartwatch (Apple Watch, Android).
