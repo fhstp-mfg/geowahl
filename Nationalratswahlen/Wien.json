@@ -1,0 +1,209 @@
+[
+  {
+    "BZ": "Landstraße",
+    "SPOE": 10803,
+    "FPOE": 6310,
+    "OEVP": 5735,
+    "GRUE": 8764,
+    "NEOS": 1357,
+    "FRANK": 3875
+  },
+  {
+    "BZ": "Wieden",
+    "SPOE": 3271,
+    "FPOE": 2971,
+    "OEVP": 1605,
+    "GRUE": 3858,
+    "NEOS": 488,
+    "FRANK": 1785
+  },
+  {
+    "BZ": "Margareten",
+    "SPOE": 6265,
+    "FPOE": 2683,
+    "OEVP": 3201,
+    "GRUE": 5287,
+    "NEOS": 661,
+    "FRANK": 1767
+  },
+  {
+    "BZ": "Innere Stadt",
+    "SPOE": 1582,
+    "FPOE": 2579,
+    "OEVP": 796,
+    "GRUE": 1474,
+    "NEOS": 425,
+    "FRANK": 1343
+  },
+  {
+    "BZ": "Mariahilf",
+    "SPOE": 3217,
+    "FPOE": 2321,
+    "OEVP": 1516,
+    "GRUE": 4123,
+    "NEOS": 460,
+    "FRANK": 1673
+  },
+  {
+    "BZ": "Neubau",
+    "SPOE": 3297,
+    "FPOE": 2242,
+    "OEVP": 1355,
+    "GRUE": 4838,
+    "NEOS": 408,
+    "FRANK": 1832
+  },
+  {
+    "BZ": "Josefstadt",
+    "SPOE": 2354,
+    "FPOE": 2507,
+    "OEVP": 1085,
+    "GRUE": 3343,
+    "NEOS": 335,
+    "FRANK": 1588
+  },
+  {
+    "BZ": "Alsergrund",
+    "SPOE": 4176,
+    "FPOE": 3346,
+    "OEVP": 2083,
+    "GRUE": 5162,
+    "NEOS": 607,
+    "FRANK": 2411
+  },
+  {
+    "BZ": "Leopoldstadt",
+    "SPOE": 12613,
+    "FPOE": 4641,
+    "OEVP": 6578,
+    "GRUE": 8921,
+    "NEOS": 1434,
+    "FRANK": 2882
+  },
+  {
+    "BZ": "Brigittenau",
+    "SPOE": 11910,
+    "FPOE": 3220,
+    "OEVP": 6918,
+    "GRUE": 4773,
+    "NEOS": 1091,
+    "FRANK": 1600
+  },
+  {
+    "BZ": "Favoriten",
+    "SPOE": 28017,
+    "FPOE": 7019,
+    "OEVP": 20209,
+    "GRUE": 6342,
+    "NEOS": 2924,
+    "FRANK": 2778
+  },
+  {
+    "BZ": "Simmering",
+    "SPOE": 15495,
+    "FPOE": 3447,
+    "OEVP": 12095,
+    "GRUE": 3061,
+    "NEOS": 1529,
+    "FRANK": 1484
+  },
+  {
+    "BZ": "Meidling",
+    "SPOE": 12600,
+    "FPOE": 4570,
+    "OEVP": 8087,
+    "GRUE": 5189,
+    "NEOS": 1465,
+    "FRANK": 2245
+  },
+  {
+    "BZ": "Hietzing",
+    "SPOE": 6455,
+    "FPOE": 7827,
+    "OEVP": 4072,
+    "GRUE": 4471,
+    "NEOS": 1138,
+    "FRANK": 3438
+  },
+  {
+    "BZ": "Penzing",
+    "SPOE": 12139,
+    "FPOE": 7123,
+    "OEVP": 8278,
+    "GRUE": 7004,
+    "NEOS": 1726,
+    "FRANK": 3435
+  },
+  {
+    "BZ": "Rudolfsheim-Fünfhaus",
+    "SPOE": 8420,
+    "FPOE": 2862,
+    "OEVP": 4680,
+    "GRUE": 5614,
+    "NEOS": 916,
+    "FRANK": 1580
+  },
+  {
+    "BZ": "Liesing",
+    "SPOE": 17474,
+    "FPOE": 7752,
+    "OEVP": 11358,
+    "GRUE": 6291,
+    "NEOS": 2220,
+    "FRANK": 3834
+  },
+  {
+    "BZ": "Ottakring",
+    "SPOE": 12478,
+    "FPOE": 4848,
+    "OEVP": 7741,
+    "GRUE": 7213,
+    "NEOS": 1387,
+    "FRANK": 2539
+  },
+  {
+    "BZ": "Hernals",
+    "SPOE": 5820,
+    "FPOE": 3821,
+    "OEVP": 3855,
+    "GRUE": 4732,
+    "NEOS": 837,
+    "FRANK": 2086
+  },
+  {
+    "BZ": "Währing",
+    "SPOE": 4573,
+    "FPOE": 5593,
+    "OEVP": 2682,
+    "GRUE": 5497,
+    "NEOS": 780,
+    "FRANK": 3035
+  },
+  {
+    "BZ": "Döbling",
+    "SPOE": 8728,
+    "FPOE": 8663,
+    "OEVP": 5287,
+    "GRUE": 5120,
+    "NEOS": 1437,
+    "FRANK": 4192
+  },
+  {
+    "BZ": "Floridsdorf",
+    "SPOE": 26190,
+    "FPOE": 7333,
+    "OEVP": 20104,
+    "GRUE": 6915,
+    "NEOS": 3028,
+    "FRANK": 3372
+  },
+  {
+    "BZ": "Donaustadt",
+    "SPOE": 30036,
+    "FPOE": 8486,
+    "OEVP": 22053,
+    "GRUE": 9099,
+    "NEOS": 3847,
+    "FRANK": 4453
+  }
+]

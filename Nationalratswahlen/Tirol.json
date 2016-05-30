@@ -1,0 +1,2513 @@
+[
+  {
+    "BZ": "Innsbruck",
+    "SPOE": 10244,
+    "FPOE": 9598,
+    "OEVP": 10065,
+    "GRUE": 11135,
+    "NEOS": 3727,
+    "FRANK": 2323
+  },
+  {
+    "BZ": "Arzl im Pitztal",
+    "SPOE": 276,
+    "FPOE": 282,
+    "OEVP": 495,
+    "GRUE": 149,
+    "NEOS": 55,
+    "FRANK": 68
+  },
+  {
+    "BZ": "Haiming",
+    "SPOE": 398,
+    "FPOE": 412,
+    "OEVP": 538,
+    "GRUE": 242,
+    "NEOS": 72,
+    "FRANK": 134
+  },
+  {
+    "BZ": "Imst",
+    "SPOE": 727,
+    "FPOE": 904,
+    "OEVP": 1248,
+    "GRUE": 604,
+    "NEOS": 176,
+    "FRANK": 230
+  },
+  {
+    "BZ": "Imsterberg",
+    "SPOE": 68,
+    "FPOE": 88,
+    "OEVP": 165,
+    "GRUE": 24,
+    "NEOS": 2,
+    "FRANK": 11
+  },
+  {
+    "BZ": "Jerzens",
+    "SPOE": 64,
+    "FPOE": 97,
+    "OEVP": 163,
+    "GRUE": 25,
+    "NEOS": 8,
+    "FRANK": 18
+  },
+  {
+    "BZ": "Karres",
+    "SPOE": 56,
+    "FPOE": 58,
+    "OEVP": 134,
+    "GRUE": 13,
+    "NEOS": 10,
+    "FRANK": 20
+  },
+  {
+    "BZ": "Karrösten",
+    "SPOE": 87,
+    "FPOE": 77,
+    "OEVP": 131,
+    "GRUE": 24,
+    "NEOS": 9,
+    "FRANK": 17
+  },
+  {
+    "BZ": "Längenfeld",
+    "SPOE": 205,
+    "FPOE": 357,
+    "OEVP": 965,
+    "GRUE": 120,
+    "NEOS": 53,
+    "FRANK": 70
+  },
+  {
+    "BZ": "Mieming",
+    "SPOE": 199,
+    "FPOE": 346,
+    "OEVP": 514,
+    "GRUE": 279,
+    "NEOS": 98,
+    "FRANK": 104
+  },
+  {
+    "BZ": "Mils bei Imst",
+    "SPOE": 61,
+    "FPOE": 54,
+    "OEVP": 105,
+    "GRUE": 48,
+    "NEOS": 19,
+    "FRANK": 13
+  },
+  {
+    "BZ": "Mötz",
+    "SPOE": 92,
+    "FPOE": 103,
+    "OEVP": 183,
+    "GRUE": 89,
+    "NEOS": 14,
+    "FRANK": 41
+  },
+  {
+    "BZ": "Nassereith",
+    "SPOE": 148,
+    "FPOE": 178,
+    "OEVP": 325,
+    "GRUE": 78,
+    "NEOS": 33,
+    "FRANK": 60
+  },
+  {
+    "BZ": "Obsteig",
+    "SPOE": 64,
+    "FPOE": 111,
+    "OEVP": 199,
+    "GRUE": 101,
+    "NEOS": 28,
+    "FRANK": 40
+  },
+  {
+    "BZ": "Ötz",
+    "SPOE": 146,
+    "FPOE": 181,
+    "OEVP": 418,
+    "GRUE": 121,
+    "NEOS": 59,
+    "FRANK": 65
+  },
+  {
+    "BZ": "Rietz",
+    "SPOE": 245,
+    "FPOE": 204,
+    "OEVP": 219,
+    "GRUE": 105,
+    "NEOS": 40,
+    "FRANK": 60
+  },
+  {
+    "BZ": "Roppen",
+    "SPOE": 200,
+    "FPOE": 134,
+    "OEVP": 292,
+    "GRUE": 58,
+    "NEOS": 22,
+    "FRANK": 35
+  },
+  {
+    "BZ": "Sautens",
+    "SPOE": 107,
+    "FPOE": 107,
+    "OEVP": 227,
+    "GRUE": 59,
+    "NEOS": 25,
+    "FRANK": 41
+  },
+  {
+    "BZ": "Silz",
+    "SPOE": 279,
+    "FPOE": 189,
+    "OEVP": 351,
+    "GRUE": 169,
+    "NEOS": 37,
+    "FRANK": 49
+  },
+  {
+    "BZ": "Sölden",
+    "SPOE": 80,
+    "FPOE": 210,
+    "OEVP": 651,
+    "GRUE": 86,
+    "NEOS": 45,
+    "FRANK": 54
+  },
+  {
+    "BZ": "St. Leonhard im Pitztal",
+    "SPOE": 46,
+    "FPOE": 129,
+    "OEVP": 309,
+    "GRUE": 24,
+    "NEOS": 7,
+    "FRANK": 26
+  },
+  {
+    "BZ": "Stams",
+    "SPOE": 92,
+    "FPOE": 119,
+    "OEVP": 189,
+    "GRUE": 112,
+    "NEOS": 27,
+    "FRANK": 48
+  },
+  {
+    "BZ": "Tarrenz",
+    "SPOE": 151,
+    "FPOE": 282,
+    "OEVP": 368,
+    "GRUE": 115,
+    "NEOS": 57,
+    "FRANK": 112
+  },
+  {
+    "BZ": "Umhausen",
+    "SPOE": 162,
+    "FPOE": 298,
+    "OEVP": 666,
+    "GRUE": 95,
+    "NEOS": 43,
+    "FRANK": 72
+  },
+  {
+    "BZ": "Wenns",
+    "SPOE": 151,
+    "FPOE": 157,
+    "OEVP": 322,
+    "GRUE": 72,
+    "NEOS": 22,
+    "FRANK": 48
+  },
+  {
+    "BZ": "Absam",
+    "SPOE": 764,
+    "FPOE": 576,
+    "OEVP": 863,
+    "GRUE": 657,
+    "NEOS": 212,
+    "FRANK": 183
+  },
+  {
+    "BZ": "Aldrans",
+    "SPOE": 145,
+    "FPOE": 166,
+    "OEVP": 354,
+    "GRUE": 251,
+    "NEOS": 96,
+    "FRANK": 55
+  },
+  {
+    "BZ": "Ampass",
+    "SPOE": 91,
+    "FPOE": 179,
+    "OEVP": 214,
+    "GRUE": 139,
+    "NEOS": 68,
+    "FRANK": 54
+  },
+  {
+    "BZ": "Axams",
+    "SPOE": 572,
+    "FPOE": 537,
+    "OEVP": 720,
+    "GRUE": 571,
+    "NEOS": 138,
+    "FRANK": 133
+  },
+  {
+    "BZ": "Baumkirchen",
+    "SPOE": 114,
+    "FPOE": 116,
+    "OEVP": 202,
+    "GRUE": 92,
+    "NEOS": 36,
+    "FRANK": 39
+  },
+  {
+    "BZ": "Birgitz",
+    "SPOE": 93,
+    "FPOE": 122,
+    "OEVP": 203,
+    "GRUE": 117,
+    "NEOS": 34,
+    "FRANK": 39
+  },
+  {
+    "BZ": "Ellbögen",
+    "SPOE": 105,
+    "FPOE": 148,
+    "OEVP": 268,
+    "GRUE": 54,
+    "NEOS": 22,
+    "FRANK": 31
+  },
+  {
+    "BZ": "Flaurling",
+    "SPOE": 121,
+    "FPOE": 106,
+    "OEVP": 203,
+    "GRUE": 101,
+    "NEOS": 21,
+    "FRANK": 26
+  },
+  {
+    "BZ": "Fritzens",
+    "SPOE": 224,
+    "FPOE": 249,
+    "OEVP": 265,
+    "GRUE": 119,
+    "NEOS": 48,
+    "FRANK": 76
+  },
+  {
+    "BZ": "Fulpmes",
+    "SPOE": 282,
+    "FPOE": 375,
+    "OEVP": 570,
+    "GRUE": 229,
+    "NEOS": 77,
+    "FRANK": 98
+  },
+  {
+    "BZ": "Gnadenwald",
+    "SPOE": 38,
+    "FPOE": 50,
+    "OEVP": 157,
+    "GRUE": 60,
+    "NEOS": 37,
+    "FRANK": 24
+  },
+  {
+    "BZ": "Götzens",
+    "SPOE": 331,
+    "FPOE": 378,
+    "OEVP": 477,
+    "GRUE": 294,
+    "NEOS": 111,
+    "FRANK": 92
+  },
+  {
+    "BZ": "Gries am Brenner",
+    "SPOE": 122,
+    "FPOE": 167,
+    "OEVP": 233,
+    "GRUE": 59,
+    "NEOS": 24,
+    "FRANK": 30
+  },
+  {
+    "BZ": "Gries im Sellrain",
+    "SPOE": 49,
+    "FPOE": 63,
+    "OEVP": 143,
+    "GRUE": 21,
+    "NEOS": 8,
+    "FRANK": 7
+  },
+  {
+    "BZ": "Grinzens",
+    "SPOE": 128,
+    "FPOE": 122,
+    "OEVP": 216,
+    "GRUE": 85,
+    "NEOS": 28,
+    "FRANK": 21
+  },
+  {
+    "BZ": "Gschnitz",
+    "SPOE": 35,
+    "FPOE": 50,
+    "OEVP": 96,
+    "GRUE": 13,
+    "NEOS": 7,
+    "FRANK": 12
+  },
+  {
+    "BZ": "Hall in Tirol",
+    "SPOE": 1132,
+    "FPOE": 1008,
+    "OEVP": 1198,
+    "GRUE": 1008,
+    "NEOS": 367,
+    "FRANK": 287
+  },
+  {
+    "BZ": "Hatting",
+    "SPOE": 147,
+    "FPOE": 123,
+    "OEVP": 217,
+    "GRUE": 101,
+    "NEOS": 42,
+    "FRANK": 19
+  },
+  {
+    "BZ": "Inzing",
+    "SPOE": 348,
+    "FPOE": 251,
+    "OEVP": 532,
+    "GRUE": 326,
+    "NEOS": 95,
+    "FRANK": 92
+  },
+  {
+    "BZ": "Kematen in Tirol",
+    "SPOE": 256,
+    "FPOE": 223,
+    "OEVP": 375,
+    "GRUE": 226,
+    "NEOS": 64,
+    "FRANK": 53
+  },
+  {
+    "BZ": "Kolsass",
+    "SPOE": 151,
+    "FPOE": 176,
+    "OEVP": 243,
+    "GRUE": 132,
+    "NEOS": 51,
+    "FRANK": 50
+  },
+  {
+    "BZ": "Kolsassberg",
+    "SPOE": 63,
+    "FPOE": 72,
+    "OEVP": 167,
+    "GRUE": 39,
+    "NEOS": 16,
+    "FRANK": 22
+  },
+  {
+    "BZ": "Lans",
+    "SPOE": 53,
+    "FPOE": 57,
+    "OEVP": 181,
+    "GRUE": 83,
+    "NEOS": 52,
+    "FRANK": 18
+  },
+  {
+    "BZ": "Leutasch",
+    "SPOE": 91,
+    "FPOE": 123,
+    "OEVP": 409,
+    "GRUE": 112,
+    "NEOS": 25,
+    "FRANK": 61
+  },
+  {
+    "BZ": "Matrei am Brenner",
+    "SPOE": 151,
+    "FPOE": 98,
+    "OEVP": 125,
+    "GRUE": 30,
+    "NEOS": 21,
+    "FRANK": 16
+  },
+  {
+    "BZ": "Mieders",
+    "SPOE": 112,
+    "FPOE": 155,
+    "OEVP": 281,
+    "GRUE": 119,
+    "NEOS": 47,
+    "FRANK": 51
+  },
+  {
+    "BZ": "Mils",
+    "SPOE": 311,
+    "FPOE": 438,
+    "OEVP": 632,
+    "GRUE": 361,
+    "NEOS": 151,
+    "FRANK": 127
+  },
+  {
+    "BZ": "Mühlbachl",
+    "SPOE": 141,
+    "FPOE": 104,
+    "OEVP": 282,
+    "GRUE": 53,
+    "NEOS": 10,
+    "FRANK": 44
+  },
+  {
+    "BZ": "Mutters",
+    "SPOE": 139,
+    "FPOE": 171,
+    "OEVP": 394,
+    "GRUE": 193,
+    "NEOS": 53,
+    "FRANK": 38
+  },
+  {
+    "BZ": "Natters",
+    "SPOE": 130,
+    "FPOE": 143,
+    "OEVP": 331,
+    "GRUE": 174,
+    "NEOS": 88,
+    "FRANK": 55
+  },
+  {
+    "BZ": "Navis",
+    "SPOE": 166,
+    "FPOE": 230,
+    "OEVP": 448,
+    "GRUE": 66,
+    "NEOS": 40,
+    "FRANK": 44
+  },
+  {
+    "BZ": "Neustift im Stubaital",
+    "SPOE": 237,
+    "FPOE": 518,
+    "OEVP": 865,
+    "GRUE": 213,
+    "NEOS": 67,
+    "FRANK": 108
+  },
+  {
+    "BZ": "Oberhofen im Inntal",
+    "SPOE": 178,
+    "FPOE": 151,
+    "OEVP": 255,
+    "GRUE": 120,
+    "NEOS": 27,
+    "FRANK": 44
+  },
+  {
+    "BZ": "Obernberg am Brenner",
+    "SPOE": 26,
+    "FPOE": 29,
+    "OEVP": 112,
+    "GRUE": 10,
+    "NEOS": 12,
+    "FRANK": 4
+  },
+  {
+    "BZ": "Oberperfuss",
+    "SPOE": 267,
+    "FPOE": 227,
+    "OEVP": 522,
+    "GRUE": 256,
+    "NEOS": 76,
+    "FRANK": 61
+  },
+  {
+    "BZ": "Patsch",
+    "SPOE": 90,
+    "FPOE": 72,
+    "OEVP": 184,
+    "GRUE": 95,
+    "NEOS": 25,
+    "FRANK": 34
+  },
+  {
+    "BZ": "Pettnau",
+    "SPOE": 73,
+    "FPOE": 79,
+    "OEVP": 177,
+    "GRUE": 67,
+    "NEOS": 13,
+    "FRANK": 27
+  },
+  {
+    "BZ": "Pfaffenhofen",
+    "SPOE": 117,
+    "FPOE": 72,
+    "OEVP": 117,
+    "GRUE": 85,
+    "NEOS": 22,
+    "FRANK": 27
+  },
+  {
+    "BZ": "Pfons",
+    "SPOE": 126,
+    "FPOE": 135,
+    "OEVP": 262,
+    "GRUE": 77,
+    "NEOS": 35,
+    "FRANK": 31
+  },
+  {
+    "BZ": "Polling in Tirol",
+    "SPOE": 108,
+    "FPOE": 132,
+    "OEVP": 87,
+    "GRUE": 40,
+    "NEOS": 10,
+    "FRANK": 18
+  },
+  {
+    "BZ": "Ranggen",
+    "SPOE": 89,
+    "FPOE": 108,
+    "OEVP": 189,
+    "GRUE": 72,
+    "NEOS": 23,
+    "FRANK": 22
+  },
+  {
+    "BZ": "Reith bei Seefeld",
+    "SPOE": 50,
+    "FPOE": 107,
+    "OEVP": 165,
+    "GRUE": 83,
+    "NEOS": 25,
+    "FRANK": 30
+  },
+  {
+    "BZ": "Rinn",
+    "SPOE": 130,
+    "FPOE": 169,
+    "OEVP": 289,
+    "GRUE": 144,
+    "NEOS": 69,
+    "FRANK": 53
+  },
+  {
+    "BZ": "Rum",
+    "SPOE": 1155,
+    "FPOE": 941,
+    "OEVP": 741,
+    "GRUE": 683,
+    "NEOS": 284,
+    "FRANK": 232
+  },
+  {
+    "BZ": "Scharnitz",
+    "SPOE": 106,
+    "FPOE": 113,
+    "OEVP": 177,
+    "GRUE": 29,
+    "NEOS": 14,
+    "FRANK": 26
+  },
+  {
+    "BZ": "Schmirn",
+    "SPOE": 86,
+    "FPOE": 84,
+    "OEVP": 281,
+    "GRUE": 30,
+    "NEOS": 6,
+    "FRANK": 14
+  },
+  {
+    "BZ": "Schönberg im Stubaital",
+    "SPOE": 78,
+    "FPOE": 65,
+    "OEVP": 157,
+    "GRUE": 76,
+    "NEOS": 21,
+    "FRANK": 29
+  },
+  {
+    "BZ": "Seefeld in Tirol",
+    "SPOE": 139,
+    "FPOE": 202,
+    "OEVP": 481,
+    "GRUE": 131,
+    "NEOS": 72,
+    "FRANK": 76
+  },
+  {
+    "BZ": "Sellrain",
+    "SPOE": 147,
+    "FPOE": 108,
+    "OEVP": 279,
+    "GRUE": 49,
+    "NEOS": 13,
+    "FRANK": 29
+  },
+  {
+    "BZ": "Sistrans",
+    "SPOE": 118,
+    "FPOE": 167,
+    "OEVP": 342,
+    "GRUE": 274,
+    "NEOS": 101,
+    "FRANK": 50
+  },
+  {
+    "BZ": "St. Sigmund im Sellrain",
+    "SPOE": 9,
+    "FPOE": 16,
+    "OEVP": 44,
+    "GRUE": 3,
+    "NEOS": 1,
+    "FRANK": 4
+  },
+  {
+    "BZ": "Steinach am Brenner",
+    "SPOE": 349,
+    "FPOE": 361,
+    "OEVP": 528,
+    "GRUE": 196,
+    "NEOS": 93,
+    "FRANK": 100
+  },
+  {
+    "BZ": "Telfes im Stubai",
+    "SPOE": 119,
+    "FPOE": 123,
+    "OEVP": 309,
+    "GRUE": 92,
+    "NEOS": 39,
+    "FRANK": 33
+  },
+  {
+    "BZ": "Telfs",
+    "SPOE": 1233,
+    "FPOE": 1269,
+    "OEVP": 1116,
+    "GRUE": 1179,
+    "NEOS": 258,
+    "FRANK": 340
+  },
+  {
+    "BZ": "Thaur",
+    "SPOE": 380,
+    "FPOE": 328,
+    "OEVP": 693,
+    "GRUE": 319,
+    "NEOS": 92,
+    "FRANK": 76
+  },
+  {
+    "BZ": "Trins",
+    "SPOE": 108,
+    "FPOE": 138,
+    "OEVP": 249,
+    "GRUE": 73,
+    "NEOS": 28,
+    "FRANK": 37
+  },
+  {
+    "BZ": "Tulfes",
+    "SPOE": 72,
+    "FPOE": 166,
+    "OEVP": 264,
+    "GRUE": 89,
+    "NEOS": 22,
+    "FRANK": 47
+  },
+  {
+    "BZ": "Unterperfuss",
+    "SPOE": 11,
+    "FPOE": 15,
+    "OEVP": 38,
+    "GRUE": 7,
+    "NEOS": 0,
+    "FRANK": 3
+  },
+  {
+    "BZ": "Vals",
+    "SPOE": 42,
+    "FPOE": 58,
+    "OEVP": 160,
+    "GRUE": 18,
+    "NEOS": 6,
+    "FRANK": 10
+  },
+  {
+    "BZ": "Völs",
+    "SPOE": 636,
+    "FPOE": 628,
+    "OEVP": 814,
+    "GRUE": 530,
+    "NEOS": 165,
+    "FRANK": 159
+  },
+  {
+    "BZ": "Volders",
+    "SPOE": 321,
+    "FPOE": 573,
+    "OEVP": 615,
+    "GRUE": 293,
+    "NEOS": 122,
+    "FRANK": 128
+  },
+  {
+    "BZ": "Wattenberg",
+    "SPOE": 22,
+    "FPOE": 118,
+    "OEVP": 203,
+    "GRUE": 40,
+    "NEOS": 13,
+    "FRANK": 21
+  },
+  {
+    "BZ": "Wattens",
+    "SPOE": 715,
+    "FPOE": 896,
+    "OEVP": 862,
+    "GRUE": 537,
+    "NEOS": 163,
+    "FRANK": 264
+  },
+  {
+    "BZ": "Wildermieming",
+    "SPOE": 68,
+    "FPOE": 94,
+    "OEVP": 159,
+    "GRUE": 82,
+    "NEOS": 33,
+    "FRANK": 29
+  },
+  {
+    "BZ": "Zirl",
+    "SPOE": 706,
+    "FPOE": 634,
+    "OEVP": 722,
+    "GRUE": 743,
+    "NEOS": 219,
+    "FRANK": 190
+  },
+  {
+    "BZ": "Aurach bei Kitzbühel",
+    "SPOE": 73,
+    "FPOE": 86,
+    "OEVP": 232,
+    "GRUE": 39,
+    "NEOS": 17,
+    "FRANK": 48
+  },
+  {
+    "BZ": "Brixen im Thale",
+    "SPOE": 282,
+    "FPOE": 184,
+    "OEVP": 485,
+    "GRUE": 117,
+    "NEOS": 27,
+    "FRANK": 74
+  },
+  {
+    "BZ": "Fieberbrunn",
+    "SPOE": 510,
+    "FPOE": 347,
+    "OEVP": 713,
+    "GRUE": 257,
+    "NEOS": 68,
+    "FRANK": 141
+  },
+  {
+    "BZ": "Going am Wilden Kaiser",
+    "SPOE": 100,
+    "FPOE": 175,
+    "OEVP": 286,
+    "GRUE": 70,
+    "NEOS": 23,
+    "FRANK": 60
+  },
+  {
+    "BZ": "Hochfilzen",
+    "SPOE": 195,
+    "FPOE": 119,
+    "OEVP": 172,
+    "GRUE": 41,
+    "NEOS": 13,
+    "FRANK": 35
+  },
+  {
+    "BZ": "Hopfgarten im Brixental",
+    "SPOE": 424,
+    "FPOE": 455,
+    "OEVP": 1098,
+    "GRUE": 307,
+    "NEOS": 86,
+    "FRANK": 147
+  },
+  {
+    "BZ": "Itter",
+    "SPOE": 116,
+    "FPOE": 106,
+    "OEVP": 223,
+    "GRUE": 53,
+    "NEOS": 34,
+    "FRANK": 46
+  },
+  {
+    "BZ": "Jochberg",
+    "SPOE": 161,
+    "FPOE": 178,
+    "OEVP": 251,
+    "GRUE": 68,
+    "NEOS": 18,
+    "FRANK": 52
+  },
+  {
+    "BZ": "Kirchberg in Tirol",
+    "SPOE": 464,
+    "FPOE": 388,
+    "OEVP": 747,
+    "GRUE": 194,
+    "NEOS": 37,
+    "FRANK": 149
+  },
+  {
+    "BZ": "Kirchdorf in Tirol",
+    "SPOE": 253,
+    "FPOE": 407,
+    "OEVP": 546,
+    "GRUE": 182,
+    "NEOS": 52,
+    "FRANK": 151
+  },
+  {
+    "BZ": "Kitzbühel",
+    "SPOE": 584,
+    "FPOE": 672,
+    "OEVP": 995,
+    "GRUE": 393,
+    "NEOS": 196,
+    "FRANK": 260
+  },
+  {
+    "BZ": "Kössen",
+    "SPOE": 182,
+    "FPOE": 357,
+    "OEVP": 690,
+    "GRUE": 171,
+    "NEOS": 50,
+    "FRANK": 138
+  },
+  {
+    "BZ": "Oberndorf in Tirol",
+    "SPOE": 232,
+    "FPOE": 171,
+    "OEVP": 324,
+    "GRUE": 99,
+    "NEOS": 33,
+    "FRANK": 72
+  },
+  {
+    "BZ": "Reith bei Kitzbühel",
+    "SPOE": 81,
+    "FPOE": 130,
+    "OEVP": 313,
+    "GRUE": 94,
+    "NEOS": 27,
+    "FRANK": 54
+  },
+  {
+    "BZ": "Schwendt",
+    "SPOE": 49,
+    "FPOE": 53,
+    "OEVP": 167,
+    "GRUE": 39,
+    "NEOS": 9,
+    "FRANK": 16
+  },
+  {
+    "BZ": "St. Jakob in Haus",
+    "SPOE": 68,
+    "FPOE": 68,
+    "OEVP": 124,
+    "GRUE": 44,
+    "NEOS": 12,
+    "FRANK": 29
+  },
+  {
+    "BZ": "St. Johann in Tirol",
+    "SPOE": 644,
+    "FPOE": 930,
+    "OEVP": 1044,
+    "GRUE": 568,
+    "NEOS": 168,
+    "FRANK": 242
+  },
+  {
+    "BZ": "St. Ulrich am Pillersee",
+    "SPOE": 103,
+    "FPOE": 137,
+    "OEVP": 307,
+    "GRUE": 89,
+    "NEOS": 22,
+    "FRANK": 37
+  },
+  {
+    "BZ": "Waidring",
+    "SPOE": 153,
+    "FPOE": 208,
+    "OEVP": 339,
+    "GRUE": 99,
+    "NEOS": 25,
+    "FRANK": 78
+  },
+  {
+    "BZ": "Westendorf",
+    "SPOE": 287,
+    "FPOE": 276,
+    "OEVP": 716,
+    "GRUE": 177,
+    "NEOS": 53,
+    "FRANK": 99
+  },
+  {
+    "BZ": "Alpbach",
+    "SPOE": 65,
+    "FPOE": 257,
+    "OEVP": 645,
+    "GRUE": 95,
+    "NEOS": 51,
+    "FRANK": 91
+  },
+  {
+    "BZ": "Angath",
+    "SPOE": 89,
+    "FPOE": 114,
+    "OEVP": 139,
+    "GRUE": 65,
+    "NEOS": 11,
+    "FRANK": 41
+  },
+  {
+    "BZ": "Angerberg",
+    "SPOE": 120,
+    "FPOE": 186,
+    "OEVP": 302,
+    "GRUE": 126,
+    "NEOS": 52,
+    "FRANK": 80
+  },
+  {
+    "BZ": "Bad Häring",
+    "SPOE": 414,
+    "FPOE": 196,
+    "OEVP": 316,
+    "GRUE": 185,
+    "NEOS": 45,
+    "FRANK": 44
+  },
+  {
+    "BZ": "Brandenberg",
+    "SPOE": 184,
+    "FPOE": 145,
+    "OEVP": 352,
+    "GRUE": 53,
+    "NEOS": 15,
+    "FRANK": 33
+  },
+  {
+    "BZ": "Breitenbach am Inn",
+    "SPOE": 251,
+    "FPOE": 381,
+    "OEVP": 716,
+    "GRUE": 158,
+    "NEOS": 74,
+    "FRANK": 108
+  },
+  {
+    "BZ": "Brixlegg",
+    "SPOE": 243,
+    "FPOE": 294,
+    "OEVP": 420,
+    "GRUE": 171,
+    "NEOS": 65,
+    "FRANK": 83
+  },
+  {
+    "BZ": "Ebbs",
+    "SPOE": 325,
+    "FPOE": 654,
+    "OEVP": 768,
+    "GRUE": 285,
+    "NEOS": 109,
+    "FRANK": 178
+  },
+  {
+    "BZ": "Ellmau",
+    "SPOE": 118,
+    "FPOE": 260,
+    "OEVP": 461,
+    "GRUE": 119,
+    "NEOS": 30,
+    "FRANK": 87
+  },
+  {
+    "BZ": "Erl",
+    "SPOE": 71,
+    "FPOE": 113,
+    "OEVP": 347,
+    "GRUE": 58,
+    "NEOS": 37,
+    "FRANK": 37
+  },
+  {
+    "BZ": "Kirchbichl",
+    "SPOE": 782,
+    "FPOE": 606,
+    "OEVP": 602,
+    "GRUE": 312,
+    "NEOS": 104,
+    "FRANK": 179
+  },
+  {
+    "BZ": "Kramsach",
+    "SPOE": 441,
+    "FPOE": 436,
+    "OEVP": 639,
+    "GRUE": 408,
+    "NEOS": 115,
+    "FRANK": 133
+  },
+  {
+    "BZ": "Kufstein",
+    "SPOE": 1336,
+    "FPOE": 1700,
+    "OEVP": 1530,
+    "GRUE": 1158,
+    "NEOS": 350,
+    "FRANK": 463
+  },
+  {
+    "BZ": "Kundl",
+    "SPOE": 471,
+    "FPOE": 414,
+    "OEVP": 507,
+    "GRUE": 222,
+    "NEOS": 71,
+    "FRANK": 104
+  },
+  {
+    "BZ": "Langkampfen",
+    "SPOE": 470,
+    "FPOE": 482,
+    "OEVP": 402,
+    "GRUE": 174,
+    "NEOS": 78,
+    "FRANK": 158
+  },
+  {
+    "BZ": "Mariastein",
+    "SPOE": 13,
+    "FPOE": 34,
+    "OEVP": 60,
+    "GRUE": 33,
+    "NEOS": 5,
+    "FRANK": 12
+  },
+  {
+    "BZ": "Münster",
+    "SPOE": 351,
+    "FPOE": 391,
+    "OEVP": 411,
+    "GRUE": 183,
+    "NEOS": 55,
+    "FRANK": 110
+  },
+  {
+    "BZ": "Niederndorf",
+    "SPOE": 117,
+    "FPOE": 275,
+    "OEVP": 485,
+    "GRUE": 139,
+    "NEOS": 62,
+    "FRANK": 82
+  },
+  {
+    "BZ": "Niederndorferberg",
+    "SPOE": 10,
+    "FPOE": 57,
+    "OEVP": 145,
+    "GRUE": 25,
+    "NEOS": 4,
+    "FRANK": 9
+  },
+  {
+    "BZ": "Radfeld",
+    "SPOE": 183,
+    "FPOE": 296,
+    "OEVP": 230,
+    "GRUE": 100,
+    "NEOS": 40,
+    "FRANK": 74
+  },
+  {
+    "BZ": "Rattenberg",
+    "SPOE": 30,
+    "FPOE": 41,
+    "OEVP": 45,
+    "GRUE": 31,
+    "NEOS": 13,
+    "FRANK": 8
+  },
+  {
+    "BZ": "Reith im Alpbachtal",
+    "SPOE": 168,
+    "FPOE": 275,
+    "OEVP": 554,
+    "GRUE": 118,
+    "NEOS": 45,
+    "FRANK": 69
+  },
+  {
+    "BZ": "Rettenschöss",
+    "SPOE": 5,
+    "FPOE": 37,
+    "OEVP": 152,
+    "GRUE": 13,
+    "NEOS": 1,
+    "FRANK": 12
+  },
+  {
+    "BZ": "Scheffau am Wilden Kaiser",
+    "SPOE": 50,
+    "FPOE": 95,
+    "OEVP": 267,
+    "GRUE": 65,
+    "NEOS": 28,
+    "FRANK": 45
+  },
+  {
+    "BZ": "Schwoich",
+    "SPOE": 215,
+    "FPOE": 270,
+    "OEVP": 468,
+    "GRUE": 128,
+    "NEOS": 37,
+    "FRANK": 60
+  },
+  {
+    "BZ": "Söll",
+    "SPOE": 246,
+    "FPOE": 340,
+    "OEVP": 707,
+    "GRUE": 179,
+    "NEOS": 58,
+    "FRANK": 115
+  },
+  {
+    "BZ": "Thiersee",
+    "SPOE": 202,
+    "FPOE": 275,
+    "OEVP": 639,
+    "GRUE": 129,
+    "NEOS": 45,
+    "FRANK": 59
+  },
+  {
+    "BZ": "Walchsee",
+    "SPOE": 66,
+    "FPOE": 232,
+    "OEVP": 323,
+    "GRUE": 66,
+    "NEOS": 33,
+    "FRANK": 65
+  },
+  {
+    "BZ": "Wildschönau",
+    "SPOE": 171,
+    "FPOE": 356,
+    "OEVP": 990,
+    "GRUE": 163,
+    "NEOS": 78,
+    "FRANK": 141
+  },
+  {
+    "BZ": "Wörgl",
+    "SPOE": 1217,
+    "FPOE": 1387,
+    "OEVP": 881,
+    "GRUE": 759,
+    "NEOS": 184,
+    "FRANK": 315
+  },
+  {
+    "BZ": "Faggen",
+    "SPOE": 23,
+    "FPOE": 30,
+    "OEVP": 89,
+    "GRUE": 11,
+    "NEOS": 2,
+    "FRANK": 8
+  },
+  {
+    "BZ": "Fendels",
+    "SPOE": 7,
+    "FPOE": 13,
+    "OEVP": 86,
+    "GRUE": 6,
+    "NEOS": 2,
+    "FRANK": 6
+  },
+  {
+    "BZ": "Fiss",
+    "SPOE": 19,
+    "FPOE": 34,
+    "OEVP": 293,
+    "GRUE": 17,
+    "NEOS": 5,
+    "FRANK": 15
+  },
+  {
+    "BZ": "Fließ",
+    "SPOE": 436,
+    "FPOE": 272,
+    "OEVP": 612,
+    "GRUE": 114,
+    "NEOS": 22,
+    "FRANK": 47
+  },
+  {
+    "BZ": "Flirsch",
+    "SPOE": 131,
+    "FPOE": 74,
+    "OEVP": 166,
+    "GRUE": 43,
+    "NEOS": 8,
+    "FRANK": 29
+  },
+  {
+    "BZ": "Galtür",
+    "SPOE": 19,
+    "FPOE": 58,
+    "OEVP": 270,
+    "GRUE": 20,
+    "NEOS": 11,
+    "FRANK": 16
+  },
+  {
+    "BZ": "Grins",
+    "SPOE": 148,
+    "FPOE": 130,
+    "OEVP": 310,
+    "GRUE": 62,
+    "NEOS": 28,
+    "FRANK": 28
+  },
+  {
+    "BZ": "Ischgl",
+    "SPOE": 56,
+    "FPOE": 162,
+    "OEVP": 432,
+    "GRUE": 16,
+    "NEOS": 7,
+    "FRANK": 25
+  },
+  {
+    "BZ": "Kappl",
+    "SPOE": 126,
+    "FPOE": 302,
+    "OEVP": 862,
+    "GRUE": 48,
+    "NEOS": 19,
+    "FRANK": 50
+  },
+  {
+    "BZ": "Kaunerberg",
+    "SPOE": 22,
+    "FPOE": 16,
+    "OEVP": 124,
+    "GRUE": 13,
+    "NEOS": 1,
+    "FRANK": 6
+  },
+  {
+    "BZ": "Kaunertal",
+    "SPOE": 29,
+    "FPOE": 23,
+    "OEVP": 194,
+    "GRUE": 31,
+    "NEOS": 9,
+    "FRANK": 7
+  },
+  {
+    "BZ": "Kauns",
+    "SPOE": 18,
+    "FPOE": 20,
+    "OEVP": 121,
+    "GRUE": 24,
+    "NEOS": 0,
+    "FRANK": 7
+  },
+  {
+    "BZ": "Ladis",
+    "SPOE": 25,
+    "FPOE": 30,
+    "OEVP": 114,
+    "GRUE": 20,
+    "NEOS": 7,
+    "FRANK": 13
+  },
+  {
+    "BZ": "Landeck",
+    "SPOE": 929,
+    "FPOE": 716,
+    "OEVP": 1021,
+    "GRUE": 477,
+    "NEOS": 135,
+    "FRANK": 155
+  },
+  {
+    "BZ": "Nauders",
+    "SPOE": 106,
+    "FPOE": 109,
+    "OEVP": 320,
+    "GRUE": 34,
+    "NEOS": 25,
+    "FRANK": 26
+  },
+  {
+    "BZ": "Pettneu am Arlberg",
+    "SPOE": 139,
+    "FPOE": 118,
+    "OEVP": 245,
+    "GRUE": 76,
+    "NEOS": 31,
+    "FRANK": 30
+  },
+  {
+    "BZ": "Pfunds",
+    "SPOE": 220,
+    "FPOE": 179,
+    "OEVP": 473,
+    "GRUE": 67,
+    "NEOS": 19,
+    "FRANK": 78
+  },
+  {
+    "BZ": "Pians",
+    "SPOE": 89,
+    "FPOE": 80,
+    "OEVP": 162,
+    "GRUE": 43,
+    "NEOS": 10,
+    "FRANK": 18
+  },
+  {
+    "BZ": "Prutz",
+    "SPOE": 152,
+    "FPOE": 121,
+    "OEVP": 234,
+    "GRUE": 104,
+    "NEOS": 25,
+    "FRANK": 46
+  },
+  {
+    "BZ": "Ried im Oberinntal",
+    "SPOE": 82,
+    "FPOE": 70,
+    "OEVP": 222,
+    "GRUE": 79,
+    "NEOS": 9,
+    "FRANK": 35
+  },
+  {
+    "BZ": "Schönwies",
+    "SPOE": 300,
+    "FPOE": 126,
+    "OEVP": 265,
+    "GRUE": 78,
+    "NEOS": 20,
+    "FRANK": 48
+  },
+  {
+    "BZ": "See",
+    "SPOE": 57,
+    "FPOE": 99,
+    "OEVP": 317,
+    "GRUE": 18,
+    "NEOS": 6,
+    "FRANK": 9
+  },
+  {
+    "BZ": "Serfaus",
+    "SPOE": 43,
+    "FPOE": 44,
+    "OEVP": 294,
+    "GRUE": 42,
+    "NEOS": 15,
+    "FRANK": 24
+  },
+  {
+    "BZ": "Spiss",
+    "SPOE": 3,
+    "FPOE": 9,
+    "OEVP": 35,
+    "GRUE": 3,
+    "NEOS": 1,
+    "FRANK": 3
+  },
+  {
+    "BZ": "St. Anton am Arlberg",
+    "SPOE": 96,
+    "FPOE": 129,
+    "OEVP": 460,
+    "GRUE": 138,
+    "NEOS": 54,
+    "FRANK": 56
+  },
+  {
+    "BZ": "Stanz bei Landeck",
+    "SPOE": 83,
+    "FPOE": 41,
+    "OEVP": 120,
+    "GRUE": 30,
+    "NEOS": 17,
+    "FRANK": 15
+  },
+  {
+    "BZ": "Strengen",
+    "SPOE": 161,
+    "FPOE": 126,
+    "OEVP": 241,
+    "GRUE": 55,
+    "NEOS": 19,
+    "FRANK": 22
+  },
+  {
+    "BZ": "Tobadill",
+    "SPOE": 45,
+    "FPOE": 40,
+    "OEVP": 120,
+    "GRUE": 18,
+    "NEOS": 7,
+    "FRANK": 5
+  },
+  {
+    "BZ": "Tösens",
+    "SPOE": 50,
+    "FPOE": 59,
+    "OEVP": 128,
+    "GRUE": 15,
+    "NEOS": 7,
+    "FRANK": 15
+  },
+  {
+    "BZ": "Zams",
+    "SPOE": 366,
+    "FPOE": 243,
+    "OEVP": 629,
+    "GRUE": 252,
+    "NEOS": 55,
+    "FRANK": 72
+  },
+  {
+    "BZ": "Abfaltersbach",
+    "SPOE": 21,
+    "FPOE": 50,
+    "OEVP": 187,
+    "GRUE": 16,
+    "NEOS": 11,
+    "FRANK": 13
+  },
+  {
+    "BZ": "Ainet",
+    "SPOE": 72,
+    "FPOE": 126,
+    "OEVP": 193,
+    "GRUE": 47,
+    "NEOS": 21,
+    "FRANK": 31
+  },
+  {
+    "BZ": "Amlach",
+    "SPOE": 36,
+    "FPOE": 39,
+    "OEVP": 72,
+    "GRUE": 18,
+    "NEOS": 4,
+    "FRANK": 14
+  },
+  {
+    "BZ": "Anras",
+    "SPOE": 80,
+    "FPOE": 110,
+    "OEVP": 303,
+    "GRUE": 41,
+    "NEOS": 18,
+    "FRANK": 33
+  },
+  {
+    "BZ": "Assling",
+    "SPOE": 107,
+    "FPOE": 134,
+    "OEVP": 501,
+    "GRUE": 95,
+    "NEOS": 23,
+    "FRANK": 56
+  },
+  {
+    "BZ": "Außervillgraten",
+    "SPOE": 42,
+    "FPOE": 57,
+    "OEVP": 284,
+    "GRUE": 15,
+    "NEOS": 14,
+    "FRANK": 22
+  },
+  {
+    "BZ": "Dölsach",
+    "SPOE": 232,
+    "FPOE": 226,
+    "OEVP": 354,
+    "GRUE": 112,
+    "NEOS": 40,
+    "FRANK": 78
+  },
+  {
+    "BZ": "Gaimberg",
+    "SPOE": 55,
+    "FPOE": 66,
+    "OEVP": 168,
+    "GRUE": 47,
+    "NEOS": 29,
+    "FRANK": 28
+  },
+  {
+    "BZ": "Heinfels",
+    "SPOE": 62,
+    "FPOE": 90,
+    "OEVP": 243,
+    "GRUE": 39,
+    "NEOS": 13,
+    "FRANK": 18
+  },
+  {
+    "BZ": "Hopfgarten in Defereggen",
+    "SPOE": 22,
+    "FPOE": 63,
+    "OEVP": 221,
+    "GRUE": 12,
+    "NEOS": 9,
+    "FRANK": 16
+  },
+  {
+    "BZ": "Innervillgraten",
+    "SPOE": 20,
+    "FPOE": 48,
+    "OEVP": 316,
+    "GRUE": 14,
+    "NEOS": 4,
+    "FRANK": 13
+  },
+  {
+    "BZ": "Iselsberg-Stronach",
+    "SPOE": 46,
+    "FPOE": 44,
+    "OEVP": 89,
+    "GRUE": 20,
+    "NEOS": 14,
+    "FRANK": 34
+  },
+  {
+    "BZ": "Kals am Großglockner",
+    "SPOE": 44,
+    "FPOE": 126,
+    "OEVP": 301,
+    "GRUE": 37,
+    "NEOS": 15,
+    "FRANK": 26
+  },
+  {
+    "BZ": "Kartitsch",
+    "SPOE": 31,
+    "FPOE": 47,
+    "OEVP": 283,
+    "GRUE": 22,
+    "NEOS": 5,
+    "FRANK": 28
+  },
+  {
+    "BZ": "Lavant",
+    "SPOE": 19,
+    "FPOE": 36,
+    "OEVP": 74,
+    "GRUE": 14,
+    "NEOS": 6,
+    "FRANK": 4
+  },
+  {
+    "BZ": "Leisach",
+    "SPOE": 93,
+    "FPOE": 50,
+    "OEVP": 129,
+    "GRUE": 50,
+    "NEOS": 15,
+    "FRANK": 24
+  },
+  {
+    "BZ": "Lienz",
+    "SPOE": 1412,
+    "FPOE": 921,
+    "OEVP": 1369,
+    "GRUE": 737,
+    "NEOS": 291,
+    "FRANK": 333
+  },
+  {
+    "BZ": "Matrei in Osttirol",
+    "SPOE": 240,
+    "FPOE": 600,
+    "OEVP": 790,
+    "GRUE": 197,
+    "NEOS": 71,
+    "FRANK": 118
+  },
+  {
+    "BZ": "Nikolsdorf",
+    "SPOE": 52,
+    "FPOE": 75,
+    "OEVP": 205,
+    "GRUE": 33,
+    "NEOS": 20,
+    "FRANK": 14
+  },
+  {
+    "BZ": "Nußdorf-Debant",
+    "SPOE": 395,
+    "FPOE": 329,
+    "OEVP": 440,
+    "GRUE": 206,
+    "NEOS": 72,
+    "FRANK": 108
+  },
+  {
+    "BZ": "Oberlienz",
+    "SPOE": 79,
+    "FPOE": 139,
+    "OEVP": 317,
+    "GRUE": 65,
+    "NEOS": 35,
+    "FRANK": 43
+  },
+  {
+    "BZ": "Obertilliach",
+    "SPOE": 12,
+    "FPOE": 33,
+    "OEVP": 247,
+    "GRUE": 13,
+    "NEOS": 2,
+    "FRANK": 15
+  },
+  {
+    "BZ": "Prägraten am Großvenediger",
+    "SPOE": 26,
+    "FPOE": 140,
+    "OEVP": 341,
+    "GRUE": 26,
+    "NEOS": 11,
+    "FRANK": 20
+  },
+  {
+    "BZ": "Schlaiten",
+    "SPOE": 21,
+    "FPOE": 53,
+    "OEVP": 118,
+    "GRUE": 11,
+    "NEOS": 8,
+    "FRANK": 13
+  },
+  {
+    "BZ": "Sillian",
+    "SPOE": 127,
+    "FPOE": 206,
+    "OEVP": 479,
+    "GRUE": 71,
+    "NEOS": 17,
+    "FRANK": 32
+  },
+  {
+    "BZ": "St. Jakob in Defereggen",
+    "SPOE": 38,
+    "FPOE": 145,
+    "OEVP": 199,
+    "GRUE": 21,
+    "NEOS": 10,
+    "FRANK": 13
+  },
+  {
+    "BZ": "St. Johann im Walde",
+    "SPOE": 20,
+    "FPOE": 23,
+    "OEVP": 86,
+    "GRUE": 3,
+    "NEOS": 1,
+    "FRANK": 4
+  },
+  {
+    "BZ": "St. Veit in Defereggen",
+    "SPOE": 27,
+    "FPOE": 62,
+    "OEVP": 173,
+    "GRUE": 17,
+    "NEOS": 11,
+    "FRANK": 21
+  },
+  {
+    "BZ": "Strassen",
+    "SPOE": 31,
+    "FPOE": 60,
+    "OEVP": 223,
+    "GRUE": 35,
+    "NEOS": 24,
+    "FRANK": 18
+  },
+  {
+    "BZ": "Thurn",
+    "SPOE": 37,
+    "FPOE": 47,
+    "OEVP": 152,
+    "GRUE": 45,
+    "NEOS": 10,
+    "FRANK": 15
+  },
+  {
+    "BZ": "Tristach",
+    "SPOE": 134,
+    "FPOE": 98,
+    "OEVP": 261,
+    "GRUE": 83,
+    "NEOS": 29,
+    "FRANK": 55
+  },
+  {
+    "BZ": "Untertilliach",
+    "SPOE": 4,
+    "FPOE": 11,
+    "OEVP": 53,
+    "GRUE": 7,
+    "NEOS": 3,
+    "FRANK": 7
+  },
+  {
+    "BZ": "Virgen",
+    "SPOE": 138,
+    "FPOE": 273,
+    "OEVP": 362,
+    "GRUE": 63,
+    "NEOS": 33,
+    "FRANK": 53
+  },
+  {
+    "BZ": "Bach",
+    "SPOE": 33,
+    "FPOE": 63,
+    "OEVP": 149,
+    "GRUE": 23,
+    "NEOS": 7,
+    "FRANK": 8
+  },
+  {
+    "BZ": "Berwang",
+    "SPOE": 41,
+    "FPOE": 36,
+    "OEVP": 122,
+    "GRUE": 29,
+    "NEOS": 9,
+    "FRANK": 17
+  },
+  {
+    "BZ": "Biberwier",
+    "SPOE": 44,
+    "FPOE": 50,
+    "OEVP": 121,
+    "GRUE": 22,
+    "NEOS": 10,
+    "FRANK": 20
+  },
+  {
+    "BZ": "Bichlbach",
+    "SPOE": 45,
+    "FPOE": 62,
+    "OEVP": 169,
+    "GRUE": 32,
+    "NEOS": 20,
+    "FRANK": 21
+  },
+  {
+    "BZ": "Breitenwang",
+    "SPOE": 159,
+    "FPOE": 90,
+    "OEVP": 170,
+    "GRUE": 134,
+    "NEOS": 33,
+    "FRANK": 25
+  },
+  {
+    "BZ": "Ehenbichl",
+    "SPOE": 60,
+    "FPOE": 59,
+    "OEVP": 139,
+    "GRUE": 49,
+    "NEOS": 12,
+    "FRANK": 18
+  },
+  {
+    "BZ": "Ehrwald",
+    "SPOE": 176,
+    "FPOE": 214,
+    "OEVP": 390,
+    "GRUE": 96,
+    "NEOS": 34,
+    "FRANK": 65
+  },
+  {
+    "BZ": "Elbigenalp",
+    "SPOE": 39,
+    "FPOE": 81,
+    "OEVP": 198,
+    "GRUE": 40,
+    "NEOS": 14,
+    "FRANK": 20
+  },
+  {
+    "BZ": "Elmen",
+    "SPOE": 13,
+    "FPOE": 26,
+    "OEVP": 85,
+    "GRUE": 27,
+    "NEOS": 5,
+    "FRANK": 10
+  },
+  {
+    "BZ": "Forchach",
+    "SPOE": 23,
+    "FPOE": 43,
+    "OEVP": 48,
+    "GRUE": 18,
+    "NEOS": 2,
+    "FRANK": 3
+  },
+  {
+    "BZ": "Grän",
+    "SPOE": 19,
+    "FPOE": 29,
+    "OEVP": 150,
+    "GRUE": 22,
+    "NEOS": 1,
+    "FRANK": 8
+  },
+  {
+    "BZ": "Gramais",
+    "SPOE": 1,
+    "FPOE": 1,
+    "OEVP": 23,
+    "GRUE": 2,
+    "NEOS": 0,
+    "FRANK": 0
+  },
+  {
+    "BZ": "Häselgehr",
+    "SPOE": 31,
+    "FPOE": 69,
+    "OEVP": 109,
+    "GRUE": 23,
+    "NEOS": 8,
+    "FRANK": 26
+  },
+  {
+    "BZ": "Heiterwang",
+    "SPOE": 30,
+    "FPOE": 51,
+    "OEVP": 96,
+    "GRUE": 27,
+    "NEOS": 10,
+    "FRANK": 15
+  },
+  {
+    "BZ": "Hinterhornbach",
+    "SPOE": 4,
+    "FPOE": 5,
+    "OEVP": 37,
+    "GRUE": 0,
+    "NEOS": 1,
+    "FRANK": 0
+  },
+  {
+    "BZ": "Höfen",
+    "SPOE": 124,
+    "FPOE": 124,
+    "OEVP": 226,
+    "GRUE": 71,
+    "NEOS": 11,
+    "FRANK": 32
+  },
+  {
+    "BZ": "Holzgau",
+    "SPOE": 27,
+    "FPOE": 23,
+    "OEVP": 118,
+    "GRUE": 17,
+    "NEOS": 2,
+    "FRANK": 11
+  },
+  {
+    "BZ": "Jungholz",
+    "SPOE": 1,
+    "FPOE": 4,
+    "OEVP": 45,
+    "GRUE": 1,
+    "NEOS": 0,
+    "FRANK": 1
+  },
+  {
+    "BZ": "Kaisers",
+    "SPOE": 3,
+    "FPOE": 6,
+    "OEVP": 20,
+    "GRUE": 2,
+    "NEOS": 4,
+    "FRANK": 6
+  },
+  {
+    "BZ": "Lechaschau",
+    "SPOE": 170,
+    "FPOE": 137,
+    "OEVP": 265,
+    "GRUE": 95,
+    "NEOS": 34,
+    "FRANK": 44
+  },
+  {
+    "BZ": "Lermoos",
+    "SPOE": 39,
+    "FPOE": 68,
+    "OEVP": 174,
+    "GRUE": 44,
+    "NEOS": 13,
+    "FRANK": 28
+  },
+  {
+    "BZ": "Musau",
+    "SPOE": 38,
+    "FPOE": 20,
+    "OEVP": 70,
+    "GRUE": 13,
+    "NEOS": 3,
+    "FRANK": 16
+  },
+  {
+    "BZ": "Namlos",
+    "SPOE": 6,
+    "FPOE": 1,
+    "OEVP": 30,
+    "GRUE": 2,
+    "NEOS": 0,
+    "FRANK": 1
+  },
+  {
+    "BZ": "Nesselwängle",
+    "SPOE": 17,
+    "FPOE": 37,
+    "OEVP": 95,
+    "GRUE": 20,
+    "NEOS": 10,
+    "FRANK": 12
+  },
+  {
+    "BZ": "Pfafflar",
+    "SPOE": 6,
+    "FPOE": 2,
+    "OEVP": 37,
+    "GRUE": 4,
+    "NEOS": 0,
+    "FRANK": 2
+  },
+  {
+    "BZ": "Pflach",
+    "SPOE": 105,
+    "FPOE": 113,
+    "OEVP": 168,
+    "GRUE": 67,
+    "NEOS": 19,
+    "FRANK": 38
+  },
+  {
+    "BZ": "Pinswang",
+    "SPOE": 27,
+    "FPOE": 15,
+    "OEVP": 70,
+    "GRUE": 24,
+    "NEOS": 2,
+    "FRANK": 20
+  },
+  {
+    "BZ": "Reutte",
+    "SPOE": 527,
+    "FPOE": 392,
+    "OEVP": 579,
+    "GRUE": 331,
+    "NEOS": 83,
+    "FRANK": 98
+  },
+  {
+    "BZ": "Schattwald",
+    "SPOE": 9,
+    "FPOE": 17,
+    "OEVP": 106,
+    "GRUE": 28,
+    "NEOS": 3,
+    "FRANK": 5
+  },
+  {
+    "BZ": "Stanzach",
+    "SPOE": 34,
+    "FPOE": 35,
+    "OEVP": 82,
+    "GRUE": 19,
+    "NEOS": 3,
+    "FRANK": 17
+  },
+  {
+    "BZ": "Steeg",
+    "SPOE": 18,
+    "FPOE": 45,
+    "OEVP": 189,
+    "GRUE": 21,
+    "NEOS": 5,
+    "FRANK": 12
+  },
+  {
+    "BZ": "Tannheim",
+    "SPOE": 41,
+    "FPOE": 38,
+    "OEVP": 212,
+    "GRUE": 32,
+    "NEOS": 14,
+    "FRANK": 22
+  },
+  {
+    "BZ": "Vils",
+    "SPOE": 133,
+    "FPOE": 114,
+    "OEVP": 317,
+    "GRUE": 41,
+    "NEOS": 14,
+    "FRANK": 35
+  },
+  {
+    "BZ": "Vorderhornbach",
+    "SPOE": 10,
+    "FPOE": 21,
+    "OEVP": 67,
+    "GRUE": 12,
+    "NEOS": 3,
+    "FRANK": 11
+  },
+  {
+    "BZ": "Wängle",
+    "SPOE": 60,
+    "FPOE": 69,
+    "OEVP": 183,
+    "GRUE": 29,
+    "NEOS": 8,
+    "FRANK": 18
+  },
+  {
+    "BZ": "Weißenbach am Lech",
+    "SPOE": 136,
+    "FPOE": 126,
+    "OEVP": 130,
+    "GRUE": 30,
+    "NEOS": 19,
+    "FRANK": 26
+  },
+  {
+    "BZ": "Zöblen",
+    "SPOE": 2,
+    "FPOE": 13,
+    "OEVP": 75,
+    "GRUE": 12,
+    "NEOS": 1,
+    "FRANK": 3
+  },
+  {
+    "BZ": "Achenkirch",
+    "SPOE": 118,
+    "FPOE": 198,
+    "OEVP": 334,
+    "GRUE": 51,
+    "NEOS": 30,
+    "FRANK": 94
+  },
+  {
+    "BZ": "Aschau im Zillertal",
+    "SPOE": 106,
+    "FPOE": 127,
+    "OEVP": 362,
+    "GRUE": 59,
+    "NEOS": 12,
+    "FRANK": 45
+  },
+  {
+    "BZ": "Brandberg",
+    "SPOE": 17,
+    "FPOE": 23,
+    "OEVP": 81,
+    "GRUE": 9,
+    "NEOS": 2,
+    "FRANK": 6
+  },
+  {
+    "BZ": "Bruck am Ziller",
+    "SPOE": 81,
+    "FPOE": 112,
+    "OEVP": 219,
+    "GRUE": 38,
+    "NEOS": 17,
+    "FRANK": 36
+  },
+  {
+    "BZ": "Buch in Tirol",
+    "SPOE": 246,
+    "FPOE": 350,
+    "OEVP": 319,
+    "GRUE": 159,
+    "NEOS": 41,
+    "FRANK": 73
+  },
+  {
+    "BZ": "Eben am Achensee",
+    "SPOE": 176,
+    "FPOE": 249,
+    "OEVP": 385,
+    "GRUE": 135,
+    "NEOS": 39,
+    "FRANK": 58
+  },
+  {
+    "BZ": "Finkenberg",
+    "SPOE": 116,
+    "FPOE": 119,
+    "OEVP": 290,
+    "GRUE": 63,
+    "NEOS": 15,
+    "FRANK": 53
+  },
+  {
+    "BZ": "Fügen",
+    "SPOE": 253,
+    "FPOE": 416,
+    "OEVP": 427,
+    "GRUE": 129,
+    "NEOS": 33,
+    "FRANK": 119
+  },
+  {
+    "BZ": "Fügenberg",
+    "SPOE": 60,
+    "FPOE": 100,
+    "OEVP": 314,
+    "GRUE": 39,
+    "NEOS": 13,
+    "FRANK": 36
+  },
+  {
+    "BZ": "Gallzein",
+    "SPOE": 39,
+    "FPOE": 78,
+    "OEVP": 116,
+    "GRUE": 29,
+    "NEOS": 8,
+    "FRANK": 27
+  },
+  {
+    "BZ": "Gerlos",
+    "SPOE": 54,
+    "FPOE": 66,
+    "OEVP": 234,
+    "GRUE": 23,
+    "NEOS": 6,
+    "FRANK": 28
+  },
+  {
+    "BZ": "Gerlosberg",
+    "SPOE": 16,
+    "FPOE": 49,
+    "OEVP": 106,
+    "GRUE": 6,
+    "NEOS": 1,
+    "FRANK": 15
+  },
+  {
+    "BZ": "Hainzenberg",
+    "SPOE": 45,
+    "FPOE": 73,
+    "OEVP": 127,
+    "GRUE": 16,
+    "NEOS": 3,
+    "FRANK": 28
+  },
+  {
+    "BZ": "Hart im Zillertal",
+    "SPOE": 78,
+    "FPOE": 153,
+    "OEVP": 268,
+    "GRUE": 54,
+    "NEOS": 15,
+    "FRANK": 49
+  },
+  {
+    "BZ": "Hippach",
+    "SPOE": 64,
+    "FPOE": 102,
+    "OEVP": 307,
+    "GRUE": 32,
+    "NEOS": 13,
+    "FRANK": 36
+  },
+  {
+    "BZ": "Jenbach",
+    "SPOE": 749,
+    "FPOE": 766,
+    "OEVP": 509,
+    "GRUE": 332,
+    "NEOS": 101,
+    "FRANK": 216
+  },
+  {
+    "BZ": "Kaltenbach",
+    "SPOE": 138,
+    "FPOE": 90,
+    "OEVP": 202,
+    "GRUE": 35,
+    "NEOS": 11,
+    "FRANK": 28
+  },
+  {
+    "BZ": "Mayrhofen",
+    "SPOE": 185,
+    "FPOE": 260,
+    "OEVP": 534,
+    "GRUE": 187,
+    "NEOS": 38,
+    "FRANK": 83
+  },
+  {
+    "BZ": "Pill",
+    "SPOE": 74,
+    "FPOE": 124,
+    "OEVP": 228,
+    "GRUE": 67,
+    "NEOS": 28,
+    "FRANK": 20
+  },
+  {
+    "BZ": "Ramsau im Zillertal",
+    "SPOE": 123,
+    "FPOE": 144,
+    "OEVP": 267,
+    "GRUE": 58,
+    "NEOS": 16,
+    "FRANK": 47
+  },
+  {
+    "BZ": "Ried im Zillertal",
+    "SPOE": 87,
+    "FPOE": 67,
+    "OEVP": 234,
+    "GRUE": 58,
+    "NEOS": 13,
+    "FRANK": 28
+  },
+  {
+    "BZ": "Rohrberg",
+    "SPOE": 47,
+    "FPOE": 49,
+    "OEVP": 136,
+    "GRUE": 17,
+    "NEOS": 3,
+    "FRANK": 7
+  },
+  {
+    "BZ": "Schlitters",
+    "SPOE": 76,
+    "FPOE": 121,
+    "OEVP": 252,
+    "GRUE": 68,
+    "NEOS": 23,
+    "FRANK": 44
+  },
+  {
+    "BZ": "Schwaz",
+    "SPOE": 1301,
+    "FPOE": 1228,
+    "OEVP": 1375,
+    "GRUE": 883,
+    "NEOS": 294,
+    "FRANK": 369
+  },
+  {
+    "BZ": "Schwendau",
+    "SPOE": 78,
+    "FPOE": 133,
+    "OEVP": 302,
+    "GRUE": 51,
+    "NEOS": 17,
+    "FRANK": 49
+  },
+  {
+    "BZ": "Stans",
+    "SPOE": 202,
+    "FPOE": 225,
+    "OEVP": 289,
+    "GRUE": 135,
+    "NEOS": 44,
+    "FRANK": 76
+  },
+  {
+    "BZ": "Steinberg am Rofan",
+    "SPOE": 18,
+    "FPOE": 14,
+    "OEVP": 85,
+    "GRUE": 5,
+    "NEOS": 5,
+    "FRANK": 4
+  },
+  {
+    "BZ": "Strass im Zillertal",
+    "SPOE": 57,
+    "FPOE": 72,
+    "OEVP": 197,
+    "GRUE": 43,
+    "NEOS": 16,
+    "FRANK": 23
+  },
+  {
+    "BZ": "Stumm",
+    "SPOE": 159,
+    "FPOE": 134,
+    "OEVP": 312,
+    "GRUE": 71,
+    "NEOS": 20,
+    "FRANK": 66
+  },
+  {
+    "BZ": "Stummerberg",
+    "SPOE": 30,
+    "FPOE": 77,
+    "OEVP": 207,
+    "GRUE": 11,
+    "NEOS": 2,
+    "FRANK": 12
+  },
+  {
+    "BZ": "Terfens",
+    "SPOE": 176,
+    "FPOE": 196,
+    "OEVP": 337,
+    "GRUE": 162,
+    "NEOS": 35,
+    "FRANK": 121
+  },
+  {
+    "BZ": "Tux",
+    "SPOE": 128,
+    "FPOE": 137,
+    "OEVP": 464,
+    "GRUE": 54,
+    "NEOS": 24,
+    "FRANK": 60
+  },
+  {
+    "BZ": "Uderns",
+    "SPOE": 215,
+    "FPOE": 158,
+    "OEVP": 229,
+    "GRUE": 50,
+    "NEOS": 21,
+    "FRANK": 36
+  },
+  {
+    "BZ": "Vomp",
+    "SPOE": 501,
+    "FPOE": 450,
+    "OEVP": 675,
+    "GRUE": 283,
+    "NEOS": 86,
+    "FRANK": 129
+  },
+  {
+    "BZ": "Weer",
+    "SPOE": 109,
+    "FPOE": 170,
+    "OEVP": 236,
+    "GRUE": 96,
+    "NEOS": 25,
+    "FRANK": 57
+  },
+  {
+    "BZ": "Weerberg",
+    "SPOE": 113,
+    "FPOE": 256,
+    "OEVP": 557,
+    "GRUE": 97,
+    "NEOS": 43,
+    "FRANK": 47
+  },
+  {
+    "BZ": "Wiesing",
+    "SPOE": 227,
+    "FPOE": 239,
+    "OEVP": 261,
+    "GRUE": 93,
+    "NEOS": 50,
+    "FRANK": 64
+  },
+  {
+    "BZ": "Zell am Ziller",
+    "SPOE": 147,
+    "FPOE": 160,
+    "OEVP": 263,
+    "GRUE": 55,
+    "NEOS": 16,
+    "FRANK": 40
+  },
+  {
+    "BZ": "Zellberg",
+    "SPOE": 60,
+    "FPOE": 54,
+    "OEVP": 146,
+    "GRUE": 21,
+    "NEOS": 6,
+    "FRANK": 12
+  }
+]

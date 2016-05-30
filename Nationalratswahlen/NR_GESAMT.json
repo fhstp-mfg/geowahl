@@ -1,0 +1,83 @@
+[
+  {
+    "BL": "Burgenland",
+    "SPOE": 70.222,
+    "FPOE": 32.705,
+    "OEVP": 50.426,
+    "GRUE": 12.718,
+    "NEOS": 5.327,
+    "FRANK": 11.05
+  },
+  {
+    "BL": "Kärnten",
+    "SPOE": 102.278,
+    "FPOE": 56.513,
+    "OEVP": 48.14,
+    "GRUE": 37.304,
+    "NEOS": 11.711,
+    "FRANK": 21.882
+  },
+  {
+    "BL": "Niederösterreich",
+    "SPOE": 279.988,
+    "FPOE": 190.601,
+    "OEVP": 310.345,
+    "GRUE": 97.487,
+    "NEOS": 45.285,
+    "FRANK": 48.105
+  },
+  {
+    "BL": "Oberösterreich",
+    "SPOE": 228.293,
+    "FPOE": 180.041,
+    "OEVP": 212.843,
+    "GRUE": 102.003,
+    "NEOS": 28.604,
+    "FRANK": 40.379
+  },
+  {
+    "BL": "Salzburg",
+    "SPOE": 65.95,
+    "FPOE": 60.876,
+    "OEVP": 76.46,
+    "GRUE": 42.389,
+    "NEOS": 13.103,
+    "FRANK": 14.894
+  },
+  {
+    "BL": "Steiermark",
+    "SPOE": 172.307,
+    "FPOE": 173.908,
+    "OEVP": 151.438,
+    "GRUE": 76.547,
+    "NEOS": 27.872,
+    "FRANK": 72.12
+  },
+  {
+    "BL": "Tirol",
+    "SPOE": 64.923,
+    "FPOE": 68.761,
+    "OEVP": 114.754,
+    "GRUE": 53.91,
+    "NEOS": 17.344,
+    "FRANK": 19.854
+  },
+  {
+    "BL": "Vorarlberg",
+    "SPOE": 23.021,
+    "FPOE": 35.407,
+    "OEVP": 46.154,
+    "GRUE": 29.807,
+    "NEOS": 22.888,
+    "FRANK": 9.367
+  },
+  {
+    "BL": "Wien",
+    "SPOE": 251.623,
+    "FPOE": 163.501,
+    "OEVP": 115.316,
+    "GRUE": 130.492,
+    "NEOS": 60.812,
+    "FRANK": 31.028
+  }
+]

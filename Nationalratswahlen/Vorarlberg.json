@@ -1,0 +1,866 @@
+[
+  {
+    "BZ": "Alberschwende",
+    "SPOE": 92,
+    "FPOE": 349,
+    "OEVP": 588,
+    "GRUE": 221,
+    "NEOS": 186,
+    "FRANK": 70
+  },
+  {
+    "BZ": "Altach",
+    "SPOE": 320,
+    "FPOE": 528,
+    "OEVP": 613,
+    "GRUE": 556,
+    "NEOS": 404,
+    "FRANK": 166
+  },
+  {
+    "BZ": "Andelsbuch",
+    "SPOE": 56,
+    "FPOE": 136,
+    "OEVP": 514,
+    "GRUE": 177,
+    "NEOS": 106,
+    "FRANK": 40
+  },
+  {
+    "BZ": "Au",
+    "SPOE": 29,
+    "FPOE": 159,
+    "OEVP": 356,
+    "GRUE": 72,
+    "NEOS": 135,
+    "FRANK": 53
+  },
+  {
+    "BZ": "Bartholomäberg",
+    "SPOE": 150,
+    "FPOE": 302,
+    "OEVP": 294,
+    "GRUE": 104,
+    "NEOS": 108,
+    "FRANK": 48
+  },
+  {
+    "BZ": "Bezau",
+    "SPOE": 35,
+    "FPOE": 129,
+    "OEVP": 398,
+    "GRUE": 96,
+    "NEOS": 98,
+    "FRANK": 22
+  },
+  {
+    "BZ": "Bildstein",
+    "SPOE": 21,
+    "FPOE": 67,
+    "OEVP": 153,
+    "GRUE": 34,
+    "NEOS": 36,
+    "FRANK": 20
+  },
+  {
+    "BZ": "Bizau",
+    "SPOE": 15,
+    "FPOE": 96,
+    "OEVP": 231,
+    "GRUE": 67,
+    "NEOS": 71,
+    "FRANK": 22
+  },
+  {
+    "BZ": "Blons",
+    "SPOE": 7,
+    "FPOE": 24,
+    "OEVP": 97,
+    "GRUE": 8,
+    "NEOS": 17,
+    "FRANK": 3
+  },
+  {
+    "BZ": "Bludenz",
+    "SPOE": 1256,
+    "FPOE": 1083,
+    "OEVP": 995,
+    "GRUE": 713,
+    "NEOS": 731,
+    "FRANK": 204
+  },
+  {
+    "BZ": "Bludesch",
+    "SPOE": 179,
+    "FPOE": 231,
+    "OEVP": 165,
+    "GRUE": 123,
+    "NEOS": 101,
+    "FRANK": 42
+  },
+  {
+    "BZ": "Brand",
+    "SPOE": 10,
+    "FPOE": 75,
+    "OEVP": 127,
+    "GRUE": 26,
+    "NEOS": 51,
+    "FRANK": 11
+  },
+  {
+    "BZ": "Bregenz",
+    "SPOE": 2174,
+    "FPOE": 2094,
+    "OEVP": 2067,
+    "GRUE": 1712,
+    "NEOS": 1101,
+    "FRANK": 528
+  },
+  {
+    "BZ": "Buch",
+    "SPOE": 22,
+    "FPOE": 97,
+    "OEVP": 144,
+    "GRUE": 35,
+    "NEOS": 20,
+    "FRANK": 14
+  },
+  {
+    "BZ": "Bürs",
+    "SPOE": 345,
+    "FPOE": 278,
+    "OEVP": 274,
+    "GRUE": 178,
+    "NEOS": 162,
+    "FRANK": 39
+  },
+  {
+    "BZ": "Bürserberg",
+    "SPOE": 29,
+    "FPOE": 44,
+    "OEVP": 69,
+    "GRUE": 26,
+    "NEOS": 29,
+    "FRANK": 20
+  },
+  {
+    "BZ": "Dalaas",
+    "SPOE": 115,
+    "FPOE": 137,
+    "OEVP": 115,
+    "GRUE": 52,
+    "NEOS": 313,
+    "FRANK": 26
+  },
+  {
+    "BZ": "Damüls",
+    "SPOE": 2,
+    "FPOE": 32,
+    "OEVP": 138,
+    "GRUE": 5,
+    "NEOS": 8,
+    "FRANK": 2
+  },
+  {
+    "BZ": "Doren",
+    "SPOE": 21,
+    "FPOE": 93,
+    "OEVP": 251,
+    "GRUE": 58,
+    "NEOS": 38,
+    "FRANK": 22
+  },
+  {
+    "BZ": "Dornbirn",
+    "SPOE": 2595,
+    "FPOE": 3908,
+    "OEVP": 4109,
+    "GRUE": 3304,
+    "NEOS": 2838,
+    "FRANK": 1030
+  },
+  {
+    "BZ": "Düns",
+    "SPOE": 8,
+    "FPOE": 40,
+    "OEVP": 72,
+    "GRUE": 46,
+    "NEOS": 24,
+    "FRANK": 10
+  },
+  {
+    "BZ": "Dünserberg",
+    "SPOE": 3,
+    "FPOE": 11,
+    "OEVP": 37,
+    "GRUE": 10,
+    "NEOS": 6,
+    "FRANK": 1
+  },
+  {
+    "BZ": "Egg",
+    "SPOE": 73,
+    "FPOE": 255,
+    "OEVP": 716,
+    "GRUE": 236,
+    "NEOS": 194,
+    "FRANK": 97
+  },
+  {
+    "BZ": "Eichenberg",
+    "SPOE": 5,
+    "FPOE": 11,
+    "OEVP": 124,
+    "GRUE": 27,
+    "NEOS": 17,
+    "FRANK": 10
+  },
+  {
+    "BZ": "Feldkirch",
+    "SPOE": 1729,
+    "FPOE": 2387,
+    "OEVP": 2603,
+    "GRUE": 2511,
+    "NEOS": 1627,
+    "FRANK": 748
+  },
+  {
+    "BZ": "Fontanella",
+    "SPOE": 3,
+    "FPOE": 21,
+    "OEVP": 168,
+    "GRUE": 7,
+    "NEOS": 12,
+    "FRANK": 9
+  },
+  {
+    "BZ": "Frastanz",
+    "SPOE": 319,
+    "FPOE": 520,
+    "OEVP": 550,
+    "GRUE": 348,
+    "NEOS": 276,
+    "FRANK": 114
+  },
+  {
+    "BZ": "Fraxern",
+    "SPOE": 11,
+    "FPOE": 83,
+    "OEVP": 132,
+    "GRUE": 52,
+    "NEOS": 54,
+    "FRANK": 19
+  },
+  {
+    "BZ": "Fußach",
+    "SPOE": 217,
+    "FPOE": 385,
+    "OEVP": 315,
+    "GRUE": 239,
+    "NEOS": 184,
+    "FRANK": 76
+  },
+  {
+    "BZ": "Gaißau",
+    "SPOE": 66,
+    "FPOE": 182,
+    "OEVP": 215,
+    "GRUE": 90,
+    "NEOS": 67,
+    "FRANK": 45
+  },
+  {
+    "BZ": "Gaschurn",
+    "SPOE": 88,
+    "FPOE": 173,
+    "OEVP": 216,
+    "GRUE": 64,
+    "NEOS": 63,
+    "FRANK": 63
+  },
+  {
+    "BZ": "Göfis",
+    "SPOE": 143,
+    "FPOE": 311,
+    "OEVP": 364,
+    "GRUE": 269,
+    "NEOS": 249,
+    "FRANK": 81
+  },
+  {
+    "BZ": "Götzis",
+    "SPOE": 656,
+    "FPOE": 925,
+    "OEVP": 992,
+    "GRUE": 806,
+    "NEOS": 604,
+    "FRANK": 236
+  },
+  {
+    "BZ": "Hard",
+    "SPOE": 931,
+    "FPOE": 1015,
+    "OEVP": 993,
+    "GRUE": 825,
+    "NEOS": 642,
+    "FRANK": 297
+  },
+  {
+    "BZ": "Hittisau",
+    "SPOE": 49,
+    "FPOE": 161,
+    "OEVP": 385,
+    "GRUE": 103,
+    "NEOS": 86,
+    "FRANK": 31
+  },
+  {
+    "BZ": "Höchst",
+    "SPOE": 297,
+    "FPOE": 651,
+    "OEVP": 792,
+    "GRUE": 440,
+    "NEOS": 332,
+    "FRANK": 201
+  },
+  {
+    "BZ": "Hohenems",
+    "SPOE": 711,
+    "FPOE": 1552,
+    "OEVP": 1164,
+    "GRUE": 793,
+    "NEOS": 666,
+    "FRANK": 314
+  },
+  {
+    "BZ": "Hohenweiler",
+    "SPOE": 50,
+    "FPOE": 80,
+    "OEVP": 180,
+    "GRUE": 81,
+    "NEOS": 51,
+    "FRANK": 19
+  },
+  {
+    "BZ": "Hörbranz",
+    "SPOE": 373,
+    "FPOE": 612,
+    "OEVP": 695,
+    "GRUE": 363,
+    "NEOS": 314,
+    "FRANK": 190
+  },
+  {
+    "BZ": "Innerbraz",
+    "SPOE": 105,
+    "FPOE": 85,
+    "OEVP": 97,
+    "GRUE": 59,
+    "NEOS": 113,
+    "FRANK": 16
+  },
+  {
+    "BZ": "Kennelbach",
+    "SPOE": 136,
+    "FPOE": 174,
+    "OEVP": 202,
+    "GRUE": 101,
+    "NEOS": 80,
+    "FRANK": 44
+  },
+  {
+    "BZ": "Klaus",
+    "SPOE": 149,
+    "FPOE": 217,
+    "OEVP": 396,
+    "GRUE": 298,
+    "NEOS": 158,
+    "FRANK": 80
+  },
+  {
+    "BZ": "Klösterle",
+    "SPOE": 48,
+    "FPOE": 68,
+    "OEVP": 91,
+    "GRUE": 12,
+    "NEOS": 116,
+    "FRANK": 14
+  },
+  {
+    "BZ": "Koblach",
+    "SPOE": 218,
+    "FPOE": 370,
+    "OEVP": 414,
+    "GRUE": 351,
+    "NEOS": 263,
+    "FRANK": 134
+  },
+  {
+    "BZ": "Krumbach",
+    "SPOE": 36,
+    "FPOE": 102,
+    "OEVP": 193,
+    "GRUE": 59,
+    "NEOS": 41,
+    "FRANK": 36
+  },
+  {
+    "BZ": "Langen b. Breg.",
+    "SPOE": 34,
+    "FPOE": 160,
+    "OEVP": 273,
+    "GRUE": 65,
+    "NEOS": 78,
+    "FRANK": 35
+  },
+  {
+    "BZ": "Langenegg",
+    "SPOE": 24,
+    "FPOE": 71,
+    "OEVP": 244,
+    "GRUE": 55,
+    "NEOS": 68,
+    "FRANK": 32
+  },
+  {
+    "BZ": "Laterns",
+    "SPOE": 13,
+    "FPOE": 80,
+    "OEVP": 143,
+    "GRUE": 27,
+    "NEOS": 55,
+    "FRANK": 21
+  },
+  {
+    "BZ": "Lauterach",
+    "SPOE": 542,
+    "FPOE": 913,
+    "OEVP": 870,
+    "GRUE": 582,
+    "NEOS": 486,
+    "FRANK": 241
+  },
+  {
+    "BZ": "Lech",
+    "SPOE": 36,
+    "FPOE": 38,
+    "OEVP": 280,
+    "GRUE": 41,
+    "NEOS": 98,
+    "FRANK": 18
+  },
+  {
+    "BZ": "Lingenau",
+    "SPOE": 26,
+    "FPOE": 75,
+    "OEVP": 325,
+    "GRUE": 107,
+    "NEOS": 73,
+    "FRANK": 34
+  },
+  {
+    "BZ": "Lochau",
+    "SPOE": 360,
+    "FPOE": 442,
+    "OEVP": 562,
+    "GRUE": 388,
+    "NEOS": 268,
+    "FRANK": 129
+  },
+  {
+    "BZ": "Lorüns",
+    "SPOE": 15,
+    "FPOE": 26,
+    "OEVP": 50,
+    "GRUE": 9,
+    "NEOS": 22,
+    "FRANK": 5
+  },
+  {
+    "BZ": "Ludesch",
+    "SPOE": 160,
+    "FPOE": 299,
+    "OEVP": 273,
+    "GRUE": 224,
+    "NEOS": 210,
+    "FRANK": 61
+  },
+  {
+    "BZ": "Lustenau",
+    "SPOE": 939,
+    "FPOE": 1963,
+    "OEVP": 1953,
+    "GRUE": 1205,
+    "NEOS": 1084,
+    "FRANK": 430
+  },
+  {
+    "BZ": "Mäder",
+    "SPOE": 219,
+    "FPOE": 403,
+    "OEVP": 282,
+    "GRUE": 204,
+    "NEOS": 254,
+    "FRANK": 127
+  },
+  {
+    "BZ": "Meiningen",
+    "SPOE": 128,
+    "FPOE": 214,
+    "OEVP": 199,
+    "GRUE": 146,
+    "NEOS": 83,
+    "FRANK": 59
+  },
+  {
+    "BZ": "Mellau",
+    "SPOE": 25,
+    "FPOE": 140,
+    "OEVP": 235,
+    "GRUE": 60,
+    "NEOS": 70,
+    "FRANK": 28
+  },
+  {
+    "BZ": "Mittelberg",
+    "SPOE": 86,
+    "FPOE": 282,
+    "OEVP": 479,
+    "GRUE": 167,
+    "NEOS": 67,
+    "FRANK": 52
+  },
+  {
+    "BZ": "Möggers",
+    "SPOE": 22,
+    "FPOE": 48,
+    "OEVP": 130,
+    "GRUE": 17,
+    "NEOS": 26,
+    "FRANK": 7
+  },
+  {
+    "BZ": "Nenzing",
+    "SPOE": 302,
+    "FPOE": 779,
+    "OEVP": 517,
+    "GRUE": 320,
+    "NEOS": 405,
+    "FRANK": 176
+  },
+  {
+    "BZ": "Nüziders",
+    "SPOE": 514,
+    "FPOE": 398,
+    "OEVP": 507,
+    "GRUE": 341,
+    "NEOS": 377,
+    "FRANK": 71
+  },
+  {
+    "BZ": "Raggal",
+    "SPOE": 22,
+    "FPOE": 52,
+    "OEVP": 213,
+    "GRUE": 49,
+    "NEOS": 37,
+    "FRANK": 29
+  },
+  {
+    "BZ": "Rankweil",
+    "SPOE": 657,
+    "FPOE": 836,
+    "OEVP": 981,
+    "GRUE": 936,
+    "NEOS": 585,
+    "FRANK": 287
+  },
+  {
+    "BZ": "Reuthe",
+    "SPOE": 20,
+    "FPOE": 63,
+    "OEVP": 86,
+    "GRUE": 28,
+    "NEOS": 29,
+    "FRANK": 1
+  },
+  {
+    "BZ": "Riefensberg",
+    "SPOE": 12,
+    "FPOE": 78,
+    "OEVP": 235,
+    "GRUE": 33,
+    "NEOS": 34,
+    "FRANK": 16
+  },
+  {
+    "BZ": "Röns",
+    "SPOE": 6,
+    "FPOE": 32,
+    "OEVP": 62,
+    "GRUE": 24,
+    "NEOS": 6,
+    "FRANK": 4
+  },
+  {
+    "BZ": "Röthis",
+    "SPOE": 69,
+    "FPOE": 143,
+    "OEVP": 238,
+    "GRUE": 174,
+    "NEOS": 99,
+    "FRANK": 46
+  },
+  {
+    "BZ": "Satteins",
+    "SPOE": 145,
+    "FPOE": 246,
+    "OEVP": 334,
+    "GRUE": 190,
+    "NEOS": 157,
+    "FRANK": 50
+  },
+  {
+    "BZ": "Schlins",
+    "SPOE": 134,
+    "FPOE": 182,
+    "OEVP": 281,
+    "GRUE": 125,
+    "NEOS": 113,
+    "FRANK": 42
+  },
+  {
+    "BZ": "Schnepfau",
+    "SPOE": 10,
+    "FPOE": 32,
+    "OEVP": 100,
+    "GRUE": 18,
+    "NEOS": 28,
+    "FRANK": 10
+  },
+  {
+    "BZ": "Schnifis",
+    "SPOE": 23,
+    "FPOE": 64,
+    "OEVP": 133,
+    "GRUE": 48,
+    "NEOS": 39,
+    "FRANK": 12
+  },
+  {
+    "BZ": "Schoppernau",
+    "SPOE": 16,
+    "FPOE": 103,
+    "OEVP": 273,
+    "GRUE": 27,
+    "NEOS": 89,
+    "FRANK": 14
+  },
+  {
+    "BZ": "Schröcken",
+    "SPOE": 7,
+    "FPOE": 14,
+    "OEVP": 56,
+    "GRUE": 6,
+    "NEOS": 8,
+    "FRANK": 2
+  },
+  {
+    "BZ": "Schruns",
+    "SPOE": 193,
+    "FPOE": 365,
+    "OEVP": 401,
+    "GRUE": 219,
+    "NEOS": 173,
+    "FRANK": 80
+  },
+  {
+    "BZ": "Schwarzach",
+    "SPOE": 199,
+    "FPOE": 332,
+    "OEVP": 431,
+    "GRUE": 314,
+    "NEOS": 272,
+    "FRANK": 97
+  },
+  {
+    "BZ": "Schwarzenberg",
+    "SPOE": 32,
+    "FPOE": 116,
+    "OEVP": 439,
+    "GRUE": 118,
+    "NEOS": 136,
+    "FRANK": 36
+  },
+  {
+    "BZ": "Sibratsgfäll",
+    "SPOE": 6,
+    "FPOE": 27,
+    "OEVP": 160,
+    "GRUE": 12,
+    "NEOS": 10,
+    "FRANK": 6
+  },
+  {
+    "BZ": "Silbertal",
+    "SPOE": 74,
+    "FPOE": 130,
+    "OEVP": 140,
+    "GRUE": 19,
+    "NEOS": 37,
+    "FRANK": 14
+  },
+  {
+    "BZ": "Sonntag",
+    "SPOE": 11,
+    "FPOE": 40,
+    "OEVP": 224,
+    "GRUE": 21,
+    "NEOS": 32,
+    "FRANK": 9
+  },
+  {
+    "BZ": "St. Anton i. M.",
+    "SPOE": 52,
+    "FPOE": 74,
+    "OEVP": 94,
+    "GRUE": 47,
+    "NEOS": 42,
+    "FRANK": 13
+  },
+  {
+    "BZ": "St. Gallenkirch",
+    "SPOE": 205,
+    "FPOE": 264,
+    "OEVP": 243,
+    "GRUE": 54,
+    "NEOS": 64,
+    "FRANK": 59
+  },
+  {
+    "BZ": "St. Gerold",
+    "SPOE": 11,
+    "FPOE": 25,
+    "OEVP": 88,
+    "GRUE": 26,
+    "NEOS": 26,
+    "FRANK": 5
+  },
+  {
+    "BZ": "Stallehr",
+    "SPOE": 17,
+    "FPOE": 32,
+    "OEVP": 39,
+    "GRUE": 7,
+    "NEOS": 18,
+    "FRANK": 3
+  },
+  {
+    "BZ": "Sulz",
+    "SPOE": 152,
+    "FPOE": 191,
+    "OEVP": 281,
+    "GRUE": 230,
+    "NEOS": 199,
+    "FRANK": 68
+  },
+  {
+    "BZ": "Sulzberg",
+    "SPOE": 43,
+    "FPOE": 142,
+    "OEVP": 427,
+    "GRUE": 94,
+    "NEOS": 99,
+    "FRANK": 32
+  },
+  {
+    "BZ": "Thüringen",
+    "SPOE": 115,
+    "FPOE": 189,
+    "OEVP": 263,
+    "GRUE": 161,
+    "NEOS": 152,
+    "FRANK": 54
+  },
+  {
+    "BZ": "Thüringerberg",
+    "SPOE": 26,
+    "FPOE": 55,
+    "OEVP": 150,
+    "GRUE": 37,
+    "NEOS": 48,
+    "FRANK": 17
+  },
+  {
+    "BZ": "Tschagguns",
+    "SPOE": 125,
+    "FPOE": 246,
+    "OEVP": 271,
+    "GRUE": 123,
+    "NEOS": 103,
+    "FRANK": 48
+  },
+  {
+    "BZ": "Übersaxen",
+    "SPOE": 7,
+    "FPOE": 74,
+    "OEVP": 147,
+    "GRUE": 42,
+    "NEOS": 28,
+    "FRANK": 16
+  },
+  {
+    "BZ": "Vandans",
+    "SPOE": 181,
+    "FPOE": 323,
+    "OEVP": 218,
+    "GRUE": 134,
+    "NEOS": 142,
+    "FRANK": 83
+  },
+  {
+    "BZ": "Viktorsberg",
+    "SPOE": 14,
+    "FPOE": 43,
+    "OEVP": 85,
+    "GRUE": 22,
+    "NEOS": 20,
+    "FRANK": 8
+  },
+  {
+    "BZ": "Warth",
+    "SPOE": 5,
+    "FPOE": 21,
+    "OEVP": 55,
+    "GRUE": 3,
+    "NEOS": 7,
+    "FRANK": 4
+  },
+  {
+    "BZ": "Weiler",
+    "SPOE": 97,
+    "FPOE": 180,
+    "OEVP": 199,
+    "GRUE": 169,
+    "NEOS": 121,
+    "FRANK": 60
+  },
+  {
+    "BZ": "Wolfurt",
+    "SPOE": 404,
+    "FPOE": 710,
+    "OEVP": 1025,
+    "GRUE": 596,
+    "NEOS": 447,
+    "FRANK": 202
+  },
+  {
+    "BZ": "Zwischenwasser",
+    "SPOE": 129,
+    "FPOE": 310,
+    "OEVP": 344,
+    "GRUE": 227,
+    "NEOS": 168,
+    "FRANK": 82
+  }
+]
