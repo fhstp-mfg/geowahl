@@ -1,0 +1,1370 @@
+[
+  {
+    "BZ": "Andau",
+    "SPOE": 876,
+    "FPOE": 254,
+    "OEVP": 379,
+    "GRUE": 40,
+    "NEOS": 23
+  },
+  {
+    "BZ": "Apetlon",
+    "SPOE": 583,
+    "FPOE": 187,
+    "OEVP": 451,
+    "GRUE": 29,
+    "NEOS": 14
+  },
+  {
+    "BZ": "Bruckneudorf",
+    "SPOE": 626,
+    "FPOE": 357,
+    "OEVP": 111,
+    "GRUE": 113,
+    "NEOS": 53
+  },
+  {
+    "BZ": "Deutsch Jahrndorf",
+    "SPOE": 222,
+    "FPOE": 85,
+    "OEVP": 103,
+    "GRUE": 13,
+    "NEOS": 8
+  },
+  {
+    "BZ": "Frauenkirchen",
+    "SPOE": 1238,
+    "FPOE": 221,
+    "OEVP": 362,
+    "GRUE": 60,
+    "NEOS": 88
+  },
+  {
+    "BZ": "Gattendorf",
+    "SPOE": 346,
+    "FPOE": 156,
+    "OEVP": 199,
+    "GRUE": 22,
+    "NEOS": 19
+  },
+  {
+    "BZ": "Gols",
+    "SPOE": 1074,
+    "FPOE": 461,
+    "OEVP": 477,
+    "GRUE": 184,
+    "NEOS": 74
+  },
+  {
+    "BZ": "Halbturn",
+    "SPOE": 413,
+    "FPOE": 199,
+    "OEVP": 619,
+    "GRUE": 66,
+    "NEOS": 14
+  },
+  {
+    "BZ": "Illmitz",
+    "SPOE": 828,
+    "FPOE": 267,
+    "OEVP": 592,
+    "GRUE": 69,
+    "NEOS": 25
+  },
+  {
+    "BZ": "Jois",
+    "SPOE": 353,
+    "FPOE": 133,
+    "OEVP": 271,
+    "GRUE": 52,
+    "NEOS": 32
+  },
+  {
+    "BZ": "Kittsee",
+    "SPOE": 575,
+    "FPOE": 150,
+    "OEVP": 375,
+    "GRUE": 50,
+    "NEOS": 14
+  },
+  {
+    "BZ": "Mönchhof",
+    "SPOE": 582,
+    "FPOE": 223,
+    "OEVP": 488,
+    "GRUE": 59,
+    "NEOS": 20
+  },
+  {
+    "BZ": "Neusiedl am See",
+    "SPOE": 1292,
+    "FPOE": 575,
+    "OEVP": 1244,
+    "GRUE": 525,
+    "NEOS": 222
+  },
+  {
+    "BZ": "Nickelsdorf",
+    "SPOE": 479,
+    "FPOE": 182,
+    "OEVP": 268,
+    "GRUE": 86,
+    "NEOS": 18
+  },
+  {
+    "BZ": "Pama",
+    "SPOE": 447,
+    "FPOE": 62,
+    "OEVP": 294,
+    "GRUE": 24,
+    "NEOS": 13
+  },
+  {
+    "BZ": "Pamhagen",
+    "SPOE": 502,
+    "FPOE": 103,
+    "OEVP": 450,
+    "GRUE": 24,
+    "NEOS": 22
+  },
+  {
+    "BZ": "Parndorf",
+    "SPOE": 984,
+    "FPOE": 464,
+    "OEVP": 228,
+    "GRUE": 135,
+    "NEOS": 51
+  },
+  {
+    "BZ": "Podersdorf am See",
+    "SPOE": 472,
+    "FPOE": 177,
+    "OEVP": 536,
+    "GRUE": 90,
+    "NEOS": 51
+  },
+  {
+    "BZ": "St.Andrä am Zicksee",
+    "SPOE": 435,
+    "FPOE": 119,
+    "OEVP": 382,
+    "GRUE": 37,
+    "NEOS": 14
+  },
+  {
+    "BZ": "Tadten",
+    "SPOE": 445,
+    "FPOE": 94,
+    "OEVP": 324,
+    "GRUE": 35,
+    "NEOS": 24
+  },
+  {
+    "BZ": "Wallern i.Bgld.",
+    "SPOE": 599,
+    "FPOE": 206,
+    "OEVP": 333,
+    "GRUE": 50,
+    "NEOS": 11
+  },
+  {
+    "BZ": "Weiden am See",
+    "SPOE": 516,
+    "FPOE": 304,
+    "OEVP": 421,
+    "GRUE": 159,
+    "NEOS": 54
+  },
+  {
+    "BZ": "Winden am See",
+    "SPOE": 453,
+    "FPOE": 145,
+    "OEVP": 152,
+    "GRUE": 62,
+    "NEOS": 12
+  },
+  {
+    "BZ": "Zurndorf",
+    "SPOE": 726,
+    "FPOE": 272,
+    "OEVP": 235,
+    "GRUE": 75,
+    "NEOS": 32
+  },
+  {
+    "BZ": "Neudorf",
+    "SPOE": 196,
+    "FPOE": 67,
+    "OEVP": 218,
+    "GRUE": 21,
+    "NEOS": 7
+  },
+  {
+    "BZ": "Potzneusiedl",
+    "SPOE": 195,
+    "FPOE": 76,
+    "OEVP": 88,
+    "GRUE": 14,
+    "NEOS": 8
+  },
+  {
+    "BZ": "Edelstal",
+    "SPOE": 155,
+    "FPOE": 45,
+    "OEVP": 240,
+    "GRUE": 10,
+    "NEOS": 5
+  },
+  {
+    "BZ": "Eisenstadt (Freistadt)",
+    "SPOE": 1880,
+    "FPOE": 1025,
+    "OEVP": 2872,
+    "GRUE": 1083,
+    "NEOS": 282
+  },
+  {
+    "BZ": "Rust (Freistadt)",
+    "SPOE": 539,
+    "FPOE": 227,
+    "OEVP": 293,
+    "GRUE": 73,
+    "NEOS": 45
+  },
+  {
+    "BZ": "Breitenbrunn",
+    "SPOE": 536,
+    "FPOE": 183,
+    "OEVP": 404,
+    "GRUE": 119,
+    "NEOS": 48
+  },
+  {
+    "BZ": "Donnerskirchen",
+    "SPOE": 461,
+    "FPOE": 153,
+    "OEVP": 500,
+    "GRUE": 81,
+    "NEOS": 20
+  },
+  {
+    "BZ": "Großhöflein",
+    "SPOE": 496,
+    "FPOE": 105,
+    "OEVP": 282,
+    "GRUE": 76,
+    "NEOS": 19
+  },
+  {
+    "BZ": "Hornstein",
+    "SPOE": 729,
+    "FPOE": 192,
+    "OEVP": 457,
+    "GRUE": 128,
+    "NEOS": 34
+  },
+  {
+    "BZ": "Klingenbach",
+    "SPOE": 427,
+    "FPOE": 83,
+    "OEVP": 183,
+    "GRUE": 24,
+    "NEOS": 5
+  },
+  {
+    "BZ": "Leithaprodersdorf",
+    "SPOE": 184,
+    "FPOE": 67,
+    "OEVP": 429,
+    "GRUE": 44,
+    "NEOS": 22
+  },
+  {
+    "BZ": "Mörbisch am See",
+    "SPOE": 596,
+    "FPOE": 297,
+    "OEVP": 331,
+    "GRUE": 93,
+    "NEOS": 25
+  },
+  {
+    "BZ": "Müllendorf",
+    "SPOE": 373,
+    "FPOE": 128,
+    "OEVP": 214,
+    "GRUE": 85,
+    "NEOS": 29
+  },
+  {
+    "BZ": "Neufeld a.d. Leitha",
+    "SPOE": 1039,
+    "FPOE": 273,
+    "OEVP": 212,
+    "GRUE": 123,
+    "NEOS": 33
+  },
+  {
+    "BZ": "Oggau",
+    "SPOE": 558,
+    "FPOE": 162,
+    "OEVP": 384,
+    "GRUE": 49,
+    "NEOS": 21
+  },
+  {
+    "BZ": "Oslip",
+    "SPOE": 364,
+    "FPOE": 73,
+    "OEVP": 313,
+    "GRUE": 80,
+    "NEOS": 11
+  },
+  {
+    "BZ": "Purbach",
+    "SPOE": 669,
+    "FPOE": 191,
+    "OEVP": 827,
+    "GRUE": 143,
+    "NEOS": 29
+  },
+  {
+    "BZ": "St. Margarethen i.Bgld.",
+    "SPOE": 550,
+    "FPOE": 316,
+    "OEVP": 663,
+    "GRUE": 105,
+    "NEOS": 51
+  },
+  {
+    "BZ": "Schützen am Gebirge",
+    "SPOE": 320,
+    "FPOE": 92,
+    "OEVP": 361,
+    "GRUE": 68,
+    "NEOS": 23
+  },
+  {
+    "BZ": "Siegendorf",
+    "SPOE": 1093,
+    "FPOE": 214,
+    "OEVP": 216,
+    "GRUE": 130,
+    "NEOS": 36
+  },
+  {
+    "BZ": "Steinbrunn",
+    "SPOE": 795,
+    "FPOE": 255,
+    "OEVP": 327,
+    "GRUE": 121,
+    "NEOS": 56
+  },
+  {
+    "BZ": "Trausdorf a.d. Wulka",
+    "SPOE": 764,
+    "FPOE": 133,
+    "OEVP": 292,
+    "GRUE": 102,
+    "NEOS": 30
+  },
+  {
+    "BZ": "Wimpassing a.d. Leitha",
+    "SPOE": 210,
+    "FPOE": 185,
+    "OEVP": 228,
+    "GRUE": 39,
+    "NEOS": 29
+  },
+  {
+    "BZ": "Wulkaprodersdorf",
+    "SPOE": 503,
+    "FPOE": 121,
+    "OEVP": 348,
+    "GRUE": 144,
+    "NEOS": 30
+  },
+  {
+    "BZ": "Loretto",
+    "SPOE": 134,
+    "FPOE": 42,
+    "OEVP": 110,
+    "GRUE": 19,
+    "NEOS": 9
+  },
+  {
+    "BZ": "Stotzing",
+    "SPOE": 183,
+    "FPOE": 42,
+    "OEVP": 250,
+    "GRUE": 25,
+    "NEOS": 5
+  },
+  {
+    "BZ": "Zillingtal",
+    "SPOE": 225,
+    "FPOE": 82,
+    "OEVP": 137,
+    "GRUE": 50,
+    "NEOS": 22
+  },
+  {
+    "BZ": "Zagersdorf",
+    "SPOE": 319,
+    "FPOE": 60,
+    "OEVP": 250,
+    "GRUE": 35,
+    "NEOS": 13
+  },
+  {
+    "BZ": "Draßburg",
+    "SPOE": 515,
+    "FPOE": 70,
+    "OEVP": 103,
+    "GRUE": 54,
+    "NEOS": 20
+  },
+  {
+    "BZ": "Forchtenstein",
+    "SPOE": 750,
+    "FPOE": 344,
+    "OEVP": 445,
+    "GRUE": 105,
+    "NEOS": 64
+  },
+  {
+    "BZ": "Hirm",
+    "SPOE": 438,
+    "FPOE": 74,
+    "OEVP": 73,
+    "GRUE": 33,
+    "NEOS": 11
+  },
+  {
+    "BZ": "Loipersbach i.Bgld.",
+    "SPOE": 362,
+    "FPOE": 218,
+    "OEVP": 121,
+    "GRUE": 51,
+    "NEOS": 11
+  },
+  {
+    "BZ": "Marz",
+    "SPOE": 548,
+    "FPOE": 191,
+    "OEVP": 335,
+    "GRUE": 80,
+    "NEOS": 19
+  },
+  {
+    "BZ": "Mattersburg",
+    "SPOE": 1918,
+    "FPOE": 578,
+    "OEVP": 892,
+    "GRUE": 354,
+    "NEOS": 93
+  },
+  {
+    "BZ": "Neudörfl",
+    "SPOE": 1198,
+    "FPOE": 377,
+    "OEVP": 250,
+    "GRUE": 100,
+    "NEOS": 79
+  },
+  {
+    "BZ": "Pöttelsdorf",
+    "SPOE": 178,
+    "FPOE": 60,
+    "OEVP": 181,
+    "GRUE": 44,
+    "NEOS": 18
+  },
+  {
+    "BZ": "Pöttsching",
+    "SPOE": 735,
+    "FPOE": 222,
+    "OEVP": 339,
+    "GRUE": 132,
+    "NEOS": 52
+  },
+  {
+    "BZ": "Rohrbach b. Mattersburg",
+    "SPOE": 827,
+    "FPOE": 310,
+    "OEVP": 440,
+    "GRUE": 60,
+    "NEOS": 28
+  },
+  {
+    "BZ": "Bad Sauerbrunn",
+    "SPOE": 371,
+    "FPOE": 186,
+    "OEVP": 156,
+    "GRUE": 101,
+    "NEOS": 37
+  },
+  {
+    "BZ": "Schattendorf",
+    "SPOE": 1029,
+    "FPOE": 226,
+    "OEVP": 199,
+    "GRUE": 98,
+    "NEOS": 29
+  },
+  {
+    "BZ": "Sieggraben",
+    "SPOE": 284,
+    "FPOE": 144,
+    "OEVP": 321,
+    "GRUE": 14,
+    "NEOS": 14
+  },
+  {
+    "BZ": "Sigleß",
+    "SPOE": 483,
+    "FPOE": 84,
+    "OEVP": 143,
+    "GRUE": 61,
+    "NEOS": 20
+  },
+  {
+    "BZ": "Wiesen",
+    "SPOE": 420,
+    "FPOE": 393,
+    "OEVP": 509,
+    "GRUE": 105,
+    "NEOS": 51
+  },
+  {
+    "BZ": "Antau",
+    "SPOE": 138,
+    "FPOE": 113,
+    "OEVP": 227,
+    "GRUE": 25,
+    "NEOS": 4
+  },
+  {
+    "BZ": "Baumgarten",
+    "SPOE": 370,
+    "FPOE": 52,
+    "OEVP": 118,
+    "GRUE": 46,
+    "NEOS": 5
+  },
+  {
+    "BZ": "Zemendorf-Stöttera",
+    "SPOE": 304,
+    "FPOE": 84,
+    "OEVP": 332,
+    "GRUE": 36,
+    "NEOS": 19
+  },
+  {
+    "BZ": "Krensdorf",
+    "SPOE": 162,
+    "FPOE": 51,
+    "OEVP": 152,
+    "GRUE": 20,
+    "NEOS": 8
+  },
+  {
+    "BZ": "Deutschkreutz",
+    "SPOE": 666,
+    "FPOE": 115,
+    "OEVP": 513,
+    "GRUE": 75,
+    "NEOS": 32
+  },
+  {
+    "BZ": "Draßmarkt",
+    "SPOE": 409,
+    "FPOE": 101,
+    "OEVP": 457,
+    "GRUE": 67,
+    "NEOS": 27
+  },
+  {
+    "BZ": "Frankenau-Unterpullendorf",
+    "SPOE": 302,
+    "FPOE": 61,
+    "OEVP": 393,
+    "GRUE": 52,
+    "NEOS": 19
+  },
+  {
+    "BZ": "Großwarasdorf",
+    "SPOE": 407,
+    "FPOE": 86,
+    "OEVP": 412,
+    "GRUE": 80,
+    "NEOS": 14
+  },
+  {
+    "BZ": "Horitschon",
+    "SPOE": 610,
+    "FPOE": 148,
+    "OEVP": 361,
+    "GRUE": 55,
+    "NEOS": 20
+  },
+  {
+    "BZ": "Kaisersdorf",
+    "SPOE": 277,
+    "FPOE": 49,
+    "OEVP": 107,
+    "GRUE": 31,
+    "NEOS": 12
+  },
+  {
+    "BZ": "Kobersdorf",
+    "SPOE": 708,
+    "FPOE": 172,
+    "OEVP": 398,
+    "GRUE": 61,
+    "NEOS": 13
+  },
+  {
+    "BZ": "Lackenbach",
+    "SPOE": 362,
+    "FPOE": 138,
+    "OEVP": 187,
+    "GRUE": 31,
+    "NEOS": 16
+  },
+  {
+    "BZ": "Lockenhaus",
+    "SPOE": 570,
+    "FPOE": 210,
+    "OEVP": 455,
+    "GRUE": 96,
+    "NEOS": 48
+  },
+  {
+    "BZ": "Lutzmannsburg",
+    "SPOE": 267,
+    "FPOE": 54,
+    "OEVP": 237,
+    "GRUE": 30,
+    "NEOS": 14
+  },
+  {
+    "BZ": "Mannersdorf a.d. Rabnitz",
+    "SPOE": 583,
+    "FPOE": 197,
+    "OEVP": 328,
+    "GRUE": 64,
+    "NEOS": 18
+  },
+  {
+    "BZ": "Markt St.Martin",
+    "SPOE": 388,
+    "FPOE": 98,
+    "OEVP": 254,
+    "GRUE": 58,
+    "NEOS": 7
+  },
+  {
+    "BZ": "Neckenmarkt",
+    "SPOE": 453,
+    "FPOE": 125,
+    "OEVP": 434,
+    "GRUE": 60,
+    "NEOS": 27
+  },
+  {
+    "BZ": "Neutal",
+    "SPOE": 612,
+    "FPOE": 61,
+    "OEVP": 162,
+    "GRUE": 26,
+    "NEOS": 12
+  },
+  {
+    "BZ": "Nikitsch",
+    "SPOE": 576,
+    "FPOE": 79,
+    "OEVP": 441,
+    "GRUE": 79,
+    "NEOS": 16
+  },
+  {
+    "BZ": "Oberpullendorf",
+    "SPOE": 532,
+    "FPOE": 210,
+    "OEVP": 609,
+    "GRUE": 186,
+    "NEOS": 57
+  },
+  {
+    "BZ": "Pilgersdorf",
+    "SPOE": 370,
+    "FPOE": 117,
+    "OEVP": 558,
+    "GRUE": 46,
+    "NEOS": 29
+  },
+  {
+    "BZ": "Piringsdorf",
+    "SPOE": 279,
+    "FPOE": 70,
+    "OEVP": 198,
+    "GRUE": 40,
+    "NEOS": 15
+  },
+  {
+    "BZ": "Raiding",
+    "SPOE": 320,
+    "FPOE": 46,
+    "OEVP": 231,
+    "GRUE": 18,
+    "NEOS": 6
+  },
+  {
+    "BZ": "Ritzing",
+    "SPOE": 307,
+    "FPOE": 76,
+    "OEVP": 177,
+    "GRUE": 41,
+    "NEOS": 27
+  },
+  {
+    "BZ": "Steinberg-Dörfl",
+    "SPOE": 434,
+    "FPOE": 107,
+    "OEVP": 254,
+    "GRUE": 62,
+    "NEOS": 38
+  },
+  {
+    "BZ": "Stoob",
+    "SPOE": 523,
+    "FPOE": 100,
+    "OEVP": 195,
+    "GRUE": 42,
+    "NEOS": 22
+  },
+  {
+    "BZ": "Weppersdorf",
+    "SPOE": 764,
+    "FPOE": 181,
+    "OEVP": 206,
+    "GRUE": 66,
+    "NEOS": 18
+  },
+  {
+    "BZ": "Lackendorf",
+    "SPOE": 212,
+    "FPOE": 35,
+    "OEVP": 106,
+    "GRUE": 14,
+    "NEOS": 5
+  },
+  {
+    "BZ": "Unterfrauenhaid",
+    "SPOE": 223,
+    "FPOE": 56,
+    "OEVP": 168,
+    "GRUE": 8,
+    "NEOS": 7
+  },
+  {
+    "BZ": "Unterrabnitz-Schwendgraben",
+    "SPOE": 192,
+    "FPOE": 45,
+    "OEVP": 221,
+    "GRUE": 16,
+    "NEOS": 5
+  },
+  {
+    "BZ": "Weingraben",
+    "SPOE": 165,
+    "FPOE": 23,
+    "OEVP": 77,
+    "GRUE": 11,
+    "NEOS": 4
+  },
+  {
+    "BZ": "Oberloisdorf",
+    "SPOE": 211,
+    "FPOE": 57,
+    "OEVP": 314,
+    "GRUE": 17,
+    "NEOS": 7
+  },
+  {
+    "BZ": "Bad Tatzmannsdorf",
+    "SPOE": 317,
+    "FPOE": 207,
+    "OEVP": 283,
+    "GRUE": 101,
+    "NEOS": 29
+  },
+  {
+    "BZ": "Bernstein",
+    "SPOE": 817,
+    "FPOE": 255,
+    "OEVP": 378,
+    "GRUE": 66,
+    "NEOS": 34
+  },
+  {
+    "BZ": "Dt.Schützen-Eisenberg",
+    "SPOE": 169,
+    "FPOE": 193,
+    "OEVP": 411,
+    "GRUE": 44,
+    "NEOS": 17
+  },
+  {
+    "BZ": "Grafenschachen",
+    "SPOE": 454,
+    "FPOE": 161,
+    "OEVP": 191,
+    "GRUE": 23,
+    "NEOS": 17
+  },
+  {
+    "BZ": "Großpetersdorf",
+    "SPOE": 1014,
+    "FPOE": 331,
+    "OEVP": 604,
+    "GRUE": 142,
+    "NEOS": 45
+  },
+  {
+    "BZ": "Hannersdorf",
+    "SPOE": 238,
+    "FPOE": 92,
+    "OEVP": 189,
+    "GRUE": 49,
+    "NEOS": 16
+  },
+  {
+    "BZ": "Kemeten",
+    "SPOE": 399,
+    "FPOE": 265,
+    "OEVP": 130,
+    "GRUE": 59,
+    "NEOS": 20
+  },
+  {
+    "BZ": "Kohfidisch",
+    "SPOE": 396,
+    "FPOE": 168,
+    "OEVP": 413,
+    "GRUE": 29,
+    "NEOS": 20
+  },
+  {
+    "BZ": "Litzelsdorf",
+    "SPOE": 262,
+    "FPOE": 207,
+    "OEVP": 188,
+    "GRUE": 84,
+    "NEOS": 18
+  },
+  {
+    "BZ": "Loipersdorf-Kitzladen",
+    "SPOE": 349,
+    "FPOE": 176,
+    "OEVP": 219,
+    "GRUE": 30,
+    "NEOS": 8
+  },
+  {
+    "BZ": "Mariasdorf",
+    "SPOE": 339,
+    "FPOE": 205,
+    "OEVP": 178,
+    "GRUE": 47,
+    "NEOS": 15
+  },
+  {
+    "BZ": "Markt Allhau",
+    "SPOE": 353,
+    "FPOE": 242,
+    "OEVP": 351,
+    "GRUE": 92,
+    "NEOS": 41
+  },
+  {
+    "BZ": "Markt Neuhodis",
+    "SPOE": 225,
+    "FPOE": 71,
+    "OEVP": 139,
+    "GRUE": 19,
+    "NEOS": 7
+  },
+  {
+    "BZ": "Mischendorf",
+    "SPOE": 515,
+    "FPOE": 132,
+    "OEVP": 427,
+    "GRUE": 37,
+    "NEOS": 8
+  },
+  {
+    "BZ": "Oberdorf i.Bgld.",
+    "SPOE": 317,
+    "FPOE": 118,
+    "OEVP": 165,
+    "GRUE": 31,
+    "NEOS": 17
+  },
+  {
+    "BZ": "Oberschützen",
+    "SPOE": 449,
+    "FPOE": 278,
+    "OEVP": 538,
+    "GRUE": 179,
+    "NEOS": 38
+  },
+  {
+    "BZ": "Oberwart",
+    "SPOE": 1438,
+    "FPOE": 753,
+    "OEVP": 1085,
+    "GRUE": 353,
+    "NEOS": 108
+  },
+  {
+    "BZ": "Pinkafeld",
+    "SPOE": 1595,
+    "FPOE": 513,
+    "OEVP": 659,
+    "GRUE": 236,
+    "NEOS": 158
+  },
+  {
+    "BZ": "Rechnitz",
+    "SPOE": 732,
+    "FPOE": 402,
+    "OEVP": 451,
+    "GRUE": 69,
+    "NEOS": 18
+  },
+  {
+    "BZ": "Riedlingsdorf",
+    "SPOE": 503,
+    "FPOE": 198,
+    "OEVP": 141,
+    "GRUE": 86,
+    "NEOS": 27
+  },
+  {
+    "BZ": "Rotenturm a.d. Pinka",
+    "SPOE": 550,
+    "FPOE": 129,
+    "OEVP": 199,
+    "GRUE": 53,
+    "NEOS": 23
+  },
+  {
+    "BZ": "Schachendorf",
+    "SPOE": 151,
+    "FPOE": 57,
+    "OEVP": 294,
+    "GRUE": 47,
+    "NEOS": 5
+  },
+  {
+    "BZ": "Stadtschlaining",
+    "SPOE": 620,
+    "FPOE": 245,
+    "OEVP": 275,
+    "GRUE": 63,
+    "NEOS": 20
+  },
+  {
+    "BZ": "Unterkohlstätten",
+    "SPOE": 421,
+    "FPOE": 88,
+    "OEVP": 288,
+    "GRUE": 27,
+    "NEOS": 9
+  },
+  {
+    "BZ": "Unterwart",
+    "SPOE": 202,
+    "FPOE": 83,
+    "OEVP": 208,
+    "GRUE": 35,
+    "NEOS": 7
+  },
+  {
+    "BZ": "Weiden b. Rechnitz",
+    "SPOE": 203,
+    "FPOE": 107,
+    "OEVP": 220,
+    "GRUE": 42,
+    "NEOS": 4
+  },
+  {
+    "BZ": "Wiesfleck",
+    "SPOE": 305,
+    "FPOE": 157,
+    "OEVP": 256,
+    "GRUE": 26,
+    "NEOS": 14
+  },
+  {
+    "BZ": "Wolfau",
+    "SPOE": 321,
+    "FPOE": 147,
+    "OEVP": 276,
+    "GRUE": 55,
+    "NEOS": 36
+  },
+  {
+    "BZ": "Neustift a.d. Lafnitz",
+    "SPOE": 308,
+    "FPOE": 104,
+    "OEVP": 93,
+    "GRUE": 13,
+    "NEOS": 7
+  },
+  {
+    "BZ": "Jabing",
+    "SPOE": 250,
+    "FPOE": 104,
+    "OEVP": 130,
+    "GRUE": 37,
+    "NEOS": 10
+  },
+  {
+    "BZ": "Badersdorf",
+    "SPOE": 73,
+    "FPOE": 28,
+    "OEVP": 121,
+    "GRUE": 6,
+    "NEOS": 1
+  },
+  {
+    "BZ": "Schandorf",
+    "SPOE": 116,
+    "FPOE": 27,
+    "OEVP": 82,
+    "GRUE": 13,
+    "NEOS": 4
+  },
+  {
+    "BZ": "Bocksdorf",
+    "SPOE": 257,
+    "FPOE": 111,
+    "OEVP": 144,
+    "GRUE": 25,
+    "NEOS": 8
+  },
+  {
+    "BZ": "Burgauberg-Neudauberg",
+    "SPOE": 279,
+    "FPOE": 160,
+    "OEVP": 339,
+    "GRUE": 58,
+    "NEOS": 19
+  },
+  {
+    "BZ": "Eberau",
+    "SPOE": 199,
+    "FPOE": 77,
+    "OEVP": 374,
+    "GRUE": 39,
+    "NEOS": 3
+  },
+  {
+    "BZ": "Gerersdorf-Sulz",
+    "SPOE": 270,
+    "FPOE": 79,
+    "OEVP": 314,
+    "GRUE": 58,
+    "NEOS": 7
+  },
+  {
+    "BZ": "Güssing",
+    "SPOE": 958,
+    "FPOE": 263,
+    "OEVP": 794,
+    "GRUE": 147,
+    "NEOS": 60
+  },
+  {
+    "BZ": "Güttenbach",
+    "SPOE": 208,
+    "FPOE": 60,
+    "OEVP": 306,
+    "GRUE": 51,
+    "NEOS": 7
+  },
+  {
+    "BZ": "Heiligenbrunn",
+    "SPOE": 181,
+    "FPOE": 80,
+    "OEVP": 293,
+    "GRUE": 20,
+    "NEOS": 7
+  },
+  {
+    "BZ": "Kukmirn",
+    "SPOE": 412,
+    "FPOE": 261,
+    "OEVP": 381,
+    "GRUE": 71,
+    "NEOS": 28
+  },
+  {
+    "BZ": "Neuberg i.Bgld.",
+    "SPOE": 284,
+    "FPOE": 97,
+    "OEVP": 243,
+    "GRUE": 28,
+    "NEOS": 9
+  },
+  {
+    "BZ": "Neustift b. Güssing",
+    "SPOE": 188,
+    "FPOE": 64,
+    "OEVP": 38,
+    "GRUE": 16,
+    "NEOS": 3
+  },
+  {
+    "BZ": "Olbendorf",
+    "SPOE": 703,
+    "FPOE": 163,
+    "OEVP": 131,
+    "GRUE": 48,
+    "NEOS": 25
+  },
+  {
+    "BZ": "Ollersdorf i.Bgld.",
+    "SPOE": 331,
+    "FPOE": 87,
+    "OEVP": 322,
+    "GRUE": 35,
+    "NEOS": 14
+  },
+  {
+    "BZ": "St. Michael i.Bgld.",
+    "SPOE": 247,
+    "FPOE": 130,
+    "OEVP": 261,
+    "GRUE": 35,
+    "NEOS": 17
+  },
+  {
+    "BZ": "Stegersbach",
+    "SPOE": 716,
+    "FPOE": 250,
+    "OEVP": 433,
+    "GRUE": 76,
+    "NEOS": 49
+  },
+  {
+    "BZ": "Stinatz",
+    "SPOE": 468,
+    "FPOE": 58,
+    "OEVP": 260,
+    "GRUE": 67,
+    "NEOS": 11
+  },
+  {
+    "BZ": "Strem",
+    "SPOE": 148,
+    "FPOE": 102,
+    "OEVP": 306,
+    "GRUE": 28,
+    "NEOS": 7
+  },
+  {
+    "BZ": "Tobaj",
+    "SPOE": 210,
+    "FPOE": 212,
+    "OEVP": 348,
+    "GRUE": 43,
+    "NEOS": 19
+  },
+  {
+    "BZ": "Hackerberg",
+    "SPOE": 106,
+    "FPOE": 33,
+    "OEVP": 116,
+    "GRUE": 8,
+    "NEOS": 7
+  },
+  {
+    "BZ": "Wörterberg",
+    "SPOE": 135,
+    "FPOE": 48,
+    "OEVP": 117,
+    "GRUE": 27,
+    "NEOS": 9
+  },
+  {
+    "BZ": "Großmürbisch",
+    "SPOE": 101,
+    "FPOE": 9,
+    "OEVP": 98,
+    "GRUE": 4,
+    "NEOS": 2
+  },
+  {
+    "BZ": "Inzenhof",
+    "SPOE": 164,
+    "FPOE": 37,
+    "OEVP": 48,
+    "GRUE": 12,
+    "NEOS": 5
+  },
+  {
+    "BZ": "Kleinmürbisch",
+    "SPOE": 88,
+    "FPOE": 42,
+    "OEVP": 62,
+    "GRUE": 4,
+    "NEOS": 0
+  },
+  {
+    "BZ": "Tschanigraben",
+    "SPOE": 39,
+    "FPOE": 2,
+    "OEVP": 3,
+    "GRUE": 1,
+    "NEOS": 0
+  },
+  {
+    "BZ": "Heugraben",
+    "SPOE": 67,
+    "FPOE": 26,
+    "OEVP": 77,
+    "GRUE": 2,
+    "NEOS": 3
+  },
+  {
+    "BZ": "Rohr i.Bgld.",
+    "SPOE": 128,
+    "FPOE": 52,
+    "OEVP": 78,
+    "GRUE": 5,
+    "NEOS": 8
+  },
+  {
+    "BZ": "Bildein",
+    "SPOE": 43,
+    "FPOE": 29,
+    "OEVP": 210,
+    "GRUE": 17,
+    "NEOS": 3
+  },
+  {
+    "BZ": "Rauchwart",
+    "SPOE": 195,
+    "FPOE": 93,
+    "OEVP": 59,
+    "GRUE": 9,
+    "NEOS": 2
+  },
+  {
+    "BZ": "Moschendorf",
+    "SPOE": 101,
+    "FPOE": 38,
+    "OEVP": 175,
+    "GRUE": 11,
+    "NEOS": 1
+  },
+  {
+    "BZ": "Deutsch Kaltenbrunn",
+    "SPOE": 532,
+    "FPOE": 193,
+    "OEVP": 218,
+    "GRUE": 95,
+    "NEOS": 34
+  },
+  {
+    "BZ": "Eltendorf",
+    "SPOE": 242,
+    "FPOE": 111,
+    "OEVP": 209,
+    "GRUE": 32,
+    "NEOS": 15
+  },
+  {
+    "BZ": "Heiligenkreuz i. Lafnitztal",
+    "SPOE": 331,
+    "FPOE": 124,
+    "OEVP": 190,
+    "GRUE": 42,
+    "NEOS": 9
+  },
+  {
+    "BZ": "Jennersdorf",
+    "SPOE": 524,
+    "FPOE": 653,
+    "OEVP": 975,
+    "GRUE": 216,
+    "NEOS": 67
+  },
+  {
+    "BZ": "Minihof-Liebau",
+    "SPOE": 299,
+    "FPOE": 174,
+    "OEVP": 166,
+    "GRUE": 28,
+    "NEOS": 6
+  },
+  {
+    "BZ": "Mogersdorf",
+    "SPOE": 294,
+    "FPOE": 98,
+    "OEVP": 310,
+    "GRUE": 47,
+    "NEOS": 9
+  },
+  {
+    "BZ": "Neuhaus a. Klausenbach",
+    "SPOE": 204,
+    "FPOE": 112,
+    "OEVP": 223,
+    "GRUE": 28,
+    "NEOS": 14
+  },
+  {
+    "BZ": "Rudersdorf",
+    "SPOE": 567,
+    "FPOE": 191,
+    "OEVP": 536,
+    "GRUE": 106,
+    "NEOS": 22
+  },
+  {
+    "BZ": "St.Martin a.d. Raab",
+    "SPOE": 524,
+    "FPOE": 270,
+    "OEVP": 425,
+    "GRUE": 77,
+    "NEOS": 33
+  },
+  {
+    "BZ": "Weichselbaum",
+    "SPOE": 134,
+    "FPOE": 81,
+    "OEVP": 230,
+    "GRUE": 30,
+    "NEOS": 7
+  },
+  {
+    "BZ": "Königsdorf",
+    "SPOE": 216,
+    "FPOE": 96,
+    "OEVP": 131,
+    "GRUE": 20,
+    "NEOS": 11
+  },
+  {
+    "BZ": "Mühlgraben",
+    "SPOE": 142,
+    "FPOE": 75,
+    "OEVP": 45,
+    "GRUE": 11,
+    "NEOS": 4
+  }
+]
