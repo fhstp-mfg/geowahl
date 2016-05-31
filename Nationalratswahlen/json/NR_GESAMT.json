@@ -1,83 +1,83 @@
 [
   {
     "BL": "Burgenland",
-    "SPOE": 70.222,
-    "FPOE": 32.705,
-    "OEVP": 50.426,
-    "GRUE": 12.718,
-    "NEOS": 5.327,
-    "FRANK": 11.05
+    "SPOE": 70222,
+    "FPOE": 32705,
+    "OEVP": 50426,
+    "GRUE": 12718,
+    "NEOS": 5327,
+    "FRANK": 11050
   },
   {
     "BL": "Kärnten",
-    "SPOE": 102.278,
-    "FPOE": 56.513,
-    "OEVP": 48.14,
-    "GRUE": 37.304,
-    "NEOS": 11.711,
-    "FRANK": 21.882
+    "SPOE": 102278,
+    "FPOE": 56513,
+    "OEVP": 48140,
+    "GRUE": 37304,
+    "NEOS": 11711,
+    "FRANK": 21882
   },
   {
     "BL": "Niederösterreich",
-    "SPOE": 279.988,
-    "FPOE": 190.601,
-    "OEVP": 310.345,
-    "GRUE": 97.487,
-    "NEOS": 45.285,
-    "FRANK": 48.105
+    "SPOE": 279988,
+    "FPOE": 190601,
+    "OEVP": 310345,
+    "GRUE": 97487,
+    "NEOS": 45285,
+    "FRANK": 48105
   },
   {
     "BL": "Oberösterreich",
-    "SPOE": 228.293,
-    "FPOE": 180.041,
-    "OEVP": 212.843,
-    "GRUE": 102.003,
-    "NEOS": 28.604,
-    "FRANK": 40.379
+    "SPOE": 228293,
+    "FPOE": 180041,
+    "OEVP": 212843,
+    "GRUE": 102003,
+    "NEOS": 28604,
+    "FRANK": 40379
   },
   {
     "BL": "Salzburg",
-    "SPOE": 65.95,
-    "FPOE": 60.876,
-    "OEVP": 76.46,
-    "GRUE": 42.389,
-    "NEOS": 13.103,
-    "FRANK": 14.894
+    "SPOE": 65950,
+    "FPOE": 60876,
+    "OEVP": 76460,
+    "GRUE": 42389,
+    "NEOS": 13103,
+    "FRANK": 14894
   },
   {
     "BL": "Steiermark",
-    "SPOE": 172.307,
-    "FPOE": 173.908,
-    "OEVP": 151.438,
-    "GRUE": 76.547,
-    "NEOS": 27.872,
-    "FRANK": 72.12
+    "SPOE": 172307,
+    "FPOE": 173908,
+    "OEVP": 151438,
+    "GRUE": 76547,
+    "NEOS": 27872,
+    "FRANK": 72120
   },
   {
     "BL": "Tirol",
-    "SPOE": 64.923,
-    "FPOE": 68.761,
-    "OEVP": 114.754,
-    "GRUE": 53.91,
-    "NEOS": 17.344,
-    "FRANK": 19.854
+    "SPOE": 64923,
+    "FPOE": 68761,
+    "OEVP": 114754,
+    "GRUE": 53910,
+    "NEOS": 17344,
+    "FRANK": 19854
   },
   {
     "BL": "Vorarlberg",
-    "SPOE": 23.021,
-    "FPOE": 35.407,
-    "OEVP": 46.154,
-    "GRUE": 29.807,
-    "NEOS": 22.888,
-    "FRANK": 9.367
+    "SPOE": 23021,
+    "FPOE": 35407,
+    "OEVP": 46154,
+    "GRUE": 29807,
+    "NEOS": 22888,
+    "FRANK": 9367
   },
   {
     "BL": "Wien",
-    "SPOE": 251.623,
-    "FPOE": 163.501,
-    "OEVP": 115.316,
-    "GRUE": 130.492,
-    "NEOS": 60.812,
-    "FRANK": 31.028
+    "SPOE": 251623,
+    "FPOE": 163501,
+    "OEVP": 115316,
+    "GRUE": 130492,
+    "NEOS": 60812,
+    "FRANK": 31028
   }
 ]
