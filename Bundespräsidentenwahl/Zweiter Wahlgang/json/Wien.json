@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Innere Stadt",
+    "Hofer": 1514,
+    "VdB": 3756
+  },
+  {
+    "name": "Leopoldstadt",
+    "Hofer": 9703,
+    "VdB": 21614
+  },
+  {
+    "name": "Landstraße",
+    "Hofer": 8638,
+    "VdB": 19896
+  },
+  {
+    "name": "Wieden",
+    "Hofer": 2567,
+    "VdB": 7675
+  },
+  {
+    "name": "Margareten",
+    "Hofer": 4406,
+    "VdB": 11636
+  },
+  {
+    "name": "Mariahilf",
+    "Hofer": 2465,
+    "VdB": 8122
+  },
+  {
+    "name": "Neubau",
+    "Hofer": 2182,
+    "VdB": 8735
+  },
+  {
+    "name": "Josefstadt",
+    "Hofer": 1880,
+    "VdB": 6565
+  },
+  {
+    "name": "Alsergrund",
+    "Hofer": 3219,
+    "VdB": 10493
+  },
+  {
+    "name": "Favoriten",
+    "Hofer": 26334,
+    "VdB": 29703
+  },
+  {
+    "name": "Simmering",
+    "Hofer": 16222,
+    "VdB": 15131
+  },
+  {
+    "name": "Meidling",
+    "Hofer": 11227,
+    "VdB": 16748
+  },
+  {
+    "name": "Hietzing",
+    "Hofer": 7219,
+    "VdB": 13824
+  },
+  {
+    "name": "Penzing",
+    "Hofer": 12148,
+    "VdB": 19934
+  },
+  {
+    "name": "Rudolfsheim-Fünfhaus",
+    "Hofer": 6451,
+    "VdB": 13201
+  },
+  {
+    "name": "Ottakring",
+    "Hofer": 10792,
+    "VdB": 19259
+  },
+  {
+    "name": "Hernals",
+    "Hofer": 5492,
+    "VdB": 11299
+  },
+  {
+    "name": "Währing",
+    "Hofer": 4642,
+    "VdB": 12426
+  },
+  {
+    "name": "Döbling",
+    "Hofer": 8928,
+    "VdB": 17460
+  },
+  {
+    "name": "Brigittenau",
+    "Hofer": 9139,
+    "VdB": 14540
+  },
+  {
+    "name": "Floridsdorf",
+    "Hofer": 29528,
+    "VdB": 28700
+  },
+  {
+    "name": "Donaustadt",
+    "Hofer": 32729,
+    "VdB": 37047
+  },
+  {
+    "name": "Liesing",
+    "Hofer": 17492,
+    "VdB": 22606
+  }
+]

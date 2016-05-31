@@ -1,0 +1,1397 @@
+[
+  {
+    "name": "Innsbruck",
+    "Hofer": 19775,
+    "VdB": 29502
+  },
+  {
+    "name": "Arzl im Pitztal",
+    "Hofer": 759,
+    "VdB": 583
+  },
+  {
+    "name": "Haiming",
+    "Hofer": 1036,
+    "VdB": 865
+  },
+  {
+    "name": "Imst",
+    "Hofer": 2095,
+    "VdB": 1904
+  },
+  {
+    "name": "Imsterberg",
+    "Hofer": 189,
+    "VdB": 172
+  },
+  {
+    "name": "Jerzens",
+    "Hofer": 285,
+    "VdB": 121
+  },
+  {
+    "name": "Karres",
+    "Hofer": 200,
+    "VdB": 89
+  },
+  {
+    "name": "Karrösten",
+    "Hofer": 184,
+    "VdB": 163
+  },
+  {
+    "name": "Längenfeld",
+    "Hofer": 848,
+    "VdB": 843
+  },
+  {
+    "name": "Mieming",
+    "Hofer": 685,
+    "VdB": 765
+  },
+  {
+    "name": "Mils bei Imst",
+    "Hofer": 140,
+    "VdB": 137
+  },
+  {
+    "name": "Mötz",
+    "Hofer": 253,
+    "VdB": 288
+  },
+  {
+    "name": "Nassereith",
+    "Hofer": 494,
+    "VdB": 362
+  },
+  {
+    "name": "Obsteig",
+    "Hofer": 278,
+    "VdB": 300
+  },
+  {
+    "name": "Oetz",
+    "Hofer": 437,
+    "VdB": 500
+  },
+  {
+    "name": "Rietz",
+    "Hofer": 511,
+    "VdB": 397
+  },
+  {
+    "name": "Roppen",
+    "Hofer": 341,
+    "VdB": 382
+  },
+  {
+    "name": "St. Leonhard im Pitztal",
+    "Hofer": 320,
+    "VdB": 160
+  },
+  {
+    "name": "Sautens",
+    "Hofer": 332,
+    "VdB": 234
+  },
+  {
+    "name": "Silz",
+    "Hofer": 527,
+    "VdB": 555
+  },
+  {
+    "name": "Sölden",
+    "Hofer": 561,
+    "VdB": 418
+  },
+  {
+    "name": "Stams",
+    "Hofer": 286,
+    "VdB": 322
+  },
+  {
+    "name": "Tarrenz",
+    "Hofer": 776,
+    "VdB": 447
+  },
+  {
+    "name": "Umhausen",
+    "Hofer": 829,
+    "VdB": 484
+  },
+  {
+    "name": "Wenns",
+    "Hofer": 461,
+    "VdB": 293
+  },
+  {
+    "name": "Absam",
+    "Hofer": 1471,
+    "VdB": 1871
+  },
+  {
+    "name": "Aldrans",
+    "Hofer": 506,
+    "VdB": 661
+  },
+  {
+    "name": "Ampass",
+    "Hofer": 394,
+    "VdB": 379
+  },
+  {
+    "name": "Axams",
+    "Hofer": 1293,
+    "VdB": 1333
+  },
+  {
+    "name": "Baumkirchen",
+    "Hofer": 279,
+    "VdB": 305
+  },
+  {
+    "name": "Birgitz",
+    "Hofer": 308,
+    "VdB": 312
+  },
+  {
+    "name": "Ellbögen",
+    "Hofer": 347,
+    "VdB": 221
+  },
+  {
+    "name": "Flaurling",
+    "Hofer": 265,
+    "VdB": 300
+  },
+  {
+    "name": "Fritzens",
+    "Hofer": 544,
+    "VdB": 449
+  },
+  {
+    "name": "Fulpmes",
+    "Hofer": 900,
+    "VdB": 815
+  },
+  {
+    "name": "Gnadenwald",
+    "Hofer": 159,
+    "VdB": 206
+  },
+  {
+    "name": "Götzens",
+    "Hofer": 883,
+    "VdB": 765
+  },
+  {
+    "name": "Gries am Brenner",
+    "Hofer": 415,
+    "VdB": 194
+  },
+  {
+    "name": "Gries im Sellrain",
+    "Hofer": 139,
+    "VdB": 133
+  },
+  {
+    "name": "Grinzens",
+    "Hofer": 350,
+    "VdB": 283
+  },
+  {
+    "name": "Gschnitz",
+    "Hofer": 140,
+    "VdB": 51
+  },
+  {
+    "name": "Hatting",
+    "Hofer": 289,
+    "VdB": 362
+  },
+  {
+    "name": "Inzing",
+    "Hofer": 701,
+    "VdB": 1046
+  },
+  {
+    "name": "Kematen in Tirol",
+    "Hofer": 559,
+    "VdB": 710
+  },
+  {
+    "name": "Kolsass",
+    "Hofer": 397,
+    "VdB": 388
+  },
+  {
+    "name": "Kolsassberg",
+    "Hofer": 245,
+    "VdB": 140
+  },
+  {
+    "name": "Lans",
+    "Hofer": 223,
+    "VdB": 289
+  },
+  {
+    "name": "Leutasch",
+    "Hofer": 353,
+    "VdB": 386
+  },
+  {
+    "name": "Matrei am Brenner",
+    "Hofer": 212,
+    "VdB": 232
+  },
+  {
+    "name": "Mieders",
+    "Hofer": 416,
+    "VdB": 382
+  },
+  {
+    "name": "Mils",
+    "Hofer": 953,
+    "VdB": 1135
+  },
+  {
+    "name": "Mühlbachl",
+    "Hofer": 334,
+    "VdB": 180
+  },
+  {
+    "name": "Mutters",
+    "Hofer": 473,
+    "VdB": 481
+  },
+  {
+    "name": "Natters",
+    "Hofer": 471,
+    "VdB": 481
+  },
+  {
+    "name": "Navis",
+    "Hofer": 630,
+    "VdB": 316
+  },
+  {
+    "name": "Neustift im Stubaital",
+    "Hofer": 1194,
+    "VdB": 734
+  },
+  {
+    "name": "Oberhofen im Inntal",
+    "Hofer": 404,
+    "VdB": 418
+  },
+  {
+    "name": "Obernberg am Brenner",
+    "Hofer": 119,
+    "VdB": 47
+  },
+  {
+    "name": "Oberperfuss",
+    "Hofer": 662,
+    "VdB": 717
+  },
+  {
+    "name": "Patsch",
+    "Hofer": 207,
+    "VdB": 258
+  },
+  {
+    "name": "Pettnau",
+    "Hofer": 234,
+    "VdB": 243
+  },
+  {
+    "name": "Pfaffenhofen",
+    "Hofer": 197,
+    "VdB": 240
+  },
+  {
+    "name": "Pfons",
+    "Hofer": 352,
+    "VdB": 277
+  },
+  {
+    "name": "Polling in Tirol",
+    "Hofer": 299,
+    "VdB": 164
+  },
+  {
+    "name": "Ranggen",
+    "Hofer": 247,
+    "VdB": 270
+  },
+  {
+    "name": "Reith bei Seefeld",
+    "Hofer": 210,
+    "VdB": 244
+  },
+  {
+    "name": "Rinn",
+    "Hofer": 442,
+    "VdB": 446
+  },
+  {
+    "name": "Rum",
+    "Hofer": 1985,
+    "VdB": 2000
+  },
+  {
+    "name": "St. Sigmund im Sellrain",
+    "Hofer": 36,
+    "VdB": 22
+  },
+  {
+    "name": "Scharnitz",
+    "Hofer": 270,
+    "VdB": 188
+  },
+  {
+    "name": "Schmirn",
+    "Hofer": 298,
+    "VdB": 147
+  },
+  {
+    "name": "Schönberg im Stubaital",
+    "Hofer": 214,
+    "VdB": 217
+  },
+  {
+    "name": "Seefeld in Tirol",
+    "Hofer": 510,
+    "VdB": 540
+  },
+  {
+    "name": "Sellrain",
+    "Hofer": 282,
+    "VdB": 239
+  },
+  {
+    "name": "Sistrans",
+    "Hofer": 427,
+    "VdB": 688
+  },
+  {
+    "name": "Hall in Tirol",
+    "Hofer": 2344,
+    "VdB": 3102
+  },
+  {
+    "name": "Steinach am Brenner",
+    "Hofer": 963,
+    "VdB": 684
+  },
+  {
+    "name": "Telfes im Stubai",
+    "Hofer": 373,
+    "VdB": 338
+  },
+  {
+    "name": "Telfs",
+    "Hofer": 2550,
+    "VdB": 2746
+  },
+  {
+    "name": "Thaur",
+    "Hofer": 970,
+    "VdB": 892
+  },
+  {
+    "name": "Trins",
+    "Hofer": 346,
+    "VdB": 268
+  },
+  {
+    "name": "Tulfes",
+    "Hofer": 414,
+    "VdB": 298
+  },
+  {
+    "name": "Unterperfuss",
+    "Hofer": 42,
+    "VdB": 32
+  },
+  {
+    "name": "Vals",
+    "Hofer": 187,
+    "VdB": 71
+  },
+  {
+    "name": "Völs",
+    "Hofer": 1361,
+    "VdB": 1573
+  },
+  {
+    "name": "Volders",
+    "Hofer": 1164,
+    "VdB": 867
+  },
+  {
+    "name": "Wattenberg",
+    "Hofer": 259,
+    "VdB": 104
+  },
+  {
+    "name": "Wattens",
+    "Hofer": 1945,
+    "VdB": 1507
+  },
+  {
+    "name": "Wildermieming",
+    "Hofer": 185,
+    "VdB": 238
+  },
+  {
+    "name": "Zirl",
+    "Hofer": 1424,
+    "VdB": 1937
+  },
+  {
+    "name": "Aurach bei Kitzbühel",
+    "Hofer": 274,
+    "VdB": 163
+  },
+  {
+    "name": "Brixen im Thale",
+    "Hofer": 493,
+    "VdB": 537
+  },
+  {
+    "name": "Fieberbrunn",
+    "Hofer": 847,
+    "VdB": 952
+  },
+  {
+    "name": "Going am Wilden Kaiser",
+    "Hofer": 438,
+    "VdB": 265
+  },
+  {
+    "name": "Hochfilzen",
+    "Hofer": 293,
+    "VdB": 253
+  },
+  {
+    "name": "Hopfgarten im Brixental",
+    "Hofer": 1238,
+    "VdB": 1088
+  },
+  {
+    "name": "Itter",
+    "Hofer": 291,
+    "VdB": 261
+  },
+  {
+    "name": "Jochberg",
+    "Hofer": 447,
+    "VdB": 237
+  },
+  {
+    "name": "Kirchberg in Tirol",
+    "Hofer": 993,
+    "VdB": 917
+  },
+  {
+    "name": "Kirchdorf in Tirol",
+    "Hofer": 1012,
+    "VdB": 592
+  },
+  {
+    "name": "Kitzbühel",
+    "Hofer": 1567,
+    "VdB": 1357
+  },
+  {
+    "name": "Kössen",
+    "Hofer": 905,
+    "VdB": 591
+  },
+  {
+    "name": "Oberndorf in Tirol",
+    "Hofer": 482,
+    "VdB": 394
+  },
+  {
+    "name": "Reith bei Kitzbühel",
+    "Hofer": 330,
+    "VdB": 330
+  },
+  {
+    "name": "St. Jakob in Haus",
+    "Hofer": 179,
+    "VdB": 155
+  },
+  {
+    "name": "St. Johann in Tirol",
+    "Hofer": 1927,
+    "VdB": 1677
+  },
+  {
+    "name": "St. Ulrich am Pillersee",
+    "Hofer": 337,
+    "VdB": 328
+  },
+  {
+    "name": "Schwendt",
+    "Hofer": 163,
+    "VdB": 156
+  },
+  {
+    "name": "Waidring",
+    "Hofer": 535,
+    "VdB": 362
+  },
+  {
+    "name": "Westendorf",
+    "Hofer": 782,
+    "VdB": 674
+  },
+  {
+    "name": "Alpbach",
+    "Hofer": 738,
+    "VdB": 346
+  },
+  {
+    "name": "Angath",
+    "Hofer": 248,
+    "VdB": 172
+  },
+  {
+    "name": "Bad Häring",
+    "Hofer": 568,
+    "VdB": 568
+  },
+  {
+    "name": "Brandenberg",
+    "Hofer": 430,
+    "VdB": 255
+  },
+  {
+    "name": "Breitenbach am Inn",
+    "Hofer": 914,
+    "VdB": 675
+  },
+  {
+    "name": "Brixlegg",
+    "Hofer": 680,
+    "VdB": 573
+  },
+  {
+    "name": "Ebbs",
+    "Hofer": 1423,
+    "VdB": 904
+  },
+  {
+    "name": "Ellmau",
+    "Hofer": 579,
+    "VdB": 435
+  },
+  {
+    "name": "Erl",
+    "Hofer": 296,
+    "VdB": 260
+  },
+  {
+    "name": "Kirchbichl",
+    "Hofer": 1408,
+    "VdB": 1160
+  },
+  {
+    "name": "Kramsach",
+    "Hofer": 1188,
+    "VdB": 1087
+  },
+  {
+    "name": "Kufstein",
+    "Hofer": 3219,
+    "VdB": 3368
+  },
+  {
+    "name": "Kundl",
+    "Hofer": 925,
+    "VdB": 752
+  },
+  {
+    "name": "Langkampfen",
+    "Hofer": 1089,
+    "VdB": 712
+  },
+  {
+    "name": "Mariastein",
+    "Hofer": 74,
+    "VdB": 70
+  },
+  {
+    "name": "Münster",
+    "Hofer": 883,
+    "VdB": 569
+  },
+  {
+    "name": "Niederndorf",
+    "Hofer": 657,
+    "VdB": 504
+  },
+  {
+    "name": "Niederndorferberg",
+    "Hofer": 146,
+    "VdB": 101
+  },
+  {
+    "name": "Radfeld",
+    "Hofer": 637,
+    "VdB": 361
+  },
+  {
+    "name": "Rattenberg",
+    "Hofer": 87,
+    "VdB": 85
+  },
+  {
+    "name": "Reith im Alpbachtal",
+    "Hofer": 679,
+    "VdB": 454
+  },
+  {
+    "name": "Rettenschöss",
+    "Hofer": 107,
+    "VdB": 78
+  },
+  {
+    "name": "Scheffau am Wilden Kaiser",
+    "Hofer": 293,
+    "VdB": 238
+  },
+  {
+    "name": "Schwoich",
+    "Hofer": 557,
+    "VdB": 450
+  },
+  {
+    "name": "Söll",
+    "Hofer": 891,
+    "VdB": 611
+  },
+  {
+    "name": "Thiersee",
+    "Hofer": 737,
+    "VdB": 595
+  },
+  {
+    "name": "Angerberg",
+    "Hofer": 501,
+    "VdB": 365
+  },
+  {
+    "name": "Walchsee",
+    "Hofer": 442,
+    "VdB": 258
+  },
+  {
+    "name": "Wildschönau",
+    "Hofer": 1038,
+    "VdB": 653
+  },
+  {
+    "name": "Wörgl",
+    "Hofer": 2482,
+    "VdB": 2330
+  },
+  {
+    "name": "Faggen",
+    "Hofer": 64,
+    "VdB": 80
+  },
+  {
+    "name": "Fendels",
+    "Hofer": 40,
+    "VdB": 76
+  },
+  {
+    "name": "Fiss",
+    "Hofer": 114,
+    "VdB": 220
+  },
+  {
+    "name": "Fliess",
+    "Hofer": 636,
+    "VdB": 677
+  },
+  {
+    "name": "Flirsch",
+    "Hofer": 192,
+    "VdB": 238
+  },
+  {
+    "name": "Galtür",
+    "Hofer": 169,
+    "VdB": 122
+  },
+  {
+    "name": "Grins",
+    "Hofer": 257,
+    "VdB": 315
+  },
+  {
+    "name": "Ischgl",
+    "Hofer": 366,
+    "VdB": 211
+  },
+  {
+    "name": "Kappl",
+    "Hofer": 712,
+    "VdB": 389
+  },
+  {
+    "name": "Kaunerberg",
+    "Hofer": 59,
+    "VdB": 113
+  },
+  {
+    "name": "Kaunertal",
+    "Hofer": 41,
+    "VdB": 235
+  },
+  {
+    "name": "Kauns",
+    "Hofer": 62,
+    "VdB": 146
+  },
+  {
+    "name": "Ladis",
+    "Hofer": 112,
+    "VdB": 92
+  },
+  {
+    "name": "Landeck",
+    "Hofer": 1334,
+    "VdB": 1877
+  },
+  {
+    "name": "Nauders",
+    "Hofer": 305,
+    "VdB": 222
+  },
+  {
+    "name": "Pettneu am Arlberg",
+    "Hofer": 261,
+    "VdB": 320
+  },
+  {
+    "name": "Pfunds",
+    "Hofer": 498,
+    "VdB": 390
+  },
+  {
+    "name": "Pians",
+    "Hofer": 175,
+    "VdB": 184
+  },
+  {
+    "name": "Prutz",
+    "Hofer": 282,
+    "VdB": 415
+  },
+  {
+    "name": "Ried im Oberinntal",
+    "Hofer": 194,
+    "VdB": 317
+  },
+  {
+    "name": "St. Anton am Arlberg",
+    "Hofer": 301,
+    "VdB": 567
+  },
+  {
+    "name": "Schönwies",
+    "Hofer": 369,
+    "VdB": 413
+  },
+  {
+    "name": "See",
+    "Hofer": 312,
+    "VdB": 168
+  },
+  {
+    "name": "Serfaus",
+    "Hofer": 180,
+    "VdB": 272
+  },
+  {
+    "name": "Spiss",
+    "Hofer": 35,
+    "VdB": 5
+  },
+  {
+    "name": "Stanz bei Landeck",
+    "Hofer": 80,
+    "VdB": 166
+  },
+  {
+    "name": "Strengen",
+    "Hofer": 241,
+    "VdB": 256
+  },
+  {
+    "name": "Tobadill",
+    "Hofer": 103,
+    "VdB": 111
+  },
+  {
+    "name": "Tösens",
+    "Hofer": 126,
+    "VdB": 91
+  },
+  {
+    "name": "Zams",
+    "Hofer": 536,
+    "VdB": 1055
+  },
+  {
+    "name": "Abfaltersbach",
+    "Hofer": 127,
+    "VdB": 167
+  },
+  {
+    "name": "Ainet",
+    "Hofer": 284,
+    "VdB": 176
+  },
+  {
+    "name": "Amlach",
+    "Hofer": 136,
+    "VdB": 82
+  },
+  {
+    "name": "Anras",
+    "Hofer": 301,
+    "VdB": 235
+  },
+  {
+    "name": "Assling",
+    "Hofer": 349,
+    "VdB": 487
+  },
+  {
+    "name": "Außervillgraten",
+    "Hofer": 184,
+    "VdB": 210
+  },
+  {
+    "name": "Dölsach",
+    "Hofer": 588,
+    "VdB": 411
+  },
+  {
+    "name": "Gaimberg",
+    "Hofer": 184,
+    "VdB": 211
+  },
+  {
+    "name": "Hopfgarten in Defereggen",
+    "Hofer": 170,
+    "VdB": 128
+  },
+  {
+    "name": "Innervillgraten",
+    "Hofer": 156,
+    "VdB": 193
+  },
+  {
+    "name": "Iselsberg-Stronach",
+    "Hofer": 144,
+    "VdB": 108
+  },
+  {
+    "name": "Kals am Großglockner",
+    "Hofer": 268,
+    "VdB": 199
+  },
+  {
+    "name": "Kartitsch",
+    "Hofer": 182,
+    "VdB": 188
+  },
+  {
+    "name": "Lavant",
+    "Hofer": 96,
+    "VdB": 55
+  },
+  {
+    "name": "Leisach",
+    "Hofer": 173,
+    "VdB": 180
+  },
+  {
+    "name": "Lienz",
+    "Hofer": 2303,
+    "VdB": 2725
+  },
+  {
+    "name": "Matrei in Osttirol",
+    "Hofer": 1350,
+    "VdB": 662
+  },
+  {
+    "name": "Nikolsdorf",
+    "Hofer": 179,
+    "VdB": 166
+  },
+  {
+    "name": "Nußdorf-Debant",
+    "Hofer": 798,
+    "VdB": 689
+  },
+  {
+    "name": "Oberlienz",
+    "Hofer": 357,
+    "VdB": 280
+  },
+  {
+    "name": "Obertilliach",
+    "Hofer": 148,
+    "VdB": 124
+  },
+  {
+    "name": "Prägraten am Großvenediger",
+    "Hofer": 284,
+    "VdB": 152
+  },
+  {
+    "name": "St. Jakob in Defereggen",
+    "Hofer": 152,
+    "VdB": 209
+  },
+  {
+    "name": "St. Johann im Walde",
+    "Hofer": 75,
+    "VdB": 50
+  },
+  {
+    "name": "St. Veit in Defereggen",
+    "Hofer": 101,
+    "VdB": 92
+  },
+  {
+    "name": "Schlaiten",
+    "Hofer": 116,
+    "VdB": 76
+  },
+  {
+    "name": "Sillian",
+    "Hofer": 498,
+    "VdB": 462
+  },
+  {
+    "name": "Strassen",
+    "Hofer": 158,
+    "VdB": 214
+  },
+  {
+    "name": "Thurn",
+    "Hofer": 128,
+    "VdB": 166
+  },
+  {
+    "name": "Tristach",
+    "Hofer": 327,
+    "VdB": 381
+  },
+  {
+    "name": "Untertilliach",
+    "Hofer": 42,
+    "VdB": 51
+  },
+  {
+    "name": "Virgen",
+    "Hofer": 671,
+    "VdB": 231
+  },
+  {
+    "name": "Heinfels",
+    "Hofer": 222,
+    "VdB": 224
+  },
+  {
+    "name": "Bach",
+    "Hofer": 160,
+    "VdB": 117
+  },
+  {
+    "name": "Berwang",
+    "Hofer": 128,
+    "VdB": 108
+  },
+  {
+    "name": "Biberwier",
+    "Hofer": 133,
+    "VdB": 126
+  },
+  {
+    "name": "Bichlbach",
+    "Hofer": 150,
+    "VdB": 165
+  },
+  {
+    "name": "Breitenwang",
+    "Hofer": 213,
+    "VdB": 320
+  },
+  {
+    "name": "Ehenbichl",
+    "Hofer": 172,
+    "VdB": 207
+  },
+  {
+    "name": "Ehrwald",
+    "Hofer": 470,
+    "VdB": 487
+  },
+  {
+    "name": "Elbigenalp",
+    "Hofer": 188,
+    "VdB": 180
+  },
+  {
+    "name": "Elmen",
+    "Hofer": 66,
+    "VdB": 107
+  },
+  {
+    "name": "Forchach",
+    "Hofer": 82,
+    "VdB": 53
+  },
+  {
+    "name": "Grän",
+    "Hofer": 79,
+    "VdB": 122
+  },
+  {
+    "name": "Gramais",
+    "Hofer": 9,
+    "VdB": 9
+  },
+  {
+    "name": "Häselgehr",
+    "Hofer": 137,
+    "VdB": 146
+  },
+  {
+    "name": "Heiterwang",
+    "Hofer": 119,
+    "VdB": 86
+  },
+  {
+    "name": "Hinterhornbach",
+    "Hofer": 29,
+    "VdB": 12
+  },
+  {
+    "name": "Höfen",
+    "Hofer": 229,
+    "VdB": 237
+  },
+  {
+    "name": "Holzgau",
+    "Hofer": 108,
+    "VdB": 76
+  },
+  {
+    "name": "Jungholz",
+    "Hofer": 23,
+    "VdB": 33
+  },
+  {
+    "name": "Kaisers",
+    "Hofer": 14,
+    "VdB": 18
+  },
+  {
+    "name": "Lechaschau",
+    "Hofer": 315,
+    "VdB": 397
+  },
+  {
+    "name": "Lermoos",
+    "Hofer": 200,
+    "VdB": 220
+  },
+  {
+    "name": "Musau",
+    "Hofer": 58,
+    "VdB": 72
+  },
+  {
+    "name": "Namlos",
+    "Hofer": 14,
+    "VdB": 15
+  },
+  {
+    "name": "Nesselwängle",
+    "Hofer": 90,
+    "VdB": 84
+  },
+  {
+    "name": "Pfafflar",
+    "Hofer": 9,
+    "VdB": 34
+  },
+  {
+    "name": "Pflach",
+    "Hofer": 229,
+    "VdB": 223
+  },
+  {
+    "name": "Pinswang",
+    "Hofer": 65,
+    "VdB": 85
+  },
+  {
+    "name": "Reutte",
+    "Hofer": 856,
+    "VdB": 1162
+  },
+  {
+    "name": "Schattwald",
+    "Hofer": 34,
+    "VdB": 106
+  },
+  {
+    "name": "Stanzach",
+    "Hofer": 75,
+    "VdB": 104
+  },
+  {
+    "name": "Steeg",
+    "Hofer": 175,
+    "VdB": 101
+  },
+  {
+    "name": "Tannheim",
+    "Hofer": 165,
+    "VdB": 172
+  },
+  {
+    "name": "Vils",
+    "Hofer": 265,
+    "VdB": 292
+  },
+  {
+    "name": "Vorderhornbach",
+    "Hofer": 48,
+    "VdB": 88
+  },
+  {
+    "name": "Wängle",
+    "Hofer": 180,
+    "VdB": 208
+  },
+  {
+    "name": "Weißenbach am Lech",
+    "Hofer": 327,
+    "VdB": 225
+  },
+  {
+    "name": "Zöblen",
+    "Hofer": 30,
+    "VdB": 54
+  },
+  {
+    "name": "Achenkirch",
+    "Hofer": 528,
+    "VdB": 296
+  },
+  {
+    "name": "Aschau im Zillertal",
+    "Hofer": 418,
+    "VdB": 218
+  },
+  {
+    "name": "Brandberg",
+    "Hofer": 79,
+    "VdB": 56
+  },
+  {
+    "name": "Bruck am Ziller",
+    "Hofer": 341,
+    "VdB": 148
+  },
+  {
+    "name": "Buch in Tirol",
+    "Hofer": 684,
+    "VdB": 489
+  },
+  {
+    "name": "Eben am Achensee",
+    "Hofer": 626,
+    "VdB": 490
+  },
+  {
+    "name": "Finkenberg",
+    "Hofer": 290,
+    "VdB": 267
+  },
+  {
+    "name": "Fügen",
+    "Hofer": 848,
+    "VdB": 435
+  },
+  {
+    "name": "Fügenberg",
+    "Hofer": 335,
+    "VdB": 145
+  },
+  {
+    "name": "Gallzein",
+    "Hofer": 188,
+    "VdB": 94
+  },
+  {
+    "name": "Gerlos",
+    "Hofer": 190,
+    "VdB": 115
+  },
+  {
+    "name": "Gerlosberg",
+    "Hofer": 169,
+    "VdB": 33
+  },
+  {
+    "name": "Hainzenberg",
+    "Hofer": 166,
+    "VdB": 102
+  },
+  {
+    "name": "Hart im Zillertal",
+    "Hofer": 411,
+    "VdB": 193
+  },
+  {
+    "name": "Hippach",
+    "Hofer": 266,
+    "VdB": 124
+  },
+  {
+    "name": "Jenbach",
+    "Hofer": 1498,
+    "VdB": 1070
+  },
+  {
+    "name": "Kaltenbach",
+    "Hofer": 247,
+    "VdB": 161
+  },
+  {
+    "name": "Mayrhofen",
+    "Hofer": 550,
+    "VdB": 592
+  },
+  {
+    "name": "Pill",
+    "Hofer": 339,
+    "VdB": 190
+  },
+  {
+    "name": "Ramsau im Zillertal",
+    "Hofer": 377,
+    "VdB": 203
+  },
+  {
+    "name": "Ried im Zillertal",
+    "Hofer": 224,
+    "VdB": 208
+  },
+  {
+    "name": "Rohrberg",
+    "Hofer": 164,
+    "VdB": 66
+  },
+  {
+    "name": "Schlitters",
+    "Hofer": 343,
+    "VdB": 221
+  },
+  {
+    "name": "Schwaz",
+    "Hofer": 2773,
+    "VdB": 2574
+  },
+  {
+    "name": "Schwendau",
+    "Hofer": 362,
+    "VdB": 234
+  },
+  {
+    "name": "Stans",
+    "Hofer": 536,
+    "VdB": 434
+  },
+  {
+    "name": "Steinberg am Rofan",
+    "Hofer": 69,
+    "VdB": 47
+  },
+  {
+    "name": "Strass im Zillertal",
+    "Hofer": 201,
+    "VdB": 191
+  },
+  {
+    "name": "Stumm",
+    "Hofer": 391,
+    "VdB": 284
+  },
+  {
+    "name": "Stummerberg",
+    "Hofer": 213,
+    "VdB": 62
+  },
+  {
+    "name": "Terfens",
+    "Hofer": 547,
+    "VdB": 458
+  },
+  {
+    "name": "Tux",
+    "Hofer": 397,
+    "VdB": 295
+  },
+  {
+    "name": "Uderns",
+    "Hofer": 403,
+    "VdB": 237
+  },
+  {
+    "name": "Vomp",
+    "Hofer": 1216,
+    "VdB": 896
+  },
+  {
+    "name": "Weer",
+    "Hofer": 386,
+    "VdB": 309
+  },
+  {
+    "name": "Weerberg",
+    "Hofer": 640,
+    "VdB": 370
+  },
+  {
+    "name": "Wiesing",
+    "Hofer": 550,
+    "VdB": 384
+  },
+  {
+    "name": "Zell am Ziller",
+    "Hofer": 394,
+    "VdB": 275
+  },
+  {
+    "name": "Zellberg",
+    "Hofer": 207,
+    "VdB": 71
+  }
+]

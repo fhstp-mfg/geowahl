@@ -1,0 +1,857 @@
+[
+  {
+    "name": "Eisenstadt",
+    "Hofer": 3475,
+    "VdB": 3304
+  },
+  {
+    "name": "Rust",
+    "Hofer": 622,
+    "VdB": 399
+  },
+  {
+    "name": "Breitenbrunn am Neusiedler See",
+    "Hofer": 588,
+    "VdB": 445
+  },
+  {
+    "name": "Donnerskirchen",
+    "Hofer": 654,
+    "VdB": 312
+  },
+  {
+    "name": "Großhöflein",
+    "Hofer": 690,
+    "VdB": 411
+  },
+  {
+    "name": "Hornstein",
+    "Hofer": 762,
+    "VdB": 664
+  },
+  {
+    "name": "Klingenbach",
+    "Hofer": 338,
+    "VdB": 218
+  },
+  {
+    "name": "Leithaprodersdorf",
+    "Hofer": 400,
+    "VdB": 300
+  },
+  {
+    "name": "Mörbisch am See",
+    "Hofer": 807,
+    "VdB": 441
+  },
+  {
+    "name": "Müllendorf",
+    "Hofer": 426,
+    "VdB": 354
+  },
+  {
+    "name": "Neufeld an der Leitha",
+    "Hofer": 997,
+    "VdB": 823
+  },
+  {
+    "name": "Oggau am Neusiedler See",
+    "Hofer": 732,
+    "VdB": 357
+  },
+  {
+    "name": "Oslip",
+    "Hofer": 363,
+    "VdB": 342
+  },
+  {
+    "name": "Purbach am Neusiedler See",
+    "Hofer": 959,
+    "VdB": 592
+  },
+  {
+    "name": "Sankt Margarethen im Burgenland",
+    "Hofer": 1021,
+    "VdB": 543
+  },
+  {
+    "name": "Schützen am Gebirge",
+    "Hofer": 456,
+    "VdB": 271
+  },
+  {
+    "name": "Siegendorf",
+    "Hofer": 777,
+    "VdB": 722
+  },
+  {
+    "name": "Steinbrunn",
+    "Hofer": 730,
+    "VdB": 652
+  },
+  {
+    "name": "Trausdorf an der Wulka",
+    "Hofer": 618,
+    "VdB": 541
+  },
+  {
+    "name": "Wimpassing an der Leitha",
+    "Hofer": 490,
+    "VdB": 285
+  },
+  {
+    "name": "Wulkaprodersdorf",
+    "Hofer": 506,
+    "VdB": 527
+  },
+  {
+    "name": "Loretto",
+    "Hofer": 156,
+    "VdB": 103
+  },
+  {
+    "name": "Stotzing",
+    "Hofer": 276,
+    "VdB": 135
+  },
+  {
+    "name": "Zillingtal",
+    "Hofer": 253,
+    "VdB": 220
+  },
+  {
+    "name": "Zagersdorf",
+    "Hofer": 290,
+    "VdB": 278
+  },
+  {
+    "name": "Bocksdorf",
+    "Hofer": 343,
+    "VdB": 128
+  },
+  {
+    "name": "Burgauberg-Neudauberg",
+    "Hofer": 524,
+    "VdB": 210
+  },
+  {
+    "name": "Eberau",
+    "Hofer": 341,
+    "VdB": 144
+  },
+  {
+    "name": "Gerersdorf-Sulz",
+    "Hofer": 320,
+    "VdB": 209
+  },
+  {
+    "name": "Güssing",
+    "Hofer": 1202,
+    "VdB": 601
+  },
+  {
+    "name": "Güttenbach",
+    "Hofer": 222,
+    "VdB": 221
+  },
+  {
+    "name": "Heiligenbrunn",
+    "Hofer": 307,
+    "VdB": 110
+  },
+  {
+    "name": "Kukmirn",
+    "Hofer": 795,
+    "VdB": 310
+  },
+  {
+    "name": "Neuberg im Burgenland",
+    "Hofer": 363,
+    "VdB": 167
+  },
+  {
+    "name": "Neustift bei Güssing",
+    "Hofer": 210,
+    "VdB": 71
+  },
+  {
+    "name": "Olbendorf",
+    "Hofer": 596,
+    "VdB": 208
+  },
+  {
+    "name": "Ollersdorf im Burgenland",
+    "Hofer": 360,
+    "VdB": 217
+  },
+  {
+    "name": "Sankt Michael im Burgenland",
+    "Hofer": 391,
+    "VdB": 145
+  },
+  {
+    "name": "Stegersbach",
+    "Hofer": 826,
+    "VdB": 487
+  },
+  {
+    "name": "Stinatz",
+    "Hofer": 236,
+    "VdB": 427
+  },
+  {
+    "name": "Strem",
+    "Hofer": 360,
+    "VdB": 116
+  },
+  {
+    "name": "Tobaj",
+    "Hofer": 536,
+    "VdB": 194
+  },
+  {
+    "name": "Hackerberg",
+    "Hofer": 121,
+    "VdB": 47
+  },
+  {
+    "name": "Wörterberg",
+    "Hofer": 162,
+    "VdB": 110
+  },
+  {
+    "name": "Großmürbisch",
+    "Hofer": 76,
+    "VdB": 52
+  },
+  {
+    "name": "Inzenhof",
+    "Hofer": 143,
+    "VdB": 42
+  },
+  {
+    "name": "Kleinmürbisch",
+    "Hofer": 109,
+    "VdB": 38
+  },
+  {
+    "name": "Tschanigraben",
+    "Hofer": 16,
+    "VdB": 12
+  },
+  {
+    "name": "Heugraben",
+    "Hofer": 97,
+    "VdB": 29
+  },
+  {
+    "name": "Rohr im Burgenland",
+    "Hofer": 162,
+    "VdB": 61
+  },
+  {
+    "name": "Bildein",
+    "Hofer": 131,
+    "VdB": 68
+  },
+  {
+    "name": "Rauchwart",
+    "Hofer": 186,
+    "VdB": 91
+  },
+  {
+    "name": "Moschendorf",
+    "Hofer": 171,
+    "VdB": 65
+  },
+  {
+    "name": "Deutsch Kaltenbrunn",
+    "Hofer": 605,
+    "VdB": 300
+  },
+  {
+    "name": "Eltendorf",
+    "Hofer": 365,
+    "VdB": 137
+  },
+  {
+    "name": "Heiligenkreuz im Lafnitztal",
+    "Hofer": 495,
+    "VdB": 141
+  },
+  {
+    "name": "Jennersdorf",
+    "Hofer": 1571,
+    "VdB": 568
+  },
+  {
+    "name": "Minihof-Liebau",
+    "Hofer": 449,
+    "VdB": 170
+  },
+  {
+    "name": "Mogersdorf",
+    "Hofer": 447,
+    "VdB": 188
+  },
+  {
+    "name": "Neuhaus am Klausenbach",
+    "Hofer": 348,
+    "VdB": 128
+  },
+  {
+    "name": "Rudersdorf",
+    "Hofer": 750,
+    "VdB": 422
+  },
+  {
+    "name": "Sankt Martin an der Raab",
+    "Hofer": 796,
+    "VdB": 349
+  },
+  {
+    "name": "Weichselbaum",
+    "Hofer": 285,
+    "VdB": 96
+  },
+  {
+    "name": "Königsdorf",
+    "Hofer": 324,
+    "VdB": 104
+  },
+  {
+    "name": "Mühlgraben",
+    "Hofer": 140,
+    "VdB": 67
+  },
+  {
+    "name": "Draßburg",
+    "Hofer": 294,
+    "VdB": 321
+  },
+  {
+    "name": "Forchtenstein",
+    "Hofer": 984,
+    "VdB": 587
+  },
+  {
+    "name": "Hirm",
+    "Hofer": 257,
+    "VdB": 270
+  },
+  {
+    "name": "Loipersbach im Burgenland",
+    "Hofer": 418,
+    "VdB": 248
+  },
+  {
+    "name": "Marz",
+    "Hofer": 645,
+    "VdB": 480
+  },
+  {
+    "name": "Mattersburg",
+    "Hofer": 1976,
+    "VdB": 1629
+  },
+  {
+    "name": "Neudörfl",
+    "Hofer": 1238,
+    "VdB": 976
+  },
+  {
+    "name": "Pöttelsdorf",
+    "Hofer": 213,
+    "VdB": 158
+  },
+  {
+    "name": "Pöttsching",
+    "Hofer": 808,
+    "VdB": 798
+  },
+  {
+    "name": "Rohrbach bei Mattersburg",
+    "Hofer": 861,
+    "VdB": 608
+  },
+  {
+    "name": "Bad Sauerbrunn",
+    "Hofer": 597,
+    "VdB": 510
+  },
+  {
+    "name": "Schattendorf",
+    "Hofer": 717,
+    "VdB": 556
+  },
+  {
+    "name": "Sieggraben",
+    "Hofer": 522,
+    "VdB": 161
+  },
+  {
+    "name": "Sigleß",
+    "Hofer": 331,
+    "VdB": 361
+  },
+  {
+    "name": "Wiesen",
+    "Hofer": 994,
+    "VdB": 544
+  },
+  {
+    "name": "Antau",
+    "Hofer": 265,
+    "VdB": 153
+  },
+  {
+    "name": "Baumgarten",
+    "Hofer": 191,
+    "VdB": 292
+  },
+  {
+    "name": "Zemendorf-Stöttera",
+    "Hofer": 342,
+    "VdB": 302
+  },
+  {
+    "name": "Krensdorf",
+    "Hofer": 189,
+    "VdB": 150
+  },
+  {
+    "name": "Andau",
+    "Hofer": 1024,
+    "VdB": 363
+  },
+  {
+    "name": "Apetlon",
+    "Hofer": 729,
+    "VdB": 250
+  },
+  {
+    "name": "Bruckneudorf",
+    "Hofer": 941,
+    "VdB": 649
+  },
+  {
+    "name": "Deutsch Jahrndorf",
+    "Hofer": 234,
+    "VdB": 99
+  },
+  {
+    "name": "Frauenkirchen",
+    "Hofer": 964,
+    "VdB": 515
+  },
+  {
+    "name": "Gattendorf",
+    "Hofer": 434,
+    "VdB": 224
+  },
+  {
+    "name": "Gols",
+    "Hofer": 1339,
+    "VdB": 779
+  },
+  {
+    "name": "Halbturn",
+    "Hofer": 714,
+    "VdB": 397
+  },
+  {
+    "name": "Illmitz",
+    "Hofer": 835,
+    "VdB": 503
+  },
+  {
+    "name": "Jois",
+    "Hofer": 539,
+    "VdB": 287
+  },
+  {
+    "name": "Kittsee",
+    "Hofer": 625,
+    "VdB": 340
+  },
+  {
+    "name": "Mönchhof",
+    "Hofer": 822,
+    "VdB": 379
+  },
+  {
+    "name": "Neusiedl am See",
+    "Hofer": 1875,
+    "VdB": 1809
+  },
+  {
+    "name": "Nickelsdorf",
+    "Hofer": 586,
+    "VdB": 316
+  },
+  {
+    "name": "Pama",
+    "Hofer": 359,
+    "VdB": 242
+  },
+  {
+    "name": "Pamhagen",
+    "Hofer": 553,
+    "VdB": 236
+  },
+  {
+    "name": "Parndorf",
+    "Hofer": 1240,
+    "VdB": 726
+  },
+  {
+    "name": "Podersdorf am See",
+    "Hofer": 658,
+    "VdB": 473
+  },
+  {
+    "name": "Sankt Andrä am Zicksee",
+    "Hofer": 568,
+    "VdB": 263
+  },
+  {
+    "name": "Tadten",
+    "Hofer": 398,
+    "VdB": 261
+  },
+  {
+    "name": "Wallern im Burgenland",
+    "Hofer": 656,
+    "VdB": 281
+  },
+  {
+    "name": "Weiden am See",
+    "Hofer": 861,
+    "VdB": 537
+  },
+  {
+    "name": "Winden am See",
+    "Hofer": 452,
+    "VdB": 276
+  },
+  {
+    "name": "Zurndorf",
+    "Hofer": 838,
+    "VdB": 416
+  },
+  {
+    "name": "Neudorf",
+    "Hofer": 252,
+    "VdB": 153
+  },
+  {
+    "name": "Potzneusiedl",
+    "Hofer": 199,
+    "VdB": 91
+  },
+  {
+    "name": "Edelstal",
+    "Hofer": 248,
+    "VdB": 90
+  },
+  {
+    "name": "Deutschkreutz",
+    "Hofer": 990,
+    "VdB": 616
+  },
+  {
+    "name": "Draßmarkt",
+    "Hofer": 418,
+    "VdB": 358
+  },
+  {
+    "name": "Frankenau-Unterpullendorf",
+    "Hofer": 355,
+    "VdB": 272
+  },
+  {
+    "name": "Großwarasdorf",
+    "Hofer": 419,
+    "VdB": 355
+  },
+  {
+    "name": "Horitschon",
+    "Hofer": 661,
+    "VdB": 348
+  },
+  {
+    "name": "Kaisersdorf",
+    "Hofer": 218,
+    "VdB": 126
+  },
+  {
+    "name": "Kobersdorf",
+    "Hofer": 700,
+    "VdB": 419
+  },
+  {
+    "name": "Lackenbach",
+    "Hofer": 380,
+    "VdB": 174
+  },
+  {
+    "name": "Lockenhaus",
+    "Hofer": 716,
+    "VdB": 383
+  },
+  {
+    "name": "Lutzmannsburg",
+    "Hofer": 337,
+    "VdB": 171
+  },
+  {
+    "name": "Mannersdorf an der Rabnitz",
+    "Hofer": 720,
+    "VdB": 326
+  },
+  {
+    "name": "Markt Sankt Martin",
+    "Hofer": 401,
+    "VdB": 284
+  },
+  {
+    "name": "Neckenmarkt",
+    "Hofer": 614,
+    "VdB": 302
+  },
+  {
+    "name": "Neutal",
+    "Hofer": 355,
+    "VdB": 289
+  },
+  {
+    "name": "Nikitsch",
+    "Hofer": 385,
+    "VdB": 361
+  },
+  {
+    "name": "Oberpullendorf",
+    "Hofer": 776,
+    "VdB": 619
+  },
+  {
+    "name": "Pilgersdorf",
+    "Hofer": 629,
+    "VdB": 312
+  },
+  {
+    "name": "Piringsdorf",
+    "Hofer": 281,
+    "VdB": 191
+  },
+  {
+    "name": "Raiding",
+    "Hofer": 266,
+    "VdB": 145
+  },
+  {
+    "name": "Ritzing",
+    "Hofer": 303,
+    "VdB": 212
+  },
+  {
+    "name": "Steinberg-Dörfl",
+    "Hofer": 426,
+    "VdB": 320
+  },
+  {
+    "name": "Stoob",
+    "Hofer": 504,
+    "VdB": 313
+  },
+  {
+    "name": "Weppersdorf",
+    "Hofer": 660,
+    "VdB": 362
+  },
+  {
+    "name": "Lackendorf",
+    "Hofer": 187,
+    "VdB": 110
+  },
+  {
+    "name": "Unterfrauenhaid",
+    "Hofer": 255,
+    "VdB": 76
+  },
+  {
+    "name": "Unterrabnitz-Schwendgraben",
+    "Hofer": 253,
+    "VdB": 113
+  },
+  {
+    "name": "Weingraben",
+    "Hofer": 125,
+    "VdB": 81
+  },
+  {
+    "name": "Oberloisdorf",
+    "Hofer": 323,
+    "VdB": 151
+  },
+  {
+    "name": "Bad Tatzmannsdorf",
+    "Hofer": 508,
+    "VdB": 313
+  },
+  {
+    "name": "Bernstein",
+    "Hofer": 846,
+    "VdB": 346
+  },
+  {
+    "name": "Deutsch Schützen-Eisenberg",
+    "Hofer": 469,
+    "VdB": 222
+  },
+  {
+    "name": "Grafenschachen",
+    "Hofer": 652,
+    "VdB": 138
+  },
+  {
+    "name": "Großpetersdorf",
+    "Hofer": 1108,
+    "VdB": 666
+  },
+  {
+    "name": "Hannersdorf",
+    "Hofer": 264,
+    "VdB": 151
+  },
+  {
+    "name": "Kemeten",
+    "Hofer": 606,
+    "VdB": 210
+  },
+  {
+    "name": "Kohfidisch",
+    "Hofer": 634,
+    "VdB": 219
+  },
+  {
+    "name": "Litzelsdorf",
+    "Hofer": 469,
+    "VdB": 198
+  },
+  {
+    "name": "Loipersdorf-Kitzladen",
+    "Hofer": 629,
+    "VdB": 150
+  },
+  {
+    "name": "Mariasdorf",
+    "Hofer": 505,
+    "VdB": 172
+  },
+  {
+    "name": "Markt Allhau",
+    "Hofer": 703,
+    "VdB": 371
+  },
+  {
+    "name": "Markt Neuhodis",
+    "Hofer": 261,
+    "VdB": 105
+  },
+  {
+    "name": "Mischendorf",
+    "Hofer": 660,
+    "VdB": 225
+  },
+  {
+    "name": "Oberdorf im Burgenland",
+    "Hofer": 391,
+    "VdB": 179
+  },
+  {
+    "name": "Oberschützen",
+    "Hofer": 890,
+    "VdB": 450
+  },
+  {
+    "name": "Oberwart",
+    "Hofer": 2068,
+    "VdB": 1334
+  },
+  {
+    "name": "Pinkafeld",
+    "Hofer": 2203,
+    "VdB": 814
+  },
+  {
+    "name": "Rechnitz",
+    "Hofer": 1137,
+    "VdB": 414
+  },
+  {
+    "name": "Riedlingsdorf",
+    "Hofer": 700,
+    "VdB": 236
+  },
+  {
+    "name": "Rotenturm an der Pinka",
+    "Hofer": 550,
+    "VdB": 239
+  },
+  {
+    "name": "Schachendorf",
+    "Hofer": 221,
+    "VdB": 172
+  },
+  {
+    "name": "Stadtschlaining",
+    "Hofer": 770,
+    "VdB": 277
+  },
+  {
+    "name": "Unterkohlstätten",
+    "Hofer": 440,
+    "VdB": 211
+  },
+  {
+    "name": "Unterwart",
+    "Hofer": 343,
+    "VdB": 118
+  },
+  {
+    "name": "Weiden bei Rechnitz",
+    "Hofer": 338,
+    "VdB": 140
+  },
+  {
+    "name": "Wiesfleck",
+    "Hofer": 585,
+    "VdB": 119
+  },
+  {
+    "name": "Wolfau",
+    "Hofer": 567,
+    "VdB": 223
+  },
+  {
+    "name": "Neustift an der Lafnitz",
+    "Hofer": 355,
+    "VdB": 101
+  },
+  {
+    "name": "Jabing",
+    "Hofer": 282,
+    "VdB": 142
+  },
+  {
+    "name": "Badersdorf",
+    "Hofer": 129,
+    "VdB": 36
+  },
+  {
+    "name": "Schandorf",
+    "Hofer": 81,
+    "VdB": 49
+  }
+]

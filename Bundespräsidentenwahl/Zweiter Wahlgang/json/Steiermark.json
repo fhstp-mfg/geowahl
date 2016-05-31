@@ -1,0 +1,1437 @@
+[
+  {
+    "name": "Graz",
+    "Hofer": 41939,
+    "VdB": 68402
+  },
+  {
+    "name": "Frauental an der Laßnitz",
+    "Hofer": 758,
+    "VdB": 515
+  },
+  {
+    "name": "Lannach",
+    "Hofer": 986,
+    "VdB": 547
+  },
+  {
+    "name": "Pölfing-Brunn",
+    "Hofer": 561,
+    "VdB": 246
+  },
+  {
+    "name": "Preding",
+    "Hofer": 509,
+    "VdB": 274
+  },
+  {
+    "name": "Sankt Josef (Weststeiermark)",
+    "Hofer": 471,
+    "VdB": 332
+  },
+  {
+    "name": "Sankt Peter im Sulmtal",
+    "Hofer": 431,
+    "VdB": 198
+  },
+  {
+    "name": "Wettmannstätten",
+    "Hofer": 588,
+    "VdB": 208
+  },
+  {
+    "name": "Deutschlandsberg",
+    "Hofer": 2858,
+    "VdB": 1997
+  },
+  {
+    "name": "Eibiswald",
+    "Hofer": 2341,
+    "VdB": 813
+  },
+  {
+    "name": "Groß Sankt Florian",
+    "Hofer": 1340,
+    "VdB": 674
+  },
+  {
+    "name": "Sankt Martin im Sulmtal",
+    "Hofer": 1206,
+    "VdB": 445
+  },
+  {
+    "name": "Sankt Stefan ob Stainz",
+    "Hofer": 1257,
+    "VdB": 494
+  },
+  {
+    "name": "Schwanberg",
+    "Hofer": 1509,
+    "VdB": 691
+  },
+  {
+    "name": "Stainz",
+    "Hofer": 2648,
+    "VdB": 1416
+  },
+  {
+    "name": "Wies",
+    "Hofer": 1550,
+    "VdB": 558
+  },
+  {
+    "name": "Feldkirchen bei Graz",
+    "Hofer": 1528,
+    "VdB": 990
+  },
+  {
+    "name": "Gössendorf",
+    "Hofer": 1065,
+    "VdB": 639
+  },
+  {
+    "name": "Gratkorn",
+    "Hofer": 2115,
+    "VdB": 1329
+  },
+  {
+    "name": "Hart bei Graz",
+    "Hofer": 1033,
+    "VdB": 1242
+  },
+  {
+    "name": "Haselsdorf-Tobelbad",
+    "Hofer": 390,
+    "VdB": 268
+  },
+  {
+    "name": "Hausmannstätten",
+    "Hofer": 762,
+    "VdB": 717
+  },
+  {
+    "name": "Kainbach bei Graz",
+    "Hofer": 558,
+    "VdB": 619
+  },
+  {
+    "name": "Kalsdorf bei Graz",
+    "Hofer": 1669,
+    "VdB": 937
+  },
+  {
+    "name": "Kumberg",
+    "Hofer": 896,
+    "VdB": 892
+  },
+  {
+    "name": "Laßnitzhöhe",
+    "Hofer": 606,
+    "VdB": 637
+  },
+  {
+    "name": "Lieboch",
+    "Hofer": 1303,
+    "VdB": 911
+  },
+  {
+    "name": "Peggau",
+    "Hofer": 639,
+    "VdB": 344
+  },
+  {
+    "name": "Sankt Bartholomä",
+    "Hofer": 474,
+    "VdB": 236
+  },
+  {
+    "name": "Sankt Oswald bei Plankenwarth",
+    "Hofer": 292,
+    "VdB": 271
+  },
+  {
+    "name": "Sankt Radegund bei Graz",
+    "Hofer": 441,
+    "VdB": 484
+  },
+  {
+    "name": "Semriach",
+    "Hofer": 991,
+    "VdB": 428
+  },
+  {
+    "name": "Stattegg",
+    "Hofer": 563,
+    "VdB": 774
+  },
+  {
+    "name": "Stiwoll",
+    "Hofer": 249,
+    "VdB": 131
+  },
+  {
+    "name": "Thal",
+    "Hofer": 586,
+    "VdB": 546
+  },
+  {
+    "name": "Übelbach",
+    "Hofer": 598,
+    "VdB": 333
+  },
+  {
+    "name": "Vasoldsberg",
+    "Hofer": 1346,
+    "VdB": 788
+  },
+  {
+    "name": "Weinitzen",
+    "Hofer": 618,
+    "VdB": 600
+  },
+  {
+    "name": "Werndorf",
+    "Hofer": 651,
+    "VdB": 408
+  },
+  {
+    "name": "Wundschuh",
+    "Hofer": 486,
+    "VdB": 336
+  },
+  {
+    "name": "Deutschfeistritz",
+    "Hofer": 1225,
+    "VdB": 677
+  },
+  {
+    "name": "Dobl-Zwaring",
+    "Hofer": 1101,
+    "VdB": 541
+  },
+  {
+    "name": "Eggersdorf bei Graz",
+    "Hofer": 1891,
+    "VdB": 1306
+  },
+  {
+    "name": "Fernitz-Mellach",
+    "Hofer": 1393,
+    "VdB": 874
+  },
+  {
+    "name": "Frohnleiten",
+    "Hofer": 1806,
+    "VdB": 1362
+  },
+  {
+    "name": "Gratwein-Straßengel",
+    "Hofer": 3371,
+    "VdB": 2942
+  },
+  {
+    "name": "Hitzendorf",
+    "Hofer": 2143,
+    "VdB": 1341
+  },
+  {
+    "name": "Nestelbach bei Graz",
+    "Hofer": 752,
+    "VdB": 496
+  },
+  {
+    "name": "Raaba-Grambach",
+    "Hofer": 1042,
+    "VdB": 926
+  },
+  {
+    "name": "Sankt Marein bei Graz",
+    "Hofer": 1097,
+    "VdB": 677
+  },
+  {
+    "name": "Seiersberg-Pirka",
+    "Hofer": 2794,
+    "VdB": 2201
+  },
+  {
+    "name": "Premstätten",
+    "Hofer": 1620,
+    "VdB": 932
+  },
+  {
+    "name": "Allerheiligen bei Wildon",
+    "Hofer": 429,
+    "VdB": 256
+  },
+  {
+    "name": "Arnfels",
+    "Hofer": 332,
+    "VdB": 124
+  },
+  {
+    "name": "Empersdorf",
+    "Hofer": 487,
+    "VdB": 217
+  },
+  {
+    "name": "Gabersdorf",
+    "Hofer": 396,
+    "VdB": 144
+  },
+  {
+    "name": "Gralla",
+    "Hofer": 790,
+    "VdB": 311
+  },
+  {
+    "name": "Großklein",
+    "Hofer": 873,
+    "VdB": 322
+  },
+  {
+    "name": "Heimschuh",
+    "Hofer": 716,
+    "VdB": 285
+  },
+  {
+    "name": "Hengsberg",
+    "Hofer": 449,
+    "VdB": 226
+  },
+  {
+    "name": "Kitzeck im Sausal",
+    "Hofer": 407,
+    "VdB": 200
+  },
+  {
+    "name": "Lang",
+    "Hofer": 414,
+    "VdB": 226
+  },
+  {
+    "name": "Lebring-Sankt Margarethen",
+    "Hofer": 587,
+    "VdB": 382
+  },
+  {
+    "name": "Oberhaag",
+    "Hofer": 843,
+    "VdB": 202
+  },
+  {
+    "name": "Ragnitz",
+    "Hofer": 523,
+    "VdB": 202
+  },
+  {
+    "name": "Sankt Andrä-Höch",
+    "Hofer": 702,
+    "VdB": 227
+  },
+  {
+    "name": "Sankt Johann im Saggautal",
+    "Hofer": 742,
+    "VdB": 216
+  },
+  {
+    "name": "Sankt Nikolai im Sausal",
+    "Hofer": 728,
+    "VdB": 315
+  },
+  {
+    "name": "Tillmitsch",
+    "Hofer": 1135,
+    "VdB": 473
+  },
+  {
+    "name": "Wagna",
+    "Hofer": 1558,
+    "VdB": 869
+  },
+  {
+    "name": "Ehrenhausen an der Weinstraße",
+    "Hofer": 800,
+    "VdB": 317
+  },
+  {
+    "name": "Gamlitz",
+    "Hofer": 1116,
+    "VdB": 341
+  },
+  {
+    "name": "Gleinstätten",
+    "Hofer": 987,
+    "VdB": 377
+  },
+  {
+    "name": "Heiligenkreuz am Waasen",
+    "Hofer": 952,
+    "VdB": 402
+  },
+  {
+    "name": "Leibnitz",
+    "Hofer": 3236,
+    "VdB": 2019
+  },
+  {
+    "name": "Leutschach an der Weinstraße",
+    "Hofer": 1394,
+    "VdB": 360
+  },
+  {
+    "name": "Sankt Georgen an der Stiefing",
+    "Hofer": 406,
+    "VdB": 268
+  },
+  {
+    "name": "Sankt Veit in der Südsteiermark",
+    "Hofer": 1431,
+    "VdB": 494
+  },
+  {
+    "name": "Schwarzautal",
+    "Hofer": 842,
+    "VdB": 303
+  },
+  {
+    "name": "Straß in Steiermark",
+    "Hofer": 1394,
+    "VdB": 631
+  },
+  {
+    "name": "Wildon",
+    "Hofer": 1453,
+    "VdB": 891
+  },
+  {
+    "name": "Eisenerz",
+    "Hofer": 1189,
+    "VdB": 962
+  },
+  {
+    "name": "Kalwang",
+    "Hofer": 304,
+    "VdB": 183
+  },
+  {
+    "name": "Kammern im Liesingtal",
+    "Hofer": 514,
+    "VdB": 254
+  },
+  {
+    "name": "Kraubath an der Mur",
+    "Hofer": 400,
+    "VdB": 234
+  },
+  {
+    "name": "Leoben",
+    "Hofer": 6021,
+    "VdB": 4239
+  },
+  {
+    "name": "Mautern in Steiermark",
+    "Hofer": 545,
+    "VdB": 298
+  },
+  {
+    "name": "Niklasdorf",
+    "Hofer": 763,
+    "VdB": 459
+  },
+  {
+    "name": "Proleb",
+    "Hofer": 420,
+    "VdB": 355
+  },
+  {
+    "name": "Radmer",
+    "Hofer": 159,
+    "VdB": 129
+  },
+  {
+    "name": "Sankt Michael in Obersteiermark",
+    "Hofer": 943,
+    "VdB": 514
+  },
+  {
+    "name": "Sankt Peter-Freienstein",
+    "Hofer": 727,
+    "VdB": 358
+  },
+  {
+    "name": "Sankt Stefan ob Leoben",
+    "Hofer": 682,
+    "VdB": 349
+  },
+  {
+    "name": "Traboch",
+    "Hofer": 502,
+    "VdB": 208
+  },
+  {
+    "name": "Vordernberg",
+    "Hofer": 288,
+    "VdB": 212
+  },
+  {
+    "name": "Wald am Schoberpaß",
+    "Hofer": 190,
+    "VdB": 89
+  },
+  {
+    "name": "Trofaiach",
+    "Hofer": 3417,
+    "VdB": 2180
+  },
+  {
+    "name": "Aigen im Ennstal",
+    "Hofer": 866,
+    "VdB": 408
+  },
+  {
+    "name": "Altaussee",
+    "Hofer": 286,
+    "VdB": 449
+  },
+  {
+    "name": "Altenmarkt bei Sankt Gallen",
+    "Hofer": 191,
+    "VdB": 171
+  },
+  {
+    "name": "Ardning",
+    "Hofer": 421,
+    "VdB": 199
+  },
+  {
+    "name": "Bad Aussee",
+    "Hofer": 796,
+    "VdB": 986
+  },
+  {
+    "name": "Gröbming",
+    "Hofer": 697,
+    "VdB": 367
+  },
+  {
+    "name": "Grundlsee",
+    "Hofer": 250,
+    "VdB": 270
+  },
+  {
+    "name": "Haus",
+    "Hofer": 652,
+    "VdB": 324
+  },
+  {
+    "name": "Lassing",
+    "Hofer": 525,
+    "VdB": 275
+  },
+  {
+    "name": "Ramsau am Dachstein",
+    "Hofer": 737,
+    "VdB": 402
+  },
+  {
+    "name": "Selzthal",
+    "Hofer": 384,
+    "VdB": 381
+  },
+  {
+    "name": "Trieben",
+    "Hofer": 912,
+    "VdB": 541
+  },
+  {
+    "name": "Wildalpen",
+    "Hofer": 136,
+    "VdB": 151
+  },
+  {
+    "name": "Wörschach",
+    "Hofer": 318,
+    "VdB": 235
+  },
+  {
+    "name": "Admont",
+    "Hofer": 1306,
+    "VdB": 784
+  },
+  {
+    "name": "Aich",
+    "Hofer": 348,
+    "VdB": 181
+  },
+  {
+    "name": "Bad Mitterndorf",
+    "Hofer": 1252,
+    "VdB": 698
+  },
+  {
+    "name": "Gaishorn am See",
+    "Hofer": 398,
+    "VdB": 230
+  },
+  {
+    "name": "Irdning-Donnersbachtal",
+    "Hofer": 1267,
+    "VdB": 579
+  },
+  {
+    "name": "Landl",
+    "Hofer": 788,
+    "VdB": 601
+  },
+  {
+    "name": "Liezen",
+    "Hofer": 1926,
+    "VdB": 1325
+  },
+  {
+    "name": "Michaelerberg-Pruggern",
+    "Hofer": 330,
+    "VdB": 153
+  },
+  {
+    "name": "Mitterberg-Sankt Martin",
+    "Hofer": 581,
+    "VdB": 298
+  },
+  {
+    "name": "Öblarn",
+    "Hofer": 550,
+    "VdB": 318
+  },
+  {
+    "name": "Rottenmann",
+    "Hofer": 1426,
+    "VdB": 1001
+  },
+  {
+    "name": "Sankt Gallen",
+    "Hofer": 498,
+    "VdB": 389
+  },
+  {
+    "name": "Schladming",
+    "Hofer": 1669,
+    "VdB": 910
+  },
+  {
+    "name": "Sölk",
+    "Hofer": 507,
+    "VdB": 172
+  },
+  {
+    "name": "Stainach-Pürgg",
+    "Hofer": 670,
+    "VdB": 464
+  },
+  {
+    "name": "Mühlen",
+    "Hofer": 293,
+    "VdB": 205
+  },
+  {
+    "name": "Niederwölz",
+    "Hofer": 214,
+    "VdB": 73
+  },
+  {
+    "name": "St. Peter am Kammersberg",
+    "Hofer": 592,
+    "VdB": 309
+  },
+  {
+    "name": "Schöder",
+    "Hofer": 293,
+    "VdB": 179
+  },
+  {
+    "name": "Krakau",
+    "Hofer": 433,
+    "VdB": 153
+  },
+  {
+    "name": "Murau",
+    "Hofer": 913,
+    "VdB": 628
+  },
+  {
+    "name": "Neumarkt in Steiermark",
+    "Hofer": 1495,
+    "VdB": 868
+  },
+  {
+    "name": "Oberwölz",
+    "Hofer": 917,
+    "VdB": 457
+  },
+  {
+    "name": "Ranten",
+    "Hofer": 457,
+    "VdB": 165
+  },
+  {
+    "name": "Sankt Georgen am Kreischberg",
+    "Hofer": 488,
+    "VdB": 254
+  },
+  {
+    "name": "Sankt Lambrecht",
+    "Hofer": 592,
+    "VdB": 354
+  },
+  {
+    "name": "Scheifling",
+    "Hofer": 645,
+    "VdB": 297
+  },
+  {
+    "name": "Stadl-Predlitz",
+    "Hofer": 579,
+    "VdB": 232
+  },
+  {
+    "name": "Teufenbach-Katsch",
+    "Hofer": 645,
+    "VdB": 266
+  },
+  {
+    "name": "Krottendorf-Gaisfeld",
+    "Hofer": 829,
+    "VdB": 394
+  },
+  {
+    "name": "Ligist",
+    "Hofer": 1086,
+    "VdB": 552
+  },
+  {
+    "name": "Mooskirchen",
+    "Hofer": 731,
+    "VdB": 341
+  },
+  {
+    "name": "Rosental an der Kainach",
+    "Hofer": 538,
+    "VdB": 273
+  },
+  {
+    "name": "Sankt Martin am Wöllmißberg",
+    "Hofer": 320,
+    "VdB": 96
+  },
+  {
+    "name": "Stallhofen",
+    "Hofer": 1178,
+    "VdB": 406
+  },
+  {
+    "name": "Voitsberg",
+    "Hofer": 2969,
+    "VdB": 1606
+  },
+  {
+    "name": "Bärnbach",
+    "Hofer": 1748,
+    "VdB": 958
+  },
+  {
+    "name": "Edelschrott",
+    "Hofer": 636,
+    "VdB": 219
+  },
+  {
+    "name": "Geistthal-Södingberg",
+    "Hofer": 628,
+    "VdB": 166
+  },
+  {
+    "name": "Hirschegg-Pack",
+    "Hofer": 361,
+    "VdB": 148
+  },
+  {
+    "name": "Kainach bei Voitsberg",
+    "Hofer": 613,
+    "VdB": 232
+  },
+  {
+    "name": "Köflach",
+    "Hofer": 3444,
+    "VdB": 1772
+  },
+  {
+    "name": "Maria Lankowitz",
+    "Hofer": 970,
+    "VdB": 521
+  },
+  {
+    "name": "Söding-Sankt Johann",
+    "Hofer": 1241,
+    "VdB": 655
+  },
+  {
+    "name": "Albersdorf-Prebuch",
+    "Hofer": 656,
+    "VdB": 373
+  },
+  {
+    "name": "Fischbach",
+    "Hofer": 518,
+    "VdB": 235
+  },
+  {
+    "name": "Floing",
+    "Hofer": 417,
+    "VdB": 218
+  },
+  {
+    "name": "Gasen",
+    "Hofer": 262,
+    "VdB": 211
+  },
+  {
+    "name": "Markt Hartmannsdorf",
+    "Hofer": 983,
+    "VdB": 500
+  },
+  {
+    "name": "Hofstätten an der Raab",
+    "Hofer": 658,
+    "VdB": 397
+  },
+  {
+    "name": "Ludersdorf-Wilfersdorf",
+    "Hofer": 649,
+    "VdB": 413
+  },
+  {
+    "name": "Miesenbach bei Birkfeld",
+    "Hofer": 301,
+    "VdB": 117
+  },
+  {
+    "name": "Mitterdorf an der Raab",
+    "Hofer": 611,
+    "VdB": 433
+  },
+  {
+    "name": "Mortantsch",
+    "Hofer": 564,
+    "VdB": 504
+  },
+  {
+    "name": "Naas",
+    "Hofer": 467,
+    "VdB": 244
+  },
+  {
+    "name": "Puch bei Weiz",
+    "Hofer": 666,
+    "VdB": 369
+  },
+  {
+    "name": "Ratten",
+    "Hofer": 339,
+    "VdB": 228
+  },
+  {
+    "name": "Rettenegg",
+    "Hofer": 218,
+    "VdB": 161
+  },
+  {
+    "name": "St. Kathrein am Hauenstein",
+    "Hofer": 264,
+    "VdB": 120
+  },
+  {
+    "name": "Sankt Kathrein am Offenegg",
+    "Hofer": 360,
+    "VdB": 211
+  },
+  {
+    "name": "St. Margarethen an der Raab",
+    "Hofer": 1257,
+    "VdB": 704
+  },
+  {
+    "name": "Sinabelkirchen",
+    "Hofer": 1557,
+    "VdB": 552
+  },
+  {
+    "name": "Strallegg",
+    "Hofer": 799,
+    "VdB": 260
+  },
+  {
+    "name": "Thannhausen",
+    "Hofer": 698,
+    "VdB": 505
+  },
+  {
+    "name": "Anger",
+    "Hofer": 1283,
+    "VdB": 856
+  },
+  {
+    "name": "Birkfeld",
+    "Hofer": 1704,
+    "VdB": 832
+  },
+  {
+    "name": "Fladnitz an der Teichalm",
+    "Hofer": 615,
+    "VdB": 286
+  },
+  {
+    "name": "Gersdorf an der Feistritz",
+    "Hofer": 664,
+    "VdB": 251
+  },
+  {
+    "name": "Gleisdorf",
+    "Hofer": 2571,
+    "VdB": 2084
+  },
+  {
+    "name": "Gutenberg-Stenzengreith",
+    "Hofer": 510,
+    "VdB": 304
+  },
+  {
+    "name": "Ilztal",
+    "Hofer": 737,
+    "VdB": 369
+  },
+  {
+    "name": "Passail",
+    "Hofer": 1413,
+    "VdB": 754
+  },
+  {
+    "name": "Pischelsdorf am Kulm",
+    "Hofer": 1233,
+    "VdB": 540
+  },
+  {
+    "name": "Sankt Ruprecht an der Raab",
+    "Hofer": 1645,
+    "VdB": 846
+  },
+  {
+    "name": "Weiz",
+    "Hofer": 2541,
+    "VdB": 2646
+  },
+  {
+    "name": "Fohnsdorf",
+    "Hofer": 2171,
+    "VdB": 1372
+  },
+  {
+    "name": "Gaal",
+    "Hofer": 408,
+    "VdB": 223
+  },
+  {
+    "name": "Hohentauern",
+    "Hofer": 145,
+    "VdB": 81
+  },
+  {
+    "name": "Kobenz",
+    "Hofer": 464,
+    "VdB": 399
+  },
+  {
+    "name": "Pusterwald",
+    "Hofer": 137,
+    "VdB": 95
+  },
+  {
+    "name": "Sankt Georgen ob Judenburg",
+    "Hofer": 241,
+    "VdB": 155
+  },
+  {
+    "name": "Sankt Peter ob Judenburg",
+    "Hofer": 370,
+    "VdB": 193
+  },
+  {
+    "name": "Seckau",
+    "Hofer": 412,
+    "VdB": 237
+  },
+  {
+    "name": "Unzmarkt-Frauenburg",
+    "Hofer": 408,
+    "VdB": 214
+  },
+  {
+    "name": "Zeltweg",
+    "Hofer": 2010,
+    "VdB": 1088
+  },
+  {
+    "name": "Lobmingtal",
+    "Hofer": 517,
+    "VdB": 318
+  },
+  {
+    "name": "Judenburg",
+    "Hofer": 2649,
+    "VdB": 1594
+  },
+  {
+    "name": "Knittelfeld",
+    "Hofer": 2876,
+    "VdB": 1952
+  },
+  {
+    "name": "Obdach",
+    "Hofer": 1157,
+    "VdB": 521
+  },
+  {
+    "name": "Pöls-Oberkurzheim",
+    "Hofer": 906,
+    "VdB": 491
+  },
+  {
+    "name": "Pölstal",
+    "Hofer": 956,
+    "VdB": 436
+  },
+  {
+    "name": "Sankt Marein-Feistritz",
+    "Hofer": 592,
+    "VdB": 386
+  },
+  {
+    "name": "Sankt Margarethen bei Knittelfeld",
+    "Hofer": 866,
+    "VdB": 568
+  },
+  {
+    "name": "Spielberg",
+    "Hofer": 1677,
+    "VdB": 929
+  },
+  {
+    "name": "Weißkirchen in Steiermark",
+    "Hofer": 1456,
+    "VdB": 898
+  },
+  {
+    "name": "Breitenau am Hochlantsch",
+    "Hofer": 562,
+    "VdB": 311
+  },
+  {
+    "name": "Krieglach",
+    "Hofer": 1578,
+    "VdB": 1023
+  },
+  {
+    "name": "Langenwang",
+    "Hofer": 1149,
+    "VdB": 636
+  },
+  {
+    "name": "Pernegg an der Mur",
+    "Hofer": 729,
+    "VdB": 491
+  },
+  {
+    "name": "Sankt Lorenzen im Mürztal",
+    "Hofer": 967,
+    "VdB": 707
+  },
+  {
+    "name": "Spital am Semmering",
+    "Hofer": 502,
+    "VdB": 277
+  },
+  {
+    "name": "Stanz im Mürztal",
+    "Hofer": 488,
+    "VdB": 291
+  },
+  {
+    "name": "Turnau",
+    "Hofer": 547,
+    "VdB": 304
+  },
+  {
+    "name": "Aflenz",
+    "Hofer": 634,
+    "VdB": 576
+  },
+  {
+    "name": "Bruck an der Mur",
+    "Hofer": 3914,
+    "VdB": 3015
+  },
+  {
+    "name": "Kapfenberg",
+    "Hofer": 5427,
+    "VdB": 3732
+  },
+  {
+    "name": "Kindberg",
+    "Hofer": 2192,
+    "VdB": 1707
+  },
+  {
+    "name": "Mariazell",
+    "Hofer": 1077,
+    "VdB": 760
+  },
+  {
+    "name": "Mürzzuschlag",
+    "Hofer": 1986,
+    "VdB": 1719
+  },
+  {
+    "name": "Neuberg an der Mürz",
+    "Hofer": 755,
+    "VdB": 472
+  },
+  {
+    "name": "Sankt Barbara im Mürztal",
+    "Hofer": 1947,
+    "VdB": 1319
+  },
+  {
+    "name": "Sankt Marein im Mürztal",
+    "Hofer": 815,
+    "VdB": 493
+  },
+  {
+    "name": "Thörl",
+    "Hofer": 667,
+    "VdB": 503
+  },
+  {
+    "name": "Tragöß - Sankt Katharein",
+    "Hofer": 623,
+    "VdB": 336
+  },
+  {
+    "name": "Bad Blumau",
+    "Hofer": 594,
+    "VdB": 229
+  },
+  {
+    "name": "Buch-St. Magdalena",
+    "Hofer": 845,
+    "VdB": 334
+  },
+  {
+    "name": "Burgau",
+    "Hofer": 317,
+    "VdB": 206
+  },
+  {
+    "name": "Ebersdorf",
+    "Hofer": 558,
+    "VdB": 150
+  },
+  {
+    "name": "Friedberg",
+    "Hofer": 939,
+    "VdB": 414
+  },
+  {
+    "name": "Greinbach",
+    "Hofer": 816,
+    "VdB": 205
+  },
+  {
+    "name": "Großsteinbach",
+    "Hofer": 501,
+    "VdB": 184
+  },
+  {
+    "name": "Hartberg",
+    "Hofer": 1833,
+    "VdB": 1218
+  },
+  {
+    "name": "Hartberg Umgebung",
+    "Hofer": 778,
+    "VdB": 372
+  },
+  {
+    "name": "Lafnitz",
+    "Hofer": 606,
+    "VdB": 211
+  },
+  {
+    "name": "Ottendorf an der Rittschein",
+    "Hofer": 605,
+    "VdB": 183
+  },
+  {
+    "name": "Pinggau",
+    "Hofer": 1326,
+    "VdB": 398
+  },
+  {
+    "name": "Pöllauberg",
+    "Hofer": 869,
+    "VdB": 268
+  },
+  {
+    "name": "Sankt Jakob im Walde",
+    "Hofer": 392,
+    "VdB": 155
+  },
+  {
+    "name": "Sankt Johann in der Haide",
+    "Hofer": 838,
+    "VdB": 245
+  },
+  {
+    "name": "Sankt Lorenzen am Wechsel",
+    "Hofer": 618,
+    "VdB": 231
+  },
+  {
+    "name": "Schäffern",
+    "Hofer": 676,
+    "VdB": 146
+  },
+  {
+    "name": "Söchau",
+    "Hofer": 521,
+    "VdB": 248
+  },
+  {
+    "name": "Stubenberg",
+    "Hofer": 742,
+    "VdB": 364
+  },
+  {
+    "name": "Wenigzell",
+    "Hofer": 493,
+    "VdB": 278
+  },
+  {
+    "name": "Bad Waltersdorf",
+    "Hofer": 1374,
+    "VdB": 643
+  },
+  {
+    "name": "Dechantskirchen",
+    "Hofer": 783,
+    "VdB": 351
+  },
+  {
+    "name": "Feistritztal",
+    "Hofer": 942,
+    "VdB": 353
+  },
+  {
+    "name": "Fürstenfeld",
+    "Hofer": 2444,
+    "VdB": 1624
+  },
+  {
+    "name": "Grafendorf bei Hartberg",
+    "Hofer": 1239,
+    "VdB": 438
+  },
+  {
+    "name": "Großwilfersdorf",
+    "Hofer": 670,
+    "VdB": 332
+  },
+  {
+    "name": "Hartl",
+    "Hofer": 963,
+    "VdB": 263
+  },
+  {
+    "name": "Ilz",
+    "Hofer": 1267,
+    "VdB": 667
+  },
+  {
+    "name": "Kaindorf",
+    "Hofer": 995,
+    "VdB": 494
+  },
+  {
+    "name": "Loipersdorf bei Fürstenfeld",
+    "Hofer": 754,
+    "VdB": 208
+  },
+  {
+    "name": "Neudau",
+    "Hofer": 381,
+    "VdB": 234
+  },
+  {
+    "name": "Pöllau",
+    "Hofer": 2303,
+    "VdB": 939
+  },
+  {
+    "name": "Rohr bei Hartberg",
+    "Hofer": 545,
+    "VdB": 267
+  },
+  {
+    "name": "Rohrbach an der Lafnitz",
+    "Hofer": 1116,
+    "VdB": 433
+  },
+  {
+    "name": "Vorau",
+    "Hofer": 2037,
+    "VdB": 682
+  },
+  {
+    "name": "Waldbach-Mönichwald",
+    "Hofer": 634,
+    "VdB": 266
+  },
+  {
+    "name": "Edelsbach bei Feldbach",
+    "Hofer": 489,
+    "VdB": 241
+  },
+  {
+    "name": "Eichkögl",
+    "Hofer": 448,
+    "VdB": 180
+  },
+  {
+    "name": "Halbenrain",
+    "Hofer": 573,
+    "VdB": 246
+  },
+  {
+    "name": "Jagerberg",
+    "Hofer": 693,
+    "VdB": 166
+  },
+  {
+    "name": "Kapfenstein",
+    "Hofer": 619,
+    "VdB": 200
+  },
+  {
+    "name": "Klöch",
+    "Hofer": 401,
+    "VdB": 229
+  },
+  {
+    "name": "Mettersdorf am Saßbach",
+    "Hofer": 428,
+    "VdB": 184
+  },
+  {
+    "name": "Murfeld",
+    "Hofer": 590,
+    "VdB": 233
+  },
+  {
+    "name": "Tieschen",
+    "Hofer": 425,
+    "VdB": 175
+  },
+  {
+    "name": "Unterlamm",
+    "Hofer": 512,
+    "VdB": 103
+  },
+  {
+    "name": "Bad Gleichenberg",
+    "Hofer": 1521,
+    "VdB": 809
+  },
+  {
+    "name": "Bad Radkersburg",
+    "Hofer": 745,
+    "VdB": 572
+  },
+  {
+    "name": "Deutsch Goritz",
+    "Hofer": 625,
+    "VdB": 329
+  },
+  {
+    "name": "Fehring",
+    "Hofer": 2357,
+    "VdB": 1172
+  },
+  {
+    "name": "Feldbach",
+    "Hofer": 3715,
+    "VdB": 2270
+  },
+  {
+    "name": "Gnas",
+    "Hofer": 2341,
+    "VdB": 852
+  },
+  {
+    "name": "Kirchbach-Zerlach",
+    "Hofer": 1191,
+    "VdB": 537
+  },
+  {
+    "name": "Kirchberg an der Raab",
+    "Hofer": 1531,
+    "VdB": 651
+  },
+  {
+    "name": "Mureck",
+    "Hofer": 1131,
+    "VdB": 544
+  },
+  {
+    "name": "Paldau",
+    "Hofer": 1160,
+    "VdB": 406
+  },
+  {
+    "name": "Pirching am Traubenberg",
+    "Hofer": 913,
+    "VdB": 291
+  },
+  {
+    "name": "Riegersburg",
+    "Hofer": 1668,
+    "VdB": 711
+  },
+  {
+    "name": "Sankt Anna am Aigen",
+    "Hofer": 888,
+    "VdB": 292
+  },
+  {
+    "name": "Sankt Peter am Ottersbach",
+    "Hofer": 1092,
+    "VdB": 345
+  },
+  {
+    "name": "Sankt Stefan im Rosental",
+    "Hofer": 1503,
+    "VdB": 643
+  },
+  {
+    "name": "Straden",
+    "Hofer": 1205,
+    "VdB": 632
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Innere Stadt",
+    "Griss": 1629,
+    "Hofer": 1012,
+    "Hundstorfer": 400,
+    "Khol": 595,
+    "Lugner": 95,
+    "VdB": 2065
+  },
+  {
+    "name": "Leopoldstadt",
+    "Griss": 5153,
+    "Hofer": 7192,
+    "Hundstorfer": 3893,
+    "Khol": 1373,
+    "Lugner": 555,
+    "VdB": 12310
+  },
+  {
+    "name": "Landstraße",
+    "Griss": 5873,
+    "Hofer": 6286,
+    "Hundstorfer": 2927,
+    "Khol": 1857,
+    "Lugner": 470,
+    "VdB": 11463
+  },
+  {
+    "name": "Wieden",
+    "Griss": 2500,
+    "Hofer": 1820,
+    "Hundstorfer": 841,
+    "Khol": 751,
+    "Lugner": 134,
+    "VdB": 4685
+  },
+  {
+    "name": "Margareten",
+    "Griss": 2723,
+    "Hofer": 3284,
+    "Hundstorfer": 1771,
+    "Khol": 802,
+    "Lugner": 320,
+    "VdB": 6882
+  },
+  {
+    "name": "Mariahilf",
+    "Griss": 2135,
+    "Hofer": 1759,
+    "Hundstorfer": 868,
+    "Khol": 615,
+    "Lugner": 150,
+    "VdB": 5307
+  },
+  {
+    "name": "Neubau",
+    "Griss": 2203,
+    "Hofer": 1522,
+    "Hundstorfer": 793,
+    "Khol": 622,
+    "Lugner": 179,
+    "VdB": 6010
+  },
+  {
+    "name": "Josefstadt",
+    "Griss": 2058,
+    "Hofer": 1303,
+    "Hundstorfer": 604,
+    "Khol": 681,
+    "Lugner": 104,
+    "VdB": 4296
+  },
+  {
+    "name": "Alsergrund",
+    "Griss": 3164,
+    "Hofer": 2334,
+    "Hundstorfer": 1085,
+    "Khol": 922,
+    "Lugner": 228,
+    "VdB": 6441
+  },
+  {
+    "name": "Favoriten",
+    "Griss": 7592,
+    "Hofer": 19961,
+    "Hundstorfer": 8615,
+    "Khol": 2343,
+    "Lugner": 1296,
+    "VdB": 12050
+  },
+  {
+    "name": "Simmering",
+    "Griss": 4032,
+    "Hofer": 12465,
+    "Hundstorfer": 4650,
+    "Khol": 1198,
+    "Lugner": 722,
+    "VdB": 6072
+  },
+  {
+    "name": "Meidling",
+    "Griss": 4565,
+    "Hofer": 8350,
+    "Hundstorfer": 3688,
+    "Khol": 1466,
+    "Lugner": 629,
+    "VdB": 8151
+  },
+  {
+    "name": "Hietzing",
+    "Griss": 6029,
+    "Hofer": 4998,
+    "Hundstorfer": 1903,
+    "Khol": 2358,
+    "Lugner": 360,
+    "VdB": 6843
+  },
+  {
+    "name": "Penzing",
+    "Griss": 6770,
+    "Hofer": 8808,
+    "Hundstorfer": 3623,
+    "Khol": 2018,
+    "Lugner": 648,
+    "VdB": 10459
+  },
+  {
+    "name": "Rudolfsheim-Fünfhaus",
+    "Griss": 2825,
+    "Hofer": 4623,
+    "Hundstorfer": 2459,
+    "Khol": 861,
+    "Lugner": 496,
+    "VdB": 7595
+  },
+  {
+    "name": "Ottakring",
+    "Griss": 4816,
+    "Hofer": 7806,
+    "Hundstorfer": 3840,
+    "Khol": 1543,
+    "Lugner": 697,
+    "VdB": 10464
+  },
+  {
+    "name": "Hernals",
+    "Griss": 3513,
+    "Hofer": 3953,
+    "Hundstorfer": 1673,
+    "Khol": 1085,
+    "Lugner": 359,
+    "VdB": 6539
+  },
+  {
+    "name": "Währing",
+    "Griss": 4450,
+    "Hofer": 3144,
+    "Hundstorfer": 1223,
+    "Khol": 1522,
+    "Lugner": 263,
+    "VdB": 7261
+  },
+  {
+    "name": "Döbling",
+    "Griss": 7003,
+    "Hofer": 6251,
+    "Hundstorfer": 2647,
+    "Khol": 2472,
+    "Lugner": 459,
+    "VdB": 8463
+  },
+  {
+    "name": "Brigittenau",
+    "Griss": 3402,
+    "Hofer": 6807,
+    "Hundstorfer": 3488,
+    "Khol": 970,
+    "Lugner": 514,
+    "VdB": 7005
+  },
+  {
+    "name": "Floridsdorf",
+    "Griss": 9093,
+    "Hofer": 22380,
+    "Hundstorfer": 8320,
+    "Khol": 2624,
+    "Lugner": 1239,
+    "VdB": 12490
+  },
+  {
+    "name": "Donaustadt",
+    "Griss": 11896,
+    "Hofer": 25271,
+    "Hundstorfer": 9034,
+    "Khol": 2925,
+    "Lugner": 1479,
+    "VdB": 17264
+  },
+  {
+    "name": "Liesing",
+    "Griss": 8261,
+    "Hofer": 13418,
+    "Hundstorfer": 5148,
+    "Khol": 2401,
+    "Lugner": 789,
+    "VdB": 10632
+  }
+]

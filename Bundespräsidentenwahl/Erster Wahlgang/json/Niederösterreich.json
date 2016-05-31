@@ -1,0 +1,5159 @@
+[
+  {
+    "name": "Krems an der Donau",
+    "Griss": 18021,
+    "Hofer": 25511,
+    "Hundstorfer": 12312,
+    "Khol": 13723,
+    "Lugner": 1935,
+    "VdB": 21700
+  },
+  {
+    "name": "St. Pölten",
+    "Griss": 2184,
+    "Hofer": 4015,
+    "Hundstorfer": 1435,
+    "Khol": 1212,
+    "Lugner": 318,
+    "VdB": 2516
+  },
+  {
+    "name": "Waidhofen an der Ybbs",
+    "Griss": 4065,
+    "Hofer": 7560,
+    "Hundstorfer": 3989,
+    "Khol": 2156,
+    "Lugner": 678,
+    "VdB": 5318
+  },
+  {
+    "name": "Wiener Neustadt",
+    "Griss": 1147,
+    "Hofer": 1972,
+    "Hundstorfer": 612,
+    "Khol": 1047,
+    "Lugner": 138,
+    "VdB": 1184
+  },
+  {
+    "name": "Allhartsberg",
+    "Griss": 3039,
+    "Hofer": 7062,
+    "Hundstorfer": 2422,
+    "Khol": 1428,
+    "Lugner": 439,
+    "VdB": 3915
+  },
+  {
+    "name": "Amstetten",
+    "Griss": 156,
+    "Hofer": 441,
+    "Hundstorfer": 93,
+    "Khol": 291,
+    "Lugner": 31,
+    "VdB": 208
+  },
+  {
+    "name": "Ardagger",
+    "Griss": 1911,
+    "Hofer": 4404,
+    "Hundstorfer": 1560,
+    "Khol": 1203,
+    "Lugner": 321,
+    "VdB": 2141
+  },
+  {
+    "name": "Aschbach-Markt",
+    "Griss": 342,
+    "Hofer": 711,
+    "Hundstorfer": 136,
+    "Khol": 519,
+    "Lugner": 68,
+    "VdB": 282
+  },
+  {
+    "name": "Behamberg",
+    "Griss": 340,
+    "Hofer": 758,
+    "Hundstorfer": 147,
+    "Khol": 382,
+    "Lugner": 53,
+    "VdB": 302
+  },
+  {
+    "name": "Biberbach",
+    "Griss": 357,
+    "Hofer": 737,
+    "Hundstorfer": 170,
+    "Khol": 309,
+    "Lugner": 43,
+    "VdB": 350
+  },
+  {
+    "name": "Ennsdorf",
+    "Griss": 183,
+    "Hofer": 431,
+    "Hundstorfer": 104,
+    "Khol": 333,
+    "Lugner": 47,
+    "VdB": 244
+  },
+  {
+    "name": "Ernsthofen",
+    "Griss": 201,
+    "Hofer": 540,
+    "Hundstorfer": 358,
+    "Khol": 111,
+    "Lugner": 31,
+    "VdB": 254
+  },
+  {
+    "name": "Ertl",
+    "Griss": 187,
+    "Hofer": 421,
+    "Hundstorfer": 186,
+    "Khol": 180,
+    "Lugner": 21,
+    "VdB": 179
+  },
+  {
+    "name": "Euratsfeld",
+    "Griss": 70,
+    "Hofer": 299,
+    "Hundstorfer": 25,
+    "Khol": 208,
+    "Lugner": 21,
+    "VdB": 73
+  },
+  {
+    "name": "Ferschnitz",
+    "Griss": 266,
+    "Hofer": 584,
+    "Hundstorfer": 85,
+    "Khol": 406,
+    "Lugner": 31,
+    "VdB": 225
+  },
+  {
+    "name": "Haag",
+    "Griss": 172,
+    "Hofer": 380,
+    "Hundstorfer": 54,
+    "Khol": 257,
+    "Lugner": 27,
+    "VdB": 172
+  },
+  {
+    "name": "Haidershofen",
+    "Griss": 464,
+    "Hofer": 884,
+    "Hundstorfer": 271,
+    "Khol": 496,
+    "Lugner": 61,
+    "VdB": 591
+  },
+  {
+    "name": "Hollenstein an der Ybbs",
+    "Griss": 326,
+    "Hofer": 738,
+    "Hundstorfer": 279,
+    "Khol": 350,
+    "Lugner": 44,
+    "VdB": 408
+  },
+  {
+    "name": "Kematen an der Ybbs",
+    "Griss": 145,
+    "Hofer": 297,
+    "Hundstorfer": 167,
+    "Khol": 220,
+    "Lugner": 27,
+    "VdB": 113
+  },
+  {
+    "name": "Neuhofen an der Ybbs",
+    "Griss": 168,
+    "Hofer": 550,
+    "Hundstorfer": 266,
+    "Khol": 138,
+    "Lugner": 47,
+    "VdB": 188
+  },
+  {
+    "name": "Neustadtl an der Donau",
+    "Griss": 247,
+    "Hofer": 703,
+    "Hundstorfer": 66,
+    "Khol": 336,
+    "Lugner": 44,
+    "VdB": 214
+  },
+  {
+    "name": "Oed-Oehling",
+    "Griss": 158,
+    "Hofer": 531,
+    "Hundstorfer": 99,
+    "Khol": 319,
+    "Lugner": 34,
+    "VdB": 120
+  },
+  {
+    "name": "Opponitz",
+    "Griss": 151,
+    "Hofer": 417,
+    "Hundstorfer": 49,
+    "Khol": 178,
+    "Lugner": 35,
+    "VdB": 189
+  },
+  {
+    "name": "St. Georgen am Reith",
+    "Griss": 67,
+    "Hofer": 174,
+    "Hundstorfer": 76,
+    "Khol": 109,
+    "Lugner": 18,
+    "VdB": 81
+  },
+  {
+    "name": "St. Georgen am Ybbsfelde",
+    "Griss": 32,
+    "Hofer": 111,
+    "Hundstorfer": 49,
+    "Khol": 84,
+    "Lugner": 11,
+    "VdB": 42
+  },
+  {
+    "name": "St. Pantaleon-Erla",
+    "Griss": 242,
+    "Hofer": 591,
+    "Hundstorfer": 133,
+    "Khol": 324,
+    "Lugner": 39,
+    "VdB": 219
+  },
+  {
+    "name": "St. Peter in der Au",
+    "Griss": 226,
+    "Hofer": 503,
+    "Hundstorfer": 224,
+    "Khol": 199,
+    "Lugner": 34,
+    "VdB": 256
+  },
+  {
+    "name": "St. Valentin",
+    "Griss": 472,
+    "Hofer": 980,
+    "Hundstorfer": 205,
+    "Khol": 630,
+    "Lugner": 67,
+    "VdB": 509
+  },
+  {
+    "name": "Seitenstetten",
+    "Griss": 802,
+    "Hofer": 1677,
+    "Hundstorfer": 856,
+    "Khol": 458,
+    "Lugner": 109,
+    "VdB": 1017
+  },
+  {
+    "name": "Sonntagberg",
+    "Griss": 318,
+    "Hofer": 632,
+    "Hundstorfer": 130,
+    "Khol": 346,
+    "Lugner": 45,
+    "VdB": 386
+  },
+  {
+    "name": "Strengberg",
+    "Griss": 324,
+    "Hofer": 718,
+    "Hundstorfer": 441,
+    "Khol": 275,
+    "Lugner": 54,
+    "VdB": 329
+  },
+  {
+    "name": "Viehdorf",
+    "Griss": 173,
+    "Hofer": 345,
+    "Hundstorfer": 109,
+    "Khol": 258,
+    "Lugner": 19,
+    "VdB": 188
+  },
+  {
+    "name": "Wallsee-Sindelburg",
+    "Griss": 119,
+    "Hofer": 295,
+    "Hundstorfer": 66,
+    "Khol": 190,
+    "Lugner": 27,
+    "VdB": 93
+  },
+  {
+    "name": "Weistrach",
+    "Griss": 181,
+    "Hofer": 384,
+    "Hundstorfer": 118,
+    "Khol": 198,
+    "Lugner": 26,
+    "VdB": 184
+  },
+  {
+    "name": "Winklarn",
+    "Griss": 220,
+    "Hofer": 467,
+    "Hundstorfer": 70,
+    "Khol": 278,
+    "Lugner": 23,
+    "VdB": 164
+  },
+  {
+    "name": "Wolfsbach",
+    "Griss": 148,
+    "Hofer": 335,
+    "Hundstorfer": 84,
+    "Khol": 167,
+    "Lugner": 17,
+    "VdB": 155
+  },
+  {
+    "name": "Ybbsitz",
+    "Griss": 169,
+    "Hofer": 365,
+    "Hundstorfer": 69,
+    "Khol": 302,
+    "Lugner": 23,
+    "VdB": 150
+  },
+  {
+    "name": "Zeillern",
+    "Griss": 375,
+    "Hofer": 726,
+    "Hundstorfer": 133,
+    "Khol": 472,
+    "Lugner": 58,
+    "VdB": 304
+  },
+  {
+    "name": "Alland",
+    "Griss": 159,
+    "Hofer": 419,
+    "Hundstorfer": 63,
+    "Khol": 271,
+    "Lugner": 32,
+    "VdB": 132
+  },
+  {
+    "name": "Altenmarkt an der Triesting",
+    "Griss": 213,
+    "Hofer": 575,
+    "Hundstorfer": 98,
+    "Khol": 135,
+    "Lugner": 43,
+    "VdB": 215
+  },
+  {
+    "name": "Bad Vöslau",
+    "Griss": 173,
+    "Hofer": 413,
+    "Hundstorfer": 102,
+    "Khol": 227,
+    "Lugner": 38,
+    "VdB": 158
+  },
+  {
+    "name": "Baden",
+    "Griss": 1123,
+    "Hofer": 1887,
+    "Hundstorfer": 648,
+    "Khol": 435,
+    "Lugner": 135,
+    "VdB": 1444
+  },
+  {
+    "name": "Berndorf",
+    "Griss": 2881,
+    "Hofer": 3442,
+    "Hundstorfer": 919,
+    "Khol": 1267,
+    "Lugner": 244,
+    "VdB": 3262
+  },
+  {
+    "name": "Ebreichsdorf",
+    "Griss": 659,
+    "Hofer": 1637,
+    "Hundstorfer": 563,
+    "Khol": 249,
+    "Lugner": 113,
+    "VdB": 763
+  },
+  {
+    "name": "Enzesfeld-Lindabrunn",
+    "Griss": 845,
+    "Hofer": 2236,
+    "Hundstorfer": 628,
+    "Khol": 277,
+    "Lugner": 141,
+    "VdB": 972
+  },
+  {
+    "name": "Furth an der Triesting",
+    "Griss": 403,
+    "Hofer": 854,
+    "Hundstorfer": 279,
+    "Khol": 151,
+    "Lugner": 61,
+    "VdB": 432
+  },
+  {
+    "name": "Günselsdorf",
+    "Griss": 79,
+    "Hofer": 182,
+    "Hundstorfer": 30,
+    "Khol": 91,
+    "Lugner": 18,
+    "VdB": 68
+  },
+  {
+    "name": "Heiligenkreuz",
+    "Griss": 156,
+    "Hofer": 417,
+    "Hundstorfer": 172,
+    "Khol": 71,
+    "Lugner": 30,
+    "VdB": 105
+  },
+  {
+    "name": "Hernstein",
+    "Griss": 174,
+    "Hofer": 305,
+    "Hundstorfer": 71,
+    "Khol": 98,
+    "Lugner": 17,
+    "VdB": 159
+  },
+  {
+    "name": "Hirtenberg",
+    "Griss": 195,
+    "Hofer": 337,
+    "Hundstorfer": 90,
+    "Khol": 187,
+    "Lugner": 27,
+    "VdB": 141
+  },
+  {
+    "name": "Klausen-Leopoldsdorf",
+    "Griss": 130,
+    "Hofer": 503,
+    "Hundstorfer": 195,
+    "Khol": 45,
+    "Lugner": 32,
+    "VdB": 161
+  },
+  {
+    "name": "Kottingbrunn",
+    "Griss": 126,
+    "Hofer": 365,
+    "Hundstorfer": 77,
+    "Khol": 84,
+    "Lugner": 22,
+    "VdB": 134
+  },
+  {
+    "name": "Leobersdorf",
+    "Griss": 647,
+    "Hofer": 1472,
+    "Hundstorfer": 494,
+    "Khol": 223,
+    "Lugner": 98,
+    "VdB": 798
+  },
+  {
+    "name": "Mitterndorf an der Fischa",
+    "Griss": 384,
+    "Hofer": 981,
+    "Hundstorfer": 301,
+    "Khol": 197,
+    "Lugner": 70,
+    "VdB": 495
+  },
+  {
+    "name": "Oberwaltersdorf",
+    "Griss": 150,
+    "Hofer": 578,
+    "Hundstorfer": 156,
+    "Khol": 54,
+    "Lugner": 23,
+    "VdB": 178
+  },
+  {
+    "name": "Pfaffstätten",
+    "Griss": 444,
+    "Hofer": 749,
+    "Hundstorfer": 203,
+    "Khol": 172,
+    "Lugner": 40,
+    "VdB": 503
+  },
+  {
+    "name": "Pottendorf",
+    "Griss": 392,
+    "Hofer": 528,
+    "Hundstorfer": 155,
+    "Khol": 193,
+    "Lugner": 44,
+    "VdB": 545
+  },
+  {
+    "name": "Pottenstein",
+    "Griss": 478,
+    "Hofer": 1509,
+    "Hundstorfer": 437,
+    "Khol": 279,
+    "Lugner": 87,
+    "VdB": 586
+  },
+  {
+    "name": "Reisenberg",
+    "Griss": 204,
+    "Hofer": 526,
+    "Hundstorfer": 245,
+    "Khol": 138,
+    "Lugner": 42,
+    "VdB": 253
+  },
+  {
+    "name": "Schönau an der Triesting",
+    "Griss": 129,
+    "Hofer": 398,
+    "Hundstorfer": 150,
+    "Khol": 96,
+    "Lugner": 22,
+    "VdB": 96
+  },
+  {
+    "name": "Seibersdorf",
+    "Griss": 169,
+    "Hofer": 455,
+    "Hundstorfer": 133,
+    "Khol": 79,
+    "Lugner": 33,
+    "VdB": 200
+  },
+  {
+    "name": "Sooß",
+    "Griss": 133,
+    "Hofer": 366,
+    "Hundstorfer": 80,
+    "Khol": 138,
+    "Lugner": 22,
+    "VdB": 108
+  },
+  {
+    "name": "Tattendorf",
+    "Griss": 137,
+    "Hofer": 202,
+    "Hundstorfer": 39,
+    "Khol": 58,
+    "Lugner": 14,
+    "VdB": 103
+  },
+  {
+    "name": "Teesdorf",
+    "Griss": 189,
+    "Hofer": 289,
+    "Hundstorfer": 73,
+    "Khol": 60,
+    "Lugner": 20,
+    "VdB": 139
+  },
+  {
+    "name": "Traiskirchen",
+    "Griss": 158,
+    "Hofer": 351,
+    "Hundstorfer": 184,
+    "Khol": 91,
+    "Lugner": 26,
+    "VdB": 192
+  },
+  {
+    "name": "Trumau",
+    "Griss": 1493,
+    "Hofer": 3649,
+    "Hundstorfer": 1171,
+    "Khol": 509,
+    "Lugner": 322,
+    "VdB": 1808
+  },
+  {
+    "name": "Weissenbach an der Triesting",
+    "Griss": 277,
+    "Hofer": 715,
+    "Hundstorfer": 329,
+    "Khol": 125,
+    "Lugner": 53,
+    "VdB": 333
+  },
+  {
+    "name": "Blumau-Neurißhof",
+    "Griss": 146,
+    "Hofer": 382,
+    "Hundstorfer": 135,
+    "Khol": 91,
+    "Lugner": 34,
+    "VdB": 132
+  },
+  {
+    "name": "Au am Leithaberge",
+    "Griss": 97,
+    "Hofer": 489,
+    "Hundstorfer": 111,
+    "Khol": 49,
+    "Lugner": 27,
+    "VdB": 134
+  },
+  {
+    "name": "Bad Deutsch-Altenburg",
+    "Griss": 72,
+    "Hofer": 288,
+    "Hundstorfer": 45,
+    "Khol": 102,
+    "Lugner": 20,
+    "VdB": 43
+  },
+  {
+    "name": "Berg",
+    "Griss": 103,
+    "Hofer": 359,
+    "Hundstorfer": 86,
+    "Khol": 88,
+    "Lugner": 21,
+    "VdB": 117
+  },
+  {
+    "name": "Bruck an der Leitha",
+    "Griss": 47,
+    "Hofer": 141,
+    "Hundstorfer": 68,
+    "Khol": 68,
+    "Lugner": 8,
+    "VdB": 49
+  },
+  {
+    "name": "Enzersdorf an der Fischa",
+    "Griss": 617,
+    "Hofer": 1546,
+    "Hundstorfer": 546,
+    "Khol": 319,
+    "Lugner": 96,
+    "VdB": 727
+  },
+  {
+    "name": "Göttlesbrunn-Arbesthal",
+    "Griss": 287,
+    "Hofer": 727,
+    "Hundstorfer": 272,
+    "Khol": 184,
+    "Lugner": 29,
+    "VdB": 278
+  },
+  {
+    "name": "Götzendorf an der Leitha",
+    "Griss": 158,
+    "Hofer": 330,
+    "Hundstorfer": 49,
+    "Khol": 124,
+    "Lugner": 19,
+    "VdB": 116
+  },
+  {
+    "name": "Hainburg a.d. Donau",
+    "Griss": 202,
+    "Hofer": 363,
+    "Hundstorfer": 175,
+    "Khol": 131,
+    "Lugner": 37,
+    "VdB": 178
+  },
+  {
+    "name": "Haslau-Maria Ellend",
+    "Griss": 306,
+    "Hofer": 1100,
+    "Hundstorfer": 287,
+    "Khol": 253,
+    "Lugner": 50,
+    "VdB": 362
+  },
+  {
+    "name": "Höflein",
+    "Griss": 153,
+    "Hofer": 367,
+    "Hundstorfer": 140,
+    "Khol": 142,
+    "Lugner": 17,
+    "VdB": 196
+  },
+  {
+    "name": "Hof am Leithaberge",
+    "Griss": 132,
+    "Hofer": 319,
+    "Hundstorfer": 61,
+    "Khol": 129,
+    "Lugner": 9,
+    "VdB": 85
+  },
+  {
+    "name": "Hundsheim",
+    "Griss": 105,
+    "Hofer": 423,
+    "Hundstorfer": 81,
+    "Khol": 138,
+    "Lugner": 24,
+    "VdB": 116
+  },
+  {
+    "name": "Mannersdorf am Leithagebirge",
+    "Griss": 29,
+    "Hofer": 125,
+    "Hundstorfer": 80,
+    "Khol": 67,
+    "Lugner": 4,
+    "VdB": 39
+  },
+  {
+    "name": "Petronell-Carnuntum",
+    "Griss": 261,
+    "Hofer": 769,
+    "Hundstorfer": 432,
+    "Khol": 174,
+    "Lugner": 48,
+    "VdB": 364
+  },
+  {
+    "name": "Prellenkirchen",
+    "Griss": 109,
+    "Hofer": 247,
+    "Hundstorfer": 117,
+    "Khol": 74,
+    "Lugner": 13,
+    "VdB": 121
+  },
+  {
+    "name": "Rohrau",
+    "Griss": 140,
+    "Hofer": 329,
+    "Hundstorfer": 80,
+    "Khol": 182,
+    "Lugner": 24,
+    "VdB": 77
+  },
+  {
+    "name": "Scharndorf",
+    "Griss": 149,
+    "Hofer": 302,
+    "Hundstorfer": 97,
+    "Khol": 150,
+    "Lugner": 21,
+    "VdB": 139
+  },
+  {
+    "name": "Sommerein",
+    "Griss": 112,
+    "Hofer": 225,
+    "Hundstorfer": 94,
+    "Khol": 134,
+    "Lugner": 23,
+    "VdB": 93
+  },
+  {
+    "name": "Trautmannsdorf an der Leitha",
+    "Griss": 149,
+    "Hofer": 477,
+    "Hundstorfer": 184,
+    "Khol": 119,
+    "Lugner": 18,
+    "VdB": 153
+  },
+  {
+    "name": "Wolfsthal",
+    "Griss": 271,
+    "Hofer": 551,
+    "Hundstorfer": 197,
+    "Khol": 239,
+    "Lugner": 49,
+    "VdB": 241
+  },
+  {
+    "name": "Aderklaa",
+    "Griss": 53,
+    "Hofer": 176,
+    "Hundstorfer": 57,
+    "Khol": 85,
+    "Lugner": 16,
+    "VdB": 42
+  },
+  {
+    "name": "Andlersdorf",
+    "Griss": 11,
+    "Hofer": 40,
+    "Hundstorfer": 2,
+    "Khol": 38,
+    "Lugner": 3,
+    "VdB": 20
+  },
+  {
+    "name": "Angern an der March",
+    "Griss": 21,
+    "Hofer": 16,
+    "Hundstorfer": 9,
+    "Khol": 26,
+    "Lugner": 0,
+    "VdB": 3
+  },
+  {
+    "name": "Auersthal",
+    "Griss": 253,
+    "Hofer": 713,
+    "Hundstorfer": 392,
+    "Khol": 211,
+    "Lugner": 39,
+    "VdB": 211
+  },
+  {
+    "name": "Bad Pirawarth",
+    "Griss": 173,
+    "Hofer": 330,
+    "Hundstorfer": 154,
+    "Khol": 191,
+    "Lugner": 19,
+    "VdB": 202
+  },
+  {
+    "name": "Deutsch-Wagram",
+    "Griss": 178,
+    "Hofer": 295,
+    "Hundstorfer": 119,
+    "Khol": 194,
+    "Lugner": 26,
+    "VdB": 129
+  },
+  {
+    "name": "Drösing",
+    "Griss": 686,
+    "Hofer": 1649,
+    "Hundstorfer": 480,
+    "Khol": 366,
+    "Lugner": 100,
+    "VdB": 879
+  },
+  {
+    "name": "Dürnkrut",
+    "Griss": 102,
+    "Hofer": 228,
+    "Hundstorfer": 120,
+    "Khol": 107,
+    "Lugner": 14,
+    "VdB": 65
+  },
+  {
+    "name": "Ebenthal",
+    "Griss": 149,
+    "Hofer": 523,
+    "Hundstorfer": 278,
+    "Khol": 147,
+    "Lugner": 36,
+    "VdB": 139
+  },
+  {
+    "name": "Eckartsau",
+    "Griss": 57,
+    "Hofer": 208,
+    "Hundstorfer": 53,
+    "Khol": 63,
+    "Lugner": 10,
+    "VdB": 60
+  },
+  {
+    "name": "Engelhartstetten",
+    "Griss": 97,
+    "Hofer": 300,
+    "Hundstorfer": 69,
+    "Khol": 129,
+    "Lugner": 8,
+    "VdB": 67
+  },
+  {
+    "name": "Gänserndorf",
+    "Griss": 126,
+    "Hofer": 460,
+    "Hundstorfer": 135,
+    "Khol": 189,
+    "Lugner": 23,
+    "VdB": 109
+  },
+  {
+    "name": "Glinzendorf",
+    "Griss": 821,
+    "Hofer": 2035,
+    "Hundstorfer": 713,
+    "Khol": 433,
+    "Lugner": 152,
+    "VdB": 990
+  },
+  {
+    "name": "Groß-Enzersdorf",
+    "Griss": 26,
+    "Hofer": 58,
+    "Hundstorfer": 11,
+    "Khol": 28,
+    "Lugner": 2,
+    "VdB": 22
+  },
+  {
+    "name": "Großhofen",
+    "Griss": 956,
+    "Hofer": 2141,
+    "Hundstorfer": 655,
+    "Khol": 420,
+    "Lugner": 129,
+    "VdB": 943
+  },
+  {
+    "name": "Groß-Schweinbarth",
+    "Griss": 1,
+    "Hofer": 21,
+    "Hundstorfer": 0,
+    "Khol": 20,
+    "Lugner": 0,
+    "VdB": 4
+  },
+  {
+    "name": "Haringsee",
+    "Griss": 116,
+    "Hofer": 260,
+    "Hundstorfer": 115,
+    "Khol": 147,
+    "Lugner": 16,
+    "VdB": 98
+  },
+  {
+    "name": "Hauskirchen",
+    "Griss": 94,
+    "Hofer": 224,
+    "Hundstorfer": 83,
+    "Khol": 128,
+    "Lugner": 24,
+    "VdB": 65
+  },
+  {
+    "name": "Hohenau an der March",
+    "Griss": 90,
+    "Hofer": 275,
+    "Hundstorfer": 84,
+    "Khol": 140,
+    "Lugner": 31,
+    "VdB": 52
+  },
+  {
+    "name": "Hohenruppersdorf",
+    "Griss": 130,
+    "Hofer": 632,
+    "Hundstorfer": 377,
+    "Khol": 94,
+    "Lugner": 38,
+    "VdB": 125
+  },
+  {
+    "name": "Jedenspeigen",
+    "Griss": 109,
+    "Hofer": 169,
+    "Hundstorfer": 49,
+    "Khol": 124,
+    "Lugner": 9,
+    "VdB": 70
+  },
+  {
+    "name": "Lassee",
+    "Griss": 104,
+    "Hofer": 201,
+    "Hundstorfer": 124,
+    "Khol": 149,
+    "Lugner": 14,
+    "VdB": 60
+  },
+  {
+    "name": "Leopoldsdorf im Marchfelde",
+    "Griss": 204,
+    "Hofer": 642,
+    "Hundstorfer": 168,
+    "Khol": 149,
+    "Lugner": 45,
+    "VdB": 148
+  },
+  {
+    "name": "Mannsdorf an der Donau",
+    "Griss": 203,
+    "Hofer": 621,
+    "Hundstorfer": 232,
+    "Khol": 104,
+    "Lugner": 36,
+    "VdB": 239
+  },
+  {
+    "name": "Marchegg",
+    "Griss": 47,
+    "Hofer": 77,
+    "Hundstorfer": 17,
+    "Khol": 44,
+    "Lugner": 6,
+    "VdB": 26
+  },
+  {
+    "name": "Markgrafneusiedl",
+    "Griss": 173,
+    "Hofer": 634,
+    "Hundstorfer": 270,
+    "Khol": 118,
+    "Lugner": 41,
+    "VdB": 167
+  },
+  {
+    "name": "Matzen-Raggendorf",
+    "Griss": 60,
+    "Hofer": 211,
+    "Hundstorfer": 80,
+    "Khol": 60,
+    "Lugner": 13,
+    "VdB": 62
+  },
+  {
+    "name": "Neusiedl an der Zaya",
+    "Griss": 234,
+    "Hofer": 617,
+    "Hundstorfer": 198,
+    "Khol": 205,
+    "Lugner": 48,
+    "VdB": 223
+  },
+  {
+    "name": "Obersiebenbrunn",
+    "Griss": 97,
+    "Hofer": 307,
+    "Hundstorfer": 75,
+    "Khol": 142,
+    "Lugner": 22,
+    "VdB": 73
+  },
+  {
+    "name": "Orth an der Donau",
+    "Griss": 116,
+    "Hofer": 374,
+    "Hundstorfer": 127,
+    "Khol": 65,
+    "Lugner": 21,
+    "VdB": 119
+  },
+  {
+    "name": "Palterndorf-Dobermannsdorf",
+    "Griss": 187,
+    "Hofer": 425,
+    "Hundstorfer": 109,
+    "Khol": 133,
+    "Lugner": 41,
+    "VdB": 135
+  },
+  {
+    "name": "Parbasdorf",
+    "Griss": 100,
+    "Hofer": 329,
+    "Hundstorfer": 86,
+    "Khol": 140,
+    "Lugner": 16,
+    "VdB": 58
+  },
+  {
+    "name": "Prottes",
+    "Griss": 31,
+    "Hofer": 22,
+    "Hundstorfer": 1,
+    "Khol": 30,
+    "Lugner": 2,
+    "VdB": 16
+  },
+  {
+    "name": "Raasdorf",
+    "Griss": 99,
+    "Hofer": 281,
+    "Hundstorfer": 107,
+    "Khol": 116,
+    "Lugner": 30,
+    "VdB": 105
+  },
+  {
+    "name": "Ringelsdorf-Niederabsdorf",
+    "Griss": 58,
+    "Hofer": 126,
+    "Hundstorfer": 29,
+    "Khol": 64,
+    "Lugner": 6,
+    "VdB": 37
+  },
+  {
+    "name": "Schönkirchen-Reyersdorf",
+    "Griss": 79,
+    "Hofer": 279,
+    "Hundstorfer": 206,
+    "Khol": 111,
+    "Lugner": 18,
+    "VdB": 58
+  },
+  {
+    "name": "Spannberg",
+    "Griss": 166,
+    "Hofer": 424,
+    "Hundstorfer": 154,
+    "Khol": 125,
+    "Lugner": 31,
+    "VdB": 161
+  },
+  {
+    "name": "Strasshof an der Nordbahn",
+    "Griss": 74,
+    "Hofer": 283,
+    "Hundstorfer": 56,
+    "Khol": 81,
+    "Lugner": 10,
+    "VdB": 46
+  },
+  {
+    "name": "Sulz im Weinviertel",
+    "Griss": 684,
+    "Hofer": 1917,
+    "Hundstorfer": 725,
+    "Khol": 200,
+    "Lugner": 140,
+    "VdB": 771
+  },
+  {
+    "name": "Untersiebenbrunn",
+    "Griss": 91,
+    "Hofer": 260,
+    "Hundstorfer": 84,
+    "Khol": 154,
+    "Lugner": 29,
+    "VdB": 63
+  },
+  {
+    "name": "Velm-Götzendorf",
+    "Griss": 113,
+    "Hofer": 484,
+    "Hundstorfer": 154,
+    "Khol": 43,
+    "Lugner": 28,
+    "VdB": 89
+  },
+  {
+    "name": "Weikendorf",
+    "Griss": 79,
+    "Hofer": 197,
+    "Hundstorfer": 55,
+    "Khol": 91,
+    "Lugner": 13,
+    "VdB": 50
+  },
+  {
+    "name": "Zistersdorf",
+    "Griss": 187,
+    "Hofer": 400,
+    "Hundstorfer": 161,
+    "Khol": 143,
+    "Lugner": 34,
+    "VdB": 147
+  },
+  {
+    "name": "Weiden an der March",
+    "Griss": 397,
+    "Hofer": 1272,
+    "Hundstorfer": 335,
+    "Khol": 631,
+    "Lugner": 73,
+    "VdB": 330
+  },
+  {
+    "name": "Amaliendorf-Aalfang",
+    "Griss": 72,
+    "Hofer": 194,
+    "Hundstorfer": 48,
+    "Khol": 135,
+    "Lugner": 14,
+    "VdB": 40
+  },
+  {
+    "name": "Brand-Nagelberg",
+    "Griss": 80,
+    "Hofer": 245,
+    "Hundstorfer": 140,
+    "Khol": 38,
+    "Lugner": 24,
+    "VdB": 80
+  },
+  {
+    "name": "Eggern",
+    "Griss": 89,
+    "Hofer": 308,
+    "Hundstorfer": 261,
+    "Khol": 88,
+    "Lugner": 45,
+    "VdB": 108
+  },
+  {
+    "name": "Eisgarn",
+    "Griss": 24,
+    "Hofer": 179,
+    "Hundstorfer": 53,
+    "Khol": 74,
+    "Lugner": 24,
+    "VdB": 49
+  },
+  {
+    "name": "Gmünd",
+    "Griss": 58,
+    "Hofer": 133,
+    "Hundstorfer": 70,
+    "Khol": 94,
+    "Lugner": 19,
+    "VdB": 37
+  },
+  {
+    "name": "Großdietmanns",
+    "Griss": 396,
+    "Hofer": 939,
+    "Hundstorfer": 503,
+    "Khol": 333,
+    "Lugner": 82,
+    "VdB": 446
+  },
+  {
+    "name": "Bad Großpertholz",
+    "Griss": 166,
+    "Hofer": 515,
+    "Hundstorfer": 153,
+    "Khol": 283,
+    "Lugner": 59,
+    "VdB": 163
+  },
+  {
+    "name": "Großschönau",
+    "Griss": 126,
+    "Hofer": 266,
+    "Hundstorfer": 88,
+    "Khol": 151,
+    "Lugner": 27,
+    "VdB": 99
+  },
+  {
+    "name": "Moorbad Harbach",
+    "Griss": 121,
+    "Hofer": 300,
+    "Hundstorfer": 27,
+    "Khol": 161,
+    "Lugner": 21,
+    "VdB": 83
+  },
+  {
+    "name": "Haugschlag",
+    "Griss": 53,
+    "Hofer": 153,
+    "Hundstorfer": 40,
+    "Khol": 95,
+    "Lugner": 14,
+    "VdB": 70
+  },
+  {
+    "name": "Heidenreichstein",
+    "Griss": 31,
+    "Hofer": 116,
+    "Hundstorfer": 36,
+    "Khol": 63,
+    "Lugner": 15,
+    "VdB": 15
+  },
+  {
+    "name": "Hirschbach",
+    "Griss": 337,
+    "Hofer": 780,
+    "Hundstorfer": 418,
+    "Khol": 319,
+    "Lugner": 85,
+    "VdB": 286
+  },
+  {
+    "name": "Hoheneich",
+    "Griss": 51,
+    "Hofer": 116,
+    "Hundstorfer": 70,
+    "Khol": 75,
+    "Lugner": 10,
+    "VdB": 47
+  },
+  {
+    "name": "Kirchberg am Walde",
+    "Griss": 110,
+    "Hofer": 280,
+    "Hundstorfer": 112,
+    "Khol": 137,
+    "Lugner": 27,
+    "VdB": 133
+  },
+  {
+    "name": "Litschau",
+    "Griss": 108,
+    "Hofer": 314,
+    "Hundstorfer": 75,
+    "Khol": 186,
+    "Lugner": 36,
+    "VdB": 71
+  },
+  {
+    "name": "Reingers",
+    "Griss": 178,
+    "Hofer": 450,
+    "Hundstorfer": 171,
+    "Khol": 236,
+    "Lugner": 51,
+    "VdB": 126
+  },
+  {
+    "name": "St. Martin",
+    "Griss": 40,
+    "Hofer": 157,
+    "Hundstorfer": 34,
+    "Khol": 108,
+    "Lugner": 13,
+    "VdB": 26
+  },
+  {
+    "name": "Schrems",
+    "Griss": 99,
+    "Hofer": 245,
+    "Hundstorfer": 63,
+    "Khol": 101,
+    "Lugner": 30,
+    "VdB": 76
+  },
+  {
+    "name": "Unserfrau-Altweitra",
+    "Griss": 391,
+    "Hofer": 1014,
+    "Hundstorfer": 617,
+    "Khol": 403,
+    "Lugner": 97,
+    "VdB": 385
+  },
+  {
+    "name": "Waldenstein",
+    "Griss": 64,
+    "Hofer": 199,
+    "Hundstorfer": 43,
+    "Khol": 161,
+    "Lugner": 20,
+    "VdB": 68
+  },
+  {
+    "name": "Weitra",
+    "Griss": 101,
+    "Hofer": 238,
+    "Hundstorfer": 47,
+    "Khol": 207,
+    "Lugner": 22,
+    "VdB": 68
+  },
+  {
+    "name": "Alberndorf im Pulkautal",
+    "Griss": 259,
+    "Hofer": 512,
+    "Hundstorfer": 169,
+    "Khol": 341,
+    "Lugner": 46,
+    "VdB": 204
+  },
+  {
+    "name": "Göllersdorf",
+    "Griss": 61,
+    "Hofer": 170,
+    "Hundstorfer": 53,
+    "Khol": 63,
+    "Lugner": 13,
+    "VdB": 47
+  },
+  {
+    "name": "Grabern",
+    "Griss": 284,
+    "Hofer": 609,
+    "Hundstorfer": 185,
+    "Khol": 306,
+    "Lugner": 53,
+    "VdB": 230
+  },
+  {
+    "name": "Guntersdorf",
+    "Griss": 154,
+    "Hofer": 317,
+    "Hundstorfer": 70,
+    "Khol": 209,
+    "Lugner": 29,
+    "VdB": 96
+  },
+  {
+    "name": "Hadres",
+    "Griss": 90,
+    "Hofer": 242,
+    "Hundstorfer": 82,
+    "Khol": 159,
+    "Lugner": 11,
+    "VdB": 71
+  },
+  {
+    "name": "Hardegg",
+    "Griss": 151,
+    "Hofer": 396,
+    "Hundstorfer": 126,
+    "Khol": 209,
+    "Lugner": 41,
+    "VdB": 100
+  },
+  {
+    "name": "Haugsdorf",
+    "Griss": 115,
+    "Hofer": 306,
+    "Hundstorfer": 101,
+    "Khol": 224,
+    "Lugner": 30,
+    "VdB": 70
+  },
+  {
+    "name": "Heldenberg",
+    "Griss": 113,
+    "Hofer": 347,
+    "Hundstorfer": 129,
+    "Khol": 137,
+    "Lugner": 50,
+    "VdB": 96
+  },
+  {
+    "name": "Hohenwarth-Mühlbach a.M.",
+    "Griss": 132,
+    "Hofer": 239,
+    "Hundstorfer": 54,
+    "Khol": 181,
+    "Lugner": 15,
+    "VdB": 89
+  },
+  {
+    "name": "Hollabrunn",
+    "Griss": 147,
+    "Hofer": 288,
+    "Hundstorfer": 81,
+    "Khol": 176,
+    "Lugner": 22,
+    "VdB": 72
+  },
+  {
+    "name": "Mailberg",
+    "Griss": 1168,
+    "Hofer": 2163,
+    "Hundstorfer": 634,
+    "Khol": 1100,
+    "Lugner": 189,
+    "VdB": 991
+  },
+  {
+    "name": "Maissau",
+    "Griss": 40,
+    "Hofer": 138,
+    "Hundstorfer": 73,
+    "Khol": 67,
+    "Lugner": 9,
+    "VdB": 32
+  },
+  {
+    "name": "Nappersdorf-Kammersdorf",
+    "Griss": 195,
+    "Hofer": 362,
+    "Hundstorfer": 139,
+    "Khol": 230,
+    "Lugner": 36,
+    "VdB": 165
+  },
+  {
+    "name": "Pernersdorf",
+    "Griss": 83,
+    "Hofer": 255,
+    "Hundstorfer": 82,
+    "Khol": 184,
+    "Lugner": 25,
+    "VdB": 76
+  },
+  {
+    "name": "Pulkau",
+    "Griss": 76,
+    "Hofer": 225,
+    "Hundstorfer": 115,
+    "Khol": 117,
+    "Lugner": 13,
+    "VdB": 42
+  },
+  {
+    "name": "Ravelsbach",
+    "Griss": 127,
+    "Hofer": 272,
+    "Hundstorfer": 129,
+    "Khol": 211,
+    "Lugner": 24,
+    "VdB": 90
+  },
+  {
+    "name": "Retz",
+    "Griss": 137,
+    "Hofer": 337,
+    "Hundstorfer": 105,
+    "Khol": 160,
+    "Lugner": 39,
+    "VdB": 112
+  },
+  {
+    "name": "Retzbach",
+    "Griss": 391,
+    "Hofer": 741,
+    "Hundstorfer": 267,
+    "Khol": 416,
+    "Lugner": 101,
+    "VdB": 344
+  },
+  {
+    "name": "Schrattenthal",
+    "Griss": 95,
+    "Hofer": 216,
+    "Hundstorfer": 63,
+    "Khol": 146,
+    "Lugner": 12,
+    "VdB": 68
+  },
+  {
+    "name": "Seefeld-Kadolz",
+    "Griss": 75,
+    "Hofer": 114,
+    "Hundstorfer": 96,
+    "Khol": 133,
+    "Lugner": 19,
+    "VdB": 66
+  },
+  {
+    "name": "Sitzendorf an der Schmida",
+    "Griss": 62,
+    "Hofer": 171,
+    "Hundstorfer": 136,
+    "Khol": 81,
+    "Lugner": 25,
+    "VdB": 41
+  },
+  {
+    "name": "Wullersdorf",
+    "Griss": 223,
+    "Hofer": 418,
+    "Hundstorfer": 152,
+    "Khol": 347,
+    "Lugner": 46,
+    "VdB": 123
+  },
+  {
+    "name": "Zellerndorf",
+    "Griss": 193,
+    "Hofer": 510,
+    "Hundstorfer": 160,
+    "Khol": 338,
+    "Lugner": 59,
+    "VdB": 130
+  },
+  {
+    "name": "Ziersdorf",
+    "Griss": 240,
+    "Hofer": 522,
+    "Hundstorfer": 230,
+    "Khol": 315,
+    "Lugner": 56,
+    "VdB": 178
+  },
+  {
+    "name": "Altenburg",
+    "Griss": 333,
+    "Hofer": 653,
+    "Hundstorfer": 236,
+    "Khol": 387,
+    "Lugner": 88,
+    "VdB": 244
+  },
+  {
+    "name": "Brunn an der Wild",
+    "Griss": 69,
+    "Hofer": 178,
+    "Hundstorfer": 33,
+    "Khol": 85,
+    "Lugner": 13,
+    "VdB": 56
+  },
+  {
+    "name": "Burgschleinitz-Kühnring",
+    "Griss": 59,
+    "Hofer": 180,
+    "Hundstorfer": 18,
+    "Khol": 175,
+    "Lugner": 9,
+    "VdB": 47
+  },
+  {
+    "name": "Drosendorf-Zissersdorf",
+    "Griss": 104,
+    "Hofer": 319,
+    "Hundstorfer": 58,
+    "Khol": 209,
+    "Lugner": 31,
+    "VdB": 101
+  },
+  {
+    "name": "Eggenburg",
+    "Griss": 154,
+    "Hofer": 296,
+    "Hundstorfer": 47,
+    "Khol": 133,
+    "Lugner": 24,
+    "VdB": 75
+  },
+  {
+    "name": "Gars am Kamp",
+    "Griss": 343,
+    "Hofer": 639,
+    "Hundstorfer": 216,
+    "Khol": 307,
+    "Lugner": 70,
+    "VdB": 318
+  },
+  {
+    "name": "Geras",
+    "Griss": 377,
+    "Hofer": 707,
+    "Hundstorfer": 195,
+    "Khol": 374,
+    "Lugner": 46,
+    "VdB": 310
+  },
+  {
+    "name": "Horn",
+    "Griss": 115,
+    "Hofer": 312,
+    "Hundstorfer": 68,
+    "Khol": 250,
+    "Lugner": 27,
+    "VdB": 52
+  },
+  {
+    "name": "Irnfritz-Messern",
+    "Griss": 589,
+    "Hofer": 1216,
+    "Hundstorfer": 290,
+    "Khol": 572,
+    "Lugner": 103,
+    "VdB": 548
+  },
+  {
+    "name": "Japons",
+    "Griss": 100,
+    "Hofer": 400,
+    "Hundstorfer": 63,
+    "Khol": 230,
+    "Lugner": 21,
+    "VdB": 57
+  },
+  {
+    "name": "Langau",
+    "Griss": 56,
+    "Hofer": 129,
+    "Hundstorfer": 20,
+    "Khol": 182,
+    "Lugner": 10,
+    "VdB": 28
+  },
+  {
+    "name": "Meiseldorf",
+    "Griss": 49,
+    "Hofer": 124,
+    "Hundstorfer": 44,
+    "Khol": 160,
+    "Lugner": 12,
+    "VdB": 33
+  },
+  {
+    "name": "Pernegg",
+    "Griss": 78,
+    "Hofer": 143,
+    "Hundstorfer": 65,
+    "Khol": 147,
+    "Lugner": 26,
+    "VdB": 60
+  },
+  {
+    "name": "Röhrenbach",
+    "Griss": 64,
+    "Hofer": 166,
+    "Hundstorfer": 36,
+    "Khol": 144,
+    "Lugner": 14,
+    "VdB": 47
+  },
+  {
+    "name": "Röschitz",
+    "Griss": 30,
+    "Hofer": 91,
+    "Hundstorfer": 15,
+    "Khol": 144,
+    "Lugner": 9,
+    "VdB": 24
+  },
+  {
+    "name": "Rosenburg-Mold",
+    "Griss": 108,
+    "Hofer": 198,
+    "Hundstorfer": 80,
+    "Khol": 157,
+    "Lugner": 24,
+    "VdB": 63
+  },
+  {
+    "name": "St. Bernhard-Frauenhofen",
+    "Griss": 77,
+    "Hofer": 187,
+    "Hundstorfer": 42,
+    "Khol": 93,
+    "Lugner": 14,
+    "VdB": 34
+  },
+  {
+    "name": "Sigmundsherberg",
+    "Griss": 114,
+    "Hofer": 256,
+    "Hundstorfer": 51,
+    "Khol": 229,
+    "Lugner": 16,
+    "VdB": 95
+  },
+  {
+    "name": "Weitersfeld",
+    "Griss": 104,
+    "Hofer": 316,
+    "Hundstorfer": 189,
+    "Khol": 208,
+    "Lugner": 31,
+    "VdB": 115
+  },
+  {
+    "name": "Straning-Grafenberg",
+    "Griss": 142,
+    "Hofer": 303,
+    "Hundstorfer": 55,
+    "Khol": 333,
+    "Lugner": 36,
+    "VdB": 85
+  },
+  {
+    "name": "Bisamberg",
+    "Griss": 66,
+    "Hofer": 128,
+    "Hundstorfer": 68,
+    "Khol": 100,
+    "Lugner": 12,
+    "VdB": 52
+  },
+  {
+    "name": "Enzersfeld im Weinviertel",
+    "Griss": 626,
+    "Hofer": 598,
+    "Hundstorfer": 209,
+    "Khol": 354,
+    "Lugner": 53,
+    "VdB": 667
+  },
+  {
+    "name": "Ernstbrunn",
+    "Griss": 189,
+    "Hofer": 338,
+    "Hundstorfer": 127,
+    "Khol": 141,
+    "Lugner": 29,
+    "VdB": 164
+  },
+  {
+    "name": "Großmugl",
+    "Griss": 299,
+    "Hofer": 676,
+    "Hundstorfer": 161,
+    "Khol": 318,
+    "Lugner": 33,
+    "VdB": 220
+  },
+  {
+    "name": "Großrußbach",
+    "Griss": 162,
+    "Hofer": 310,
+    "Hundstorfer": 51,
+    "Khol": 221,
+    "Lugner": 16,
+    "VdB": 125
+  },
+  {
+    "name": "Hagenbrunn",
+    "Griss": 189,
+    "Hofer": 425,
+    "Hundstorfer": 87,
+    "Khol": 231,
+    "Lugner": 29,
+    "VdB": 194
+  },
+  {
+    "name": "Harmannsdorf",
+    "Griss": 237,
+    "Hofer": 402,
+    "Hundstorfer": 110,
+    "Khol": 172,
+    "Lugner": 27,
+    "VdB": 195
+  },
+  {
+    "name": "Hausleiten",
+    "Griss": 459,
+    "Hofer": 809,
+    "Hundstorfer": 201,
+    "Khol": 406,
+    "Lugner": 51,
+    "VdB": 377
+  },
+  {
+    "name": "Korneuburg",
+    "Griss": 341,
+    "Hofer": 827,
+    "Hundstorfer": 170,
+    "Khol": 305,
+    "Lugner": 58,
+    "VdB": 311
+  },
+  {
+    "name": "Langenzersdorf",
+    "Griss": 1214,
+    "Hofer": 1991,
+    "Hundstorfer": 597,
+    "Khol": 586,
+    "Lugner": 145,
+    "VdB": 1461
+  },
+  {
+    "name": "Leitzersdorf",
+    "Griss": 1132,
+    "Hofer": 1265,
+    "Hundstorfer": 367,
+    "Khol": 471,
+    "Lugner": 93,
+    "VdB": 1120
+  },
+  {
+    "name": "Leobendorf",
+    "Griss": 130,
+    "Hofer": 275,
+    "Hundstorfer": 45,
+    "Khol": 131,
+    "Lugner": 19,
+    "VdB": 106
+  },
+  {
+    "name": "Rußbach",
+    "Griss": 598,
+    "Hofer": 874,
+    "Hundstorfer": 320,
+    "Khol": 315,
+    "Lugner": 55,
+    "VdB": 574
+  },
+  {
+    "name": "Sierndorf",
+    "Griss": 129,
+    "Hofer": 300,
+    "Hundstorfer": 56,
+    "Khol": 172,
+    "Lugner": 35,
+    "VdB": 104
+  },
+  {
+    "name": "Spillern",
+    "Griss": 356,
+    "Hofer": 830,
+    "Hundstorfer": 185,
+    "Khol": 391,
+    "Lugner": 44,
+    "VdB": 342
+  },
+  {
+    "name": "Stetteldorf am Wagram",
+    "Griss": 204,
+    "Hofer": 405,
+    "Hundstorfer": 180,
+    "Khol": 85,
+    "Lugner": 45,
+    "VdB": 237
+  },
+  {
+    "name": "Stetten",
+    "Griss": 117,
+    "Hofer": 242,
+    "Hundstorfer": 59,
+    "Khol": 117,
+    "Lugner": 14,
+    "VdB": 77
+  },
+  {
+    "name": "Stockerau",
+    "Griss": 128,
+    "Hofer": 273,
+    "Hundstorfer": 114,
+    "Khol": 86,
+    "Lugner": 15,
+    "VdB": 149
+  },
+  {
+    "name": "Niederhollabrunn",
+    "Griss": 1485,
+    "Hofer": 2903,
+    "Hundstorfer": 1164,
+    "Khol": 732,
+    "Lugner": 207,
+    "VdB": 1669
+  },
+  {
+    "name": "Aggsbach",
+    "Griss": 184,
+    "Hofer": 326,
+    "Hundstorfer": 68,
+    "Khol": 139,
+    "Lugner": 28,
+    "VdB": 134
+  },
+  {
+    "name": "Albrechtsberg an der Großen Krems",
+    "Griss": 58,
+    "Hofer": 120,
+    "Hundstorfer": 105,
+    "Khol": 50,
+    "Lugner": 21,
+    "VdB": 50
+  },
+  {
+    "name": "Bergern im Dunkelsteinerwald",
+    "Griss": 67,
+    "Hofer": 230,
+    "Hundstorfer": 74,
+    "Khol": 152,
+    "Lugner": 27,
+    "VdB": 67
+  },
+  {
+    "name": "Dürnstein",
+    "Griss": 143,
+    "Hofer": 278,
+    "Hundstorfer": 70,
+    "Khol": 158,
+    "Lugner": 32,
+    "VdB": 89
+  },
+  {
+    "name": "Grafenegg",
+    "Griss": 126,
+    "Hofer": 150,
+    "Hundstorfer": 67,
+    "Khol": 111,
+    "Lugner": 9,
+    "VdB": 78
+  },
+  {
+    "name": "Furth bei Göttweig",
+    "Griss": 325,
+    "Hofer": 616,
+    "Hundstorfer": 172,
+    "Khol": 338,
+    "Lugner": 54,
+    "VdB": 310
+  },
+  {
+    "name": "Gedersdorf",
+    "Griss": 325,
+    "Hofer": 479,
+    "Hundstorfer": 202,
+    "Khol": 270,
+    "Lugner": 54,
+    "VdB": 299
+  },
+  {
+    "name": "Gföhl",
+    "Griss": 174,
+    "Hofer": 531,
+    "Hundstorfer": 158,
+    "Khol": 183,
+    "Lugner": 42,
+    "VdB": 181
+  },
+  {
+    "name": "Hadersdorf-Kammern",
+    "Griss": 318,
+    "Hofer": 860,
+    "Hundstorfer": 194,
+    "Khol": 391,
+    "Lugner": 84,
+    "VdB": 238
+  },
+  {
+    "name": "Jaidhof",
+    "Griss": 225,
+    "Hofer": 437,
+    "Hundstorfer": 149,
+    "Khol": 122,
+    "Lugner": 37,
+    "VdB": 159
+  },
+  {
+    "name": "Krumau am Kamp",
+    "Griss": 102,
+    "Hofer": 241,
+    "Hundstorfer": 62,
+    "Khol": 176,
+    "Lugner": 25,
+    "VdB": 78
+  },
+  {
+    "name": "Langenlois",
+    "Griss": 63,
+    "Hofer": 169,
+    "Hundstorfer": 43,
+    "Khol": 98,
+    "Lugner": 15,
+    "VdB": 43
+  },
+  {
+    "name": "Lengenfeld",
+    "Griss": 769,
+    "Hofer": 1647,
+    "Hundstorfer": 342,
+    "Khol": 590,
+    "Lugner": 114,
+    "VdB": 793
+  },
+  {
+    "name": "Lichtenau im Waldviertel",
+    "Griss": 149,
+    "Hofer": 330,
+    "Hundstorfer": 108,
+    "Khol": 164,
+    "Lugner": 23,
+    "VdB": 113
+  },
+  {
+    "name": "Maria Laach am Jauerling",
+    "Griss": 148,
+    "Hofer": 485,
+    "Hundstorfer": 83,
+    "Khol": 322,
+    "Lugner": 57,
+    "VdB": 105
+  },
+  {
+    "name": "Mautern an der Donau",
+    "Griss": 76,
+    "Hofer": 168,
+    "Hundstorfer": 30,
+    "Khol": 174,
+    "Lugner": 17,
+    "VdB": 77
+  },
+  {
+    "name": "Mühldorf",
+    "Griss": 406,
+    "Hofer": 671,
+    "Hundstorfer": 179,
+    "Khol": 301,
+    "Lugner": 57,
+    "VdB": 384
+  },
+  {
+    "name": "Paudorf",
+    "Griss": 133,
+    "Hofer": 277,
+    "Hundstorfer": 109,
+    "Khol": 185,
+    "Lugner": 22,
+    "VdB": 112
+  },
+  {
+    "name": "Rastenfeld",
+    "Griss": 220,
+    "Hofer": 558,
+    "Hundstorfer": 264,
+    "Khol": 188,
+    "Lugner": 52,
+    "VdB": 238
+  },
+  {
+    "name": "Rohrendorf bei Krems",
+    "Griss": 148,
+    "Hofer": 351,
+    "Hundstorfer": 64,
+    "Khol": 234,
+    "Lugner": 24,
+    "VdB": 70
+  },
+  {
+    "name": "Rossatz-Arnsdorf",
+    "Griss": 179,
+    "Hofer": 379,
+    "Hundstorfer": 120,
+    "Khol": 170,
+    "Lugner": 27,
+    "VdB": 223
+  },
+  {
+    "name": "St. Leonhard am Hornerwald",
+    "Griss": 142,
+    "Hofer": 212,
+    "Hundstorfer": 70,
+    "Khol": 107,
+    "Lugner": 24,
+    "VdB": 98
+  },
+  {
+    "name": "Senftenberg",
+    "Griss": 77,
+    "Hofer": 285,
+    "Hundstorfer": 46,
+    "Khol": 153,
+    "Lugner": 23,
+    "VdB": 99
+  },
+  {
+    "name": "Spitz",
+    "Griss": 211,
+    "Hofer": 380,
+    "Hundstorfer": 133,
+    "Khol": 151,
+    "Lugner": 37,
+    "VdB": 172
+  },
+  {
+    "name": "Straß im Straßertale",
+    "Griss": 185,
+    "Hofer": 355,
+    "Hundstorfer": 91,
+    "Khol": 213,
+    "Lugner": 24,
+    "VdB": 128
+  },
+  {
+    "name": "Stratzing",
+    "Griss": 175,
+    "Hofer": 301,
+    "Hundstorfer": 87,
+    "Khol": 200,
+    "Lugner": 25,
+    "VdB": 170
+  },
+  {
+    "name": "Weinzierl am Walde",
+    "Griss": 86,
+    "Hofer": 174,
+    "Hundstorfer": 33,
+    "Khol": 112,
+    "Lugner": 10,
+    "VdB": 99
+  },
+  {
+    "name": "Weißenkirchen in der Wachau",
+    "Griss": 82,
+    "Hofer": 335,
+    "Hundstorfer": 60,
+    "Khol": 168,
+    "Lugner": 32,
+    "VdB": 63
+  },
+  {
+    "name": "Schönberg am Kamp",
+    "Griss": 172,
+    "Hofer": 249,
+    "Hundstorfer": 80,
+    "Khol": 147,
+    "Lugner": 29,
+    "VdB": 162
+  },
+  {
+    "name": "Droß",
+    "Griss": 239,
+    "Hofer": 425,
+    "Hundstorfer": 84,
+    "Khol": 198,
+    "Lugner": 32,
+    "VdB": 191
+  },
+  {
+    "name": "Annaberg",
+    "Griss": 134,
+    "Hofer": 209,
+    "Hundstorfer": 47,
+    "Khol": 71,
+    "Lugner": 12,
+    "VdB": 129
+  },
+  {
+    "name": "Eschenau",
+    "Griss": 45,
+    "Hofer": 69,
+    "Hundstorfer": 34,
+    "Khol": 87,
+    "Lugner": 12,
+    "VdB": 54
+  },
+  {
+    "name": "Hainfeld",
+    "Griss": 108,
+    "Hofer": 283,
+    "Hundstorfer": 62,
+    "Khol": 120,
+    "Lugner": 22,
+    "VdB": 111
+  },
+  {
+    "name": "Hohenberg",
+    "Griss": 273,
+    "Hofer": 749,
+    "Hundstorfer": 319,
+    "Khol": 276,
+    "Lugner": 61,
+    "VdB": 302
+  },
+  {
+    "name": "Kaumberg",
+    "Griss": 125,
+    "Hofer": 298,
+    "Hundstorfer": 173,
+    "Khol": 77,
+    "Lugner": 33,
+    "VdB": 137
+  },
+  {
+    "name": "Kleinzell",
+    "Griss": 98,
+    "Hofer": 253,
+    "Hundstorfer": 44,
+    "Khol": 120,
+    "Lugner": 19,
+    "VdB": 54
+  },
+  {
+    "name": "Lilienfeld",
+    "Griss": 56,
+    "Hofer": 227,
+    "Hundstorfer": 32,
+    "Khol": 109,
+    "Lugner": 10,
+    "VdB": 44
+  },
+  {
+    "name": "Mitterbach am Erlaufsee",
+    "Griss": 262,
+    "Hofer": 446,
+    "Hundstorfer": 184,
+    "Khol": 187,
+    "Lugner": 35,
+    "VdB": 270
+  },
+  {
+    "name": "Ramsau",
+    "Griss": 41,
+    "Hofer": 109,
+    "Hundstorfer": 30,
+    "Khol": 72,
+    "Lugner": 13,
+    "VdB": 32
+  },
+  {
+    "name": "Rohrbach an der Gölsen",
+    "Griss": 64,
+    "Hofer": 194,
+    "Hundstorfer": 32,
+    "Khol": 75,
+    "Lugner": 16,
+    "VdB": 62
+  },
+  {
+    "name": "St. Aegyd am Neuwalde",
+    "Griss": 176,
+    "Hofer": 299,
+    "Hundstorfer": 108,
+    "Khol": 166,
+    "Lugner": 32,
+    "VdB": 151
+  },
+  {
+    "name": "St. Veit an der Gölsen",
+    "Griss": 138,
+    "Hofer": 385,
+    "Hundstorfer": 237,
+    "Khol": 128,
+    "Lugner": 30,
+    "VdB": 154
+  },
+  {
+    "name": "Traisen",
+    "Griss": 364,
+    "Hofer": 796,
+    "Hundstorfer": 314,
+    "Khol": 339,
+    "Lugner": 89,
+    "VdB": 320
+  },
+  {
+    "name": "Türnitz",
+    "Griss": 241,
+    "Hofer": 615,
+    "Hundstorfer": 371,
+    "Khol": 109,
+    "Lugner": 51,
+    "VdB": 258
+  },
+  {
+    "name": "Artstetten-Pöbring",
+    "Griss": 185,
+    "Hofer": 448,
+    "Hundstorfer": 119,
+    "Khol": 214,
+    "Lugner": 47,
+    "VdB": 124
+  },
+  {
+    "name": "Bergland",
+    "Griss": 97,
+    "Hofer": 228,
+    "Hundstorfer": 61,
+    "Khol": 190,
+    "Lugner": 28,
+    "VdB": 78
+  },
+  {
+    "name": "Bischofstetten",
+    "Griss": 160,
+    "Hofer": 414,
+    "Hundstorfer": 82,
+    "Khol": 248,
+    "Lugner": 23,
+    "VdB": 123
+  },
+  {
+    "name": "Blindenmarkt",
+    "Griss": 94,
+    "Hofer": 242,
+    "Hundstorfer": 97,
+    "Khol": 158,
+    "Lugner": 31,
+    "VdB": 97
+  },
+  {
+    "name": "Dorfstetten",
+    "Griss": 203,
+    "Hofer": 659,
+    "Hundstorfer": 110,
+    "Khol": 159,
+    "Lugner": 43,
+    "VdB": 143
+  },
+  {
+    "name": "Dunkelsteinerwald",
+    "Griss": 28,
+    "Hofer": 128,
+    "Hundstorfer": 52,
+    "Khol": 72,
+    "Lugner": 18,
+    "VdB": 19
+  },
+  {
+    "name": "Erlauf",
+    "Griss": 218,
+    "Hofer": 615,
+    "Hundstorfer": 120,
+    "Khol": 233,
+    "Lugner": 42,
+    "VdB": 161
+  },
+  {
+    "name": "Golling an der Erlauf",
+    "Griss": 122,
+    "Hofer": 190,
+    "Hundstorfer": 75,
+    "Khol": 92,
+    "Lugner": 28,
+    "VdB": 96
+  },
+  {
+    "name": "Hofamt Priel",
+    "Griss": 90,
+    "Hofer": 342,
+    "Hundstorfer": 192,
+    "Khol": 28,
+    "Lugner": 27,
+    "VdB": 97
+  },
+  {
+    "name": "Hürm",
+    "Griss": 131,
+    "Hofer": 371,
+    "Hundstorfer": 143,
+    "Khol": 148,
+    "Lugner": 29,
+    "VdB": 162
+  },
+  {
+    "name": "Kilb",
+    "Griss": 158,
+    "Hofer": 391,
+    "Hundstorfer": 53,
+    "Khol": 241,
+    "Lugner": 37,
+    "VdB": 104
+  },
+  {
+    "name": "Kirnberg an der Mank",
+    "Griss": 235,
+    "Hofer": 506,
+    "Hundstorfer": 80,
+    "Khol": 323,
+    "Lugner": 41,
+    "VdB": 243
+  },
+  {
+    "name": "Klein-Pöchlarn",
+    "Griss": 116,
+    "Hofer": 245,
+    "Hundstorfer": 24,
+    "Khol": 171,
+    "Lugner": 24,
+    "VdB": 71
+  },
+  {
+    "name": "Krummnußbaum",
+    "Griss": 83,
+    "Hofer": 177,
+    "Hundstorfer": 111,
+    "Khol": 76,
+    "Lugner": 19,
+    "VdB": 93
+  },
+  {
+    "name": "Leiben",
+    "Griss": 127,
+    "Hofer": 252,
+    "Hundstorfer": 133,
+    "Khol": 108,
+    "Lugner": 25,
+    "VdB": 158
+  },
+  {
+    "name": "Loosdorf",
+    "Griss": 85,
+    "Hofer": 249,
+    "Hundstorfer": 161,
+    "Khol": 120,
+    "Lugner": 29,
+    "VdB": 80
+  },
+  {
+    "name": "Mank",
+    "Griss": 299,
+    "Hofer": 742,
+    "Hundstorfer": 361,
+    "Khol": 210,
+    "Lugner": 47,
+    "VdB": 292
+  },
+  {
+    "name": "Marbach an der Donau",
+    "Griss": 304,
+    "Hofer": 601,
+    "Hundstorfer": 122,
+    "Khol": 401,
+    "Lugner": 46,
+    "VdB": 312
+  },
+  {
+    "name": "Maria Taferl",
+    "Griss": 135,
+    "Hofer": 367,
+    "Hundstorfer": 146,
+    "Khol": 73,
+    "Lugner": 35,
+    "VdB": 110
+  },
+  {
+    "name": "Melk",
+    "Griss": 49,
+    "Hofer": 210,
+    "Hundstorfer": 60,
+    "Khol": 85,
+    "Lugner": 31,
+    "VdB": 89
+  },
+  {
+    "name": "Münichreith-Laimbach",
+    "Griss": 573,
+    "Hofer": 866,
+    "Hundstorfer": 234,
+    "Khol": 392,
+    "Lugner": 63,
+    "VdB": 561
+  },
+  {
+    "name": "Neumarkt an der Ybbs",
+    "Griss": 102,
+    "Hofer": 422,
+    "Hundstorfer": 101,
+    "Khol": 150,
+    "Lugner": 28,
+    "VdB": 94
+  },
+  {
+    "name": "Nöchling",
+    "Griss": 151,
+    "Hofer": 416,
+    "Hundstorfer": 128,
+    "Khol": 105,
+    "Lugner": 33,
+    "VdB": 148
+  },
+  {
+    "name": "Persenbeug-Gottsdorf",
+    "Griss": 76,
+    "Hofer": 195,
+    "Hundstorfer": 85,
+    "Khol": 132,
+    "Lugner": 14,
+    "VdB": 88
+  },
+  {
+    "name": "Petzenkirchen",
+    "Griss": 154,
+    "Hofer": 435,
+    "Hundstorfer": 256,
+    "Khol": 113,
+    "Lugner": 42,
+    "VdB": 202
+  },
+  {
+    "name": "Pöchlarn",
+    "Griss": 97,
+    "Hofer": 256,
+    "Hundstorfer": 115,
+    "Khol": 80,
+    "Lugner": 19,
+    "VdB": 101
+  },
+  {
+    "name": "Pöggstall",
+    "Griss": 304,
+    "Hofer": 674,
+    "Hundstorfer": 255,
+    "Khol": 189,
+    "Lugner": 56,
+    "VdB": 282
+  },
+  {
+    "name": "Raxendorf",
+    "Griss": 192,
+    "Hofer": 571,
+    "Hundstorfer": 113,
+    "Khol": 295,
+    "Lugner": 46,
+    "VdB": 128
+  },
+  {
+    "name": "Ruprechtshofen",
+    "Griss": 63,
+    "Hofer": 239,
+    "Hundstorfer": 72,
+    "Khol": 186,
+    "Lugner": 22,
+    "VdB": 51
+  },
+  {
+    "name": "St. Leonhard am Forst",
+    "Griss": 194,
+    "Hofer": 528,
+    "Hundstorfer": 71,
+    "Khol": 311,
+    "Lugner": 36,
+    "VdB": 158
+  },
+  {
+    "name": "St. Martin-Karlsbach",
+    "Griss": 260,
+    "Hofer": 730,
+    "Hundstorfer": 150,
+    "Khol": 301,
+    "Lugner": 37,
+    "VdB": 194
+  },
+  {
+    "name": "St. Oswald",
+    "Griss": 179,
+    "Hofer": 377,
+    "Hundstorfer": 128,
+    "Khol": 157,
+    "Lugner": 40,
+    "VdB": 129
+  },
+  {
+    "name": "Schönbühel-Aggsbach",
+    "Griss": 64,
+    "Hofer": 170,
+    "Hundstorfer": 62,
+    "Khol": 202,
+    "Lugner": 17,
+    "VdB": 44
+  },
+  {
+    "name": "Schollach",
+    "Griss": 100,
+    "Hofer": 215,
+    "Hundstorfer": 60,
+    "Khol": 91,
+    "Lugner": 21,
+    "VdB": 106
+  },
+  {
+    "name": "Weiten",
+    "Griss": 74,
+    "Hofer": 241,
+    "Hundstorfer": 63,
+    "Khol": 98,
+    "Lugner": 12,
+    "VdB": 75
+  },
+  {
+    "name": "Ybbs an der Donau",
+    "Griss": 69,
+    "Hofer": 208,
+    "Hundstorfer": 59,
+    "Khol": 172,
+    "Lugner": 21,
+    "VdB": 55
+  },
+  {
+    "name": "Zelking-Matzleinsdorf",
+    "Griss": 385,
+    "Hofer": 953,
+    "Hundstorfer": 474,
+    "Khol": 300,
+    "Lugner": 75,
+    "VdB": 436
+  },
+  {
+    "name": "Texingtal",
+    "Griss": 151,
+    "Hofer": 225,
+    "Hundstorfer": 77,
+    "Khol": 145,
+    "Lugner": 24,
+    "VdB": 128
+  },
+  {
+    "name": "Yspertal",
+    "Griss": 139,
+    "Hofer": 286,
+    "Hundstorfer": 45,
+    "Khol": 289,
+    "Lugner": 28,
+    "VdB": 119
+  },
+  {
+    "name": "Emmersdorf an der Donau",
+    "Griss": 135,
+    "Hofer": 438,
+    "Hundstorfer": 150,
+    "Khol": 194,
+    "Lugner": 33,
+    "VdB": 112
+  },
+  {
+    "name": "Altlichtenwarth",
+    "Griss": 184,
+    "Hofer": 306,
+    "Hundstorfer": 110,
+    "Khol": 160,
+    "Lugner": 23,
+    "VdB": 153
+  },
+  {
+    "name": "Asparn an der Zaya",
+    "Griss": 45,
+    "Hofer": 157,
+    "Hundstorfer": 44,
+    "Khol": 105,
+    "Lugner": 16,
+    "VdB": 28
+  },
+  {
+    "name": "Bernhardsthal",
+    "Griss": 133,
+    "Hofer": 462,
+    "Hundstorfer": 158,
+    "Khol": 178,
+    "Lugner": 27,
+    "VdB": 102
+  },
+  {
+    "name": "Bockfließ",
+    "Griss": 118,
+    "Hofer": 379,
+    "Hundstorfer": 158,
+    "Khol": 165,
+    "Lugner": 33,
+    "VdB": 88
+  },
+  {
+    "name": "Drasenhofen",
+    "Griss": 138,
+    "Hofer": 272,
+    "Hundstorfer": 98,
+    "Khol": 146,
+    "Lugner": 20,
+    "VdB": 134
+  },
+  {
+    "name": "Falkenstein",
+    "Griss": 76,
+    "Hofer": 268,
+    "Hundstorfer": 45,
+    "Khol": 194,
+    "Lugner": 21,
+    "VdB": 50
+  },
+  {
+    "name": "Fallbach",
+    "Griss": 43,
+    "Hofer": 59,
+    "Hundstorfer": 9,
+    "Khol": 97,
+    "Lugner": 11,
+    "VdB": 57
+  },
+  {
+    "name": "Gaubitsch",
+    "Griss": 81,
+    "Hofer": 127,
+    "Hundstorfer": 29,
+    "Khol": 197,
+    "Lugner": 11,
+    "VdB": 43
+  },
+  {
+    "name": "Gaweinstal",
+    "Griss": 101,
+    "Hofer": 212,
+    "Hundstorfer": 17,
+    "Khol": 142,
+    "Lugner": 17,
+    "VdB": 49
+  },
+  {
+    "name": "Gnadendorf",
+    "Griss": 303,
+    "Hofer": 882,
+    "Hundstorfer": 213,
+    "Khol": 359,
+    "Lugner": 46,
+    "VdB": 251
+  },
+  {
+    "name": "Großebersdorf",
+    "Griss": 102,
+    "Hofer": 225,
+    "Hundstorfer": 50,
+    "Khol": 204,
+    "Lugner": 18,
+    "VdB": 73
+  },
+  {
+    "name": "Großengersdorf",
+    "Griss": 187,
+    "Hofer": 556,
+    "Hundstorfer": 124,
+    "Khol": 211,
+    "Lugner": 34,
+    "VdB": 195
+  },
+  {
+    "name": "Großharras",
+    "Griss": 135,
+    "Hofer": 309,
+    "Hundstorfer": 139,
+    "Khol": 130,
+    "Lugner": 22,
+    "VdB": 122
+  },
+  {
+    "name": "Großkrut",
+    "Griss": 76,
+    "Hofer": 258,
+    "Hundstorfer": 67,
+    "Khol": 176,
+    "Lugner": 21,
+    "VdB": 58
+  },
+  {
+    "name": "Hausbrunn",
+    "Griss": 106,
+    "Hofer": 383,
+    "Hundstorfer": 129,
+    "Khol": 192,
+    "Lugner": 27,
+    "VdB": 99
+  },
+  {
+    "name": "Herrnbaumgarten",
+    "Griss": 50,
+    "Hofer": 210,
+    "Hundstorfer": 138,
+    "Khol": 78,
+    "Lugner": 16,
+    "VdB": 32
+  },
+  {
+    "name": "Hochleithen",
+    "Griss": 109,
+    "Hofer": 239,
+    "Hundstorfer": 42,
+    "Khol": 126,
+    "Lugner": 14,
+    "VdB": 46
+  },
+  {
+    "name": "Kreuttal",
+    "Griss": 101,
+    "Hofer": 267,
+    "Hundstorfer": 99,
+    "Khol": 122,
+    "Lugner": 18,
+    "VdB": 99
+  },
+  {
+    "name": "Kreuzstetten",
+    "Griss": 171,
+    "Hofer": 269,
+    "Hundstorfer": 107,
+    "Khol": 128,
+    "Lugner": 18,
+    "VdB": 149
+  },
+  {
+    "name": "Laa an der Thaya",
+    "Griss": 179,
+    "Hofer": 344,
+    "Hundstorfer": 100,
+    "Khol": 128,
+    "Lugner": 16,
+    "VdB": 173
+  },
+  {
+    "name": "Ladendorf",
+    "Griss": 556,
+    "Hofer": 1344,
+    "Hundstorfer": 519,
+    "Khol": 558,
+    "Lugner": 73,
+    "VdB": 447
+  },
+  {
+    "name": "Mistelbach",
+    "Griss": 201,
+    "Hofer": 453,
+    "Hundstorfer": 155,
+    "Khol": 244,
+    "Lugner": 39,
+    "VdB": 211
+  },
+  {
+    "name": "Neudorf bei Staatz",
+    "Griss": 1115,
+    "Hofer": 2222,
+    "Hundstorfer": 683,
+    "Khol": 802,
+    "Lugner": 153,
+    "VdB": 1051
+  },
+  {
+    "name": "Niederleis",
+    "Griss": 93,
+    "Hofer": 348,
+    "Hundstorfer": 76,
+    "Khol": 149,
+    "Lugner": 30,
+    "VdB": 75
+  },
+  {
+    "name": "Pillichsdorf",
+    "Griss": 67,
+    "Hofer": 189,
+    "Hundstorfer": 68,
+    "Khol": 86,
+    "Lugner": 13,
+    "VdB": 81
+  },
+  {
+    "name": "Poysdorf",
+    "Griss": 113,
+    "Hofer": 249,
+    "Hundstorfer": 72,
+    "Khol": 138,
+    "Lugner": 14,
+    "VdB": 164
+  },
+  {
+    "name": "Rabensburg",
+    "Griss": 437,
+    "Hofer": 1192,
+    "Hundstorfer": 274,
+    "Khol": 713,
+    "Lugner": 109,
+    "VdB": 272
+  },
+  {
+    "name": "Schrattenberg",
+    "Griss": 43,
+    "Hofer": 305,
+    "Hundstorfer": 130,
+    "Khol": 36,
+    "Lugner": 21,
+    "VdB": 42
+  },
+  {
+    "name": "Staatz",
+    "Griss": 61,
+    "Hofer": 181,
+    "Hundstorfer": 37,
+    "Khol": 137,
+    "Lugner": 17,
+    "VdB": 27
+  },
+  {
+    "name": "Stronsdorf",
+    "Griss": 140,
+    "Hofer": 472,
+    "Hundstorfer": 148,
+    "Khol": 251,
+    "Lugner": 30,
+    "VdB": 102
+  },
+  {
+    "name": "Ulrichskirchen-Schleinbach",
+    "Griss": 140,
+    "Hofer": 422,
+    "Hundstorfer": 61,
+    "Khol": 278,
+    "Lugner": 33,
+    "VdB": 81
+  },
+  {
+    "name": "Unterstinkenbrunn",
+    "Griss": 268,
+    "Hofer": 537,
+    "Hundstorfer": 186,
+    "Khol": 192,
+    "Lugner": 41,
+    "VdB": 285
+  },
+  {
+    "name": "Wildendürnbach",
+    "Griss": 59,
+    "Hofer": 114,
+    "Hundstorfer": 25,
+    "Khol": 93,
+    "Lugner": 6,
+    "VdB": 24
+  },
+  {
+    "name": "Wilfersdorf",
+    "Griss": 149,
+    "Hofer": 355,
+    "Hundstorfer": 68,
+    "Khol": 237,
+    "Lugner": 26,
+    "VdB": 85
+  },
+  {
+    "name": "Wolkersdorf im Weinviertel",
+    "Griss": 178,
+    "Hofer": 534,
+    "Hundstorfer": 161,
+    "Khol": 206,
+    "Lugner": 29,
+    "VdB": 134
+  },
+  {
+    "name": "Ottenthal",
+    "Griss": 810,
+    "Hofer": 1054,
+    "Hundstorfer": 363,
+    "Khol": 643,
+    "Lugner": 73,
+    "VdB": 970
+  },
+  {
+    "name": "Achau",
+    "Griss": 57,
+    "Hofer": 117,
+    "Hundstorfer": 27,
+    "Khol": 116,
+    "Lugner": 4,
+    "VdB": 25
+  },
+  {
+    "name": "Biedermannsdorf",
+    "Griss": 126,
+    "Hofer": 259,
+    "Hundstorfer": 94,
+    "Khol": 63,
+    "Lugner": 18,
+    "VdB": 168
+  },
+  {
+    "name": "Breitenfurt bei Wien",
+    "Griss": 393,
+    "Hofer": 483,
+    "Hundstorfer": 125,
+    "Khol": 158,
+    "Lugner": 28,
+    "VdB": 399
+  },
+  {
+    "name": "Brunn am Gebirge",
+    "Griss": 807,
+    "Hofer": 882,
+    "Hundstorfer": 275,
+    "Khol": 306,
+    "Lugner": 65,
+    "VdB": 930
+  },
+  {
+    "name": "Gaaden",
+    "Griss": 1415,
+    "Hofer": 1664,
+    "Hundstorfer": 619,
+    "Khol": 492,
+    "Lugner": 126,
+    "VdB": 1624
+  },
+  {
+    "name": "Gießhübl",
+    "Griss": 305,
+    "Hofer": 225,
+    "Hundstorfer": 67,
+    "Khol": 74,
+    "Lugner": 28,
+    "VdB": 246
+  },
+  {
+    "name": "Gumpoldskirchen",
+    "Griss": 352,
+    "Hofer": 292,
+    "Hundstorfer": 78,
+    "Khol": 130,
+    "Lugner": 22,
+    "VdB": 379
+  },
+  {
+    "name": "Guntramsdorf",
+    "Griss": 451,
+    "Hofer": 575,
+    "Hundstorfer": 155,
+    "Khol": 185,
+    "Lugner": 46,
+    "VdB": 559
+  },
+  {
+    "name": "Hennersdorf",
+    "Griss": 948,
+    "Hofer": 1666,
+    "Hundstorfer": 665,
+    "Khol": 288,
+    "Lugner": 111,
+    "VdB": 1130
+  },
+  {
+    "name": "Hinterbrühl",
+    "Griss": 202,
+    "Hofer": 333,
+    "Hundstorfer": 102,
+    "Khol": 82,
+    "Lugner": 14,
+    "VdB": 193
+  },
+  {
+    "name": "Kaltenleutgeben",
+    "Griss": 579,
+    "Hofer": 480,
+    "Hundstorfer": 124,
+    "Khol": 231,
+    "Lugner": 35,
+    "VdB": 575
+  },
+  {
+    "name": "Laab im Walde",
+    "Griss": 414,
+    "Hofer": 580,
+    "Hundstorfer": 195,
+    "Khol": 133,
+    "Lugner": 31,
+    "VdB": 457
+  },
+  {
+    "name": "Laxenburg",
+    "Griss": 141,
+    "Hofer": 132,
+    "Hundstorfer": 58,
+    "Khol": 106,
+    "Lugner": 10,
+    "VdB": 208
+  },
+  {
+    "name": "Maria Enzersdorf",
+    "Griss": 359,
+    "Hofer": 377,
+    "Hundstorfer": 119,
+    "Khol": 178,
+    "Lugner": 20,
+    "VdB": 375
+  },
+  {
+    "name": "Mödling",
+    "Griss": 1253,
+    "Hofer": 925,
+    "Hundstorfer": 229,
+    "Khol": 508,
+    "Lugner": 74,
+    "VdB": 1340
+  },
+  {
+    "name": "Münchendorf",
+    "Griss": 2428,
+    "Hofer": 2261,
+    "Hundstorfer": 813,
+    "Khol": 977,
+    "Lugner": 168,
+    "VdB": 2981
+  },
+  {
+    "name": "Perchtoldsdorf",
+    "Griss": 326,
+    "Hofer": 601,
+    "Hundstorfer": 202,
+    "Khol": 125,
+    "Lugner": 41,
+    "VdB": 320
+  },
+  {
+    "name": "Vösendorf",
+    "Griss": 2227,
+    "Hofer": 1965,
+    "Hundstorfer": 546,
+    "Khol": 897,
+    "Lugner": 143,
+    "VdB": 2302
+  },
+  {
+    "name": "Wiener Neudorf",
+    "Griss": 487,
+    "Hofer": 1272,
+    "Hundstorfer": 401,
+    "Khol": 207,
+    "Lugner": 71,
+    "VdB": 620
+  },
+  {
+    "name": "Wienerwald",
+    "Griss": 974,
+    "Hofer": 1513,
+    "Hundstorfer": 640,
+    "Khol": 299,
+    "Lugner": 130,
+    "VdB": 1193
+  },
+  {
+    "name": "Altendorf",
+    "Griss": 304,
+    "Hofer": 514,
+    "Hundstorfer": 130,
+    "Khol": 182,
+    "Lugner": 36,
+    "VdB": 356
+  },
+  {
+    "name": "Aspang-Markt",
+    "Griss": 39,
+    "Hofer": 96,
+    "Hundstorfer": 10,
+    "Khol": 42,
+    "Lugner": 6,
+    "VdB": 17
+  },
+  {
+    "name": "Aspangberg-St. Peter",
+    "Griss": 196,
+    "Hofer": 403,
+    "Hundstorfer": 114,
+    "Khol": 197,
+    "Lugner": 27,
+    "VdB": 134
+  },
+  {
+    "name": "Breitenau",
+    "Griss": 157,
+    "Hofer": 490,
+    "Hundstorfer": 96,
+    "Khol": 212,
+    "Lugner": 21,
+    "VdB": 105
+  },
+  {
+    "name": "Breitenstein",
+    "Griss": 142,
+    "Hofer": 366,
+    "Hundstorfer": 173,
+    "Khol": 85,
+    "Lugner": 18,
+    "VdB": 146
+  },
+  {
+    "name": "Buchbach",
+    "Griss": 15,
+    "Hofer": 63,
+    "Hundstorfer": 23,
+    "Khol": 30,
+    "Lugner": 4,
+    "VdB": 21
+  },
+  {
+    "name": "Edlitz",
+    "Griss": 30,
+    "Hofer": 53,
+    "Hundstorfer": 32,
+    "Khol": 37,
+    "Lugner": 7,
+    "VdB": 40
+  },
+  {
+    "name": "Enzenreith",
+    "Griss": 92,
+    "Hofer": 204,
+    "Hundstorfer": 46,
+    "Khol": 113,
+    "Lugner": 18,
+    "VdB": 73
+  },
+  {
+    "name": "Feistritz am Wechsel",
+    "Griss": 174,
+    "Hofer": 451,
+    "Hundstorfer": 149,
+    "Khol": 110,
+    "Lugner": 20,
+    "VdB": 180
+  },
+  {
+    "name": "Gloggnitz",
+    "Griss": 83,
+    "Hofer": 281,
+    "Hundstorfer": 53,
+    "Khol": 129,
+    "Lugner": 15,
+    "VdB": 79
+  },
+  {
+    "name": "Grafenbach-St. Valentin",
+    "Griss": 498,
+    "Hofer": 1264,
+    "Hundstorfer": 424,
+    "Khol": 255,
+    "Lugner": 88,
+    "VdB": 446
+  },
+  {
+    "name": "Grimmenstein",
+    "Griss": 204,
+    "Hofer": 491,
+    "Hundstorfer": 228,
+    "Khol": 148,
+    "Lugner": 41,
+    "VdB": 172
+  },
+  {
+    "name": "Grünbach am Schneeberg",
+    "Griss": 112,
+    "Hofer": 285,
+    "Hundstorfer": 128,
+    "Khol": 139,
+    "Lugner": 22,
+    "VdB": 106
+  },
+  {
+    "name": "Kirchberg am Wechsel",
+    "Griss": 107,
+    "Hofer": 357,
+    "Hundstorfer": 150,
+    "Khol": 62,
+    "Lugner": 33,
+    "VdB": 115
+  },
+  {
+    "name": "Mönichkirchen",
+    "Griss": 218,
+    "Hofer": 600,
+    "Hundstorfer": 64,
+    "Khol": 284,
+    "Lugner": 31,
+    "VdB": 154
+  },
+  {
+    "name": "Natschbach-Loipersbach",
+    "Griss": 45,
+    "Hofer": 156,
+    "Hundstorfer": 20,
+    "Khol": 78,
+    "Lugner": 10,
+    "VdB": 21
+  },
+  {
+    "name": "Neunkirchen",
+    "Griss": 179,
+    "Hofer": 404,
+    "Hundstorfer": 72,
+    "Khol": 133,
+    "Lugner": 26,
+    "VdB": 177
+  },
+  {
+    "name": "Otterthal",
+    "Griss": 779,
+    "Hofer": 2127,
+    "Hundstorfer": 775,
+    "Khol": 426,
+    "Lugner": 146,
+    "VdB": 991
+  },
+  {
+    "name": "Payerbach",
+    "Griss": 42,
+    "Hofer": 141,
+    "Hundstorfer": 37,
+    "Khol": 58,
+    "Lugner": 9,
+    "VdB": 24
+  },
+  {
+    "name": "Pitten",
+    "Griss": 192,
+    "Hofer": 401,
+    "Hundstorfer": 168,
+    "Khol": 108,
+    "Lugner": 38,
+    "VdB": 148
+  },
+  {
+    "name": "Prigglitz",
+    "Griss": 290,
+    "Hofer": 602,
+    "Hundstorfer": 198,
+    "Khol": 120,
+    "Lugner": 35,
+    "VdB": 214
+  },
+  {
+    "name": "Puchberg am Schneeberg",
+    "Griss": 45,
+    "Hofer": 117,
+    "Hundstorfer": 18,
+    "Khol": 36,
+    "Lugner": 6,
+    "VdB": 26
+  },
+  {
+    "name": "Raach am Hochgebirge",
+    "Griss": 242,
+    "Hofer": 623,
+    "Hundstorfer": 219,
+    "Khol": 151,
+    "Lugner": 44,
+    "VdB": 185
+  },
+  {
+    "name": "Reichenau an der Rax",
+    "Griss": 21,
+    "Hofer": 57,
+    "Hundstorfer": 16,
+    "Khol": 64,
+    "Lugner": 5,
+    "VdB": 20
+  },
+  {
+    "name": "St. Corona am Wechsel",
+    "Griss": 240,
+    "Hofer": 589,
+    "Hundstorfer": 186,
+    "Khol": 154,
+    "Lugner": 32,
+    "VdB": 215
+  },
+  {
+    "name": "St. Egyden am Steinfeld",
+    "Griss": 32,
+    "Hofer": 94,
+    "Hundstorfer": 7,
+    "Khol": 50,
+    "Lugner": 6,
+    "VdB": 16
+  },
+  {
+    "name": "Scheiblingkirchen-Thernberg",
+    "Griss": 184,
+    "Hofer": 425,
+    "Hundstorfer": 113,
+    "Khol": 160,
+    "Lugner": 34,
+    "VdB": 150
+  },
+  {
+    "name": "Schottwien",
+    "Griss": 211,
+    "Hofer": 365,
+    "Hundstorfer": 81,
+    "Khol": 239,
+    "Lugner": 26,
+    "VdB": 161
+  },
+  {
+    "name": "Schrattenbach",
+    "Griss": 44,
+    "Hofer": 163,
+    "Hundstorfer": 34,
+    "Khol": 50,
+    "Lugner": 13,
+    "VdB": 39
+  },
+  {
+    "name": "Schwarzau am Steinfeld",
+    "Griss": 32,
+    "Hofer": 80,
+    "Hundstorfer": 22,
+    "Khol": 37,
+    "Lugner": 3,
+    "VdB": 38
+  },
+  {
+    "name": "Schwarzau im Gebirge",
+    "Griss": 145,
+    "Hofer": 451,
+    "Hundstorfer": 161,
+    "Khol": 121,
+    "Lugner": 31,
+    "VdB": 142
+  },
+  {
+    "name": "Seebenstein",
+    "Griss": 60,
+    "Hofer": 137,
+    "Hundstorfer": 56,
+    "Khol": 33,
+    "Lugner": 22,
+    "VdB": 22
+  },
+  {
+    "name": "Semmering",
+    "Griss": 137,
+    "Hofer": 316,
+    "Hundstorfer": 137,
+    "Khol": 66,
+    "Lugner": 30,
+    "VdB": 121
+  },
+  {
+    "name": "Ternitz",
+    "Griss": 32,
+    "Hofer": 106,
+    "Hundstorfer": 37,
+    "Khol": 50,
+    "Lugner": 7,
+    "VdB": 31
+  },
+  {
+    "name": "Thomasberg",
+    "Griss": 1088,
+    "Hofer": 3230,
+    "Hundstorfer": 1439,
+    "Khol": 474,
+    "Lugner": 208,
+    "VdB": 1233
+  },
+  {
+    "name": "Trattenbach",
+    "Griss": 93,
+    "Hofer": 309,
+    "Hundstorfer": 81,
+    "Khol": 143,
+    "Lugner": 40,
+    "VdB": 65
+  },
+  {
+    "name": "Bürg-Vöstenhof",
+    "Griss": 46,
+    "Hofer": 140,
+    "Hundstorfer": 20,
+    "Khol": 99,
+    "Lugner": 6,
+    "VdB": 12
+  },
+  {
+    "name": "Warth",
+    "Griss": 23,
+    "Hofer": 49,
+    "Hundstorfer": 10,
+    "Khol": 22,
+    "Lugner": 3,
+    "VdB": 10
+  },
+  {
+    "name": "Wartmannstetten",
+    "Griss": 157,
+    "Hofer": 352,
+    "Hundstorfer": 79,
+    "Khol": 198,
+    "Lugner": 24,
+    "VdB": 119
+  },
+  {
+    "name": "Willendorf",
+    "Griss": 168,
+    "Hofer": 390,
+    "Hundstorfer": 100,
+    "Khol": 220,
+    "Lugner": 19,
+    "VdB": 158
+  },
+  {
+    "name": "Wimpassing im Schwarzatale",
+    "Griss": 84,
+    "Hofer": 237,
+    "Hundstorfer": 66,
+    "Khol": 45,
+    "Lugner": 14,
+    "VdB": 93
+  },
+  {
+    "name": "Würflach",
+    "Griss": 99,
+    "Hofer": 312,
+    "Hundstorfer": 212,
+    "Khol": 30,
+    "Lugner": 20,
+    "VdB": 122
+  },
+  {
+    "name": "Zöbern",
+    "Griss": 177,
+    "Hofer": 327,
+    "Hundstorfer": 122,
+    "Khol": 151,
+    "Lugner": 18,
+    "VdB": 143
+  },
+  {
+    "name": "Höflein an der Hohen Wand",
+    "Griss": 131,
+    "Hofer": 406,
+    "Hundstorfer": 60,
+    "Khol": 190,
+    "Lugner": 14,
+    "VdB": 83
+  },
+  {
+    "name": "Altlengbach",
+    "Griss": 83,
+    "Hofer": 220,
+    "Hundstorfer": 110,
+    "Khol": 48,
+    "Lugner": 16,
+    "VdB": 75
+  },
+  {
+    "name": "Asperhofen",
+    "Griss": 273,
+    "Hofer": 597,
+    "Hundstorfer": 156,
+    "Khol": 200,
+    "Lugner": 40,
+    "VdB": 264
+  },
+  {
+    "name": "Böheimkirchen",
+    "Griss": 173,
+    "Hofer": 521,
+    "Hundstorfer": 60,
+    "Khol": 166,
+    "Lugner": 49,
+    "VdB": 152
+  },
+  {
+    "name": "Brand-Laaben",
+    "Griss": 489,
+    "Hofer": 1005,
+    "Hundstorfer": 342,
+    "Khol": 358,
+    "Lugner": 93,
+    "VdB": 496
+  },
+  {
+    "name": "Eichgraben",
+    "Griss": 111,
+    "Hofer": 271,
+    "Hundstorfer": 55,
+    "Khol": 100,
+    "Lugner": 24,
+    "VdB": 107
+  },
+  {
+    "name": "Frankenfels",
+    "Griss": 487,
+    "Hofer": 648,
+    "Hundstorfer": 184,
+    "Khol": 200,
+    "Lugner": 53,
+    "VdB": 679
+  },
+  {
+    "name": "Gerersdorf",
+    "Griss": 117,
+    "Hofer": 368,
+    "Hundstorfer": 170,
+    "Khol": 326,
+    "Lugner": 38,
+    "VdB": 166
+  },
+  {
+    "name": "Hofstetten-Grünau",
+    "Griss": 100,
+    "Hofer": 171,
+    "Hundstorfer": 44,
+    "Khol": 127,
+    "Lugner": 12,
+    "VdB": 102
+  },
+  {
+    "name": "Hafnerbach",
+    "Griss": 242,
+    "Hofer": 593,
+    "Hundstorfer": 107,
+    "Khol": 334,
+    "Lugner": 31,
+    "VdB": 207
+  },
+  {
+    "name": "Haunoldstein",
+    "Griss": 167,
+    "Hofer": 311,
+    "Hundstorfer": 82,
+    "Khol": 209,
+    "Lugner": 28,
+    "VdB": 163
+  },
+  {
+    "name": "Herzogenburg",
+    "Griss": 95,
+    "Hofer": 258,
+    "Hundstorfer": 67,
+    "Khol": 99,
+    "Lugner": 17,
+    "VdB": 86
+  },
+  {
+    "name": "Inzersdorf-Getzersdorf",
+    "Griss": 603,
+    "Hofer": 1525,
+    "Hundstorfer": 724,
+    "Khol": 416,
+    "Lugner": 115,
+    "VdB": 738
+  },
+  {
+    "name": "Kapelln",
+    "Griss": 157,
+    "Hofer": 357,
+    "Hundstorfer": 94,
+    "Khol": 137,
+    "Lugner": 24,
+    "VdB": 122
+  },
+  {
+    "name": "Karlstetten",
+    "Griss": 124,
+    "Hofer": 336,
+    "Hundstorfer": 59,
+    "Khol": 162,
+    "Lugner": 23,
+    "VdB": 94
+  },
+  {
+    "name": "Kasten bei Böheimkirchen",
+    "Griss": 204,
+    "Hofer": 488,
+    "Hundstorfer": 152,
+    "Khol": 199,
+    "Lugner": 42,
+    "VdB": 214
+  },
+  {
+    "name": "Kirchberg an der Pielach",
+    "Griss": 158,
+    "Hofer": 272,
+    "Hundstorfer": 68,
+    "Khol": 83,
+    "Lugner": 38,
+    "VdB": 184
+  },
+  {
+    "name": "Kirchstetten",
+    "Griss": 301,
+    "Hofer": 623,
+    "Hundstorfer": 169,
+    "Khol": 326,
+    "Lugner": 64,
+    "VdB": 282
+  },
+  {
+    "name": "Loich",
+    "Griss": 216,
+    "Hofer": 398,
+    "Hundstorfer": 109,
+    "Khol": 137,
+    "Lugner": 32,
+    "VdB": 247
+  },
+  {
+    "name": "Maria-Anzbach",
+    "Griss": 48,
+    "Hofer": 115,
+    "Hundstorfer": 41,
+    "Khol": 74,
+    "Lugner": 5,
+    "VdB": 34
+  },
+  {
+    "name": "Markersdorf-Haindorf",
+    "Griss": 354,
+    "Hofer": 521,
+    "Hundstorfer": 131,
+    "Khol": 178,
+    "Lugner": 37,
+    "VdB": 405
+  },
+  {
+    "name": "Michelbach",
+    "Griss": 167,
+    "Hofer": 438,
+    "Hundstorfer": 126,
+    "Khol": 184,
+    "Lugner": 46,
+    "VdB": 167
+  },
+  {
+    "name": "Neidling",
+    "Griss": 85,
+    "Hofer": 213,
+    "Hundstorfer": 22,
+    "Khol": 124,
+    "Lugner": 16,
+    "VdB": 60
+  },
+  {
+    "name": "Neulengbach",
+    "Griss": 151,
+    "Hofer": 305,
+    "Hundstorfer": 110,
+    "Khol": 151,
+    "Lugner": 19,
+    "VdB": 144
+  },
+  {
+    "name": "Neustift-Innermanzing",
+    "Griss": 796,
+    "Hofer": 1422,
+    "Hundstorfer": 313,
+    "Khol": 533,
+    "Lugner": 114,
+    "VdB": 949
+  },
+  {
+    "name": "Nußdorf ob der Traisen",
+    "Griss": 140,
+    "Hofer": 317,
+    "Hundstorfer": 58,
+    "Khol": 108,
+    "Lugner": 21,
+    "VdB": 164
+  },
+  {
+    "name": "Ober-Grafendorf",
+    "Griss": 180,
+    "Hofer": 426,
+    "Hundstorfer": 100,
+    "Khol": 169,
+    "Lugner": 26,
+    "VdB": 174
+  },
+  {
+    "name": "Obritzberg-Rust",
+    "Griss": 420,
+    "Hofer": 840,
+    "Hundstorfer": 418,
+    "Khol": 397,
+    "Lugner": 83,
+    "VdB": 476
+  },
+  {
+    "name": "Prinzersdorf",
+    "Griss": 226,
+    "Hofer": 513,
+    "Hundstorfer": 104,
+    "Khol": 289,
+    "Lugner": 55,
+    "VdB": 196
+  },
+  {
+    "name": "Pyhra",
+    "Griss": 179,
+    "Hofer": 275,
+    "Hundstorfer": 139,
+    "Khol": 111,
+    "Lugner": 21,
+    "VdB": 196
+  },
+  {
+    "name": "Rabenstein an der Pielach",
+    "Griss": 373,
+    "Hofer": 697,
+    "Hundstorfer": 162,
+    "Khol": 413,
+    "Lugner": 65,
+    "VdB": 336
+  },
+  {
+    "name": "St. Margarethen an der Sierning",
+    "Griss": 211,
+    "Hofer": 497,
+    "Hundstorfer": 173,
+    "Khol": 259,
+    "Lugner": 74,
+    "VdB": 199
+  },
+  {
+    "name": "Schwarzenbach an der Pielach",
+    "Griss": 108,
+    "Hofer": 205,
+    "Hundstorfer": 36,
+    "Khol": 166,
+    "Lugner": 9,
+    "VdB": 103
+  },
+  {
+    "name": "Statzendorf",
+    "Griss": 24,
+    "Hofer": 115,
+    "Hundstorfer": 33,
+    "Khol": 54,
+    "Lugner": 11,
+    "VdB": 10
+  },
+  {
+    "name": "Stössing",
+    "Griss": 101,
+    "Hofer": 298,
+    "Hundstorfer": 139,
+    "Khol": 93,
+    "Lugner": 30,
+    "VdB": 123
+  },
+  {
+    "name": "Traismauer",
+    "Griss": 72,
+    "Hofer": 138,
+    "Hundstorfer": 22,
+    "Khol": 102,
+    "Lugner": 16,
+    "VdB": 53
+  },
+  {
+    "name": "Weinburg",
+    "Griss": 449,
+    "Hofer": 1311,
+    "Hundstorfer": 493,
+    "Khol": 338,
+    "Lugner": 92,
+    "VdB": 546
+  },
+  {
+    "name": "Perschling",
+    "Griss": 144,
+    "Hofer": 274,
+    "Hundstorfer": 154,
+    "Khol": 91,
+    "Lugner": 35,
+    "VdB": 144
+  },
+  {
+    "name": "Wilhelmsburg",
+    "Griss": 128,
+    "Hofer": 332,
+    "Hundstorfer": 30,
+    "Khol": 149,
+    "Lugner": 24,
+    "VdB": 103
+  },
+  {
+    "name": "Wölbling",
+    "Griss": 599,
+    "Hofer": 1238,
+    "Hundstorfer": 537,
+    "Khol": 333,
+    "Lugner": 94,
+    "VdB": 598
+  },
+  {
+    "name": "Gaming",
+    "Griss": 236,
+    "Hofer": 490,
+    "Hundstorfer": 197,
+    "Khol": 176,
+    "Lugner": 38,
+    "VdB": 266
+  },
+  {
+    "name": "Göstling an der Ybbs",
+    "Griss": 285,
+    "Hofer": 534,
+    "Hundstorfer": 473,
+    "Khol": 194,
+    "Lugner": 39,
+    "VdB": 232
+  },
+  {
+    "name": "Gresten",
+    "Griss": 146,
+    "Hofer": 378,
+    "Hundstorfer": 231,
+    "Khol": 294,
+    "Lugner": 32,
+    "VdB": 138
+  },
+  {
+    "name": "Gresten-Land",
+    "Griss": 158,
+    "Hofer": 340,
+    "Hundstorfer": 163,
+    "Khol": 158,
+    "Lugner": 31,
+    "VdB": 214
+  },
+  {
+    "name": "Lunz am See",
+    "Griss": 131,
+    "Hofer": 284,
+    "Hundstorfer": 76,
+    "Khol": 291,
+    "Lugner": 26,
+    "VdB": 79
+  },
+  {
+    "name": "Oberndorf an der Melk",
+    "Griss": 188,
+    "Hofer": 285,
+    "Hundstorfer": 193,
+    "Khol": 192,
+    "Lugner": 40,
+    "VdB": 113
+  },
+  {
+    "name": "Puchenstuben",
+    "Griss": 232,
+    "Hofer": 678,
+    "Hundstorfer": 98,
+    "Khol": 473,
+    "Lugner": 45,
+    "VdB": 197
+  },
+  {
+    "name": "Purgstall an der Erlauf",
+    "Griss": 16,
+    "Hofer": 40,
+    "Hundstorfer": 24,
+    "Khol": 37,
+    "Lugner": 2,
+    "VdB": 29
+  },
+  {
+    "name": "Randegg",
+    "Griss": 443,
+    "Hofer": 1185,
+    "Hundstorfer": 249,
+    "Khol": 516,
+    "Lugner": 72,
+    "VdB": 459
+  },
+  {
+    "name": "Reinsberg",
+    "Griss": 151,
+    "Hofer": 383,
+    "Hundstorfer": 59,
+    "Khol": 364,
+    "Lugner": 35,
+    "VdB": 116
+  },
+  {
+    "name": "St. Anton an der Jeßnitz",
+    "Griss": 83,
+    "Hofer": 199,
+    "Hundstorfer": 28,
+    "Khol": 191,
+    "Lugner": 22,
+    "VdB": 80
+  },
+  {
+    "name": "St. Georgen an der Leys",
+    "Griss": 61,
+    "Hofer": 279,
+    "Hundstorfer": 70,
+    "Khol": 165,
+    "Lugner": 16,
+    "VdB": 47
+  },
+  {
+    "name": "Scheibbs",
+    "Griss": 73,
+    "Hofer": 335,
+    "Hundstorfer": 31,
+    "Khol": 218,
+    "Lugner": 17,
+    "VdB": 63
+  },
+  {
+    "name": "Steinakirchen am Forst",
+    "Griss": 487,
+    "Hofer": 568,
+    "Hundstorfer": 245,
+    "Khol": 419,
+    "Lugner": 51,
+    "VdB": 549
+  },
+  {
+    "name": "Wang",
+    "Griss": 244,
+    "Hofer": 475,
+    "Hundstorfer": 70,
+    "Khol": 332,
+    "Lugner": 38,
+    "VdB": 212
+  },
+  {
+    "name": "Wieselburg",
+    "Griss": 127,
+    "Hofer": 301,
+    "Hundstorfer": 56,
+    "Khol": 198,
+    "Lugner": 22,
+    "VdB": 94
+  },
+  {
+    "name": "Wieselburg-Land",
+    "Griss": 338,
+    "Hofer": 636,
+    "Hundstorfer": 306,
+    "Khol": 174,
+    "Lugner": 68,
+    "VdB": 384
+  },
+  {
+    "name": "Wolfpassing",
+    "Griss": 299,
+    "Hofer": 759,
+    "Hundstorfer": 176,
+    "Khol": 304,
+    "Lugner": 49,
+    "VdB": 233
+  },
+  {
+    "name": "Absdorf",
+    "Griss": 134,
+    "Hofer": 351,
+    "Hundstorfer": 47,
+    "Khol": 217,
+    "Lugner": 20,
+    "VdB": 136
+  },
+  {
+    "name": "Atzenbrugg",
+    "Griss": 181,
+    "Hofer": 345,
+    "Hundstorfer": 137,
+    "Khol": 145,
+    "Lugner": 41,
+    "VdB": 164
+  },
+  {
+    "name": "Fels am Wagram",
+    "Griss": 261,
+    "Hofer": 608,
+    "Hundstorfer": 108,
+    "Khol": 288,
+    "Lugner": 36,
+    "VdB": 231
+  },
+  {
+    "name": "Grafenwörth",
+    "Griss": 215,
+    "Hofer": 493,
+    "Hundstorfer": 130,
+    "Khol": 151,
+    "Lugner": 60,
+    "VdB": 156
+  },
+  {
+    "name": "Großriedenthal",
+    "Griss": 285,
+    "Hofer": 679,
+    "Hundstorfer": 236,
+    "Khol": 263,
+    "Lugner": 71,
+    "VdB": 228
+  },
+  {
+    "name": "Großweikersdorf",
+    "Griss": 91,
+    "Hofer": 196,
+    "Hundstorfer": 77,
+    "Khol": 157,
+    "Lugner": 21,
+    "VdB": 69
+  },
+  {
+    "name": "Judenau-Baumgarten",
+    "Griss": 243,
+    "Hofer": 669,
+    "Hundstorfer": 239,
+    "Khol": 350,
+    "Lugner": 55,
+    "VdB": 282
+  },
+  {
+    "name": "Kirchberg am Wagram",
+    "Griss": 175,
+    "Hofer": 485,
+    "Hundstorfer": 102,
+    "Khol": 179,
+    "Lugner": 38,
+    "VdB": 217
+  },
+  {
+    "name": "Königsbrunn am Wagram",
+    "Griss": 364,
+    "Hofer": 731,
+    "Hundstorfer": 220,
+    "Khol": 353,
+    "Lugner": 73,
+    "VdB": 324
+  },
+  {
+    "name": "Königstetten",
+    "Griss": 104,
+    "Hofer": 279,
+    "Hundstorfer": 106,
+    "Khol": 130,
+    "Lugner": 29,
+    "VdB": 104
+  },
+  {
+    "name": "Langenrohr",
+    "Griss": 263,
+    "Hofer": 401,
+    "Hundstorfer": 133,
+    "Khol": 155,
+    "Lugner": 34,
+    "VdB": 246
+  },
+  {
+    "name": "Michelhausen",
+    "Griss": 194,
+    "Hofer": 545,
+    "Hundstorfer": 88,
+    "Khol": 252,
+    "Lugner": 32,
+    "VdB": 182
+  },
+  {
+    "name": "Sieghartskirchen",
+    "Griss": 238,
+    "Hofer": 568,
+    "Hundstorfer": 96,
+    "Khol": 365,
+    "Lugner": 41,
+    "VdB": 194
+  },
+  {
+    "name": "Sitzenberg-Reidling",
+    "Griss": 666,
+    "Hofer": 1530,
+    "Hundstorfer": 446,
+    "Khol": 539,
+    "Lugner": 118,
+    "VdB": 649
+  },
+  {
+    "name": "Tulbing",
+    "Griss": 213,
+    "Hofer": 454,
+    "Hundstorfer": 136,
+    "Khol": 223,
+    "Lugner": 36,
+    "VdB": 145
+  },
+  {
+    "name": "Tulln an der Donau",
+    "Griss": 340,
+    "Hofer": 579,
+    "Hundstorfer": 164,
+    "Khol": 270,
+    "Lugner": 48,
+    "VdB": 352
+  },
+  {
+    "name": "Würmla",
+    "Griss": 1581,
+    "Hofer": 2527,
+    "Hundstorfer": 735,
+    "Khol": 921,
+    "Lugner": 209,
+    "VdB": 1742
+  },
+  {
+    "name": "Zeiselmauer-Wolfpassing",
+    "Griss": 149,
+    "Hofer": 284,
+    "Hundstorfer": 50,
+    "Khol": 155,
+    "Lugner": 30,
+    "VdB": 111
+  },
+  {
+    "name": "Zwentendorf an der Donau",
+    "Griss": 267,
+    "Hofer": 405,
+    "Hundstorfer": 133,
+    "Khol": 115,
+    "Lugner": 30,
+    "VdB": 335
+  },
+  {
+    "name": "St. Andrä-Wördern",
+    "Griss": 277,
+    "Hofer": 785,
+    "Hundstorfer": 300,
+    "Khol": 260,
+    "Lugner": 70,
+    "VdB": 255
+  },
+  {
+    "name": "Muckendorf-Wipfing",
+    "Griss": 927,
+    "Hofer": 1253,
+    "Hundstorfer": 421,
+    "Khol": 375,
+    "Lugner": 113,
+    "VdB": 1076
+  },
+  {
+    "name": "Dietmanns",
+    "Griss": 159,
+    "Hofer": 324,
+    "Hundstorfer": 101,
+    "Khol": 55,
+    "Lugner": 26,
+    "VdB": 138
+  },
+  {
+    "name": "Dobersberg",
+    "Griss": 81,
+    "Hofer": 294,
+    "Hundstorfer": 123,
+    "Khol": 44,
+    "Lugner": 17,
+    "VdB": 71
+  },
+  {
+    "name": "Gastern",
+    "Griss": 136,
+    "Hofer": 373,
+    "Hundstorfer": 68,
+    "Khol": 227,
+    "Lugner": 35,
+    "VdB": 94
+  },
+  {
+    "name": "Groß-Siegharts",
+    "Griss": 104,
+    "Hofer": 321,
+    "Hundstorfer": 74,
+    "Khol": 147,
+    "Lugner": 37,
+    "VdB": 75
+  },
+  {
+    "name": "Karlstein an der Thaya",
+    "Griss": 204,
+    "Hofer": 627,
+    "Hundstorfer": 212,
+    "Khol": 149,
+    "Lugner": 62,
+    "VdB": 158
+  },
+  {
+    "name": "Kautzen",
+    "Griss": 118,
+    "Hofer": 375,
+    "Hundstorfer": 64,
+    "Khol": 163,
+    "Lugner": 41,
+    "VdB": 98
+  },
+  {
+    "name": "Ludweis-Aigen",
+    "Griss": 89,
+    "Hofer": 299,
+    "Hundstorfer": 51,
+    "Khol": 147,
+    "Lugner": 27,
+    "VdB": 82
+  },
+  {
+    "name": "Pfaffenschlag bei Waidhofen a.d.Thaya",
+    "Griss": 71,
+    "Hofer": 205,
+    "Hundstorfer": 57,
+    "Khol": 141,
+    "Lugner": 16,
+    "VdB": 62
+  },
+  {
+    "name": "Raabs an der Thaya",
+    "Griss": 85,
+    "Hofer": 225,
+    "Hundstorfer": 36,
+    "Khol": 150,
+    "Lugner": 13,
+    "VdB": 49
+  },
+  {
+    "name": "Thaya",
+    "Griss": 270,
+    "Hofer": 582,
+    "Hundstorfer": 138,
+    "Khol": 379,
+    "Lugner": 50,
+    "VdB": 183
+  },
+  {
+    "name": "Vitis",
+    "Griss": 120,
+    "Hofer": 378,
+    "Hundstorfer": 72,
+    "Khol": 169,
+    "Lugner": 33,
+    "VdB": 70
+  },
+  {
+    "name": "Waidhofen an der Thaya",
+    "Griss": 197,
+    "Hofer": 505,
+    "Hundstorfer": 175,
+    "Khol": 385,
+    "Lugner": 74,
+    "VdB": 161
+  },
+  {
+    "name": "Waidhofen an der Thaya-Land",
+    "Griss": 669,
+    "Hofer": 1172,
+    "Hundstorfer": 221,
+    "Khol": 442,
+    "Lugner": 100,
+    "VdB": 513
+  },
+  {
+    "name": "Waldkirchen an der Thaya",
+    "Griss": 114,
+    "Hofer": 294,
+    "Hundstorfer": 54,
+    "Khol": 154,
+    "Lugner": 20,
+    "VdB": 74
+  },
+  {
+    "name": "Windigsteig",
+    "Griss": 54,
+    "Hofer": 133,
+    "Hundstorfer": 31,
+    "Khol": 85,
+    "Lugner": 7,
+    "VdB": 25
+  },
+  {
+    "name": "Bad Fischau-Brunn",
+    "Griss": 90,
+    "Hofer": 211,
+    "Hundstorfer": 66,
+    "Khol": 133,
+    "Lugner": 25,
+    "VdB": 58
+  },
+  {
+    "name": "Bad Schönau",
+    "Griss": 404,
+    "Hofer": 625,
+    "Hundstorfer": 204,
+    "Khol": 199,
+    "Lugner": 41,
+    "VdB": 377
+  },
+  {
+    "name": "Ebenfurth",
+    "Griss": 47,
+    "Hofer": 220,
+    "Hundstorfer": 30,
+    "Khol": 83,
+    "Lugner": 11,
+    "VdB": 33
+  },
+  {
+    "name": "Eggendorf",
+    "Griss": 155,
+    "Hofer": 565,
+    "Hundstorfer": 287,
+    "Khol": 69,
+    "Lugner": 33,
+    "VdB": 206
+  },
+  {
+    "name": "Bad Erlach",
+    "Griss": 352,
+    "Hofer": 1143,
+    "Hundstorfer": 346,
+    "Khol": 155,
+    "Lugner": 68,
+    "VdB": 345
+  },
+  {
+    "name": "Felixdorf",
+    "Griss": 307,
+    "Hofer": 658,
+    "Hundstorfer": 191,
+    "Khol": 249,
+    "Lugner": 37,
+    "VdB": 223
+  },
+  {
+    "name": "Gutenstein",
+    "Griss": 316,
+    "Hofer": 802,
+    "Hundstorfer": 361,
+    "Khol": 142,
+    "Lugner": 63,
+    "VdB": 360
+  },
+  {
+    "name": "Hochneukirchen-Gschaidt",
+    "Griss": 104,
+    "Hofer": 239,
+    "Hundstorfer": 54,
+    "Khol": 132,
+    "Lugner": 9,
+    "VdB": 93
+  },
+  {
+    "name": "Hochwolkersdorf",
+    "Griss": 110,
+    "Hofer": 530,
+    "Hundstorfer": 61,
+    "Khol": 249,
+    "Lugner": 15,
+    "VdB": 73
+  },
+  {
+    "name": "Hohe Wand",
+    "Griss": 59,
+    "Hofer": 247,
+    "Hundstorfer": 112,
+    "Khol": 105,
+    "Lugner": 20,
+    "VdB": 65
+  },
+  {
+    "name": "Hollenthon",
+    "Griss": 112,
+    "Hofer": 348,
+    "Hundstorfer": 68,
+    "Khol": 146,
+    "Lugner": 11,
+    "VdB": 124
+  },
+  {
+    "name": "Katzelsdorf",
+    "Griss": 129,
+    "Hofer": 256,
+    "Hundstorfer": 48,
+    "Khol": 165,
+    "Lugner": 14,
+    "VdB": 51
+  },
+  {
+    "name": "Kirchschlag in der Buckligen Welt",
+    "Griss": 329,
+    "Hofer": 642,
+    "Hundstorfer": 185,
+    "Khol": 212,
+    "Lugner": 41,
+    "VdB": 466
+  },
+  {
+    "name": "Krumbach",
+    "Griss": 306,
+    "Hofer": 767,
+    "Hundstorfer": 97,
+    "Khol": 353,
+    "Lugner": 38,
+    "VdB": 162
+  },
+  {
+    "name": "Lanzenkirchen",
+    "Griss": 248,
+    "Hofer": 610,
+    "Hundstorfer": 99,
+    "Khol": 280,
+    "Lugner": 41,
+    "VdB": 137
+  },
+  {
+    "name": "Lichtenegg",
+    "Griss": 382,
+    "Hofer": 913,
+    "Hundstorfer": 242,
+    "Khol": 210,
+    "Lugner": 51,
+    "VdB": 333
+  },
+  {
+    "name": "Lichtenwörth",
+    "Griss": 117,
+    "Hofer": 216,
+    "Hundstorfer": 16,
+    "Khol": 205,
+    "Lugner": 15,
+    "VdB": 64
+  },
+  {
+    "name": "Markt Piesting",
+    "Griss": 189,
+    "Hofer": 667,
+    "Hundstorfer": 196,
+    "Khol": 120,
+    "Lugner": 27,
+    "VdB": 201
+  },
+  {
+    "name": "Matzendorf-Hölles",
+    "Griss": 338,
+    "Hofer": 577,
+    "Hundstorfer": 128,
+    "Khol": 166,
+    "Lugner": 39,
+    "VdB": 311
+  },
+  {
+    "name": "Miesenbach",
+    "Griss": 216,
+    "Hofer": 494,
+    "Hundstorfer": 118,
+    "Khol": 138,
+    "Lugner": 20,
+    "VdB": 125
+  },
+  {
+    "name": "Muggendorf",
+    "Griss": 51,
+    "Hofer": 189,
+    "Hundstorfer": 39,
+    "Khol": 63,
+    "Lugner": 7,
+    "VdB": 48
+  },
+  {
+    "name": "Pernitz",
+    "Griss": 47,
+    "Hofer": 139,
+    "Hundstorfer": 22,
+    "Khol": 56,
+    "Lugner": 12,
+    "VdB": 47
+  },
+  {
+    "name": "Rohr im Gebirge",
+    "Griss": 169,
+    "Hofer": 502,
+    "Hundstorfer": 192,
+    "Khol": 143,
+    "Lugner": 35,
+    "VdB": 244
+  },
+  {
+    "name": "Bromberg",
+    "Griss": 36,
+    "Hofer": 90,
+    "Hundstorfer": 25,
+    "Khol": 55,
+    "Lugner": 14,
+    "VdB": 28
+  },
+  {
+    "name": "Schwarzenbach",
+    "Griss": 127,
+    "Hofer": 320,
+    "Hundstorfer": 60,
+    "Khol": 142,
+    "Lugner": 12,
+    "VdB": 73
+  },
+  {
+    "name": "Sollenau",
+    "Griss": 52,
+    "Hofer": 259,
+    "Hundstorfer": 154,
+    "Khol": 88,
+    "Lugner": 25,
+    "VdB": 53
+  },
+  {
+    "name": "Theresienfeld",
+    "Griss": 346,
+    "Hofer": 1102,
+    "Hundstorfer": 421,
+    "Khol": 160,
+    "Lugner": 98,
+    "VdB": 296
+  },
+  {
+    "name": "Waidmannsfeld",
+    "Griss": 213,
+    "Hofer": 630,
+    "Hundstorfer": 240,
+    "Khol": 108,
+    "Lugner": 45,
+    "VdB": 227
+  },
+  {
+    "name": "Waldegg",
+    "Griss": 125,
+    "Hofer": 325,
+    "Hundstorfer": 176,
+    "Khol": 67,
+    "Lugner": 28,
+    "VdB": 157
+  },
+  {
+    "name": "Walpersbach",
+    "Griss": 193,
+    "Hofer": 360,
+    "Hundstorfer": 156,
+    "Khol": 97,
+    "Lugner": 30,
+    "VdB": 167
+  },
+  {
+    "name": "Weikersdorf am Steinfelde",
+    "Griss": 117,
+    "Hofer": 245,
+    "Hundstorfer": 83,
+    "Khol": 118,
+    "Lugner": 22,
+    "VdB": 98
+  },
+  {
+    "name": "Wiesmath",
+    "Griss": 118,
+    "Hofer": 319,
+    "Hundstorfer": 26,
+    "Khol": 100,
+    "Lugner": 13,
+    "VdB": 63
+  },
+  {
+    "name": "Winzendorf-Muthmannsdorf",
+    "Griss": 133,
+    "Hofer": 371,
+    "Hundstorfer": 92,
+    "Khol": 180,
+    "Lugner": 30,
+    "VdB": 104
+  },
+  {
+    "name": "Wöllersdorf-Steinabrückl",
+    "Griss": 195,
+    "Hofer": 354,
+    "Hundstorfer": 120,
+    "Khol": 90,
+    "Lugner": 30,
+    "VdB": 215
+  },
+  {
+    "name": "Zillingdorf",
+    "Griss": 305,
+    "Hofer": 1065,
+    "Hundstorfer": 220,
+    "Khol": 164,
+    "Lugner": 67,
+    "VdB": 349
+  },
+  {
+    "name": "Ebergassing",
+    "Griss": 183,
+    "Hofer": 503,
+    "Hundstorfer": 194,
+    "Khol": 101,
+    "Lugner": 32,
+    "VdB": 176
+  },
+  {
+    "name": "Fischamend",
+    "Griss": 254,
+    "Hofer": 708,
+    "Hundstorfer": 312,
+    "Khol": 112,
+    "Lugner": 46,
+    "VdB": 296
+  },
+  {
+    "name": "Gablitz",
+    "Griss": 363,
+    "Hofer": 1051,
+    "Hundstorfer": 347,
+    "Khol": 132,
+    "Lugner": 68,
+    "VdB": 482
+  },
+  {
+    "name": "Gerasdorf bei Wien",
+    "Griss": 607,
+    "Hofer": 718,
+    "Hundstorfer": 213,
+    "Khol": 221,
+    "Lugner": 37,
+    "VdB": 628
+  },
+  {
+    "name": "Gramatneusiedl",
+    "Griss": 1070,
+    "Hofer": 2325,
+    "Hundstorfer": 659,
+    "Khol": 376,
+    "Lugner": 133,
+    "VdB": 1126
+  },
+  {
+    "name": "Himberg",
+    "Griss": 233,
+    "Hofer": 520,
+    "Hundstorfer": 212,
+    "Khol": 102,
+    "Lugner": 41,
+    "VdB": 233
+  },
+  {
+    "name": "Klein-Neusiedl",
+    "Griss": 562,
+    "Hofer": 1550,
+    "Hundstorfer": 547,
+    "Khol": 323,
+    "Lugner": 79,
+    "VdB": 612
+  },
+  {
+    "name": "Klosterneuburg",
+    "Griss": 43,
+    "Hofer": 167,
+    "Hundstorfer": 123,
+    "Khol": 24,
+    "Lugner": 9,
+    "VdB": 59
+  },
+  {
+    "name": "Lanzendorf",
+    "Griss": 3614,
+    "Hofer": 3206,
+    "Hundstorfer": 929,
+    "Khol": 1457,
+    "Lugner": 289,
+    "VdB": 4143
+  },
+  {
+    "name": "Leopoldsdorf",
+    "Griss": 144,
+    "Hofer": 352,
+    "Hundstorfer": 145,
+    "Khol": 50,
+    "Lugner": 31,
+    "VdB": 146
+  },
+  {
+    "name": "Maria-Lanzendorf",
+    "Griss": 574,
+    "Hofer": 959,
+    "Hundstorfer": 297,
+    "Khol": 183,
+    "Lugner": 62,
+    "VdB": 596
+  },
+  {
+    "name": "Mauerbach",
+    "Griss": 191,
+    "Hofer": 444,
+    "Hundstorfer": 127,
+    "Khol": 74,
+    "Lugner": 28,
+    "VdB": 169
+  },
+  {
+    "name": "Moosbrunn",
+    "Griss": 462,
+    "Hofer": 531,
+    "Hundstorfer": 169,
+    "Khol": 230,
+    "Lugner": 52,
+    "VdB": 525
+  },
+  {
+    "name": "Pressbaum",
+    "Griss": 185,
+    "Hofer": 365,
+    "Hundstorfer": 93,
+    "Khol": 116,
+    "Lugner": 21,
+    "VdB": 141
+  },
+  {
+    "name": "Purkersdorf",
+    "Griss": 777,
+    "Hofer": 1080,
+    "Hundstorfer": 299,
+    "Khol": 311,
+    "Lugner": 79,
+    "VdB": 1055
+  },
+  {
+    "name": "Rauchenwarth",
+    "Griss": 929,
+    "Hofer": 1228,
+    "Hundstorfer": 463,
+    "Khol": 383,
+    "Lugner": 81,
+    "VdB": 1451
+  },
+  {
+    "name": "Schwadorf",
+    "Griss": 65,
+    "Hofer": 110,
+    "Hundstorfer": 41,
+    "Khol": 97,
+    "Lugner": 16,
+    "VdB": 64
+  },
+  {
+    "name": "Schwechat",
+    "Griss": 161,
+    "Hofer": 377,
+    "Hundstorfer": 191,
+    "Khol": 98,
+    "Lugner": 21,
+    "VdB": 109
+  },
+  {
+    "name": "Tullnerbach",
+    "Griss": 1095,
+    "Hofer": 3107,
+    "Hundstorfer": 1297,
+    "Khol": 384,
+    "Lugner": 212,
+    "VdB": 1488
+  },
+  {
+    "name": "Wolfsgraben",
+    "Griss": 316,
+    "Hofer": 395,
+    "Hundstorfer": 134,
+    "Khol": 171,
+    "Lugner": 23,
+    "VdB": 434
+  },
+  {
+    "name": "Zwölfaxing",
+    "Griss": 185,
+    "Hofer": 297,
+    "Hundstorfer": 51,
+    "Khol": 99,
+    "Lugner": 23,
+    "VdB": 275
+  },
+  {
+    "name": "Allentsteig",
+    "Griss": 109,
+    "Hofer": 398,
+    "Hundstorfer": 106,
+    "Khol": 84,
+    "Lugner": 17,
+    "VdB": 147
+  },
+  {
+    "name": "Arbesbach",
+    "Griss": 191,
+    "Hofer": 425,
+    "Hundstorfer": 109,
+    "Khol": 202,
+    "Lugner": 27,
+    "VdB": 116
+  },
+  {
+    "name": "Bärnkopf",
+    "Griss": 145,
+    "Hofer": 385,
+    "Hundstorfer": 37,
+    "Khol": 272,
+    "Lugner": 33,
+    "VdB": 92
+  },
+  {
+    "name": "Echsenbach",
+    "Griss": 27,
+    "Hofer": 74,
+    "Hundstorfer": 52,
+    "Khol": 18,
+    "Lugner": 10,
+    "VdB": 22
+  },
+  {
+    "name": "Göpfritz an der Wild",
+    "Griss": 104,
+    "Hofer": 265,
+    "Hundstorfer": 63,
+    "Khol": 222,
+    "Lugner": 23,
+    "VdB": 83
+  },
+  {
+    "name": "Grafenschlag",
+    "Griss": 136,
+    "Hofer": 491,
+    "Hundstorfer": 119,
+    "Khol": 199,
+    "Lugner": 50,
+    "VdB": 108
+  },
+  {
+    "name": "Groß Gerungs",
+    "Griss": 65,
+    "Hofer": 192,
+    "Hundstorfer": 36,
+    "Khol": 138,
+    "Lugner": 21,
+    "VdB": 58
+  },
+  {
+    "name": "Großgöttfritz",
+    "Griss": 327,
+    "Hofer": 1106,
+    "Hundstorfer": 160,
+    "Khol": 621,
+    "Lugner": 90,
+    "VdB": 305
+  },
+  {
+    "name": "Gutenbrunn",
+    "Griss": 110,
+    "Hofer": 381,
+    "Hundstorfer": 59,
+    "Khol": 231,
+    "Lugner": 37,
+    "VdB": 66
+  },
+  {
+    "name": "Kirchschlag",
+    "Griss": 47,
+    "Hofer": 92,
+    "Hundstorfer": 61,
+    "Khol": 49,
+    "Lugner": 6,
+    "VdB": 31
+  },
+  {
+    "name": "Kottes-Purk",
+    "Griss": 64,
+    "Hofer": 160,
+    "Hundstorfer": 29,
+    "Khol": 109,
+    "Lugner": 18,
+    "VdB": 33
+  },
+  {
+    "name": "Langschlag",
+    "Griss": 118,
+    "Hofer": 305,
+    "Hundstorfer": 62,
+    "Khol": 238,
+    "Lugner": 52,
+    "VdB": 69
+  },
+  {
+    "name": "Martinsberg",
+    "Griss": 117,
+    "Hofer": 420,
+    "Hundstorfer": 100,
+    "Khol": 254,
+    "Lugner": 32,
+    "VdB": 100
+  },
+  {
+    "name": "Ottenschlag",
+    "Griss": 81,
+    "Hofer": 286,
+    "Hundstorfer": 64,
+    "Khol": 155,
+    "Lugner": 19,
+    "VdB": 53
+  },
+  {
+    "name": "Altmelon",
+    "Griss": 115,
+    "Hofer": 228,
+    "Hundstorfer": 46,
+    "Khol": 165,
+    "Lugner": 19,
+    "VdB": 65
+  },
+  {
+    "name": "Pölla",
+    "Griss": 71,
+    "Hofer": 240,
+    "Hundstorfer": 28,
+    "Khol": 113,
+    "Lugner": 22,
+    "VdB": 34
+  },
+  {
+    "name": "Rappottenstein",
+    "Griss": 59,
+    "Hofer": 230,
+    "Hundstorfer": 34,
+    "Khol": 159,
+    "Lugner": 24,
+    "VdB": 36
+  },
+  {
+    "name": "Sallingberg",
+    "Griss": 144,
+    "Hofer": 331,
+    "Hundstorfer": 66,
+    "Khol": 233,
+    "Lugner": 45,
+    "VdB": 135
+  },
+  {
+    "name": "Schönbach",
+    "Griss": 110,
+    "Hofer": 304,
+    "Hundstorfer": 38,
+    "Khol": 209,
+    "Lugner": 34,
+    "VdB": 64
+  },
+  {
+    "name": "Schwarzenau",
+    "Griss": 92,
+    "Hofer": 180,
+    "Hundstorfer": 42,
+    "Khol": 137,
+    "Lugner": 15,
+    "VdB": 53
+  },
+  {
+    "name": "Schweiggers",
+    "Griss": 103,
+    "Hofer": 319,
+    "Hundstorfer": 174,
+    "Khol": 184,
+    "Lugner": 25,
+    "VdB": 117
+  },
+  {
+    "name": "Bad Traunstein",
+    "Griss": 136,
+    "Hofer": 464,
+    "Hundstorfer": 38,
+    "Khol": 393,
+    "Lugner": 68,
+    "VdB": 105
+  },
+  {
+    "name": "Waldhausen",
+    "Griss": 92,
+    "Hofer": 193,
+    "Hundstorfer": 32,
+    "Khol": 179,
+    "Lugner": 22,
+    "VdB": 72
+  },
+  {
+    "name": "Zwettl-Niederösterreich",
+    "Griss": 110,
+    "Hofer": 274,
+    "Hundstorfer": 64,
+    "Khol": 170,
+    "Lugner": 20,
+    "VdB": 76
+  }
+]
