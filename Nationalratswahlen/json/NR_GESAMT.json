@@ -1,83 +1,101 @@
 [
   {
-    "BL": "Burgenland",
-    "SPOE": 70222,
-    "FPOE": 32705,
-    "OEVP": 50426,
-    "GRUE": 12718,
-    "NEOS": 5327,
-    "FRANK": 11050
+    "name": "Burgenland",
+    "results" : [
+      { "name": "SPOE", "votes": 70222 },
+      { "name": "FPOE", "votes": 32705 },
+      { "name": "OEVP", "votes": 50426 },
+      { "name": "GRUE", "votes": 12718 },
+      { "name": "NEOS", "votes": 5327 },
+      { "name": "FRANK", "votes": 11050 }
+    ]
   },
   {
-    "BL": "Kärnten",
-    "SPOE": 102278,
-    "FPOE": 56513,
-    "OEVP": 48140,
-    "GRUE": 37304,
-    "NEOS": 11711,
-    "FRANK": 21882
+    "name": "Kärnten",
+    "results" : [
+      { "name": "SPOE", "votes": 102278 },
+      { "name": "FPOE", "votes": 56513 },
+      { "name": "OEVP", "votes": 48140 },
+      { "name": "GRUE", "votes": 37304 },
+      { "name": "NEOS", "votes": 11711 },
+      { "name": "FRANK", "votes": 21882 }
+    ]
   },
   {
-    "BL": "Niederösterreich",
-    "SPOE": 279988,
-    "FPOE": 190601,
-    "OEVP": 310345,
-    "GRUE": 97487,
-    "NEOS": 45285,
-    "FRANK": 48105
+    "name": "Niederösterreich",
+    "results" : [
+      { "name": "SPOE", "votes": 279988 },
+      { "name": "FPOE", "votes": 190601 },
+      { "name": "OEVP", "votes": 310345 },
+      { "name": "GRUE", "votes": 97487 },
+      { "name": "NEOS", "votes": 45285 },
+      { "name": "FRANK", "votes": 48105 }
+    ]
   },
   {
-    "BL": "Oberösterreich",
-    "SPOE": 228293,
-    "FPOE": 180041,
-    "OEVP": 212843,
-    "GRUE": 102003,
-    "NEOS": 28604,
-    "FRANK": 40379
+    "name": "Oberösterreich",
+    "results" : [
+      { "name": "SPOE", "votes": 228293 },
+      { "name": "FPOE", "votes": 180041 },
+      { "name": "OEVP", "votes": 212843 },
+      { "name": "GRUE", "votes": 102003 },
+      { "name": "NEOS", "votes": 28604 },
+      { "name": "FRANK", "votes": 40379 }
+    ]
   },
   {
-    "BL": "Salzburg",
-    "SPOE": 65950,
-    "FPOE": 60876,
-    "OEVP": 76460,
-    "GRUE": 42389,
-    "NEOS": 13103,
-    "FRANK": 14894
+    "name": "Salzburg",
+    "results" : [
+      { "name": "SPOE", "votes": 65950 },
+      { "name": "FPOE", "votes": 60876 },
+      { "name": "OEVP", "votes": 76460 },
+      { "name": "GRUE", "votes": 42389 },
+      { "name": "NEOS", "votes": 13103 },
+      { "name": "FRANK", "votes": 14894 }
+    ]
   },
   {
-    "BL": "Steiermark",
-    "SPOE": 172307,
-    "FPOE": 173908,
-    "OEVP": 151438,
-    "GRUE": 76547,
-    "NEOS": 27872,
-    "FRANK": 72120
+    "name": "Steiermark",
+    "results" : [
+      { "name": "SPOE", "votes": 172307 },
+      { "name": "FPOE", "votes": 173908 },
+      { "name": "OEVP", "votes": 151438 },
+      { "name": "GRUE", "votes": 76547 },
+      { "name": "NEOS", "votes": 27872 },
+      { "name": "FRANK", "votes": 72120 }
+    ]
   },
   {
-    "BL": "Tirol",
-    "SPOE": 64923,
-    "FPOE": 68761,
-    "OEVP": 114754,
-    "GRUE": 53910,
-    "NEOS": 17344,
-    "FRANK": 19854
+    "name": "Tirol",
+    "results" : [
+      { "name": "SPOE", "votes": 64923 },
+      { "name": "FPOE", "votes": 68761 },
+      { "name": "OEVP", "votes": 114754 },
+      { "name": "GRUE", "votes": 53910 },
+      { "name": "NEOS", "votes": 17344 },
+      { "name": "FRANK", "votes": 19854 }
+    ]
   },
   {
-    "BL": "Vorarlberg",
-    "SPOE": 23021,
-    "FPOE": 35407,
-    "OEVP": 46154,
-    "GRUE": 29807,
-    "NEOS": 22888,
-    "FRANK": 9367
+    "name": "Vorarlberg",
+    "results" : [
+      { "name": "SPOE", "votes": 23021 },
+      { "name": "FPOE", "votes": 35407 },
+      { "name": "OEVP", "votes": 46154 },
+      { "name": "GRUE", "votes": 29807 },
+      { "name": "NEOS", "votes": 22888 },
+      { "name": "FRANK", "votes": 9367 }
+    ]
   },
   {
-    "BL": "Wien",
-    "SPOE": 251623,
-    "FPOE": 163501,
-    "OEVP": 115316,
-    "GRUE": 130492,
-    "NEOS": 60812,
-    "FRANK": 31028
+    "name": "Wien",
+    "results" : [
+      { "name": "SPOE", "votes": 251623 },
+      { "name": "FPOE", "votes": 163501 },
+      { "name": "OEVP", "votes": 115316 },
+      { "name": "GRUE", "votes": 130492 },
+      { "name": "NEOS", "votes": 60812 },
+      { "name": "FRANK", "votes": 31028 }
+    ]
   }
 ]
