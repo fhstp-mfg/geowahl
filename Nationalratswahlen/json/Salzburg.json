@@ -1,1073 +1,1311 @@
 [
   {
-    "BZ": "Salzburg (Stadt)",
-    "SPOE": 13.69,
-    "FPOE": 11.333,
-    "OEVP": 10.98,
-    "GRUE": 11.067,
-    "NEOS": 3.581,
-    "FRANK": 2.883
-  },
-  {
-    "BZ": "Abtenau",
-    "SPOE": 920,
-    "FPOE": 542,
-    "OEVP": 1.144,
-    "GRUE": 295,
-    "NEOS": 85,
-    "FRANK": 130
-  },
-  {
-    "BZ": "Adnet",
-    "SPOE": 403,
-    "FPOE": 375,
-    "OEVP": 737,
-    "GRUE": 296,
-    "NEOS": 87,
-    "FRANK": 103
-  },
-  {
-    "BZ": "Annaberg-Lungötz",
-    "SPOE": 310,
-    "FPOE": 260,
-    "OEVP": 509,
-    "GRUE": 71,
-    "NEOS": 34,
-    "FRANK": 43
-  },
-  {
-    "BZ": "Golling an der Salzach",
-    "SPOE": 513,
-    "FPOE": 471,
-    "OEVP": 588,
-    "GRUE": 300,
-    "NEOS": 79,
-    "FRANK": 95
-  },
-  {
-    "BZ": "Hallein",
-    "SPOE": 2.636,
-    "FPOE": 1.95,
-    "OEVP": 1.359,
-    "GRUE": 1.383,
-    "NEOS": 373,
-    "FRANK": 494
-  },
-  {
-    "BZ": "Krispl",
-    "SPOE": 132,
-    "FPOE": 114,
-    "OEVP": 207,
-    "GRUE": 34,
-    "NEOS": 7,
-    "FRANK": 28
-  },
-  {
-    "BZ": "Kuchl",
-    "SPOE": 670,
-    "FPOE": 619,
-    "OEVP": 1.155,
-    "GRUE": 611,
-    "NEOS": 190,
-    "FRANK": 185
-  },
-  {
-    "BZ": "Oberalm",
-    "SPOE": 523,
-    "FPOE": 414,
-    "OEVP": 544,
-    "GRUE": 416,
-    "NEOS": 102,
-    "FRANK": 123
-  },
-  {
-    "BZ": "Puch bei Hallein",
-    "SPOE": 486,
-    "FPOE": 443,
-    "OEVP": 565,
-    "GRUE": 370,
-    "NEOS": 89,
-    "FRANK": 116
-  },
-  {
-    "BZ": "Rußbach am Paß Gschütt",
-    "SPOE": 134,
-    "FPOE": 78,
-    "OEVP": 205,
-    "GRUE": 21,
-    "NEOS": 7,
-    "FRANK": 9
-  },
-  {
-    "BZ": "St. Koloman",
-    "SPOE": 103,
-    "FPOE": 179,
-    "OEVP": 520,
-    "GRUE": 82,
-    "NEOS": 25,
-    "FRANK": 40
-  },
-  {
-    "BZ": "Scheffau am Tennengebirge",
-    "SPOE": 149,
-    "FPOE": 160,
-    "OEVP": 296,
-    "GRUE": 97,
-    "NEOS": 26,
-    "FRANK": 32
-  },
-  {
-    "BZ": "Bad Vigaun",
-    "SPOE": 227,
-    "FPOE": 228,
-    "OEVP": 379,
-    "GRUE": 177,
-    "NEOS": 46,
-    "FRANK": 48
-  },
-  {
-    "BZ": "Anif",
-    "SPOE": 346,
-    "FPOE": 386,
-    "OEVP": 486,
-    "GRUE": 301,
-    "NEOS": 180,
-    "FRANK": 94
-  },
-  {
-    "BZ": "Anthering",
-    "SPOE": 248,
-    "FPOE": 395,
-    "OEVP": 667,
-    "GRUE": 364,
-    "NEOS": 108,
-    "FRANK": 88
-  },
-  {
-    "BZ": "Bergheim",
-    "SPOE": 446,
-    "FPOE": 489,
-    "OEVP": 916,
-    "GRUE": 395,
-    "NEOS": 149,
-    "FRANK": 118
-  },
-  {
-    "BZ": "Berndorf bei Salzburg",
-    "SPOE": 173,
-    "FPOE": 221,
-    "OEVP": 335,
-    "GRUE": 104,
-    "NEOS": 29,
-    "FRANK": 37
-  },
-  {
-    "BZ": "Bürmoos",
-    "SPOE": 953,
-    "FPOE": 554,
-    "OEVP": 212,
-    "GRUE": 318,
-    "NEOS": 75,
-    "FRANK": 125
-  },
-  {
-    "BZ": "Dorfbeuern",
-    "SPOE": 135,
-    "FPOE": 170,
-    "OEVP": 326,
-    "GRUE": 110,
-    "NEOS": 24,
-    "FRANK": 32
-  },
-  {
-    "BZ": "Ebenau",
-    "SPOE": 107,
-    "FPOE": 131,
-    "OEVP": 311,
-    "GRUE": 119,
-    "NEOS": 25,
-    "FRANK": 33
-  },
-  {
-    "BZ": "Elixhausen",
-    "SPOE": 266,
-    "FPOE": 276,
-    "OEVP": 470,
-    "GRUE": 279,
-    "NEOS": 80,
-    "FRANK": 76
-  },
-  {
-    "BZ": "Elsbethen",
-    "SPOE": 418,
-    "FPOE": 472,
-    "OEVP": 814,
-    "GRUE": 597,
-    "NEOS": 175,
-    "FRANK": 151
-  },
-  {
-    "BZ": "Eugendorf",
-    "SPOE": 574,
-    "FPOE": 751,
-    "OEVP": 1.037,
-    "GRUE": 581,
-    "NEOS": 162,
-    "FRANK": 226
-  },
-  {
-    "BZ": "Faistenau",
-    "SPOE": 207,
-    "FPOE": 493,
-    "OEVP": 547,
-    "GRUE": 183,
-    "NEOS": 46,
-    "FRANK": 81
-  },
-  {
-    "BZ": "Fuschl am See",
-    "SPOE": 87,
-    "FPOE": 145,
-    "OEVP": 281,
-    "GRUE": 94,
-    "NEOS": 34,
-    "FRANK": 51
-  },
-  {
-    "BZ": "Göming",
-    "SPOE": 43,
-    "FPOE": 63,
-    "OEVP": 237,
-    "GRUE": 55,
-    "NEOS": 8,
-    "FRANK": 15
-  },
-  {
-    "BZ": "Grödig",
-    "SPOE": 955,
-    "FPOE": 790,
-    "OEVP": 633,
-    "GRUE": 493,
-    "NEOS": 164,
-    "FRANK": 157
-  },
-  {
-    "BZ": "Großgmain",
-    "SPOE": 162,
-    "FPOE": 268,
-    "OEVP": 317,
-    "GRUE": 191,
-    "NEOS": 70,
-    "FRANK": 54
-  },
-  {
-    "BZ": "Hallwang",
-    "SPOE": 365,
-    "FPOE": 409,
-    "OEVP": 558,
-    "GRUE": 368,
-    "NEOS": 84,
-    "FRANK": 102
-  },
-  {
-    "BZ": "Henndorf am Wallersee",
-    "SPOE": 531,
-    "FPOE": 554,
-    "OEVP": 686,
-    "GRUE": 390,
-    "NEOS": 140,
-    "FRANK": 123
-  },
-  {
-    "BZ": "Hintersee",
-    "SPOE": 69,
-    "FPOE": 50,
-    "OEVP": 84,
-    "GRUE": 10,
-    "NEOS": 8,
-    "FRANK": 9
-  },
-  {
-    "BZ": "Hof bei Salzburg",
-    "SPOE": 306,
-    "FPOE": 356,
-    "OEVP": 532,
-    "GRUE": 261,
-    "NEOS": 72,
-    "FRANK": 101
-  },
-  {
-    "BZ": "Köstendorf",
-    "SPOE": 216,
-    "FPOE": 251,
-    "OEVP": 517,
-    "GRUE": 158,
-    "NEOS": 55,
-    "FRANK": 81
-  },
-  {
-    "BZ": "Koppl",
-    "SPOE": 278,
-    "FPOE": 337,
-    "OEVP": 536,
-    "GRUE": 366,
-    "NEOS": 83,
-    "FRANK": 104
-  },
-  {
-    "BZ": "Lamprechtshausen",
-    "SPOE": 324,
-    "FPOE": 433,
-    "OEVP": 589,
-    "GRUE": 269,
-    "NEOS": 74,
-    "FRANK": 92
-  },
-  {
-    "BZ": "Mattsee",
-    "SPOE": 206,
-    "FPOE": 257,
-    "OEVP": 572,
-    "GRUE": 303,
-    "NEOS": 90,
-    "FRANK": 87
-  },
-  {
-    "BZ": "Neumarkt am Wallersee",
-    "SPOE": 580,
-    "FPOE": 679,
-    "OEVP": 572,
-    "GRUE": 421,
-    "NEOS": 126,
-    "FRANK": 150
-  },
-  {
-    "BZ": "Nußdorf am Haunsberg",
-    "SPOE": 210,
-    "FPOE": 233,
-    "OEVP": 459,
-    "GRUE": 161,
-    "NEOS": 56,
-    "FRANK": 71
-  },
-  {
-    "BZ": "Oberndorf bei Salzburg",
-    "SPOE": 657,
-    "FPOE": 529,
-    "OEVP": 548,
-    "GRUE": 444,
-    "NEOS": 106,
-    "FRANK": 185
-  },
-  {
-    "BZ": "Obertrum am See",
-    "SPOE": 332,
-    "FPOE": 512,
-    "OEVP": 884,
-    "GRUE": 419,
-    "NEOS": 121,
-    "FRANK": 122
-  },
-  {
-    "BZ": "Plainfeld",
-    "SPOE": 80,
-    "FPOE": 150,
-    "OEVP": 219,
-    "GRUE": 84,
-    "NEOS": 26,
-    "FRANK": 48
-  },
-  {
-    "BZ": "St. Georgen bei Salzburg",
-    "SPOE": 296,
-    "FPOE": 390,
-    "OEVP": 525,
-    "GRUE": 212,
-    "NEOS": 38,
-    "FRANK": 95
-  },
-  {
-    "BZ": "St. Gilgen",
-    "SPOE": 336,
-    "FPOE": 338,
-    "OEVP": 569,
-    "GRUE": 206,
-    "NEOS": 74,
-    "FRANK": 123
-  },
-  {
-    "BZ": "Schleedorf",
-    "SPOE": 86,
-    "FPOE": 140,
-    "OEVP": 201,
-    "GRUE": 62,
-    "NEOS": 19,
-    "FRANK": 33
-  },
-  {
-    "BZ": "Seeham",
-    "SPOE": 143,
-    "FPOE": 178,
-    "OEVP": 387,
-    "GRUE": 160,
-    "NEOS": 53,
-    "FRANK": 51
-  },
-  {
-    "BZ": "Straßwalchen",
-    "SPOE": 734,
-    "FPOE": 1.009,
-    "OEVP": 1.078,
-    "GRUE": 414,
-    "NEOS": 137,
-    "FRANK": 160
-  },
-  {
-    "BZ": "Strobl",
-    "SPOE": 387,
-    "FPOE": 346,
-    "OEVP": 582,
-    "GRUE": 241,
-    "NEOS": 82,
-    "FRANK": 102
-  },
-  {
-    "BZ": "Thalgau",
-    "SPOE": 463,
-    "FPOE": 652,
-    "OEVP": 951,
-    "GRUE": 465,
-    "NEOS": 153,
-    "FRANK": 160
-  },
-  {
-    "BZ": "Wals-Siezenheim",
-    "SPOE": 1.148,
-    "FPOE": 1.625,
-    "OEVP": 1.701,
-    "GRUE": 1.048,
-    "NEOS": 310,
-    "FRANK": 397
-  },
-  {
-    "BZ": "Seekirchen am Wallersee",
-    "SPOE": 805,
-    "FPOE": 1.151,
-    "OEVP": 1.324,
-    "GRUE": 1.032,
-    "NEOS": 295,
-    "FRANK": 342
-  },
-  {
-    "BZ": "Altenmarkt im Pongau",
-    "SPOE": 301,
-    "FPOE": 466,
-    "OEVP": 625,
-    "GRUE": 233,
-    "NEOS": 89,
-    "FRANK": 123
-  },
-  {
-    "BZ": "Bad Hofgastein",
-    "SPOE": 1.024,
-    "FPOE": 773,
-    "OEVP": 779,
-    "GRUE": 237,
-    "NEOS": 127,
-    "FRANK": 196
-  },
-  {
-    "BZ": "Bad Gastein",
-    "SPOE": 599,
-    "FPOE": 576,
-    "OEVP": 283,
-    "GRUE": 148,
-    "NEOS": 68,
-    "FRANK": 128
-  },
-  {
-    "BZ": "Bischofshofen",
-    "SPOE": 1.818,
-    "FPOE": 1.221,
-    "OEVP": 835,
-    "GRUE": 384,
-    "NEOS": 140,
-    "FRANK": 233
-  },
-  {
-    "BZ": "Dorfgastein",
-    "SPOE": 275,
-    "FPOE": 246,
-    "OEVP": 267,
-    "GRUE": 82,
-    "NEOS": 32,
-    "FRANK": 32
-  },
-  {
-    "BZ": "Eben im Pongau",
-    "SPOE": 178,
-    "FPOE": 383,
-    "OEVP": 384,
-    "GRUE": 93,
-    "NEOS": 40,
-    "FRANK": 48
-  },
-  {
-    "BZ": "Filzmoos",
-    "SPOE": 71,
-    "FPOE": 157,
-    "OEVP": 328,
-    "GRUE": 47,
-    "NEOS": 20,
-    "FRANK": 50
-  },
-  {
-    "BZ": "Flachau",
-    "SPOE": 220,
-    "FPOE": 354,
-    "OEVP": 605,
-    "GRUE": 126,
-    "NEOS": 47,
-    "FRANK": 99
-  },
-  {
-    "BZ": "Forstau",
-    "SPOE": 78,
-    "FPOE": 76,
-    "OEVP": 113,
-    "GRUE": 19,
-    "NEOS": 6,
-    "FRANK": 10
-  },
-  {
-    "BZ": "Goldegg",
-    "SPOE": 284,
-    "FPOE": 298,
-    "OEVP": 368,
-    "GRUE": 146,
-    "NEOS": 58,
-    "FRANK": 122
-  },
-  {
-    "BZ": "Großarl",
-    "SPOE": 460,
-    "FPOE": 365,
-    "OEVP": 984,
-    "GRUE": 134,
-    "NEOS": 46,
-    "FRANK": 48
-  },
-  {
-    "BZ": "Hüttau",
-    "SPOE": 200,
-    "FPOE": 237,
-    "OEVP": 204,
-    "GRUE": 40,
-    "NEOS": 17,
-    "FRANK": 43
-  },
-  {
-    "BZ": "Hüttschlag",
-    "SPOE": 128,
-    "FPOE": 86,
-    "OEVP": 266,
-    "GRUE": 39,
-    "NEOS": 7,
-    "FRANK": 10
-  },
-  {
-    "BZ": "Kleinarl",
-    "SPOE": 91,
-    "FPOE": 86,
-    "OEVP": 154,
-    "GRUE": 11,
-    "NEOS": 9,
-    "FRANK": 15
-  },
-  {
-    "BZ": "Mühlbach am Hochkönig",
-    "SPOE": 332,
-    "FPOE": 189,
-    "OEVP": 181,
-    "GRUE": 50,
-    "NEOS": 15,
-    "FRANK": 37
-  },
-  {
-    "BZ": "Pfarrwerfen",
-    "SPOE": 254,
-    "FPOE": 258,
-    "OEVP": 431,
-    "GRUE": 109,
-    "NEOS": 32,
-    "FRANK": 50
-  },
-  {
-    "BZ": "Radstadt",
-    "SPOE": 460,
-    "FPOE": 643,
-    "OEVP": 692,
-    "GRUE": 176,
-    "NEOS": 71,
-    "FRANK": 107
-  },
-  {
-    "BZ": "St. Johann im Pongau",
-    "SPOE": 1.198,
-    "FPOE": 1.493,
-    "OEVP": 1.364,
-    "GRUE": 599,
-    "NEOS": 204,
-    "FRANK": 239
-  },
-  {
-    "BZ": "St. Martin am Tennengebirge",
-    "SPOE": 220,
-    "FPOE": 204,
-    "OEVP": 271,
-    "GRUE": 40,
-    "NEOS": 25,
-    "FRANK": 31
-  },
-  {
-    "BZ": "St. Veit im Pongau",
-    "SPOE": 495,
-    "FPOE": 548,
-    "OEVP": 603,
-    "GRUE": 180,
-    "NEOS": 67,
-    "FRANK": 97
-  },
-  {
-    "BZ": "Schwarzach im Pongau",
-    "SPOE": 838,
-    "FPOE": 372,
-    "OEVP": 216,
-    "GRUE": 150,
-    "NEOS": 60,
-    "FRANK": 63
-  },
-  {
-    "BZ": "Untertauern",
-    "SPOE": 32,
-    "FPOE": 53,
-    "OEVP": 72,
-    "GRUE": 8,
-    "NEOS": 4,
-    "FRANK": 16
-  },
-  {
-    "BZ": "Wagrain",
-    "SPOE": 254,
-    "FPOE": 459,
-    "OEVP": 549,
-    "GRUE": 108,
-    "NEOS": 52,
-    "FRANK": 80
-  },
-  {
-    "BZ": "Werfen",
-    "SPOE": 454,
-    "FPOE": 452,
-    "OEVP": 306,
-    "GRUE": 131,
-    "NEOS": 52,
-    "FRANK": 62
-  },
-  {
-    "BZ": "Werfenweng",
-    "SPOE": 45,
-    "FPOE": 147,
-    "OEVP": 167,
-    "GRUE": 41,
-    "NEOS": 19,
-    "FRANK": 23
-  },
-  {
-    "BZ": "Göriach",
-    "SPOE": 51,
-    "FPOE": 46,
-    "OEVP": 103,
-    "GRUE": 14,
-    "NEOS": 5,
-    "FRANK": 6
-  },
-  {
-    "BZ": "Lessach",
-    "SPOE": 59,
-    "FPOE": 64,
-    "OEVP": 141,
-    "GRUE": 19,
-    "NEOS": 7,
-    "FRANK": 9
-  },
-  {
-    "BZ": "Mariapfarr",
-    "SPOE": 292,
-    "FPOE": 266,
-    "OEVP": 351,
-    "GRUE": 90,
-    "NEOS": 53,
-    "FRANK": 62
-  },
-  {
-    "BZ": "Mauterndorf",
-    "SPOE": 146,
-    "FPOE": 208,
-    "OEVP": 243,
-    "GRUE": 68,
-    "NEOS": 22,
-    "FRANK": 48
-  },
-  {
-    "BZ": "Muhr",
-    "SPOE": 79,
-    "FPOE": 128,
-    "OEVP": 116,
-    "GRUE": 4,
-    "NEOS": 1,
-    "FRANK": 3
-  },
-  {
-    "BZ": "Ramingstein",
-    "SPOE": 210,
-    "FPOE": 162,
-    "OEVP": 189,
-    "GRUE": 31,
-    "NEOS": 8,
-    "FRANK": 27
-  },
-  {
-    "BZ": "St. Andrä im Lungau",
-    "SPOE": 112,
-    "FPOE": 77,
-    "OEVP": 163,
-    "GRUE": 22,
-    "NEOS": 6,
-    "FRANK": 17
-  },
-  {
-    "BZ": "St. Margarethen im Lungau",
-    "SPOE": 126,
-    "FPOE": 103,
-    "OEVP": 109,
-    "GRUE": 29,
-    "NEOS": 11,
-    "FRANK": 14
-  },
-  {
-    "BZ": "St. Michael im Lungau",
-    "SPOE": 507,
-    "FPOE": 467,
-    "OEVP": 514,
-    "GRUE": 121,
-    "NEOS": 57,
-    "FRANK": 107
-  },
-  {
-    "BZ": "Tamsweg",
-    "SPOE": 522,
-    "FPOE": 771,
-    "OEVP": 885,
-    "GRUE": 261,
-    "NEOS": 75,
-    "FRANK": 135
-  },
-  {
-    "BZ": "Thomatal",
-    "SPOE": 46,
-    "FPOE": 77,
-    "OEVP": 54,
-    "GRUE": 14,
-    "NEOS": 3,
-    "FRANK": 10
-  },
-  {
-    "BZ": "Tweng",
-    "SPOE": 18,
-    "FPOE": 30,
-    "OEVP": 40,
-    "GRUE": 2,
-    "NEOS": 5,
-    "FRANK": 5
-  },
-  {
-    "BZ": "Unternberg",
-    "SPOE": 126,
-    "FPOE": 145,
-    "OEVP": 193,
-    "GRUE": 33,
-    "NEOS": 11,
-    "FRANK": 18
-  },
-  {
-    "BZ": "Weißpriach",
-    "SPOE": 55,
-    "FPOE": 51,
-    "OEVP": 71,
-    "GRUE": 14,
-    "NEOS": 1,
-    "FRANK": 7
-  },
-  {
-    "BZ": "Zederhaus",
-    "SPOE": 96,
-    "FPOE": 195,
-    "OEVP": 332,
-    "GRUE": 27,
-    "NEOS": 7,
-    "FRANK": 24
-  },
-  {
-    "BZ": "Bramberg am Wildkogel",
-    "SPOE": 698,
-    "FPOE": 430,
-    "OEVP": 646,
-    "GRUE": 121,
-    "NEOS": 49,
-    "FRANK": 120
-  },
-  {
-    "BZ": "Bruck an der Großglocknerstraße",
-    "SPOE": 571,
-    "FPOE": 625,
-    "OEVP": 422,
-    "GRUE": 240,
-    "NEOS": 66,
-    "FRANK": 122
-  },
-  {
-    "BZ": "Dienten am Hochkönig",
-    "SPOE": 140,
-    "FPOE": 98,
-    "OEVP": 167,
-    "GRUE": 11,
-    "NEOS": 9,
-    "FRANK": 11
-  },
-  {
-    "BZ": "Fusch an der Großglocknerstraße",
-    "SPOE": 87,
-    "FPOE": 107,
-    "OEVP": 116,
-    "GRUE": 34,
-    "NEOS": 9,
-    "FRANK": 19
-  },
-  {
-    "BZ": "Hollersbach im Pinzgau",
-    "SPOE": 173,
-    "FPOE": 122,
-    "OEVP": 264,
-    "GRUE": 45,
-    "NEOS": 9,
-    "FRANK": 38
-  },
-  {
-    "BZ": "Kaprun",
-    "SPOE": 469,
-    "FPOE": 267,
-    "OEVP": 332,
-    "GRUE": 148,
-    "NEOS": 39,
-    "FRANK": 74
-  },
-  {
-    "BZ": "Krimml",
-    "SPOE": 130,
-    "FPOE": 79,
-    "OEVP": 154,
-    "GRUE": 17,
-    "NEOS": 10,
-    "FRANK": 27
-  },
-  {
-    "BZ": "Lend",
-    "SPOE": 352,
-    "FPOE": 185,
-    "OEVP": 142,
-    "GRUE": 48,
-    "NEOS": 14,
-    "FRANK": 48
-  },
-  {
-    "BZ": "Leogang",
-    "SPOE": 540,
-    "FPOE": 261,
-    "OEVP": 626,
-    "GRUE": 150,
-    "NEOS": 46,
-    "FRANK": 72
-  },
-  {
-    "BZ": "Lofer",
-    "SPOE": 167,
-    "FPOE": 232,
-    "OEVP": 351,
-    "GRUE": 129,
-    "NEOS": 41,
-    "FRANK": 49
-  },
-  {
-    "BZ": "Maishofen",
-    "SPOE": 321,
-    "FPOE": 398,
-    "OEVP": 506,
-    "GRUE": 183,
-    "NEOS": 66,
-    "FRANK": 86
-  },
-  {
-    "BZ": "Maria Alm am Steinernen Meer",
-    "SPOE": 187,
-    "FPOE": 230,
-    "OEVP": 385,
-    "GRUE": 89,
-    "NEOS": 45,
-    "FRANK": 68
-  },
-  {
-    "BZ": "Mittersill",
-    "SPOE": 603,
-    "FPOE": 687,
-    "OEVP": 640,
-    "GRUE": 187,
-    "NEOS": 90,
-    "FRANK": 236
-  },
-  {
-    "BZ": "Neukirchen am Großvenediger",
-    "SPOE": 378,
-    "FPOE": 253,
-    "OEVP": 373,
-    "GRUE": 83,
-    "NEOS": 50,
-    "FRANK": 75
-  },
-  {
-    "BZ": "Niedernsill",
-    "SPOE": 362,
-    "FPOE": 385,
-    "OEVP": 330,
-    "GRUE": 121,
-    "NEOS": 50,
-    "FRANK": 73
-  },
-  {
-    "BZ": "Piesendorf",
-    "SPOE": 410,
-    "FPOE": 431,
-    "OEVP": 517,
-    "GRUE": 180,
-    "NEOS": 51,
-    "FRANK": 116
-  },
-  {
-    "BZ": "Rauris",
-    "SPOE": 318,
-    "FPOE": 465,
-    "OEVP": 549,
-    "GRUE": 108,
-    "NEOS": 34,
-    "FRANK": 100
-  },
-  {
-    "BZ": "Saalbach-Hinterglemm",
-    "SPOE": 195,
-    "FPOE": 403,
-    "OEVP": 538,
-    "GRUE": 81,
-    "NEOS": 47,
-    "FRANK": 71
-  },
-  {
-    "BZ": "Saalfelden am Steinernen Meer",
-    "SPOE": 2.29,
-    "FPOE": 1.802,
-    "OEVP": 1.448,
-    "GRUE": 913,
-    "NEOS": 322,
-    "FRANK": 415
-  },
-  {
-    "BZ": "St. Martin bei Lofer",
-    "SPOE": 129,
-    "FPOE": 101,
-    "OEVP": 205,
-    "GRUE": 79,
-    "NEOS": 16,
-    "FRANK": 28
-  },
-  {
-    "BZ": "Stuhlfelden",
-    "SPOE": 233,
-    "FPOE": 247,
-    "OEVP": 252,
-    "GRUE": 59,
-    "NEOS": 20,
-    "FRANK": 57
-  },
-  {
-    "BZ": "Taxenbach",
-    "SPOE": 344,
-    "FPOE": 378,
-    "OEVP": 450,
-    "GRUE": 101,
-    "NEOS": 43,
-    "FRANK": 107
-  },
-  {
-    "BZ": "Unken",
-    "SPOE": 211,
-    "FPOE": 295,
-    "OEVP": 294,
-    "GRUE": 83,
-    "NEOS": 21,
-    "FRANK": 54
-  },
-  {
-    "BZ": "Uttendorf",
-    "SPOE": 565,
-    "FPOE": 333,
-    "OEVP": 359,
-    "GRUE": 101,
-    "NEOS": 37,
-    "FRANK": 67
-  },
-  {
-    "BZ": "Viehhofen",
-    "SPOE": 54,
-    "FPOE": 128,
-    "OEVP": 72,
-    "GRUE": 19,
-    "NEOS": 8,
-    "FRANK": 18
-  },
-  {
-    "BZ": "Wald im Pinzgau",
-    "SPOE": 150,
-    "FPOE": 129,
-    "OEVP": 205,
-    "GRUE": 31,
-    "NEOS": 10,
-    "FRANK": 24
-  },
-  {
-    "BZ": "Weißbach bei Lofer",
-    "SPOE": 37,
-    "FPOE": 38,
-    "OEVP": 80,
-    "GRUE": 19,
-    "NEOS": 8,
-    "FRANK": 11
-  },
-  {
-    "BZ": "Zell am See",
-    "SPOE": 1.225,
-    "FPOE": 974,
-    "OEVP": 847,
-    "GRUE": 419,
-    "NEOS": 163,
-    "FRANK": 225
+    "name": "Salzburg (Stadt)",
+    "results": [
+    { "name": "SPOE", "votes": 13690 },
+    { "name": "FPOE", "votes": 11333 },
+    { "name": "OEVP", "votes": 10980 },
+    { "name": "GRUE", "votes": 11067 },
+    { "name": "NEOS", "votes": 3581 },
+    { "name": "FRANK", "votes": 2883 }
+    ]
+  },
+  {
+    "name": "Abtenau",
+    "results": [
+    { "name": "SPOE", "votes": 920 },
+    { "name": "FPOE", "votes": 542 },
+    { "name": "OEVP", "votes": 1144 },
+    { "name": "GRUE", "votes": 295 },
+    { "name": "NEOS", "votes": 85 },
+    { "name": "FRANK", "votes": 130 }
+    ]
+  },
+  {
+    "name": "Adnet",
+    "results": [
+    { "name": "SPOE", "votes": 403 },
+    { "name": "FPOE", "votes": 375 },
+    { "name": "OEVP", "votes": 737 },
+    { "name": "GRUE", "votes": 296 },
+    { "name": "NEOS", "votes": 87 },
+    { "name": "FRANK", "votes": 103 }
+    ]
+  },
+  {
+    "name": "Annaberg-Lungötz",
+    "results": [
+    { "name": "SPOE", "votes": 310 },
+    { "name": "FPOE", "votes": 260 },
+    { "name": "OEVP", "votes": 509 },
+    { "name": "GRUE", "votes": 71 },
+    { "name": "NEOS", "votes": 34 },
+    { "name": "FRANK", "votes": 43 }
+    ]
+  },
+  {
+    "name": "Golling an der Salzach",
+    "results": [
+    { "name": "SPOE", "votes": 513 },
+    { "name": "FPOE", "votes": 471 },
+    { "name": "OEVP", "votes": 588 },
+    { "name": "GRUE", "votes": 300 },
+    { "name": "NEOS", "votes": 79 },
+    { "name": "FRANK", "votes": 95 }
+    ]
+  },
+  {
+    "name": "Hallein",
+    "results": [
+    { "name": "SPOE", "votes": 263 },,
+    { "name": "FPOE", "votes": 1950 },
+    { "name": "OEVP", "votes": 1359 },
+    { "name": "GRUE", "votes": 1383 },
+    { "name": "NEOS", "votes": 373 },
+    { "name": "FRANK", "votes": 494 }
+    ]
+  },
+  {
+    "name": "Krispl",
+    "results": [
+    { "name": "SPOE", "votes": 132 },
+    { "name": "FPOE", "votes": 114 },
+    { "name": "OEVP", "votes": 207 },
+    { "name": "GRUE", "votes": 34 },
+    { "name": "NEOS", "votes": 7 },
+    { "name": "FRANK", "votes": 28 }
+    ]
+  },
+  {
+    "name": "Kuchl",
+    "results": [
+    { "name": "SPOE", "votes": 670 },
+    { "name": "FPOE", "votes": 619 },
+    { "name": "OEVP", "votes": 1155 },
+    { "name": "GRUE", "votes": 611 },
+    { "name": "NEOS", "votes": 190 },
+    { "name": "FRANK", "votes": 185 }
+    ]
+  },
+  {
+    "name": "Oberalm",
+    "results": [
+    { "name": "SPOE", "votes": 523 },
+    { "name": "FPOE", "votes": 414 },
+    { "name": "OEVP", "votes": 544 },
+    { "name": "GRUE", "votes": 416 },
+    { "name": "NEOS", "votes": 102 },
+    { "name": "FRANK", "votes": 123 }
+    ]
+  },
+  {
+    "name": "Puch bei Hallein",
+    "results": [
+    { "name": "SPOE", "votes": 486 },
+    { "name": "FPOE", "votes": 443 },
+    { "name": "OEVP", "votes": 565 },
+    { "name": "GRUE", "votes": 370 },
+    { "name": "NEOS", "votes": 89 },
+    { "name": "FRANK", "votes": 116 }
+    ]
+  },
+  {
+    "name": "Rußbach am Paß Gschütt",
+    "results": [
+    { "name": "SPOE", "votes": 134 },
+    { "name": "FPOE", "votes": 78 },
+    { "name": "OEVP", "votes": 205 },
+    { "name": "GRUE", "votes": 21 },
+    { "name": "NEOS", "votes": 7 },
+    { "name": "FRANK", "votes": 9 }
+    ]
+  },
+  {
+    "name": "St. Koloman",
+    "results": [
+    { "name": "SPOE", "votes": 103 },
+    { "name": "FPOE", "votes": 179 },
+    { "name": "OEVP", "votes": 520 },
+    { "name": "GRUE", "votes": 82 },
+    { "name": "NEOS", "votes": 25 },
+    { "name": "FRANK", "votes": 40 }
+    ]
+  },
+  {
+    "name": "Scheffau am Tennengebirge",
+    "results": [
+    { "name": "SPOE", "votes": 149 },
+    { "name": "FPOE", "votes": 160 },
+    { "name": "OEVP", "votes": 296 },
+    { "name": "GRUE", "votes": 97 },
+    { "name": "NEOS", "votes": 26 },
+    { "name": "FRANK", "votes": 32 }
+    ]
+  },
+  {
+    "name": "Bad Vigaun",
+    "results": [
+    { "name": "SPOE", "votes": 227 },
+    { "name": "FPOE", "votes": 228 },
+    { "name": "OEVP", "votes": 379 },
+    { "name": "GRUE", "votes": 177 },
+    { "name": "NEOS", "votes": 46 },
+    { "name": "FRANK", "votes": 48 }
+    ]
+  },
+  {
+    "name": "Anif",
+    "results": [
+    { "name": "SPOE", "votes": 346 },
+    { "name": "FPOE", "votes": 386 },
+    { "name": "OEVP", "votes": 486 },
+    { "name": "GRUE", "votes": 301 },
+    { "name": "NEOS", "votes": 180 },
+    { "name": "FRANK", "votes": 94 }
+    ]
+  },
+  {
+    "name": "Anthering",
+    "results": [
+    { "name": "SPOE", "votes": 248 },
+    { "name": "FPOE", "votes": 395 },
+    { "name": "OEVP", "votes": 667 },
+    { "name": "GRUE", "votes": 364 },
+    { "name": "NEOS", "votes": 108 },
+    { "name": "FRANK", "votes": 88 }
+    ]
+  },
+  {
+    "name": "Bergheim",
+    "results": [
+    { "name": "SPOE", "votes": 446 },
+    { "name": "FPOE", "votes": 489 },
+    { "name": "OEVP", "votes": 916 },
+    { "name": "GRUE", "votes": 395 },
+    { "name": "NEOS", "votes": 149 },
+    { "name": "FRANK", "votes": 118 }
+    ]
+  },
+  {
+    "name": "Berndorf bei Salzburg",
+    "results": [
+    { "name": "SPOE", "votes": 173 },
+    { "name": "FPOE", "votes": 221 },
+    { "name": "OEVP", "votes": 335 },
+    { "name": "GRUE", "votes": 104 },
+    { "name": "NEOS", "votes": 29 },
+    { "name": "FRANK", "votes": 37 }
+    ]
+  },
+  {
+    "name": "Bürmoos",
+    "results": [
+    { "name": "SPOE", "votes": 953 },
+    { "name": "FPOE", "votes": 554 },
+    { "name": "OEVP", "votes": 212 },
+    { "name": "GRUE", "votes": 318 },
+    { "name": "NEOS", "votes": 75 },
+    { "name": "FRANK", "votes": 125 }
+    ]
+  },
+  {
+    "name": "Dorfbeuern",
+    "results": [
+    { "name": "SPOE", "votes": 135 },
+    { "name": "FPOE", "votes": 170 },
+    { "name": "OEVP", "votes": 326 },
+    { "name": "GRUE", "votes": 110 },
+    { "name": "NEOS", "votes": 24 },
+    { "name": "FRANK", "votes": 32 }
+    ]
+  },
+  {
+    "name": "Ebenau",
+    "results": [
+    { "name": "SPOE", "votes": 107 },
+    { "name": "FPOE", "votes": 131 },
+    { "name": "OEVP", "votes": 311 },
+    { "name": "GRUE", "votes": 119 },
+    { "name": "NEOS", "votes": 25 },
+    { "name": "FRANK", "votes": 33 }
+    ]
+  },
+  {
+    "name": "Elixhausen",
+    "results": [
+    { "name": "SPOE", "votes": 266 },
+    { "name": "FPOE", "votes": 276 },
+    { "name": "OEVP", "votes": 470 },
+    { "name": "GRUE", "votes": 279 },
+    { "name": "NEOS", "votes": 80 },
+    { "name": "FRANK", "votes": 76 }
+    ]
+  },
+  {
+    "name": "Elsbethen",
+    "results": [
+    { "name": "SPOE", "votes": 418 },
+    { "name": "FPOE", "votes": 472 },
+    { "name": "OEVP", "votes": 814 },
+    { "name": "GRUE", "votes": 597 },
+    { "name": "NEOS", "votes": 175 },
+    { "name": "FRANK", "votes": 151 }
+    ]
+  },
+  {
+    "name": "Eugendorf",
+    "results": [
+    { "name": "SPOE", "votes": 574 },
+    { "name": "FPOE", "votes": 751 },
+    { "name": "OEVP", "votes": 1037 },
+    { "name": "GRUE", "votes": 581 },
+    { "name": "NEOS", "votes": 162 },
+    { "name": "FRANK", "votes": 226 }
+    ]
+  },
+  {
+    "name": "Faistenau",
+    "results": [
+    { "name": "SPOE", "votes": 207 },
+    { "name": "FPOE", "votes": 493 },
+    { "name": "OEVP", "votes": 547 },
+    { "name": "GRUE", "votes": 183 },
+    { "name": "NEOS", "votes": 46 },
+    { "name": "FRANK", "votes": 81 }
+    ]
+  },
+  {
+    "name": "Fuschl am See",
+    "results": [
+    { "name": "SPOE", "votes": 87 },
+    { "name": "FPOE", "votes": 145 },
+    { "name": "OEVP", "votes": 281 },
+    { "name": "GRUE", "votes": 94 },
+    { "name": "NEOS", "votes": 34 },
+    { "name": "FRANK", "votes": 51 }
+    ]
+  },
+  {
+    "name": "Göming",
+    "results": [
+    { "name": "SPOE", "votes": 43 },
+    { "name": "FPOE", "votes": 63 },
+    { "name": "OEVP", "votes": 237 },
+    { "name": "GRUE", "votes": 55 },
+    { "name": "NEOS", "votes": 8 },
+    { "name": "FRANK", "votes": 15 }
+    ]
+  },
+  {
+    "name": "Grödig",
+    "results": [
+    { "name": "SPOE", "votes": 955 },
+    { "name": "FPOE", "votes": 790 },
+    { "name": "OEVP", "votes": 633 },
+    { "name": "GRUE", "votes": 493 },
+    { "name": "NEOS", "votes": 164 },
+    { "name": "FRANK", "votes": 157 }
+    ]
+  },
+  {
+    "name": "Großgmain",
+    "results": [
+    { "name": "SPOE", "votes": 162 },
+    { "name": "FPOE", "votes": 268 },
+    { "name": "OEVP", "votes": 317 },
+    { "name": "GRUE", "votes": 191 },
+    { "name": "NEOS", "votes": 70 },
+    { "name": "FRANK", "votes": 54 }
+    ]
+  },
+  {
+    "name": "Hallwang",
+    "results": [
+    { "name": "SPOE", "votes": 365 },
+    { "name": "FPOE", "votes": 409 },
+    { "name": "OEVP", "votes": 558 },
+    { "name": "GRUE", "votes": 368 },
+    { "name": "NEOS", "votes": 84 },
+    { "name": "FRANK", "votes": 102 }
+    ]
+  },
+  {
+    "name": "Henndorf am Wallersee",
+    "results": [
+    { "name": "SPOE", "votes": 531 },
+    { "name": "FPOE", "votes": 554 },
+    { "name": "OEVP", "votes": 686 },
+    { "name": "GRUE", "votes": 390 },
+    { "name": "NEOS", "votes": 140 },
+    { "name": "FRANK", "votes": 123 }
+    ]
+  },
+  {
+    "name": "Hintersee",
+    "results": [
+    { "name": "SPOE", "votes": 69 },
+    { "name": "FPOE", "votes": 50 },
+    { "name": "OEVP", "votes": 84 },
+    { "name": "GRUE", "votes": 10 },
+    { "name": "NEOS", "votes": 8 },
+    { "name": "FRANK", "votes": 9 }
+    ]
+  },
+  {
+    "name": "Hof bei Salzburg",
+    "results": [
+    { "name": "SPOE", "votes": 306 },
+    { "name": "FPOE", "votes": 356 },
+    { "name": "OEVP", "votes": 532 },
+    { "name": "GRUE", "votes": 261 },
+    { "name": "NEOS", "votes": 72 },
+    { "name": "FRANK", "votes": 101 }
+    ]
+  },
+  {
+    "name": "Köstendorf",
+    "results": [
+    { "name": "SPOE", "votes": 216 },
+    { "name": "FPOE", "votes": 251 },
+    { "name": "OEVP", "votes": 517 },
+    { "name": "GRUE", "votes": 158 },
+    { "name": "NEOS", "votes": 55 },
+    { "name": "FRANK", "votes": 81 }
+    ]
+  },
+  {
+    "name": "Koppl",
+    "results": [
+    { "name": "SPOE", "votes": 278 },
+    { "name": "FPOE", "votes": 337 },
+    { "name": "OEVP", "votes": 536 },
+    { "name": "GRUE", "votes": 366 },
+    { "name": "NEOS", "votes": 83 },
+    { "name": "FRANK", "votes": 104 }
+    ]
+  },
+  {
+    "name": "Lamprechtshausen",
+    "results": [
+    { "name": "SPOE", "votes": 324 },
+    { "name": "FPOE", "votes": 433 },
+    { "name": "OEVP", "votes": 589 },
+    { "name": "GRUE", "votes": 269 },
+    { "name": "NEOS", "votes": 74 },
+    { "name": "FRANK", "votes": 92 }
+    ]
+  },
+  {
+    "name": "Mattsee",
+    "results": [
+    { "name": "SPOE", "votes": 206 },
+    { "name": "FPOE", "votes": 257 },
+    { "name": "OEVP", "votes": 572 },
+    { "name": "GRUE", "votes": 303 },
+    { "name": "NEOS", "votes": 90 },
+    { "name": "FRANK", "votes": 87 }
+    ]
+  },
+  {
+    "name": "Neumarkt am Wallersee",
+    "results": [
+    { "name": "SPOE", "votes": 580 },
+    { "name": "FPOE", "votes": 679 },
+    { "name": "OEVP", "votes": 572 },
+    { "name": "GRUE", "votes": 421 },
+    { "name": "NEOS", "votes": 126 },
+    { "name": "FRANK", "votes": 150 }
+    ]
+  },
+  {
+    "name": "Nußdorf am Haunsberg",
+    "results": [
+    { "name": "SPOE", "votes": 210 },
+    { "name": "FPOE", "votes": 233 },
+    { "name": "OEVP", "votes": 459 },
+    { "name": "GRUE", "votes": 161 },
+    { "name": "NEOS", "votes": 56 },
+    { "name": "FRANK", "votes": 71 }
+    ]
+  },
+  {
+    "name": "Oberndorf bei Salzburg",
+    "results": [
+    { "name": "SPOE", "votes": 657 },
+    { "name": "FPOE", "votes": 529 },
+    { "name": "OEVP", "votes": 548 },
+    { "name": "GRUE", "votes": 444 },
+    { "name": "NEOS", "votes": 106 },
+    { "name": "FRANK", "votes": 185 }
+    ]
+  },
+  {
+    "name": "Obertrum am See",
+    "results": [
+    { "name": "SPOE", "votes": 332 },
+    { "name": "FPOE", "votes": 512 },
+    { "name": "OEVP", "votes": 884 },
+    { "name": "GRUE", "votes": 419 },
+    { "name": "NEOS", "votes": 121 },
+    { "name": "FRANK", "votes": 122 }
+    ]
+  },
+  {
+    "name": "Plainfeld",
+    "results": [
+    { "name": "SPOE", "votes": 80 },
+    { "name": "FPOE", "votes": 150 },
+    { "name": "OEVP", "votes": 219 },
+    { "name": "GRUE", "votes": 84 },
+    { "name": "NEOS", "votes": 26 },
+    { "name": "FRANK", "votes": 48 }
+    ]
+  },
+  {
+    "name": "St. Georgen bei Salzburg",
+    "results": [
+    { "name": "SPOE", "votes": 296 },
+    { "name": "FPOE", "votes": 390 },
+    { "name": "OEVP", "votes": 525 },
+    { "name": "GRUE", "votes": 212 },
+    { "name": "NEOS", "votes": 38 },
+    { "name": "FRANK", "votes": 95 }
+    ]
+  },
+  {
+    "name": "St. Gilgen",
+    "results": [
+    { "name": "SPOE", "votes": 336 },
+    { "name": "FPOE", "votes": 338 },
+    { "name": "OEVP", "votes": 569 },
+    { "name": "GRUE", "votes": 206 },
+    { "name": "NEOS", "votes": 74 },
+    { "name": "FRANK", "votes": 123 }
+    ]
+  },
+  {
+    "name": "Schleedorf",
+    "results": [
+    { "name": "SPOE", "votes": 86 },
+    { "name": "FPOE", "votes": 140 },
+    { "name": "OEVP", "votes": 201 },
+    { "name": "GRUE", "votes": 62 },
+    { "name": "NEOS", "votes": 19 },
+    { "name": "FRANK", "votes": 33 }
+    ]
+  },
+  {
+    "name": "Seeham",
+    "results": [
+    { "name": "SPOE", "votes": 143 },
+    { "name": "FPOE", "votes": 178 },
+    { "name": "OEVP", "votes": 387 },
+    { "name": "GRUE", "votes": 160 },
+    { "name": "NEOS", "votes": 53 },
+    { "name": "FRANK", "votes": 51 }
+    ]
+  },
+  {
+    "name": "Straßwalchen",
+    "results": [
+    { "name": "SPOE", "votes": 734 },
+    { "name": "FPOE", "votes": 1009 },
+    { "name": "OEVP", "votes": 1078 },
+    { "name": "GRUE", "votes": 414 },
+    { "name": "NEOS", "votes": 137 },
+    { "name": "FRANK", "votes": 160 }
+    ]
+  },
+  {
+    "name": "Strobl",
+    "results": [
+    { "name": "SPOE", "votes": 387 },
+    { "name": "FPOE", "votes": 346 },
+    { "name": "OEVP", "votes": 582 },
+    { "name": "GRUE", "votes": 241 },
+    { "name": "NEOS", "votes": 82 },
+    { "name": "FRANK", "votes": 102 }
+    ]
+  },
+  {
+    "name": "Thalgau",
+    "results": [
+    { "name": "SPOE", "votes": 463 },
+    { "name": "FPOE", "votes": 652 },
+    { "name": "OEVP", "votes": 951 },
+    { "name": "GRUE", "votes": 465 },
+    { "name": "NEOS", "votes": 153 },
+    { "name": "FRANK", "votes": 160 }
+    ]
+  },
+  {
+    "name": "Wals-Siezenheim",
+    "results": [
+    { "name": "SPOE", "votes": 1148 },
+    { "name": "FPOE", "votes": 1625 },
+    { "name": "OEVP", "votes": 1701 },
+    { "name": "GRUE", "votes": 1048 },
+    { "name": "NEOS", "votes": 310 },
+    { "name": "FRANK", "votes": 397 }
+    ]
+  },
+  {
+    "name": "Seekirchen am Wallersee",
+    "results": [
+    { "name": "SPOE", "votes": 805 },
+    { "name": "FPOE", "votes": 1151 },
+    { "name": "OEVP", "votes": 1324 },
+    { "name": "GRUE", "votes": 1032 },
+    { "name": "NEOS", "votes": 295 },
+    { "name": "FRANK", "votes": 342 }
+    ]
+  },
+  {
+    "name": "Altenmarkt im Pongau",
+    "results": [
+    { "name": "SPOE", "votes": 301 },
+    { "name": "FPOE", "votes": 466 },
+    { "name": "OEVP", "votes": 625 },
+    { "name": "GRUE", "votes": 233 },
+    { "name": "NEOS", "votes": 89 },
+    { "name": "FRANK", "votes": 123 }
+    ]
+  },
+  {
+    "name": "Bad Hofgastein",
+    "results": [
+    { "name": "SPOE", "votes": 1024 },
+    { "name": "FPOE", "votes": 773 },
+    { "name": "OEVP", "votes": 779 },
+    { "name": "GRUE", "votes": 237 },
+    { "name": "NEOS", "votes": 127 },
+    { "name": "FRANK", "votes": 196 }
+    ]
+  },
+  {
+    "name": "Bad Gastein",
+    "results": [
+    { "name": "SPOE", "votes": 599 },
+    { "name": "FPOE", "votes": 576 },
+    { "name": "OEVP", "votes": 283 },
+    { "name": "GRUE", "votes": 148 },
+    { "name": "NEOS", "votes": 68 },
+    { "name": "FRANK", "votes": 128 }
+    ]
+  },
+  {
+    "name": "Bischofshofen",
+    "results": [
+    { "name": "SPOE", "votes": 1818 },
+    { "name": "FPOE", "votes": 1221 },
+    { "name": "OEVP", "votes": 835 },
+    { "name": "GRUE", "votes": 384 },
+    { "name": "NEOS", "votes": 140 },
+    { "name": "FRANK", "votes": 233 }
+    ]
+  },
+  {
+    "name": "Dorfgastein",
+    "results": [
+    { "name": "SPOE", "votes": 275 },
+    { "name": "FPOE", "votes": 246 },
+    { "name": "OEVP", "votes": 267 },
+    { "name": "GRUE", "votes": 82 },
+    { "name": "NEOS", "votes": 32 },
+    { "name": "FRANK", "votes": 32 }
+    ]
+  },
+  {
+    "name": "Eben im Pongau",
+    "results": [
+    { "name": "SPOE", "votes": 178 },
+    { "name": "FPOE", "votes": 383 },
+    { "name": "OEVP", "votes": 384 },
+    { "name": "GRUE", "votes": 93 },
+    { "name": "NEOS", "votes": 40 },
+    { "name": "FRANK", "votes": 48 }
+    ]
+  },
+  {
+    "name": "Filzmoos",
+    "results": [
+    { "name": "SPOE", "votes": 71 },
+    { "name": "FPOE", "votes": 157 },
+    { "name": "OEVP", "votes": 328 },
+    { "name": "GRUE", "votes": 47 },
+    { "name": "NEOS", "votes": 20 },
+    { "name": "FRANK", "votes": 50 }
+    ]
+  },
+  {
+    "name": "Flachau",
+    "results": [
+    { "name": "SPOE", "votes": 220 },
+    { "name": "FPOE", "votes": 354 },
+    { "name": "OEVP", "votes": 605 },
+    { "name": "GRUE", "votes": 126 },
+    { "name": "NEOS", "votes": 47 },
+    { "name": "FRANK", "votes": 99 }
+    ]
+  },
+  {
+    "name": "Forstau",
+    "results": [
+    { "name": "SPOE", "votes": 78 },
+    { "name": "FPOE", "votes": 76 },
+    { "name": "OEVP", "votes": 113 },
+    { "name": "GRUE", "votes": 19 },
+    { "name": "NEOS", "votes": 6 },
+    { "name": "FRANK", "votes": 10 }
+    ]
+  },
+  {
+    "name": "Goldegg",
+    "results": [
+    { "name": "SPOE", "votes": 284 },
+    { "name": "FPOE", "votes": 298 },
+    { "name": "OEVP", "votes": 368 },
+    { "name": "GRUE", "votes": 146 },
+    { "name": "NEOS", "votes": 58 },
+    { "name": "FRANK", "votes": 122 }
+    ]
+  },
+  {
+    "name": "Großarl",
+    "results": [
+    { "name": "SPOE", "votes": 460 },
+    { "name": "FPOE", "votes": 365 },
+    { "name": "OEVP", "votes": 984 },
+    { "name": "GRUE", "votes": 134 },
+    { "name": "NEOS", "votes": 46 },
+    { "name": "FRANK", "votes": 48 }
+    ]
+  },
+  {
+    "name": "Hüttau",
+    "results": [
+    { "name": "SPOE", "votes": 200 },
+    { "name": "FPOE", "votes": 237 },
+    { "name": "OEVP", "votes": 204 },
+    { "name": "GRUE", "votes": 40 },
+    { "name": "NEOS", "votes": 17 },
+    { "name": "FRANK", "votes": 43 }
+    ]
+  },
+  {
+    "name": "Hüttschlag",
+    "results": [
+    { "name": "SPOE", "votes": 128 },
+    { "name": "FPOE", "votes": 86 },
+    { "name": "OEVP", "votes": 266 },
+    { "name": "GRUE", "votes": 39 },
+    { "name": "NEOS", "votes": 7 },
+    { "name": "FRANK", "votes": 10 }
+    ]
+  },
+  {
+    "name": "Kleinarl",
+    "results": [
+    { "name": "SPOE", "votes": 91 },
+    { "name": "FPOE", "votes": 86 },
+    { "name": "OEVP", "votes": 154 },
+    { "name": "GRUE", "votes": 11 },
+    { "name": "NEOS", "votes": 9 },
+    { "name": "FRANK", "votes": 15 }
+    ]
+  },
+  {
+    "name": "Mühlbach am Hochkönig",
+    "results": [
+    { "name": "SPOE", "votes": 332 },
+    { "name": "FPOE", "votes": 189 },
+    { "name": "OEVP", "votes": 181 },
+    { "name": "GRUE", "votes": 50 },
+    { "name": "NEOS", "votes": 15 },
+    { "name": "FRANK", "votes": 37 }
+    ]
+  },
+  {
+    "name": "Pfarrwerfen",
+    "results": [
+    { "name": "SPOE", "votes": 254 },
+    { "name": "FPOE", "votes": 258 },
+    { "name": "OEVP", "votes": 431 },
+    { "name": "GRUE", "votes": 109 },
+    { "name": "NEOS", "votes": 32 },
+    { "name": "FRANK", "votes": 50 }
+    ]
+  },
+  {
+    "name": "Radstadt",
+    "results": [
+    { "name": "SPOE", "votes": 460 },
+    { "name": "FPOE", "votes": 643 },
+    { "name": "OEVP", "votes": 692 },
+    { "name": "GRUE", "votes": 176 },
+    { "name": "NEOS", "votes": 71 },
+    { "name": "FRANK", "votes": 107 }
+    ]
+  },
+  {
+    "name": "St. Johann im Pongau",
+    "results": [
+    { "name": "SPOE", "votes": 1198 },
+    { "name": "FPOE", "votes": 1493 },
+    { "name": "OEVP", "votes": 1364 },
+    { "name": "GRUE", "votes": 599 },
+    { "name": "NEOS", "votes": 204 },
+    { "name": "FRANK", "votes": 239 }
+    ]
+  },
+  {
+    "name": "St. Martin am Tennengebirge",
+    "results": [
+    { "name": "SPOE", "votes": 220 },
+    { "name": "FPOE", "votes": 204 },
+    { "name": "OEVP", "votes": 271 },
+    { "name": "GRUE", "votes": 40 },
+    { "name": "NEOS", "votes": 25 },
+    { "name": "FRANK", "votes": 31 }
+    ]
+  },
+  {
+    "name": "St. Veit im Pongau",
+    "results": [
+    { "name": "SPOE", "votes": 495 },
+    { "name": "FPOE", "votes": 548 },
+    { "name": "OEVP", "votes": 603 },
+    { "name": "GRUE", "votes": 180 },
+    { "name": "NEOS", "votes": 67 },
+    { "name": "FRANK", "votes": 97 }
+    ]
+  },
+  {
+    "name": "Schwarzach im Pongau",
+    "results": [
+    { "name": "SPOE", "votes": 838 },
+    { "name": "FPOE", "votes": 372 },
+    { "name": "OEVP", "votes": 216 },
+    { "name": "GRUE", "votes": 150 },
+    { "name": "NEOS", "votes": 60 },
+    { "name": "FRANK", "votes": 63 }
+    ]
+  },
+  {
+    "name": "Untertauern",
+    "results": [
+    { "name": "SPOE", "votes": 32 },
+    { "name": "FPOE", "votes": 53 },
+    { "name": "OEVP", "votes": 72 },
+    { "name": "GRUE", "votes": 8 },
+    { "name": "NEOS", "votes": 4 },
+    { "name": "FRANK", "votes": 16 }
+    ]
+  },
+  {
+    "name": "Wagrain",
+    "results": [
+    { "name": "SPOE", "votes": 254 },
+    { "name": "FPOE", "votes": 459 },
+    { "name": "OEVP", "votes": 549 },
+    { "name": "GRUE", "votes": 108 },
+    { "name": "NEOS", "votes": 52 },
+    { "name": "FRANK", "votes": 80 }
+    ]
+  },
+  {
+    "name": "Werfen",
+    "results": [
+    { "name": "SPOE", "votes": 454 },
+    { "name": "FPOE", "votes": 452 },
+    { "name": "OEVP", "votes": 306 },
+    { "name": "GRUE", "votes": 131 },
+    { "name": "NEOS", "votes": 52 },
+    { "name": "FRANK", "votes": 62 }
+    ]
+  },
+  {
+    "name": "Werfenweng",
+    "results": [
+    { "name": "SPOE", "votes": 45 },
+    { "name": "FPOE", "votes": 147 },
+    { "name": "OEVP", "votes": 167 },
+    { "name": "GRUE", "votes": 41 },
+    { "name": "NEOS", "votes": 19 },
+    { "name": "FRANK", "votes": 23 }
+    ]
+  },
+  {
+    "name": "Göriach",
+    "results": [
+    { "name": "SPOE", "votes": 51 },
+    { "name": "FPOE", "votes": 46 },
+    { "name": "OEVP", "votes": 103 },
+    { "name": "GRUE", "votes": 14 },
+    { "name": "NEOS", "votes": 5 },
+    { "name": "FRANK", "votes": 6 }
+    ]
+  },
+  {
+    "name": "Lessach",
+    "results": [
+    { "name": "SPOE", "votes": 59 },
+    { "name": "FPOE", "votes": 64 },
+    { "name": "OEVP", "votes": 141 },
+    { "name": "GRUE", "votes": 19 },
+    { "name": "NEOS", "votes": 7 },
+    { "name": "FRANK", "votes": 9 }
+    ]
+  },
+  {
+    "name": "Mariapfarr",
+    "results": [
+    { "name": "SPOE", "votes": 292 },
+    { "name": "FPOE", "votes": 266 },
+    { "name": "OEVP", "votes": 351 },
+    { "name": "GRUE", "votes": 90 },
+    { "name": "NEOS", "votes": 53 },
+    { "name": "FRANK", "votes": 62 }
+    ]
+  },
+  {
+    "name": "Mauterndorf",
+    "results": [
+    { "name": "SPOE", "votes": 146 },
+    { "name": "FPOE", "votes": 208 },
+    { "name": "OEVP", "votes": 243 },
+    { "name": "GRUE", "votes": 68 },
+    { "name": "NEOS", "votes": 22 },
+    { "name": "FRANK", "votes": 48 }
+    ]
+  },
+  {
+    "name": "Muhr",
+    "results": [
+    { "name": "SPOE", "votes": 79 },
+    { "name": "FPOE", "votes": 128 },
+    { "name": "OEVP", "votes": 116 },
+    { "name": "GRUE", "votes": 4 },
+    { "name": "NEOS", "votes": 1 },
+    { "name": "FRANK", "votes": 3 }
+    ]
+  },
+  {
+    "name": "Ramingstein",
+    "results": [
+    { "name": "SPOE", "votes": 210 },
+    { "name": "FPOE", "votes": 162 },
+    { "name": "OEVP", "votes": 189 },
+    { "name": "GRUE", "votes": 31 },
+    { "name": "NEOS", "votes": 8 },
+    { "name": "FRANK", "votes": 27 }
+    ]
+  },
+  {
+    "name": "St. Andrä im Lungau",
+    "results": [
+    { "name": "SPOE", "votes": 112 },
+    { "name": "FPOE", "votes": 77 },
+    { "name": "OEVP", "votes": 163 },
+    { "name": "GRUE", "votes": 22 },
+    { "name": "NEOS", "votes": 6 },
+    { "name": "FRANK", "votes": 17 }
+    ]
+  },
+  {
+    "name": "St. Margarethen im Lungau",
+    "results": [
+    { "name": "SPOE", "votes": 126 },
+    { "name": "FPOE", "votes": 103 },
+    { "name": "OEVP", "votes": 109 },
+    { "name": "GRUE", "votes": 29 },
+    { "name": "NEOS", "votes": 11 },
+    { "name": "FRANK", "votes": 14 }
+    ]
+  },
+  {
+    "name": "St. Michael im Lungau",
+    "results": [
+    { "name": "SPOE", "votes": 507 },
+    { "name": "FPOE", "votes": 467 },
+    { "name": "OEVP", "votes": 514 },
+    { "name": "GRUE", "votes": 121 },
+    { "name": "NEOS", "votes": 57 },
+    { "name": "FRANK", "votes": 107 }
+    ]
+  },
+  {
+    "name": "Tamsweg",
+    "results": [
+    { "name": "SPOE", "votes": 522 },
+    { "name": "FPOE", "votes": 771 },
+    { "name": "OEVP", "votes": 885 },
+    { "name": "GRUE", "votes": 261 },
+    { "name": "NEOS", "votes": 75 },
+    { "name": "FRANK", "votes": 135 }
+    ]
+  },
+  {
+    "name": "Thomatal",
+    "results": [
+    { "name": "SPOE", "votes": 46 },
+    { "name": "FPOE", "votes": 77 },
+    { "name": "OEVP", "votes": 54 },
+    { "name": "GRUE", "votes": 14 },
+    { "name": "NEOS", "votes": 3 },
+    { "name": "FRANK", "votes": 10 }
+    ]
+  },
+  {
+    "name": "Tweng",
+    "results": [
+    { "name": "SPOE", "votes": 18 },
+    { "name": "FPOE", "votes": 30 },
+    { "name": "OEVP", "votes": 40 },
+    { "name": "GRUE", "votes": 2 },
+    { "name": "NEOS", "votes": 5 },
+    { "name": "FRANK", "votes": 5 }
+    ]
+  },
+  {
+    "name": "Unternberg",
+    "results": [
+    { "name": "SPOE", "votes": 126 },
+    { "name": "FPOE", "votes": 145 },
+    { "name": "OEVP", "votes": 193 },
+    { "name": "GRUE", "votes": 33 },
+    { "name": "NEOS", "votes": 11 },
+    { "name": "FRANK", "votes": 18 }
+    ]
+  },
+  {
+    "name": "Weißpriach",
+    "results": [
+    { "name": "SPOE", "votes": 55 },
+    { "name": "FPOE", "votes": 51 },
+    { "name": "OEVP", "votes": 71 },
+    { "name": "GRUE", "votes": 14 },
+    { "name": "NEOS", "votes": 1 },
+    { "name": "FRANK", "votes": 7 }
+    ]
+  },
+  {
+    "name": "Zederhaus",
+    "results": [
+    { "name": "SPOE", "votes": 96 },
+    { "name": "FPOE", "votes": 195 },
+    { "name": "OEVP", "votes": 332 },
+    { "name": "GRUE", "votes": 27 },
+    { "name": "NEOS", "votes": 7 },
+    { "name": "FRANK", "votes": 24 }
+    ]
+  },
+  {
+    "name": "Bramberg am Wildkogel",
+    "results": [
+    { "name": "SPOE", "votes": 698 },
+    { "name": "FPOE", "votes": 430 },
+    { "name": "OEVP", "votes": 646 },
+    { "name": "GRUE", "votes": 121 },
+    { "name": "NEOS", "votes": 49 },
+    { "name": "FRANK", "votes": 120 }
+    ]
+  },
+  {
+    "name": "Bruck an der Großglocknerstraße",
+    "results": [
+    { "name": "SPOE", "votes": 571 },
+    { "name": "FPOE", "votes": 625 },
+    { "name": "OEVP", "votes": 422 },
+    { "name": "GRUE", "votes": 240 },
+    { "name": "NEOS", "votes": 66 },
+    { "name": "FRANK", "votes": 122 }
+    ]
+  },
+  {
+    "name": "Dienten am Hochkönig",
+    "results": [
+    { "name": "SPOE", "votes": 140 },
+    { "name": "FPOE", "votes": 98 },
+    { "name": "OEVP", "votes": 167 },
+    { "name": "GRUE", "votes": 11 },
+    { "name": "NEOS", "votes": 9 },
+    { "name": "FRANK", "votes": 11 }
+    ]
+  },
+  {
+    "name": "Fusch an der Großglocknerstraße",
+    "results": [
+    { "name": "SPOE", "votes": 87 },
+    { "name": "FPOE", "votes": 107 },
+    { "name": "OEVP", "votes": 116 },
+    { "name": "GRUE", "votes": 34 },
+    { "name": "NEOS", "votes": 9 },
+    { "name": "FRANK", "votes": 19 }
+    ]
+  },
+  {
+    "name": "Hollersbach im Pinzgau",
+    "results": [
+    { "name": "SPOE", "votes": 173 },
+    { "name": "FPOE", "votes": 122 },
+    { "name": "OEVP", "votes": 264 },
+    { "name": "GRUE", "votes": 45 },
+    { "name": "NEOS", "votes": 9 },
+    { "name": "FRANK", "votes": 38 }
+    ]
+  },
+  {
+    "name": "Kaprun",
+    "results": [
+    { "name": "SPOE", "votes": 469 },
+    { "name": "FPOE", "votes": 267 },
+    { "name": "OEVP", "votes": 332 },
+    { "name": "GRUE", "votes": 148 },
+    { "name": "NEOS", "votes": 39 },
+    { "name": "FRANK", "votes": 74 }
+    ]
+  },
+  {
+    "name": "Krimml",
+    "results": [
+    { "name": "SPOE", "votes": 130 },
+    { "name": "FPOE", "votes": 79 },
+    { "name": "OEVP", "votes": 154 },
+    { "name": "GRUE", "votes": 17 },
+    { "name": "NEOS", "votes": 10 },
+    { "name": "FRANK", "votes": 27 }
+    ]
+  },
+  {
+    "name": "Lend",
+    "results": [
+    { "name": "SPOE", "votes": 352 },
+    { "name": "FPOE", "votes": 185 },
+    { "name": "OEVP", "votes": 142 },
+    { "name": "GRUE", "votes": 48 },
+    { "name": "NEOS", "votes": 14 },
+    { "name": "FRANK", "votes": 48 }
+    ]
+  },
+  {
+    "name": "Leogang",
+    "results": [
+    { "name": "SPOE", "votes": 540 },
+    { "name": "FPOE", "votes": 261 },
+    { "name": "OEVP", "votes": 626 },
+    { "name": "GRUE", "votes": 150 },
+    { "name": "NEOS", "votes": 46 },
+    { "name": "FRANK", "votes": 72 }
+    ]
+  },
+  {
+    "name": "Lofer",
+    "results": [
+    { "name": "SPOE", "votes": 167 },
+    { "name": "FPOE", "votes": 232 },
+    { "name": "OEVP", "votes": 351 },
+    { "name": "GRUE", "votes": 129 },
+    { "name": "NEOS", "votes": 41 },
+    { "name": "FRANK", "votes": 49 }
+    ]
+  },
+  {
+    "name": "Maishofen",
+    "results": [
+    { "name": "SPOE", "votes": 321 },
+    { "name": "FPOE", "votes": 398 },
+    { "name": "OEVP", "votes": 506 },
+    { "name": "GRUE", "votes": 183 },
+    { "name": "NEOS", "votes": 66 },
+    { "name": "FRANK", "votes": 86 }
+    ]
+  },
+  {
+    "name": "Maria Alm am Steinernen Meer",
+    "results": [
+    { "name": "SPOE", "votes": 187 },
+    { "name": "FPOE", "votes": 230 },
+    { "name": "OEVP", "votes": 385 },
+    { "name": "GRUE", "votes": 89 },
+    { "name": "NEOS", "votes": 45 },
+    { "name": "FRANK", "votes": 68 }
+    ]
+  },
+  {
+    "name": "Mittersill",
+    "results": [
+    { "name": "SPOE", "votes": 603 },
+    { "name": "FPOE", "votes": 687 },
+    { "name": "OEVP", "votes": 640 },
+    { "name": "GRUE", "votes": 187 },
+    { "name": "NEOS", "votes": 90 },
+    { "name": "FRANK", "votes": 236 }
+    ]
+  },
+  {
+    "name": "Neukirchen am Großvenediger",
+    "results": [
+    { "name": "SPOE", "votes": 378 },
+    { "name": "FPOE", "votes": 253 },
+    { "name": "OEVP", "votes": 373 },
+    { "name": "GRUE", "votes": 83 },
+    { "name": "NEOS", "votes": 50 },
+    { "name": "FRANK", "votes": 75 }
+    ]
+  },
+  {
+    "name": "Niedernsill",
+    "results": [
+    { "name": "SPOE", "votes": 362 },
+    { "name": "FPOE", "votes": 385 },
+    { "name": "OEVP", "votes": 330 },
+    { "name": "GRUE", "votes": 121 },
+    { "name": "NEOS", "votes": 50 },
+    { "name": "FRANK", "votes": 73 }
+    ]
+  },
+  {
+    "name": "Piesendorf",
+    "results": [
+    { "name": "SPOE", "votes": 410 },
+    { "name": "FPOE", "votes": 431 },
+    { "name": "OEVP", "votes": 517 },
+    { "name": "GRUE", "votes": 180 },
+    { "name": "NEOS", "votes": 51 },
+    { "name": "FRANK", "votes": 116 }
+    ]
+  },
+  {
+    "name": "Rauris",
+    "results": [
+    { "name": "SPOE", "votes": 318 },
+    { "name": "FPOE", "votes": 465 },
+    { "name": "OEVP", "votes": 549 },
+    { "name": "GRUE", "votes": 108 },
+    { "name": "NEOS", "votes": 34 },
+    { "name": "FRANK", "votes": 100 }
+    ]
+  },
+  {
+    "name": "Saalbach-Hinterglemm",
+    "results": [
+    { "name": "SPOE", "votes": 195 },
+    { "name": "FPOE", "votes": 403 },
+    { "name": "OEVP", "votes": 538 },
+    { "name": "GRUE", "votes": 81 },
+    { "name": "NEOS", "votes": 47 },
+    { "name": "FRANK", "votes": 71 }
+    ]
+  },
+  {
+    "name": "Saalfelden am Steinernen Meer",
+    "results": [
+    { "name": "SPOE", "votes": 2290 },
+    { "name": "FPOE", "votes": 1802 },
+    { "name": "OEVP", "votes": 1448 },
+    { "name": "GRUE", "votes": 913 },
+    { "name": "NEOS", "votes": 322 },
+    { "name": "FRANK", "votes": 415 }
+    ]
+  },
+  {
+    "name": "St. Martin bei Lofer",
+    "results": [
+    { "name": "SPOE", "votes": 129 },
+    { "name": "FPOE", "votes": 101 },
+    { "name": "OEVP", "votes": 205 },
+    { "name": "GRUE", "votes": 79 },
+    { "name": "NEOS", "votes": 16 },
+    { "name": "FRANK", "votes": 28 }
+    ]
+  },
+  {
+    "name": "Stuhlfelden",
+    "results": [
+    { "name": "SPOE", "votes": 233 },
+    { "name": "FPOE", "votes": 247 },
+    { "name": "OEVP", "votes": 252 },
+    { "name": "GRUE", "votes": 59 },
+    { "name": "NEOS", "votes": 20 },
+    { "name": "FRANK", "votes": 57 }
+    ]
+  },
+  {
+    "name": "Taxenbach",
+    "results": [
+    { "name": "SPOE", "votes": 344 },
+    { "name": "FPOE", "votes": 378 },
+    { "name": "OEVP", "votes": 450 },
+    { "name": "GRUE", "votes": 101 },
+    { "name": "NEOS", "votes": 43 },
+    { "name": "FRANK", "votes": 107 }
+    ]
+  },
+  {
+    "name": "Unken",
+    "results": [
+    { "name": "SPOE", "votes": 211 },
+    { "name": "FPOE", "votes": 295 },
+    { "name": "OEVP", "votes": 294 },
+    { "name": "GRUE", "votes": 83 },
+    { "name": "NEOS", "votes": 21 },
+    { "name": "FRANK", "votes": 54 }
+    ]
+  },
+  {
+    "name": "Uttendorf",
+    "results": [
+    { "name": "SPOE", "votes": 565 },
+    { "name": "FPOE", "votes": 333 },
+    { "name": "OEVP", "votes": 359 },
+    { "name": "GRUE", "votes": 101 },
+    { "name": "NEOS", "votes": 37 },
+    { "name": "FRANK", "votes": 67 }
+    ]
+  },
+  {
+    "name": "Viehhofen",
+    "results": [
+    { "name": "SPOE", "votes": 54 },
+    { "name": "FPOE", "votes": 128 },
+    { "name": "OEVP", "votes": 72 },
+    { "name": "GRUE", "votes": 19 },
+    { "name": "NEOS", "votes": 8 },
+    { "name": "FRANK", "votes": 18 }
+    ]
+  },
+  {
+    "name": "Wald im Pinzgau",
+    "results": [
+    { "name": "SPOE", "votes": 150 },
+    { "name": "FPOE", "votes": 129 },
+    { "name": "OEVP", "votes": 205 },
+    { "name": "GRUE", "votes": 31 },
+    { "name": "NEOS", "votes": 10 },
+    { "name": "FRANK", "votes": 24 }
+    ]
+  },
+  {
+    "name": "Weißbach bei Lofer",
+    "results": [
+    { "name": "SPOE", "votes": 37 },
+    { "name": "FPOE", "votes": 38 },
+    { "name": "OEVP", "votes": 80 },
+    { "name": "GRUE", "votes": 19 },
+    { "name": "NEOS", "votes": 8 },
+    { "name": "FRANK", "votes": 11 }
+    ]
+  },
+  {
+    "name": "Zell am See",
+    "results": [
+    { "name": "SPOE", "votes": 1225 },
+    { "name": "FPOE", "votes": 974 },
+    { "name": "OEVP", "votes": 847 },
+    { "name": "GRUE", "votes": 419 },
+    { "name": "NEOS", "votes": 163 },
+    { "name": "FRANK", "votes": 225 }
+    ]
   }
 ]

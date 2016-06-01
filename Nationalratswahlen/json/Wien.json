@@ -1,209 +1,255 @@
 [
   {
-    "BZ": "Landstraße",
-    "SPOE": 10803,
-    "FPOE": 6310,
-    "OEVP": 5735,
-    "GRUE": 8764,
-    "NEOS": 1357,
-    "FRANK": 3875
+    "name": "Landstraße",
+    "results": [
+    { "name": "SPOE", "votes": 10803 },
+    { "name": "FPOE", "votes": 6310 },
+    { "name": "OEVP", "votes": 5735 },
+    { "name": "GRUE", "votes": 8764 },
+    { "name": "NEOS", "votes": 1357 },
+    { "name": "FRANK", "votes": 3875 }
+    ]
   },
   {
-    "BZ": "Wieden",
-    "SPOE": 3271,
-    "FPOE": 2971,
-    "OEVP": 1605,
-    "GRUE": 3858,
-    "NEOS": 488,
-    "FRANK": 1785
+    "name": "Wieden",
+    "results": [
+    { "name": "SPOE", "votes": 3271 },
+    { "name": "FPOE", "votes": 2971 },
+    { "name": "OEVP", "votes": 1605 },
+    { "name": "GRUE", "votes": 3858 },
+    { "name": "NEOS", "votes": 488 },
+    { "name": "FRANK", "votes": 1785 }
+    ]
   },
   {
-    "BZ": "Margareten",
-    "SPOE": 6265,
-    "FPOE": 2683,
-    "OEVP": 3201,
-    "GRUE": 5287,
-    "NEOS": 661,
-    "FRANK": 1767
+    "name": "Margareten",
+    "results": [
+    { "name": "SPOE", "votes": 6265 },
+    { "name": "FPOE", "votes": 2683 },
+    { "name": "OEVP", "votes": 3201 },
+    { "name": "GRUE", "votes": 5287 },
+    { "name": "NEOS", "votes": 661 },
+    { "name": "FRANK", "votes": 1767 }
+    ]
   },
   {
-    "BZ": "Innere Stadt",
-    "SPOE": 1582,
-    "FPOE": 2579,
-    "OEVP": 796,
-    "GRUE": 1474,
-    "NEOS": 425,
-    "FRANK": 1343
+    "name": "Innere Stadt",
+    "results": [
+    { "name": "SPOE", "votes": 1582 },
+    { "name": "FPOE", "votes": 2579 },
+    { "name": "OEVP", "votes": 796 },
+    { "name": "GRUE", "votes": 1474 },
+    { "name": "NEOS", "votes": 425 },
+    { "name": "FRANK", "votes": 1343 }
+    ]
   },
   {
-    "BZ": "Mariahilf",
-    "SPOE": 3217,
-    "FPOE": 2321,
-    "OEVP": 1516,
-    "GRUE": 4123,
-    "NEOS": 460,
-    "FRANK": 1673
+    "name": "Mariahilf",
+    "results": [
+    { "name": "SPOE", "votes": 3217 },
+    { "name": "FPOE", "votes": 2321 },
+    { "name": "OEVP", "votes": 1516 },
+    { "name": "GRUE", "votes": 4123 },
+    { "name": "NEOS", "votes": 460 },
+    { "name": "FRANK", "votes": 1673 }
+    ]
   },
   {
-    "BZ": "Neubau",
-    "SPOE": 3297,
-    "FPOE": 2242,
-    "OEVP": 1355,
-    "GRUE": 4838,
-    "NEOS": 408,
-    "FRANK": 1832
+    "name": "Neubau",
+    "results": [
+    { "name": "SPOE", "votes": 3297 },
+    { "name": "FPOE", "votes": 2242 },
+    { "name": "OEVP", "votes": 1355 },
+    { "name": "GRUE", "votes": 4838 },
+    { "name": "NEOS", "votes": 408 },
+    { "name": "FRANK", "votes": 1832 }
+    ]
   },
   {
-    "BZ": "Josefstadt",
-    "SPOE": 2354,
-    "FPOE": 2507,
-    "OEVP": 1085,
-    "GRUE": 3343,
-    "NEOS": 335,
-    "FRANK": 1588
+    "name": "Josefstadt",
+    "results": [
+    { "name": "SPOE", "votes": 2354 },
+    { "name": "FPOE", "votes": 2507 },
+    { "name": "OEVP", "votes": 1085 },
+    { "name": "GRUE", "votes": 3343 },
+    { "name": "NEOS", "votes": 335 },
+    { "name": "FRANK", "votes": 1588 }
+    ]
   },
   {
-    "BZ": "Alsergrund",
-    "SPOE": 4176,
-    "FPOE": 3346,
-    "OEVP": 2083,
-    "GRUE": 5162,
-    "NEOS": 607,
-    "FRANK": 2411
+    "name": "Alsergrund",
+    "results": [
+    { "name": "SPOE", "votes": 4176 },
+    { "name": "FPOE", "votes": 3346 },
+    { "name": "OEVP", "votes": 2083 },
+    { "name": "GRUE", "votes": 5162 },
+    { "name": "NEOS", "votes": 607 },
+    { "name": "FRANK", "votes": 2411 }
+    ]
   },
   {
-    "BZ": "Leopoldstadt",
-    "SPOE": 12613,
-    "FPOE": 4641,
-    "OEVP": 6578,
-    "GRUE": 8921,
-    "NEOS": 1434,
-    "FRANK": 2882
+    "name": "Leopoldstadt",
+    "results": [
+    { "name": "SPOE", "votes": 12613 },
+    { "name": "FPOE", "votes": 4641 },
+    { "name": "OEVP", "votes": 6578 },
+    { "name": "GRUE", "votes": 8921 },
+    { "name": "NEOS", "votes": 1434 },
+    { "name": "FRANK", "votes": 2882 }
+    ]
   },
   {
-    "BZ": "Brigittenau",
-    "SPOE": 11910,
-    "FPOE": 3220,
-    "OEVP": 6918,
-    "GRUE": 4773,
-    "NEOS": 1091,
-    "FRANK": 1600
+    "name": "Brigittenau",
+    "results": [
+    { "name": "SPOE", "votes": 11910 },
+    { "name": "FPOE", "votes": 3220 },
+    { "name": "OEVP", "votes": 6918 },
+    { "name": "GRUE", "votes": 4773 },
+    { "name": "NEOS", "votes": 1091 },
+    { "name": "FRANK", "votes": 1600 }
+    ]
   },
   {
-    "BZ": "Favoriten",
-    "SPOE": 28017,
-    "FPOE": 7019,
-    "OEVP": 20209,
-    "GRUE": 6342,
-    "NEOS": 2924,
-    "FRANK": 2778
+    "name": "Favoriten",
+    "results": [
+    { "name": "SPOE", "votes": 28017 },
+    { "name": "FPOE", "votes": 7019 },
+    { "name": "OEVP", "votes": 20209 },
+    { "name": "GRUE", "votes": 6342 },
+    { "name": "NEOS", "votes": 2924 },
+    { "name": "FRANK", "votes": 2778 }
+    ]
   },
   {
-    "BZ": "Simmering",
-    "SPOE": 15495,
-    "FPOE": 3447,
-    "OEVP": 12095,
-    "GRUE": 3061,
-    "NEOS": 1529,
-    "FRANK": 1484
+    "name": "Simmering",
+    "results": [
+    { "name": "SPOE", "votes": 15495 },
+    { "name": "FPOE", "votes": 3447 },
+    { "name": "OEVP", "votes": 12095 },
+    { "name": "GRUE", "votes": 3061 },
+    { "name": "NEOS", "votes": 1529 },
+    { "name": "FRANK", "votes": 1484 }
+    ]
   },
   {
-    "BZ": "Meidling",
-    "SPOE": 12600,
-    "FPOE": 4570,
-    "OEVP": 8087,
-    "GRUE": 5189,
-    "NEOS": 1465,
-    "FRANK": 2245
+    "name": "Meidling",
+    "results": [
+    { "name": "SPOE", "votes": 12600 },
+    { "name": "FPOE", "votes": 4570 },
+    { "name": "OEVP", "votes": 8087 },
+    { "name": "GRUE", "votes": 5189 },
+    { "name": "NEOS", "votes": 1465 },
+    { "name": "FRANK", "votes": 2245 }
+    ]
   },
   {
-    "BZ": "Hietzing",
-    "SPOE": 6455,
-    "FPOE": 7827,
-    "OEVP": 4072,
-    "GRUE": 4471,
-    "NEOS": 1138,
-    "FRANK": 3438
+    "name": "Hietzing",
+    "results": [
+    { "name": "SPOE", "votes": 6455 },
+    { "name": "FPOE", "votes": 7827 },
+    { "name": "OEVP", "votes": 4072 },
+    { "name": "GRUE", "votes": 4471 },
+    { "name": "NEOS", "votes": 1138 },
+    { "name": "FRANK", "votes": 3438 }
+    ]
   },
   {
-    "BZ": "Penzing",
-    "SPOE": 12139,
-    "FPOE": 7123,
-    "OEVP": 8278,
-    "GRUE": 7004,
-    "NEOS": 1726,
-    "FRANK": 3435
+    "name": "Penzing",
+    "results": [
+    { "name": "SPOE", "votes": 12139 },
+    { "name": "FPOE", "votes": 7123 },
+    { "name": "OEVP", "votes": 8278 },
+    { "name": "GRUE", "votes": 7004 },
+    { "name": "NEOS", "votes": 1726 },
+    { "name": "FRANK", "votes": 3435 }
+    ]
   },
   {
-    "BZ": "Rudolfsheim-Fünfhaus",
-    "SPOE": 8420,
-    "FPOE": 2862,
-    "OEVP": 4680,
-    "GRUE": 5614,
-    "NEOS": 916,
-    "FRANK": 1580
+    "name": "Rudolfsheim-Fünfhaus",
+    "results": [
+    { "name": "SPOE", "votes": 8420 },
+    { "name": "FPOE", "votes": 2862 },
+    { "name": "OEVP", "votes": 4680 },
+    { "name": "GRUE", "votes": 5614 },
+    { "name": "NEOS", "votes": 916 },
+    { "name": "FRANK", "votes": 1580 }
+    ]
   },
   {
-    "BZ": "Liesing",
-    "SPOE": 17474,
-    "FPOE": 7752,
-    "OEVP": 11358,
-    "GRUE": 6291,
-    "NEOS": 2220,
-    "FRANK": 3834
+    "name": "Liesing",
+    "results": [
+    { "name": "SPOE", "votes": 17474 },
+    { "name": "FPOE", "votes": 7752 },
+    { "name": "OEVP", "votes": 11358 },
+    { "name": "GRUE", "votes": 6291 },
+    { "name": "NEOS", "votes": 2220 },
+    { "name": "FRANK", "votes": 3834 }
+    ]
   },
   {
-    "BZ": "Ottakring",
-    "SPOE": 12478,
-    "FPOE": 4848,
-    "OEVP": 7741,
-    "GRUE": 7213,
-    "NEOS": 1387,
-    "FRANK": 2539
+    "name": "Ottakring",
+    "results": [
+    { "name": "SPOE", "votes": 12478 },
+    { "name": "FPOE", "votes": 4848 },
+    { "name": "OEVP", "votes": 7741 },
+    { "name": "GRUE", "votes": 7213 },
+    { "name": "NEOS", "votes": 1387 },
+    { "name": "FRANK", "votes": 2539 }
+    ]
   },
   {
-    "BZ": "Hernals",
-    "SPOE": 5820,
-    "FPOE": 3821,
-    "OEVP": 3855,
-    "GRUE": 4732,
-    "NEOS": 837,
-    "FRANK": 2086
+    "name": "Hernals",
+    "results": [
+    { "name": "SPOE", "votes": 5820 },
+    { "name": "FPOE", "votes": 3821 },
+    { "name": "OEVP", "votes": 3855 },
+    { "name": "GRUE", "votes": 4732 },
+    { "name": "NEOS", "votes": 837 },
+    { "name": "FRANK", "votes": 2086 }
+    ]
   },
   {
-    "BZ": "Währing",
-    "SPOE": 4573,
-    "FPOE": 5593,
-    "OEVP": 2682,
-    "GRUE": 5497,
-    "NEOS": 780,
-    "FRANK": 3035
+    "name": "Währing",
+    "results": [
+    { "name": "SPOE", "votes": 4573 },
+    { "name": "FPOE", "votes": 5593 },
+    { "name": "OEVP", "votes": 2682 },
+    { "name": "GRUE", "votes": 5497 },
+    { "name": "NEOS", "votes": 780 },
+    { "name": "FRANK", "votes": 3035 }
+    ]
   },
   {
-    "BZ": "Döbling",
-    "SPOE": 8728,
-    "FPOE": 8663,
-    "OEVP": 5287,
-    "GRUE": 5120,
-    "NEOS": 1437,
-    "FRANK": 4192
+    "name": "Döbling",
+    "results": [
+    { "name": "SPOE", "votes": 8728 },
+    { "name": "FPOE", "votes": 8663 },
+    { "name": "OEVP", "votes": 5287 },
+    { "name": "GRUE", "votes": 5120 },
+    { "name": "NEOS", "votes": 1437 },
+    { "name": "FRANK", "votes": 4192 }
+    ]
   },
   {
-    "BZ": "Floridsdorf",
-    "SPOE": 26190,
-    "FPOE": 7333,
-    "OEVP": 20104,
-    "GRUE": 6915,
-    "NEOS": 3028,
-    "FRANK": 3372
+    "name": "Floridsdorf",
+    "results": [
+    { "name": "SPOE", "votes": 26190 },
+    { "name": "FPOE", "votes": 7333 },
+    { "name": "OEVP", "votes": 20104 },
+    { "name": "GRUE", "votes": 6915 },
+    { "name": "NEOS", "votes": 3028 },
+    { "name": "FRANK", "votes": 3372 }
+    ]
   },
   {
-    "BZ": "Donaustadt",
-    "SPOE": 30036,
-    "FPOE": 8486,
-    "OEVP": 22053,
-    "GRUE": 9099,
-    "NEOS": 3847,
-    "FRANK": 4453
+    "name": "Donaustadt",
+    "results": [
+    { "name": "SPOE", "votes": 30036 },
+    { "name": "FPOE", "votes": 8486 },
+    { "name": "OEVP", "votes": 22053 },
+    { "name": "GRUE", "votes": 9099 },
+    { "name": "NEOS", "votes": 3847 },
+    { "name": "FRANK", "votes": 4453 }
+    ]
   }
 ]
