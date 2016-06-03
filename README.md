@@ -1,4 +1,8 @@
 # GeoWahl
+
+
+![alt tag](https://github.com/fhstp-mfg/geowahl/blob/design/Exports/Logo/Logo_round.png)
+
 Visualizes geo–political data for Web, Smartphone (iPhone, Android) and Smartwatch (Apple Watch, Android Wear).
 
 **NOTE** This repository has only 2 branches for general stuff; one for the project [data](https://github.com/fhstp-mfg/geowahl/tree/data) and one for the app [design](https://github.com/fhstp-mfg/geowahl/tree/design). 
