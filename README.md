@@ -8,5 +8,5 @@ Platform-specific projects can be found here:
 - [GeoWahl iOS](https://github.com/fhstp-mfg/geowahl-ios)
 - [GeoWahl Web](https://github.com/fhstp-mfg/geowahl-web)
 
-All projects use [this API specification](https://github.com/fhstp-mfg/geowahl-web/wiki/API).
+All projects use [this API specification](https://github.com/fhstp-mfg/geowahl-web/wiki/GeoWahl-API).
 
