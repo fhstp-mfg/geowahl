@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Bartholomäberg",
+    "Hofer": 573,
+    "VdB": 384
+  },
+  {
+    "name": "Blons",
+    "Hofer": 64,
+    "VdB": 98
+  },
+  {
+    "name": "Bludenz",
+    "Hofer": 2005,
+    "VdB": 2718
+  },
+  {
+    "name": "Bludesch",
+    "Hofer": 405,
+    "VdB": 428
+  },
+  {
+    "name": "Brand",
+    "Hofer": 113,
+    "VdB": 141
+  },
+  {
+    "name": "Bürs",
+    "Hofer": 453,
+    "VdB": 692
+  },
+  {
+    "name": "Bürserberg",
+    "Hofer": 106,
+    "VdB": 82
+  },
+  {
+    "name": "Dalaas",
+    "Hofer": 306,
+    "VdB": 360
+  },
+  {
+    "name": "Fontanella",
+    "Hofer": 79,
+    "VdB": 114
+  },
+  {
+    "name": "Gaschurn",
+    "Hofer": 347,
+    "VdB": 266
+  },
+  {
+    "name": "Innerbraz",
+    "Hofer": 184,
+    "VdB": 247
+  },
+  {
+    "name": "Klösterle",
+    "Hofer": 118,
+    "VdB": 181
+  },
+  {
+    "name": "Lech",
+    "Hofer": 74,
+    "VdB": 220
+  },
+  {
+    "name": "Lorüns",
+    "Hofer": 41,
+    "VdB": 79
+  },
+  {
+    "name": "Ludesch",
+    "Hofer": 603,
+    "VdB": 626
+  },
+  {
+    "name": "Nenzing",
+    "Hofer": 1318,
+    "VdB": 1186
+  },
+  {
+    "name": "Nüziders",
+    "Hofer": 703,
+    "VdB": 1375
+  },
+  {
+    "name": "Raggal",
+    "Hofer": 124,
+    "VdB": 237
+  },
+  {
+    "name": "St. Anton im Montafon",
+    "Hofer": 157,
+    "VdB": 149
+  },
+  {
+    "name": "St. Gallenkirch",
+    "Hofer": 565,
+    "VdB": 334
+  },
+  {
+    "name": "St. Gerold",
+    "Hofer": 88,
+    "VdB": 63
+  },
+  {
+    "name": "Schruns",
+    "Hofer": 659,
+    "VdB": 771
+  },
+  {
+    "name": "Silbertal",
+    "Hofer": 271,
+    "VdB": 160
+  },
+  {
+    "name": "Sonntag",
+    "Hofer": 124,
+    "VdB": 194
+  },
+  {
+    "name": "Stallehr",
+    "Hofer": 50,
+    "VdB": 78
+  },
+  {
+    "name": "Thüringen",
+    "Hofer": 359,
+    "VdB": 518
+  },
+  {
+    "name": "Thüringerberg",
+    "Hofer": 131,
+    "VdB": 172
+  },
+  {
+    "name": "Tschagguns",
+    "Hofer": 479,
+    "VdB": 434
+  },
+  {
+    "name": "Vandans",
+    "Hofer": 579,
+    "VdB": 452
+  },
+  {
+    "name": "Alberschwende",
+    "Hofer": 697,
+    "VdB": 819
+  },
+  {
+    "name": "Andelsbuch",
+    "Hofer": 309,
+    "VdB": 681
+  },
+  {
+    "name": "Au",
+    "Hofer": 360,
+    "VdB": 334
+  },
+  {
+    "name": "Bezau",
+    "Hofer": 300,
+    "VdB": 383
+  },
+  {
+    "name": "Bildstein",
+    "Hofer": 164,
+    "VdB": 167
+  },
+  {
+    "name": "Bizau",
+    "Hofer": 174,
+    "VdB": 232
+  },
+  {
+    "name": "Bregenz",
+    "Hofer": 3972,
+    "VdB": 5821
+  },
+  {
+    "name": "Buch",
+    "Hofer": 135,
+    "VdB": 168
+  },
+  {
+    "name": "Damüls",
+    "Hofer": 53,
+    "VdB": 59
+  },
+  {
+    "name": "Doren",
+    "Hofer": 207,
+    "VdB": 243
+  },
+  {
+    "name": "Egg",
+    "Hofer": 610,
+    "VdB": 930
+  },
+  {
+    "name": "Eichenberg",
+    "Hofer": 44,
+    "VdB": 109
+  },
+  {
+    "name": "Fußach",
+    "Hofer": 759,
+    "VdB": 709
+  },
+  {
+    "name": "Gaißau",
+    "Hofer": 320,
+    "VdB": 357
+  },
+  {
+    "name": "Hard",
+    "Hofer": 2038,
+    "VdB": 2757
+  },
+  {
+    "name": "Hittisau",
+    "Hofer": 358,
+    "VdB": 421
+  },
+  {
+    "name": "Höchst",
+    "Hofer": 1284,
+    "VdB": 1382
+  },
+  {
+    "name": "Hörbranz",
+    "Hofer": 1218,
+    "VdB": 1354
+  },
+  {
+    "name": "Hohenweiler",
+    "Hofer": 213,
+    "VdB": 270
+  },
+  {
+    "name": "Kennelbach",
+    "Hofer": 322,
+    "VdB": 432
+  },
+  {
+    "name": "Krumbach",
+    "Hofer": 223,
+    "VdB": 208
+  },
+  {
+    "name": "Langen bei Bregenz",
+    "Hofer": 308,
+    "VdB": 303
+  },
+  {
+    "name": "Langenegg",
+    "Hofer": 205,
+    "VdB": 223
+  },
+  {
+    "name": "Lauterach",
+    "Hofer": 1843,
+    "VdB": 2101
+  },
+  {
+    "name": "Lingenau",
+    "Hofer": 207,
+    "VdB": 402
+  },
+  {
+    "name": "Lochau",
+    "Hofer": 816,
+    "VdB": 1280
+  },
+  {
+    "name": "Mellau",
+    "Hofer": 273,
+    "VdB": 253
+  },
+  {
+    "name": "Mittelberg",
+    "Hofer": 367,
+    "VdB": 576
+  },
+  {
+    "name": "Möggers",
+    "Hofer": 79,
+    "VdB": 133
+  },
+  {
+    "name": "Reuthe",
+    "Hofer": 108,
+    "VdB": 124
+  },
+  {
+    "name": "Riefensberg",
+    "Hofer": 170,
+    "VdB": 228
+  },
+  {
+    "name": "Schnepfau",
+    "Hofer": 86,
+    "VdB": 95
+  },
+  {
+    "name": "Schoppernau",
+    "Hofer": 241,
+    "VdB": 183
+  },
+  {
+    "name": "Schröcken",
+    "Hofer": 16,
+    "VdB": 49
+  },
+  {
+    "name": "Schwarzach",
+    "Hofer": 653,
+    "VdB": 971
+  },
+  {
+    "name": "Schwarzenberg",
+    "Hofer": 275,
+    "VdB": 503
+  },
+  {
+    "name": "Sibratsgfäll",
+    "Hofer": 55,
+    "VdB": 100
+  },
+  {
+    "name": "Sulzberg",
+    "Hofer": 300,
+    "VdB": 428
+  },
+  {
+    "name": "Warth",
+    "Hofer": 43,
+    "VdB": 21
+  },
+  {
+    "name": "Wolfurt",
+    "Hofer": 1344,
+    "VdB": 2042
+  },
+  {
+    "name": "Dornbirn",
+    "Hofer": 7464,
+    "VdB": 10329
+  },
+  {
+    "name": "Hohenems",
+    "Hofer": 2603,
+    "VdB": 2569
+  },
+  {
+    "name": "Lustenau",
+    "Hofer": 3431,
+    "VdB": 4166
+  },
+  {
+    "name": "Altach",
+    "Hofer": 1102,
+    "VdB": 1499
+  },
+  {
+    "name": "Düns",
+    "Hofer": 94,
+    "VdB": 117
+  },
+  {
+    "name": "Dünserberg",
+    "Hofer": 27,
+    "VdB": 27
+  },
+  {
+    "name": "Feldkirch",
+    "Hofer": 4715,
+    "VdB": 6944
+  },
+  {
+    "name": "Frastanz",
+    "Hofer": 1024,
+    "VdB": 1204
+  },
+  {
+    "name": "Fraxern",
+    "Hofer": 131,
+    "VdB": 197
+  },
+  {
+    "name": "Göfis",
+    "Hofer": 573,
+    "VdB": 863
+  },
+  {
+    "name": "Götzis",
+    "Hofer": 1807,
+    "VdB": 2374
+  },
+  {
+    "name": "Klaus",
+    "Hofer": 465,
+    "VdB": 821
+  },
+  {
+    "name": "Koblach",
+    "Hofer": 701,
+    "VdB": 1016
+  },
+  {
+    "name": "Laterns",
+    "Hofer": 153,
+    "VdB": 134
+  },
+  {
+    "name": "Mäder",
+    "Hofer": 796,
+    "VdB": 714
+  },
+  {
+    "name": "Meiningen",
+    "Hofer": 436,
+    "VdB": 422
+  },
+  {
+    "name": "Rankweil",
+    "Hofer": 1712,
+    "VdB": 2666
+  },
+  {
+    "name": "Röns",
+    "Hofer": 53,
+    "VdB": 101
+  },
+  {
+    "name": "Röthis",
+    "Hofer": 289,
+    "VdB": 482
+  },
+  {
+    "name": "Satteins",
+    "Hofer": 474,
+    "VdB": 660
+  },
+  {
+    "name": "Schlins",
+    "Hofer": 354,
+    "VdB": 542
+  },
+  {
+    "name": "Schnifis",
+    "Hofer": 137,
+    "VdB": 206
+  },
+  {
+    "name": "Sulz",
+    "Hofer": 420,
+    "VdB": 664
+  },
+  {
+    "name": "Übersaxen",
+    "Hofer": 169,
+    "VdB": 164
+  },
+  {
+    "name": "Viktorsberg",
+    "Hofer": 69,
+    "VdB": 84
+  },
+  {
+    "name": "Weiler",
+    "Hofer": 324,
+    "VdB": 478
+  },
+  {
+    "name": "Zwischenwasser",
+    "Hofer": 581,
+    "VdB": 724
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "name": "Klagenfurt am Wörthersee",
+    "Hofer": 20878,
+    "VdB": 21203
+  },
+  {
+    "name": "Villach",
+    "Hofer": 14792,
+    "VdB": 11538
+  },
+  {
+    "name": "Dellach",
+    "Hofer": 319,
+    "VdB": 234
+  },
+  {
+    "name": "Hermagor-Pressegger See",
+    "Hofer": 1729,
+    "VdB": 1415
+  },
+  {
+    "name": "Kirchbach",
+    "Hofer": 725,
+    "VdB": 490
+  },
+  {
+    "name": "Kötschach-Mauthen",
+    "Hofer": 860,
+    "VdB": 697
+  },
+  {
+    "name": "St. Stefan im Gailtal",
+    "Hofer": 435,
+    "VdB": 323
+  },
+  {
+    "name": "Gitschtal",
+    "Hofer": 345,
+    "VdB": 266
+  },
+  {
+    "name": "Lesachtal",
+    "Hofer": 351,
+    "VdB": 252
+  },
+  {
+    "name": "Ebenthal in Kärnten",
+    "Hofer": 2177,
+    "VdB": 1234
+  },
+  {
+    "name": "Feistritz im Rosental",
+    "Hofer": 563,
+    "VdB": 557
+  },
+  {
+    "name": "Ferlach",
+    "Hofer": 1909,
+    "VdB": 1392
+  },
+  {
+    "name": "Grafenstein",
+    "Hofer": 889,
+    "VdB": 442
+  },
+  {
+    "name": "Keutschach am See",
+    "Hofer": 566,
+    "VdB": 579
+  },
+  {
+    "name": "Köttmannsdorf",
+    "Hofer": 756,
+    "VdB": 669
+  },
+  {
+    "name": "Krumpendorf am Wörthersee",
+    "Hofer": 711,
+    "VdB": 809
+  },
+  {
+    "name": "Ludmannsdorf",
+    "Hofer": 476,
+    "VdB": 436
+  },
+  {
+    "name": "Maria Rain",
+    "Hofer": 639,
+    "VdB": 476
+  },
+  {
+    "name": "Maria Saal",
+    "Hofer": 1036,
+    "VdB": 904
+  },
+  {
+    "name": "Maria Wörth",
+    "Hofer": 365,
+    "VdB": 343
+  },
+  {
+    "name": "Moosburg",
+    "Hofer": 1213,
+    "VdB": 768
+  },
+  {
+    "name": "Pörtschach am Wörther See",
+    "Hofer": 649,
+    "VdB": 535
+  },
+  {
+    "name": "Poggersdorf",
+    "Hofer": 1078,
+    "VdB": 507
+  },
+  {
+    "name": "St. Margareten im Rosental",
+    "Hofer": 284,
+    "VdB": 182
+  },
+  {
+    "name": "Schiefling am Wörthersee",
+    "Hofer": 703,
+    "VdB": 442
+  },
+  {
+    "name": "Techelsberg am Wörther See",
+    "Hofer": 626,
+    "VdB": 352
+  },
+  {
+    "name": "Zell",
+    "Hofer": 71,
+    "VdB": 213
+  },
+  {
+    "name": "Magdalensberg",
+    "Hofer": 949,
+    "VdB": 651
+  },
+  {
+    "name": "Althofen",
+    "Hofer": 1430,
+    "VdB": 766
+  },
+  {
+    "name": "Brückl",
+    "Hofer": 869,
+    "VdB": 466
+  },
+  {
+    "name": "Deutsch-Griffen",
+    "Hofer": 363,
+    "VdB": 85
+  },
+  {
+    "name": "Eberstein",
+    "Hofer": 479,
+    "VdB": 168
+  },
+  {
+    "name": "Friesach",
+    "Hofer": 1591,
+    "VdB": 691
+  },
+  {
+    "name": "Glödnitz",
+    "Hofer": 287,
+    "VdB": 71
+  },
+  {
+    "name": "Gurk",
+    "Hofer": 505,
+    "VdB": 197
+  },
+  {
+    "name": "Guttaring",
+    "Hofer": 439,
+    "VdB": 291
+  },
+  {
+    "name": "Hüttenberg",
+    "Hofer": 505,
+    "VdB": 212
+  },
+  {
+    "name": "Kappel am Krappfeld",
+    "Hofer": 638,
+    "VdB": 305
+  },
+  {
+    "name": "Klein St. Paul",
+    "Hofer": 729,
+    "VdB": 260
+  },
+  {
+    "name": "Liebenfels",
+    "Hofer": 977,
+    "VdB": 515
+  },
+  {
+    "name": "Metnitz",
+    "Hofer": 784,
+    "VdB": 285
+  },
+  {
+    "name": "Micheldorf",
+    "Hofer": 298,
+    "VdB": 168
+  },
+  {
+    "name": "Mölbling",
+    "Hofer": 503,
+    "VdB": 171
+  },
+  {
+    "name": "St. Georgen am Längsee",
+    "Hofer": 1071,
+    "VdB": 707
+  },
+  {
+    "name": "St. Veit an der Glan",
+    "Hofer": 3200,
+    "VdB": 2250
+  },
+  {
+    "name": "Straßburg",
+    "Hofer": 798,
+    "VdB": 254
+  },
+  {
+    "name": "Weitensfeld im Gurktal",
+    "Hofer": 760,
+    "VdB": 231
+  },
+  {
+    "name": "Frauenstein",
+    "Hofer": 1122,
+    "VdB": 666
+  },
+  {
+    "name": "Bad Kleinkirchheim",
+    "Hofer": 474,
+    "VdB": 215
+  },
+  {
+    "name": "Baldramsdorf",
+    "Hofer": 577,
+    "VdB": 281
+  },
+  {
+    "name": "Berg im Drautal",
+    "Hofer": 325,
+    "VdB": 276
+  },
+  {
+    "name": "Dellach im Drautal",
+    "Hofer": 460,
+    "VdB": 292
+  },
+  {
+    "name": "Großkirchheim",
+    "Hofer": 513,
+    "VdB": 193
+  },
+  {
+    "name": "Flattach",
+    "Hofer": 423,
+    "VdB": 148
+  },
+  {
+    "name": "Gmünd in Kärnten",
+    "Hofer": 745,
+    "VdB": 500
+  },
+  {
+    "name": "Greifenburg",
+    "Hofer": 535,
+    "VdB": 302
+  },
+  {
+    "name": "Heiligenblut am Großglockner",
+    "Hofer": 338,
+    "VdB": 141
+  },
+  {
+    "name": "Irschen",
+    "Hofer": 558,
+    "VdB": 434
+  },
+  {
+    "name": "Kleblach-Lind",
+    "Hofer": 361,
+    "VdB": 243
+  },
+  {
+    "name": "Lendorf",
+    "Hofer": 530,
+    "VdB": 303
+  },
+  {
+    "name": "Mallnitz",
+    "Hofer": 198,
+    "VdB": 181
+  },
+  {
+    "name": "Malta",
+    "Hofer": 629,
+    "VdB": 299
+  },
+  {
+    "name": "Millstatt am See",
+    "Hofer": 861,
+    "VdB": 681
+  },
+  {
+    "name": "Mörtschach",
+    "Hofer": 278,
+    "VdB": 111
+  },
+  {
+    "name": "Mühldorf",
+    "Hofer": 273,
+    "VdB": 174
+  },
+  {
+    "name": "Oberdrauburg",
+    "Hofer": 364,
+    "VdB": 218
+  },
+  {
+    "name": "Obervellach",
+    "Hofer": 741,
+    "VdB": 314
+  },
+  {
+    "name": "Radenthein",
+    "Hofer": 1851,
+    "VdB": 1018
+  },
+  {
+    "name": "Rangersdorf",
+    "Hofer": 562,
+    "VdB": 186
+  },
+  {
+    "name": "Rennweg am Katschberg",
+    "Hofer": 630,
+    "VdB": 304
+  },
+  {
+    "name": "Sachsenburg",
+    "Hofer": 381,
+    "VdB": 174
+  },
+  {
+    "name": "Seeboden am Millstätter See",
+    "Hofer": 1732,
+    "VdB": 1060
+  },
+  {
+    "name": "Spittal an der Drau",
+    "Hofer": 4056,
+    "VdB": 2716
+  },
+  {
+    "name": "Stall",
+    "Hofer": 640,
+    "VdB": 144
+  },
+  {
+    "name": "Steinfeld",
+    "Hofer": 605,
+    "VdB": 345
+  },
+  {
+    "name": "Trebesing",
+    "Hofer": 388,
+    "VdB": 207
+  },
+  {
+    "name": "Weißensee",
+    "Hofer": 210,
+    "VdB": 199
+  },
+  {
+    "name": "Winklern",
+    "Hofer": 355,
+    "VdB": 171
+  },
+  {
+    "name": "Krems in Kärnten",
+    "Hofer": 645,
+    "VdB": 164
+  },
+  {
+    "name": "Lurnfeld",
+    "Hofer": 746,
+    "VdB": 468
+  },
+  {
+    "name": "Reißeck",
+    "Hofer": 653,
+    "VdB": 468
+  },
+  {
+    "name": "Afritz am See",
+    "Hofer": 429,
+    "VdB": 281
+  },
+  {
+    "name": "Arnoldstein",
+    "Hofer": 2029,
+    "VdB": 1149
+  },
+  {
+    "name": "Arriach",
+    "Hofer": 487,
+    "VdB": 185
+  },
+  {
+    "name": "Bad Bleiberg",
+    "Hofer": 580,
+    "VdB": 464
+  },
+  {
+    "name": "Feistritz an der Gail",
+    "Hofer": 193,
+    "VdB": 120
+  },
+  {
+    "name": "Feld am See",
+    "Hofer": 348,
+    "VdB": 160
+  },
+  {
+    "name": "Ferndorf",
+    "Hofer": 711,
+    "VdB": 441
+  },
+  {
+    "name": "Finkenstein am Faaker See",
+    "Hofer": 2407,
+    "VdB": 1723
+  },
+  {
+    "name": "Fresach",
+    "Hofer": 480,
+    "VdB": 244
+  },
+  {
+    "name": "Hohenthurn",
+    "Hofer": 214,
+    "VdB": 148
+  },
+  {
+    "name": "Nötsch im Gailtal",
+    "Hofer": 743,
+    "VdB": 416
+  },
+  {
+    "name": "Paternion",
+    "Hofer": 1834,
+    "VdB": 987
+  },
+  {
+    "name": "Rosegg",
+    "Hofer": 525,
+    "VdB": 292
+  },
+  {
+    "name": "St. Jakob im Rosental",
+    "Hofer": 1031,
+    "VdB": 891
+  },
+  {
+    "name": "Stockenboi",
+    "Hofer": 586,
+    "VdB": 268
+  },
+  {
+    "name": "Treffen am Ossiacher See",
+    "Hofer": 1109,
+    "VdB": 843
+  },
+  {
+    "name": "Velden am Wörther See",
+    "Hofer": 2379,
+    "VdB": 1586
+  },
+  {
+    "name": "Weißenstein",
+    "Hofer": 914,
+    "VdB": 674
+  },
+  {
+    "name": "Wernberg",
+    "Hofer": 1650,
+    "VdB": 983
+  },
+  {
+    "name": "Bleiburg",
+    "Hofer": 976,
+    "VdB": 774
+  },
+  {
+    "name": "Diex",
+    "Hofer": 251,
+    "VdB": 119
+  },
+  {
+    "name": "Eberndorf",
+    "Hofer": 1583,
+    "VdB": 1066
+  },
+  {
+    "name": "Eisenkappel-Vellach",
+    "Hofer": 496,
+    "VdB": 595
+  },
+  {
+    "name": "Feistritz ob Bleiburg",
+    "Hofer": 568,
+    "VdB": 439
+  },
+  {
+    "name": "Gallizien",
+    "Hofer": 611,
+    "VdB": 326
+  },
+  {
+    "name": "Globasnitz",
+    "Hofer": 453,
+    "VdB": 361
+  },
+  {
+    "name": "Griffen",
+    "Hofer": 1117,
+    "VdB": 487
+  },
+  {
+    "name": "Neuhaus",
+    "Hofer": 334,
+    "VdB": 141
+  },
+  {
+    "name": "Ruden",
+    "Hofer": 442,
+    "VdB": 270
+  },
+  {
+    "name": "St. Kanzian am Klopeiner See",
+    "Hofer": 1171,
+    "VdB": 859
+  },
+  {
+    "name": "Sittersdorf",
+    "Hofer": 557,
+    "VdB": 412
+  },
+  {
+    "name": "Völkermarkt",
+    "Hofer": 2957,
+    "VdB": 2098
+  },
+  {
+    "name": "Bad St. Leonhard im Lavanttal",
+    "Hofer": 1547,
+    "VdB": 616
+  },
+  {
+    "name": "Frantschach-St. Gertraud",
+    "Hofer": 855,
+    "VdB": 350
+  },
+  {
+    "name": "Lavamünd",
+    "Hofer": 1006,
+    "VdB": 401
+  },
+  {
+    "name": "Preitenegg",
+    "Hofer": 375,
+    "VdB": 100
+  },
+  {
+    "name": "Reichenfels",
+    "Hofer": 589,
+    "VdB": 269
+  },
+  {
+    "name": "St. Andrä",
+    "Hofer": 3530,
+    "VdB": 1211
+  },
+  {
+    "name": "St. Georgen im Lavanttal",
+    "Hofer": 724,
+    "VdB": 233
+  },
+  {
+    "name": "St. Paul im Lavanttal",
+    "Hofer": 1128,
+    "VdB": 491
+  },
+  {
+    "name": "Wolfsberg",
+    "Hofer": 8059,
+    "VdB": 4189
+  },
+  {
+    "name": "Albeck",
+    "Hofer": 342,
+    "VdB": 122
+  },
+  {
+    "name": "Feldkirchen in Kärnten",
+    "Hofer": 4288,
+    "VdB": 2211
+  },
+  {
+    "name": "Glanegg",
+    "Hofer": 535,
+    "VdB": 341
+  },
+  {
+    "name": "Gnesau",
+    "Hofer": 343,
+    "VdB": 148
+  },
+  {
+    "name": "Himmelberg",
+    "Hofer": 773,
+    "VdB": 282
+  },
+  {
+    "name": "Ossiach",
+    "Hofer": 243,
+    "VdB": 140
+  },
+  {
+    "name": "Reichenau",
+    "Hofer": 560,
+    "VdB": 276
+  },
+  {
+    "name": "St. Urban",
+    "Hofer": 493,
+    "VdB": 156
+  },
+  {
+    "name": "Steindorf am Ossiacher See",
+    "Hofer": 1008,
+    "VdB": 641
+  },
+  {
+    "name": "Steuerberg",
+    "Hofer": 529,
+    "VdB": 207
+  }
+]

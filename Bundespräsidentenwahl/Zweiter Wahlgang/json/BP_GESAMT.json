@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Burgenland",
+    "Hofer": 107128,
+    "VdB": 67249
+  },
+  {
+    "name": "Kärnten",
+    "Hofer": 169564,
+    "VdB": 122299
+  },
+  {
+    "name": "Niederösterreich",
+    "Hofer": 513814,
+    "VdB": 462622
+  },
+  {
+    "name": "Oberösterreich",
+    "Hofer": 376647,
+    "VdB": 397119
+  },
+  {
+    "name": "Salzburg",
+    "Hofer": 144938,
+    "VdB": 129569
+  },
+  {
+    "name": "Steiermark",
+    "Hofer": 381955,
+    "VdB": 297400
+  },
+  {
+    "name": "Tirol",
+    "Hofer": 169587,
+    "VdB": 179281
+  },
+  {
+    "name": "Vorarlberg",
+    "Hofer": 71217,
+    "VdB": 100777
+  },
+  {
+    "name": "Wien",
+    "Hofer": 288608,
+    "VdB": 498168
+  }
+]

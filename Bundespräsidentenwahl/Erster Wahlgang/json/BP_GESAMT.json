@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Burgenland",
+    "Griss": 21870,
+    "Hofer": 73676,
+    "Hundstorfer": 30802,
+    "Khol": 22910,
+    "Lugner": 3317,
+    "VdB": 23278
+  },
+  {
+    "name": "Kärnten",
+    "Griss": 65400,
+    "Hofer": 110776,
+    "Hundstorfer": 38714,
+    "Khol": 19782,
+    "Lugner": 9704,
+    "VdB": 40934
+  },
+  {
+    "name": "Niederösterreich",
+    "Griss": 168148,
+    "Hofer": 342568,
+    "Hundstorfer": 114577,
+    "Khol": 136697,
+    "Lugner": 26064,
+    "VdB": 174569
+  },
+  {
+    "name": "Oberösterreich",
+    "Griss": 131013,
+    "Hofer": 263487,
+    "Hundstorfer": 88419,
+    "Khol": 99432,
+    "Lugner": 14259,
+    "VdB": 153436
+  },
+  {
+    "name": "Salzburg",
+    "Griss": 47856,
+    "Hofer": 99476,
+    "Hundstorfer": 26200,
+    "Khol": 35038,
+    "Lugner": 6054,
+    "VdB": 51735
+  },
+  {
+    "name": "Steiermark",
+    "Griss": 143176,
+    "Hofer": 255552,
+    "Hundstorfer": 67945,
+    "Khol": 63866,
+    "Lugner": 13511,
+    "VdB": 113877
+  },
+  {
+    "name": "Tirol",
+    "Griss": 59372,
+    "Hofer": 109552,
+    "Hundstorfer": 18796,
+    "Khol": 38969,
+    "Lugner": 6660,
+    "VdB": 75190
+  },
+  {
+    "name": "Vorarlberg",
+    "Griss": 35229,
+    "Hofer": 43951,
+    "Hundstorfer": 6307,
+    "Khol": 15446,
+    "Lugner": 3083,
+    "VdB": 42434
+  },
+  {
+    "name": "Wien",
+    "Griss": 138577,
+    "Hofer": 200933,
+    "Hundstorfer": 91030,
+    "Khol": 43627,
+    "Lugner": 14131,
+    "VdB": 237765
+  }
+]

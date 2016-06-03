@@ -1,0 +1,597 @@
+[
+  {
+    "name": "Salzburg",
+    "Hofer": 23682,
+    "VdB": 30800
+  },
+  {
+    "name": "Abtenau",
+    "Hofer": 1671,
+    "VdB": 1060
+  },
+  {
+    "name": "Adnet",
+    "Hofer": 1075,
+    "VdB": 770
+  },
+  {
+    "name": "Annaberg-Lungötz",
+    "Hofer": 706,
+    "VdB": 374
+  },
+  {
+    "name": "Golling an der Salzach",
+    "Hofer": 1038,
+    "VdB": 929
+  },
+  {
+    "name": "Hallein",
+    "Hofer": 4132,
+    "VdB": 4131
+  },
+  {
+    "name": "Krispl",
+    "Hofer": 332,
+    "VdB": 147
+  },
+  {
+    "name": "Kuchl",
+    "Hofer": 1913,
+    "VdB": 1520
+  },
+  {
+    "name": "Oberalm",
+    "Hofer": 958,
+    "VdB": 1063
+  },
+  {
+    "name": "Puch bei Hallein",
+    "Hofer": 1032,
+    "VdB": 969
+  },
+  {
+    "name": "Rußbach am Paß Gschütt",
+    "Hofer": 255,
+    "VdB": 169
+  },
+  {
+    "name": "Sankt Koloman",
+    "Hofer": 691,
+    "VdB": 218
+  },
+  {
+    "name": "Scheffau am Tennengebirge",
+    "Hofer": 449,
+    "VdB": 243
+  },
+  {
+    "name": "Bad Vigaun",
+    "Hofer": 593,
+    "VdB": 418
+  },
+  {
+    "name": "Anif",
+    "Hofer": 837,
+    "VdB": 988
+  },
+  {
+    "name": "Anthering",
+    "Hofer": 1019,
+    "VdB": 866
+  },
+  {
+    "name": "Bergheim",
+    "Hofer": 1216,
+    "VdB": 1217
+  },
+  {
+    "name": "Berndorf bei Salzburg",
+    "Hofer": 495,
+    "VdB": 346
+  },
+  {
+    "name": "Bürmoos",
+    "Hofer": 1204,
+    "VdB": 974
+  },
+  {
+    "name": "Dorfbeuern",
+    "Hofer": 400,
+    "VdB": 303
+  },
+  {
+    "name": "Ebenau",
+    "Hofer": 395,
+    "VdB": 334
+  },
+  {
+    "name": "Elixhausen",
+    "Hofer": 681,
+    "VdB": 732
+  },
+  {
+    "name": "Elsbethen",
+    "Hofer": 1196,
+    "VdB": 1346
+  },
+  {
+    "name": "Eugendorf",
+    "Hofer": 1954,
+    "VdB": 1445
+  },
+  {
+    "name": "Faistenau",
+    "Hofer": 1008,
+    "VdB": 544
+  },
+  {
+    "name": "Fuschl am See",
+    "Hofer": 325,
+    "VdB": 300
+  },
+  {
+    "name": "Göming",
+    "Hofer": 217,
+    "VdB": 159
+  },
+  {
+    "name": "Grödig",
+    "Hofer": 1592,
+    "VdB": 1462
+  },
+  {
+    "name": "Großgmain",
+    "Hofer": 591,
+    "VdB": 493
+  },
+  {
+    "name": "Hallwang",
+    "Hofer": 990,
+    "VdB": 975
+  },
+  {
+    "name": "Henndorf am Wallersee",
+    "Hofer": 1292,
+    "VdB": 1085
+  },
+  {
+    "name": "Hintersee",
+    "Hofer": 157,
+    "VdB": 65
+  },
+  {
+    "name": "Hof bei Salzburg",
+    "Hofer": 896,
+    "VdB": 728
+  },
+  {
+    "name": "Köstendorf",
+    "Hofer": 717,
+    "VdB": 477
+  },
+  {
+    "name": "Koppl",
+    "Hofer": 848,
+    "VdB": 853
+  },
+  {
+    "name": "Lamprechtshausen",
+    "Hofer": 1099,
+    "VdB": 804
+  },
+  {
+    "name": "Mattsee",
+    "Hofer": 696,
+    "VdB": 823
+  },
+  {
+    "name": "Neumarkt am Wallersee",
+    "Hofer": 1545,
+    "VdB": 1097
+  },
+  {
+    "name": "Nußdorf am Haunsberg",
+    "Hofer": 746,
+    "VdB": 511
+  },
+  {
+    "name": "Oberndorf bei Salzburg",
+    "Hofer": 1241,
+    "VdB": 1208
+  },
+  {
+    "name": "Obertrum am See",
+    "Hofer": 1146,
+    "VdB": 1090
+  },
+  {
+    "name": "Plainfeld",
+    "Hofer": 334,
+    "VdB": 258
+  },
+  {
+    "name": "Sankt Georgen bei Salzburg",
+    "Hofer": 915,
+    "VdB": 634
+  },
+  {
+    "name": "Sankt Gilgen",
+    "Hofer": 892,
+    "VdB": 766
+  },
+  {
+    "name": "Schleedorf",
+    "Hofer": 338,
+    "VdB": 198
+  },
+  {
+    "name": "Seeham",
+    "Hofer": 439,
+    "VdB": 434
+  },
+  {
+    "name": "Straßwalchen",
+    "Hofer": 2317,
+    "VdB": 1226
+  },
+  {
+    "name": "Strobl",
+    "Hofer": 848,
+    "VdB": 856
+  },
+  {
+    "name": "Thalgau",
+    "Hofer": 1659,
+    "VdB": 1129
+  },
+  {
+    "name": "Wals-Siezenheim",
+    "Hofer": 3536,
+    "VdB": 2690
+  },
+  {
+    "name": "Seekirchen am Wallersee",
+    "Hofer": 2636,
+    "VdB": 2447
+  },
+  {
+    "name": "Altenmarkt im Pongau",
+    "Hofer": 1070,
+    "VdB": 646
+  },
+  {
+    "name": "Bad Hofgastein",
+    "Hofer": 1856,
+    "VdB": 1011
+  },
+  {
+    "name": "Bad Gastein",
+    "Hofer": 1106,
+    "VdB": 529
+  },
+  {
+    "name": "Bischofshofen",
+    "Hofer": 2600,
+    "VdB": 1735
+  },
+  {
+    "name": "Dorfgastein",
+    "Hofer": 581,
+    "VdB": 302
+  },
+  {
+    "name": "Eben im Pongau",
+    "Hofer": 758,
+    "VdB": 353
+  },
+  {
+    "name": "Filzmoos",
+    "Hofer": 466,
+    "VdB": 158
+  },
+  {
+    "name": "Flachau",
+    "Hofer": 879,
+    "VdB": 481
+  },
+  {
+    "name": "Forstau",
+    "Hofer": 189,
+    "VdB": 96
+  },
+  {
+    "name": "Goldegg",
+    "Hofer": 832,
+    "VdB": 481
+  },
+  {
+    "name": "Großarl",
+    "Hofer": 1234,
+    "VdB": 653
+  },
+  {
+    "name": "Hüttau",
+    "Hofer": 530,
+    "VdB": 154
+  },
+  {
+    "name": "Hüttschlag",
+    "Hofer": 325,
+    "VdB": 141
+  },
+  {
+    "name": "Kleinarl",
+    "Hofer": 228,
+    "VdB": 155
+  },
+  {
+    "name": "Mühlbach am Hochkönig",
+    "Hofer": 384,
+    "VdB": 256
+  },
+  {
+    "name": "Pfarrwerfen",
+    "Hofer": 658,
+    "VdB": 389
+  },
+  {
+    "name": "Radstadt",
+    "Hofer": 1332,
+    "VdB": 656
+  },
+  {
+    "name": "Sankt Johann im Pongau",
+    "Hofer": 2903,
+    "VdB": 1900
+  },
+  {
+    "name": "Sankt Martin am Tennengebirge",
+    "Hofer": 520,
+    "VdB": 228
+  },
+  {
+    "name": "Sankt Veit im Pongau",
+    "Hofer": 1042,
+    "VdB": 778
+  },
+  {
+    "name": "Schwarzach im Pongau",
+    "Hofer": 793,
+    "VdB": 696
+  },
+  {
+    "name": "Untertauern",
+    "Hofer": 95,
+    "VdB": 42
+  },
+  {
+    "name": "Wagrain",
+    "Hofer": 969,
+    "VdB": 404
+  },
+  {
+    "name": "Werfen",
+    "Hofer": 812,
+    "VdB": 473
+  },
+  {
+    "name": "Werfenweng",
+    "Hofer": 307,
+    "VdB": 130
+  },
+  {
+    "name": "Göriach",
+    "Hofer": 115,
+    "VdB": 48
+  },
+  {
+    "name": "Lessach",
+    "Hofer": 173,
+    "VdB": 93
+  },
+  {
+    "name": "Mariapfarr",
+    "Hofer": 679,
+    "VdB": 294
+  },
+  {
+    "name": "Mauterndorf",
+    "Hofer": 488,
+    "VdB": 273
+  },
+  {
+    "name": "Muhr",
+    "Hofer": 251,
+    "VdB": 37
+  },
+  {
+    "name": "Ramingstein",
+    "Hofer": 426,
+    "VdB": 122
+  },
+  {
+    "name": "Sankt Andrä im Lungau",
+    "Hofer": 254,
+    "VdB": 81
+  },
+  {
+    "name": "Sankt Margarethen im Lungau",
+    "Hofer": 244,
+    "VdB": 100
+  },
+  {
+    "name": "Sankt Michael im Lungau",
+    "Hofer": 1227,
+    "VdB": 489
+  },
+  {
+    "name": "Tamsweg",
+    "Hofer": 1645,
+    "VdB": 753
+  },
+  {
+    "name": "Thomatal",
+    "Hofer": 120,
+    "VdB": 36
+  },
+  {
+    "name": "Tweng",
+    "Hofer": 53,
+    "VdB": 10
+  },
+  {
+    "name": "Unternberg",
+    "Hofer": 349,
+    "VdB": 113
+  },
+  {
+    "name": "Weißpriach",
+    "Hofer": 100,
+    "VdB": 50
+  },
+  {
+    "name": "Zederhaus",
+    "Hofer": 454,
+    "VdB": 129
+  },
+  {
+    "name": "Bramberg am Wildkogel",
+    "Hofer": 1252,
+    "VdB": 593
+  },
+  {
+    "name": "Bruck an der Großglocknerstraße",
+    "Hofer": 1222,
+    "VdB": 788
+  },
+  {
+    "name": "Dienten am Hochkönig",
+    "Hofer": 223,
+    "VdB": 152
+  },
+  {
+    "name": "Fusch an der Großglocknerstraße",
+    "Hofer": 170,
+    "VdB": 141
+  },
+  {
+    "name": "Hollersbach im Pinzgau",
+    "Hofer": 416,
+    "VdB": 210
+  },
+  {
+    "name": "Kaprun",
+    "Hofer": 707,
+    "VdB": 605
+  },
+  {
+    "name": "Krimml",
+    "Hofer": 243,
+    "VdB": 121
+  },
+  {
+    "name": "Lend",
+    "Hofer": 432,
+    "VdB": 194
+  },
+  {
+    "name": "Leogang",
+    "Hofer": 696,
+    "VdB": 770
+  },
+  {
+    "name": "Lofer",
+    "Hofer": 525,
+    "VdB": 390
+  },
+  {
+    "name": "Maishofen",
+    "Hofer": 861,
+    "VdB": 696
+  },
+  {
+    "name": "Maria Alm am Steinernen Meer",
+    "Hofer": 552,
+    "VdB": 356
+  },
+  {
+    "name": "Mittersill",
+    "Hofer": 1535,
+    "VdB": 798
+  },
+  {
+    "name": "Neukirchen am Großvenediger",
+    "Hofer": 692,
+    "VdB": 370
+  },
+  {
+    "name": "Niedernsill",
+    "Hofer": 807,
+    "VdB": 498
+  },
+  {
+    "name": "Piesendorf",
+    "Hofer": 961,
+    "VdB": 621
+  },
+  {
+    "name": "Rauris",
+    "Hofer": 933,
+    "VdB": 434
+  },
+  {
+    "name": "Saalbach-Hinterglemm",
+    "Hofer": 713,
+    "VdB": 370
+  },
+  {
+    "name": "Saalfelden am Steinernen Meer",
+    "Hofer": 3849,
+    "VdB": 3074
+  },
+  {
+    "name": "Sankt Martin bei Lofer",
+    "Hofer": 268,
+    "VdB": 264
+  },
+  {
+    "name": "Stuhlfelden",
+    "Hofer": 575,
+    "VdB": 249
+  },
+  {
+    "name": "Taxenbach",
+    "Hofer": 892,
+    "VdB": 457
+  },
+  {
+    "name": "Unken",
+    "Hofer": 541,
+    "VdB": 323
+  },
+  {
+    "name": "Uttendorf",
+    "Hofer": 838,
+    "VdB": 460
+  },
+  {
+    "name": "Viehhofen",
+    "Hofer": 199,
+    "VdB": 75
+  },
+  {
+    "name": "Wald im Pinzgau",
+    "Hofer": 341,
+    "VdB": 125
+  },
+  {
+    "name": "Weißbach bei Lofer",
+    "Hofer": 112,
+    "VdB": 70
+  },
+  {
+    "name": "Zell am See",
+    "Hofer": 2046,
+    "VdB": 1544
+  }
+]
