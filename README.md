@@ -1,7 +1,7 @@
 # GeoWahl
 
 
-![alt tag](https://github.com/fhstp-mfg/geowahl/blob/design/Exports/Logo/Logo_round.png)
+![alt tag](https://github.com/fhstp-mfg/geowahl/blob/master/design/Exports/Logo/Logo_round.png)
 
 Visualizes geo–political data for Web, Smartphone (iPhone, Android) and Smartwatch (Apple Watch, Android Wear).
 
