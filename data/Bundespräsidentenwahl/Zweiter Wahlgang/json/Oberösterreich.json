@@ -1,0 +1,2212 @@
+[
+  {
+    "name": "Linz",
+    "Hofer": 29048,
+    "VdB": 44568
+  },
+  {
+    "name": "Steyr",
+    "Hofer": 7591,
+    "VdB": 8479
+  },
+  {
+    "name": "Wels",
+    "Hofer": 10955,
+    "VdB": 11178
+  },
+  {
+    "name": "Altheim",
+    "Hofer": 1420,
+    "VdB": 827
+  },
+  {
+    "name": "Aspach",
+    "Hofer": 622,
+    "VdB": 317
+  },
+  {
+    "name": "Auerbach",
+    "Hofer": 183,
+    "VdB": 75
+  },
+  {
+    "name": "Braunau am Inn",
+    "Hofer": 3294,
+    "VdB": 2905
+  },
+  {
+    "name": "Burgkirchen",
+    "Hofer": 717,
+    "VdB": 426
+  },
+  {
+    "name": "Eggelsberg",
+    "Hofer": 639,
+    "VdB": 387
+  },
+  {
+    "name": "Feldkirchen bei Mattighofen",
+    "Hofer": 653,
+    "VdB": 270
+  },
+  {
+    "name": "Franking",
+    "Hofer": 251,
+    "VdB": 154
+  },
+  {
+    "name": "Geretsberg",
+    "Hofer": 280,
+    "VdB": 207
+  },
+  {
+    "name": "Gilgenberg am Weilhart",
+    "Hofer": 368,
+    "VdB": 211
+  },
+  {
+    "name": "Haigermoos",
+    "Hofer": 146,
+    "VdB": 109
+  },
+  {
+    "name": "Handenberg",
+    "Hofer": 389,
+    "VdB": 216
+  },
+  {
+    "name": "Helpfau-Uttendorf",
+    "Hofer": 934,
+    "VdB": 413
+  },
+  {
+    "name": "Hochburg-Ach",
+    "Hofer": 579,
+    "VdB": 577
+  },
+  {
+    "name": "Höhnhart",
+    "Hofer": 398,
+    "VdB": 166
+  },
+  {
+    "name": "Jeging",
+    "Hofer": 197,
+    "VdB": 108
+  },
+  {
+    "name": "Kirchberg bei Mattighofen",
+    "Hofer": 358,
+    "VdB": 216
+  },
+  {
+    "name": "Lengau",
+    "Hofer": 1327,
+    "VdB": 731
+  },
+  {
+    "name": "Lochen am See",
+    "Hofer": 947,
+    "VdB": 387
+  },
+  {
+    "name": "Maria Schmolln",
+    "Hofer": 366,
+    "VdB": 224
+  },
+  {
+    "name": "Mattighofen",
+    "Hofer": 1158,
+    "VdB": 803
+  },
+  {
+    "name": "Mauerkirchen",
+    "Hofer": 524,
+    "VdB": 322
+  },
+  {
+    "name": "Mining",
+    "Hofer": 308,
+    "VdB": 259
+  },
+  {
+    "name": "Moosbach",
+    "Hofer": 339,
+    "VdB": 136
+  },
+  {
+    "name": "Moosdorf",
+    "Hofer": 429,
+    "VdB": 296
+  },
+  {
+    "name": "Munderfing",
+    "Hofer": 796,
+    "VdB": 498
+  },
+  {
+    "name": "Neukirchen an der Enknach",
+    "Hofer": 704,
+    "VdB": 336
+  },
+  {
+    "name": "Ostermiething",
+    "Hofer": 733,
+    "VdB": 491
+  },
+  {
+    "name": "Palting",
+    "Hofer": 322,
+    "VdB": 143
+  },
+  {
+    "name": "Perwang am Grabensee",
+    "Hofer": 294,
+    "VdB": 162
+  },
+  {
+    "name": "Pfaffstätt",
+    "Hofer": 279,
+    "VdB": 168
+  },
+  {
+    "name": "Pischelsdorf am Engelbach",
+    "Hofer": 548,
+    "VdB": 203
+  },
+  {
+    "name": "Polling im Innkreis",
+    "Hofer": 347,
+    "VdB": 124
+  },
+  {
+    "name": "Roßbach",
+    "Hofer": 289,
+    "VdB": 137
+  },
+  {
+    "name": "Sankt Georgen am Fillmannsbach",
+    "Hofer": 171,
+    "VdB": 42
+  },
+  {
+    "name": "Sankt Johann am Walde",
+    "Hofer": 566,
+    "VdB": 313
+  },
+  {
+    "name": "Sankt Pantaleon",
+    "Hofer": 790,
+    "VdB": 507
+  },
+  {
+    "name": "Sankt Peter am Hart",
+    "Hofer": 560,
+    "VdB": 472
+  },
+  {
+    "name": "Sankt Radegund",
+    "Hofer": 104,
+    "VdB": 168
+  },
+  {
+    "name": "Sankt Veit im Innkreis",
+    "Hofer": 116,
+    "VdB": 73
+  },
+  {
+    "name": "Schalchen",
+    "Hofer": 1008,
+    "VdB": 675
+  },
+  {
+    "name": "Schwand im Innkreis",
+    "Hofer": 287,
+    "VdB": 159
+  },
+  {
+    "name": "Tarsdorf",
+    "Hofer": 536,
+    "VdB": 356
+  },
+  {
+    "name": "Treubach",
+    "Hofer": 216,
+    "VdB": 90
+  },
+  {
+    "name": "Überackern",
+    "Hofer": 147,
+    "VdB": 79
+  },
+  {
+    "name": "Weng im Innkreis",
+    "Hofer": 432,
+    "VdB": 216
+  },
+  {
+    "name": "Alkoven",
+    "Hofer": 1426,
+    "VdB": 1394
+  },
+  {
+    "name": "Aschach an der Donau",
+    "Hofer": 507,
+    "VdB": 521
+  },
+  {
+    "name": "Eferding",
+    "Hofer": 784,
+    "VdB": 872
+  },
+  {
+    "name": "Fraham",
+    "Hofer": 609,
+    "VdB": 505
+  },
+  {
+    "name": "Haibach ob der Donau",
+    "Hofer": 355,
+    "VdB": 306
+  },
+  {
+    "name": "Hartkirchen",
+    "Hofer": 1309,
+    "VdB": 924
+  },
+  {
+    "name": "Hinzenbach",
+    "Hofer": 580,
+    "VdB": 412
+  },
+  {
+    "name": "Prambachkirchen",
+    "Hofer": 842,
+    "VdB": 542
+  },
+  {
+    "name": "Pupping",
+    "Hofer": 534,
+    "VdB": 413
+  },
+  {
+    "name": "Sankt Marienkirchen an der Polsenz",
+    "Hofer": 605,
+    "VdB": 535
+  },
+  {
+    "name": "Scharten",
+    "Hofer": 581,
+    "VdB": 553
+  },
+  {
+    "name": "Stroheim",
+    "Hofer": 496,
+    "VdB": 284
+  },
+  {
+    "name": "Freistadt",
+    "Hofer": 1643,
+    "VdB": 2056
+  },
+  {
+    "name": "Grünbach",
+    "Hofer": 491,
+    "VdB": 442
+  },
+  {
+    "name": "Gutau",
+    "Hofer": 663,
+    "VdB": 685
+  },
+  {
+    "name": "Hagenberg im Mühlkreis",
+    "Hofer": 695,
+    "VdB": 705
+  },
+  {
+    "name": "Hirschbach im Mühlkreis",
+    "Hofer": 229,
+    "VdB": 368
+  },
+  {
+    "name": "Kaltenberg",
+    "Hofer": 219,
+    "VdB": 121
+  },
+  {
+    "name": "Kefermarkt",
+    "Hofer": 544,
+    "VdB": 536
+  },
+  {
+    "name": "Königswiesen",
+    "Hofer": 912,
+    "VdB": 574
+  },
+  {
+    "name": "Lasberg",
+    "Hofer": 688,
+    "VdB": 697
+  },
+  {
+    "name": "Leopoldschlag",
+    "Hofer": 274,
+    "VdB": 254
+  },
+  {
+    "name": "Liebenau",
+    "Hofer": 473,
+    "VdB": 279
+  },
+  {
+    "name": "Neumarkt im Mühlkreis",
+    "Hofer": 750,
+    "VdB": 879
+  },
+  {
+    "name": "Pierbach",
+    "Hofer": 301,
+    "VdB": 166
+  },
+  {
+    "name": "Pregarten",
+    "Hofer": 1405,
+    "VdB": 1253
+  },
+  {
+    "name": "Rainbach im Mühlkreis",
+    "Hofer": 557,
+    "VdB": 811
+  },
+  {
+    "name": "Sandl",
+    "Hofer": 404,
+    "VdB": 332
+  },
+  {
+    "name": "Sankt Leonhard bei Freistadt",
+    "Hofer": 395,
+    "VdB": 277
+  },
+  {
+    "name": "Sankt Oswald bei Freistadt",
+    "Hofer": 819,
+    "VdB": 530
+  },
+  {
+    "name": "Schönau im Mühlkreis",
+    "Hofer": 652,
+    "VdB": 390
+  },
+  {
+    "name": "Tragwein",
+    "Hofer": 743,
+    "VdB": 863
+  },
+  {
+    "name": "Unterweißenbach",
+    "Hofer": 714,
+    "VdB": 372
+  },
+  {
+    "name": "Unterweitersdorf",
+    "Hofer": 485,
+    "VdB": 639
+  },
+  {
+    "name": "Waldburg",
+    "Hofer": 295,
+    "VdB": 358
+  },
+  {
+    "name": "Wartberg ob der Aist",
+    "Hofer": 1007,
+    "VdB": 1056
+  },
+  {
+    "name": "Weitersfelden",
+    "Hofer": 234,
+    "VdB": 224
+  },
+  {
+    "name": "Windhaag bei Freistadt",
+    "Hofer": 378,
+    "VdB": 348
+  },
+  {
+    "name": "Bad Zell",
+    "Hofer": 795,
+    "VdB": 686
+  },
+  {
+    "name": "Altmünster",
+    "Hofer": 2225,
+    "VdB": 2424
+  },
+  {
+    "name": "Bad Goisern am Hallstättersee",
+    "Hofer": 1593,
+    "VdB": 1627
+  },
+  {
+    "name": "Bad Ischl",
+    "Hofer": 2552,
+    "VdB": 3085
+  },
+  {
+    "name": "Ebensee",
+    "Hofer": 1809,
+    "VdB": 2152
+  },
+  {
+    "name": "Gmunden",
+    "Hofer": 2241,
+    "VdB": 3039
+  },
+  {
+    "name": "Gosau",
+    "Hofer": 426,
+    "VdB": 363
+  },
+  {
+    "name": "Grünau im Almtal",
+    "Hofer": 527,
+    "VdB": 508
+  },
+  {
+    "name": "Gschwandt",
+    "Hofer": 660,
+    "VdB": 668
+  },
+  {
+    "name": "Hallstatt",
+    "Hofer": 121,
+    "VdB": 294
+  },
+  {
+    "name": "Kirchham",
+    "Hofer": 533,
+    "VdB": 376
+  },
+  {
+    "name": "Laakirchen",
+    "Hofer": 2092,
+    "VdB": 2146
+  },
+  {
+    "name": "Obertraun",
+    "Hofer": 125,
+    "VdB": 223
+  },
+  {
+    "name": "Ohlsdorf",
+    "Hofer": 1186,
+    "VdB": 1258
+  },
+  {
+    "name": "Pinsdorf",
+    "Hofer": 997,
+    "VdB": 862
+  },
+  {
+    "name": "Roitham",
+    "Hofer": 481,
+    "VdB": 436
+  },
+  {
+    "name": "Sankt Konrad",
+    "Hofer": 230,
+    "VdB": 247
+  },
+  {
+    "name": "St. Wolfgang im Salzkammergut",
+    "Hofer": 672,
+    "VdB": 480
+  },
+  {
+    "name": "Traunkirchen",
+    "Hofer": 329,
+    "VdB": 455
+  },
+  {
+    "name": "Scharnstein",
+    "Hofer": 1087,
+    "VdB": 1090
+  },
+  {
+    "name": "Vorchdorf",
+    "Hofer": 2005,
+    "VdB": 1632
+  },
+  {
+    "name": "Aistersheim",
+    "Hofer": 206,
+    "VdB": 184
+  },
+  {
+    "name": "Bad Schallerbach",
+    "Hofer": 877,
+    "VdB": 846
+  },
+  {
+    "name": "Bruck-Waasen",
+    "Hofer": 630,
+    "VdB": 492
+  },
+  {
+    "name": "Eschenau im Hausruckkreis",
+    "Hofer": 387,
+    "VdB": 188
+  },
+  {
+    "name": "Gallspach",
+    "Hofer": 671,
+    "VdB": 481
+  },
+  {
+    "name": "Gaspoltshofen",
+    "Hofer": 911,
+    "VdB": 757
+  },
+  {
+    "name": "Geboltskirchen",
+    "Hofer": 369,
+    "VdB": 326
+  },
+  {
+    "name": "Grieskirchen",
+    "Hofer": 1022,
+    "VdB": 1119
+  },
+  {
+    "name": "Haag am Hausruck",
+    "Hofer": 473,
+    "VdB": 543
+  },
+  {
+    "name": "Heiligenberg",
+    "Hofer": 255,
+    "VdB": 152
+  },
+  {
+    "name": "Hofkirchen an der Trattnach",
+    "Hofer": 422,
+    "VdB": 361
+  },
+  {
+    "name": "Kallham",
+    "Hofer": 646,
+    "VdB": 511
+  },
+  {
+    "name": "Kematen am Innbach",
+    "Hofer": 425,
+    "VdB": 260
+  },
+  {
+    "name": "Meggenhofen",
+    "Hofer": 374,
+    "VdB": 333
+  },
+  {
+    "name": "Michaelnbach",
+    "Hofer": 370,
+    "VdB": 253
+  },
+  {
+    "name": "Natternbach",
+    "Hofer": 746,
+    "VdB": 437
+  },
+  {
+    "name": "Neukirchen am Walde",
+    "Hofer": 502,
+    "VdB": 335
+  },
+  {
+    "name": "Neumarkt im Hausruckkreis",
+    "Hofer": 314,
+    "VdB": 280
+  },
+  {
+    "name": "Peuerbach",
+    "Hofer": 569,
+    "VdB": 502
+  },
+  {
+    "name": "Pötting",
+    "Hofer": 139,
+    "VdB": 158
+  },
+  {
+    "name": "Pollham",
+    "Hofer": 246,
+    "VdB": 244
+  },
+  {
+    "name": "Pram",
+    "Hofer": 464,
+    "VdB": 410
+  },
+  {
+    "name": "Rottenbach",
+    "Hofer": 345,
+    "VdB": 201
+  },
+  {
+    "name": "St. Agatha",
+    "Hofer": 608,
+    "VdB": 442
+  },
+  {
+    "name": "St. Georgen bei Grieskirchen",
+    "Hofer": 312,
+    "VdB": 315
+  },
+  {
+    "name": "St. Thomas",
+    "Hofer": 186,
+    "VdB": 109
+  },
+  {
+    "name": "Schlüßlberg",
+    "Hofer": 804,
+    "VdB": 650
+  },
+  {
+    "name": "Steegen",
+    "Hofer": 316,
+    "VdB": 227
+  },
+  {
+    "name": "Taufkirchen an der Trattnach",
+    "Hofer": 601,
+    "VdB": 367
+  },
+  {
+    "name": "Tollet",
+    "Hofer": 206,
+    "VdB": 250
+  },
+  {
+    "name": "Waizenkirchen",
+    "Hofer": 1003,
+    "VdB": 788
+  },
+  {
+    "name": "Wallern an der Trattnach",
+    "Hofer": 745,
+    "VdB": 705
+  },
+  {
+    "name": "Weibern",
+    "Hofer": 379,
+    "VdB": 381
+  },
+  {
+    "name": "Wendling",
+    "Hofer": 250,
+    "VdB": 155
+  },
+  {
+    "name": "Edlbach",
+    "Hofer": 169,
+    "VdB": 106
+  },
+  {
+    "name": "Grünburg",
+    "Hofer": 954,
+    "VdB": 611
+  },
+  {
+    "name": "Hinterstoder",
+    "Hofer": 235,
+    "VdB": 193
+  },
+  {
+    "name": "Inzersdorf im Kremstal",
+    "Hofer": 511,
+    "VdB": 414
+  },
+  {
+    "name": "Kirchdorf an der Krems",
+    "Hofer": 786,
+    "VdB": 1059
+  },
+  {
+    "name": "Klaus an der Pyhrnbahn",
+    "Hofer": 245,
+    "VdB": 262
+  },
+  {
+    "name": "Kremsmünster",
+    "Hofer": 1439,
+    "VdB": 1333
+  },
+  {
+    "name": "Micheldorf in Oberösterreich",
+    "Hofer": 1328,
+    "VdB": 1437
+  },
+  {
+    "name": "Molln",
+    "Hofer": 935,
+    "VdB": 752
+  },
+  {
+    "name": "Nußbach",
+    "Hofer": 536,
+    "VdB": 582
+  },
+  {
+    "name": "Oberschlierbach",
+    "Hofer": 106,
+    "VdB": 125
+  },
+  {
+    "name": "Pettenbach",
+    "Hofer": 1324,
+    "VdB": 967
+  },
+  {
+    "name": "Ried im Traunkreis",
+    "Hofer": 771,
+    "VdB": 488
+  },
+  {
+    "name": "Rosenau am Hengstpaß",
+    "Hofer": 199,
+    "VdB": 110
+  },
+  {
+    "name": "Roßleithen",
+    "Hofer": 467,
+    "VdB": 337
+  },
+  {
+    "name": "St. Pankraz",
+    "Hofer": 104,
+    "VdB": 45
+  },
+  {
+    "name": "Schlierbach",
+    "Hofer": 604,
+    "VdB": 651
+  },
+  {
+    "name": "Spital am Pyhrn",
+    "Hofer": 582,
+    "VdB": 323
+  },
+  {
+    "name": "Steinbach am Ziehberg",
+    "Hofer": 221,
+    "VdB": 200
+  },
+  {
+    "name": "Steinbach an der Steyr",
+    "Hofer": 620,
+    "VdB": 366
+  },
+  {
+    "name": "Vorderstoder",
+    "Hofer": 202,
+    "VdB": 133
+  },
+  {
+    "name": "Wartberg an der Krems",
+    "Hofer": 777,
+    "VdB": 593
+  },
+  {
+    "name": "Windischgarsten",
+    "Hofer": 508,
+    "VdB": 448
+  },
+  {
+    "name": "Allhaming",
+    "Hofer": 287,
+    "VdB": 312
+  },
+  {
+    "name": "Ansfelden",
+    "Hofer": 3464,
+    "VdB": 2876
+  },
+  {
+    "name": "Asten",
+    "Hofer": 1527,
+    "VdB": 1279
+  },
+  {
+    "name": "Eggendorf im Traunkreis",
+    "Hofer": 237,
+    "VdB": 189
+  },
+  {
+    "name": "Enns",
+    "Hofer": 2177,
+    "VdB": 2509
+  },
+  {
+    "name": "Hargelsberg",
+    "Hofer": 312,
+    "VdB": 342
+  },
+  {
+    "name": "Hörsching",
+    "Hofer": 1574,
+    "VdB": 1262
+  },
+  {
+    "name": "Hofkirchen im Traunkreis",
+    "Hofer": 438,
+    "VdB": 471
+  },
+  {
+    "name": "Kematen an der Krems",
+    "Hofer": 652,
+    "VdB": 545
+  },
+  {
+    "name": "Kirchberg-Thening",
+    "Hofer": 521,
+    "VdB": 734
+  },
+  {
+    "name": "Kronstorf",
+    "Hofer": 832,
+    "VdB": 816
+  },
+  {
+    "name": "Leonding",
+    "Hofer": 5146,
+    "VdB": 6985
+  },
+  {
+    "name": "St. Florian",
+    "Hofer": 1304,
+    "VdB": 1736
+  },
+  {
+    "name": "Neuhofen an der Krems",
+    "Hofer": 1101,
+    "VdB": 1447
+  },
+  {
+    "name": "Niederneukirchen",
+    "Hofer": 471,
+    "VdB": 503
+  },
+  {
+    "name": "Oftering",
+    "Hofer": 508,
+    "VdB": 514
+  },
+  {
+    "name": "Pasching",
+    "Hofer": 1557,
+    "VdB": 1818
+  },
+  {
+    "name": "Piberbach",
+    "Hofer": 455,
+    "VdB": 407
+  },
+  {
+    "name": "Pucking",
+    "Hofer": 1148,
+    "VdB": 821
+  },
+  {
+    "name": "St. Marien",
+    "Hofer": 1013,
+    "VdB": 1254
+  },
+  {
+    "name": "Traun",
+    "Hofer": 4565,
+    "VdB": 4758
+  },
+  {
+    "name": "Wilhering",
+    "Hofer": 1078,
+    "VdB": 1867
+  },
+  {
+    "name": "Allerheiligen im Mühlkreis",
+    "Hofer": 341,
+    "VdB": 289
+  },
+  {
+    "name": "Arbing",
+    "Hofer": 361,
+    "VdB": 368
+  },
+  {
+    "name": "Baumgartenberg",
+    "Hofer": 504,
+    "VdB": 326
+  },
+  {
+    "name": "Dimbach",
+    "Hofer": 278,
+    "VdB": 164
+  },
+  {
+    "name": "Grein",
+    "Hofer": 767,
+    "VdB": 601
+  },
+  {
+    "name": "Katsdorf",
+    "Hofer": 645,
+    "VdB": 829
+  },
+  {
+    "name": "Klam",
+    "Hofer": 264,
+    "VdB": 195
+  },
+  {
+    "name": "Bad Kreuzen",
+    "Hofer": 637,
+    "VdB": 361
+  },
+  {
+    "name": "Langenstein",
+    "Hofer": 633,
+    "VdB": 681
+  },
+  {
+    "name": "Luftenberg an der Donau",
+    "Hofer": 942,
+    "VdB": 1070
+  },
+  {
+    "name": "Mauthausen",
+    "Hofer": 854,
+    "VdB": 1313
+  },
+  {
+    "name": "Mitterkirchen im Machland",
+    "Hofer": 409,
+    "VdB": 309
+  },
+  {
+    "name": "Münzbach",
+    "Hofer": 513,
+    "VdB": 297
+  },
+  {
+    "name": "Naarn im Machlande",
+    "Hofer": 1031,
+    "VdB": 755
+  },
+  {
+    "name": "Pabneukirchen",
+    "Hofer": 483,
+    "VdB": 330
+  },
+  {
+    "name": "Perg",
+    "Hofer": 1754,
+    "VdB": 1981
+  },
+  {
+    "name": "Rechberg",
+    "Hofer": 215,
+    "VdB": 235
+  },
+  {
+    "name": "Ried in der Riedmark",
+    "Hofer": 882,
+    "VdB": 1166
+  },
+  {
+    "name": "St. Georgen am Walde",
+    "Hofer": 623,
+    "VdB": 346
+  },
+  {
+    "name": "St. Georgen an der Gusen",
+    "Hofer": 811,
+    "VdB": 1208
+  },
+  {
+    "name": "St. Nikola an der Donau",
+    "Hofer": 183,
+    "VdB": 142
+  },
+  {
+    "name": "St. Thomas am Blasenstein",
+    "Hofer": 223,
+    "VdB": 168
+  },
+  {
+    "name": "Saxen",
+    "Hofer": 516,
+    "VdB": 412
+  },
+  {
+    "name": "Schwertberg",
+    "Hofer": 1124,
+    "VdB": 1393
+  },
+  {
+    "name": "Waldhausen im Strudengau",
+    "Hofer": 773,
+    "VdB": 575
+  },
+  {
+    "name": "Windhaag bei Perg",
+    "Hofer": 346,
+    "VdB": 294
+  },
+  {
+    "name": "Andrichsfurt",
+    "Hofer": 203,
+    "VdB": 150
+  },
+  {
+    "name": "Antiesenhofen",
+    "Hofer": 289,
+    "VdB": 147
+  },
+  {
+    "name": "Aurolzmünster",
+    "Hofer": 799,
+    "VdB": 439
+  },
+  {
+    "name": "Eberschwang",
+    "Hofer": 932,
+    "VdB": 575
+  },
+  {
+    "name": "Eitzing",
+    "Hofer": 214,
+    "VdB": 133
+  },
+  {
+    "name": "Geiersberg",
+    "Hofer": 146,
+    "VdB": 124
+  },
+  {
+    "name": "Geinberg",
+    "Hofer": 315,
+    "VdB": 180
+  },
+  {
+    "name": "Gurten",
+    "Hofer": 275,
+    "VdB": 192
+  },
+  {
+    "name": "Hohenzell",
+    "Hofer": 572,
+    "VdB": 470
+  },
+  {
+    "name": "Kirchdorf am Inn",
+    "Hofer": 187,
+    "VdB": 110
+  },
+  {
+    "name": "Kirchheim im Innkreis",
+    "Hofer": 238,
+    "VdB": 129
+  },
+  {
+    "name": "Lambrechten",
+    "Hofer": 427,
+    "VdB": 210
+  },
+  {
+    "name": "Lohnsburg am Kobernaußerwald",
+    "Hofer": 650,
+    "VdB": 367
+  },
+  {
+    "name": "Mehrnbach",
+    "Hofer": 604,
+    "VdB": 373
+  },
+  {
+    "name": "Mettmach",
+    "Hofer": 769,
+    "VdB": 348
+  },
+  {
+    "name": "Mörschwang",
+    "Hofer": 66,
+    "VdB": 90
+  },
+  {
+    "name": "Mühlheim am Inn",
+    "Hofer": 191,
+    "VdB": 118
+  },
+  {
+    "name": "Neuhofen im Innkreis",
+    "Hofer": 587,
+    "VdB": 539
+  },
+  {
+    "name": "Obernberg am Inn",
+    "Hofer": 340,
+    "VdB": 200
+  },
+  {
+    "name": "Ort im Innkreis",
+    "Hofer": 376,
+    "VdB": 188
+  },
+  {
+    "name": "Pattigham",
+    "Hofer": 239,
+    "VdB": 195
+  },
+  {
+    "name": "Peterskirchen",
+    "Hofer": 188,
+    "VdB": 163
+  },
+  {
+    "name": "Pramet",
+    "Hofer": 339,
+    "VdB": 180
+  },
+  {
+    "name": "Reichersberg",
+    "Hofer": 406,
+    "VdB": 255
+  },
+  {
+    "name": "Ried im Innkreis",
+    "Hofer": 2121,
+    "VdB": 2347
+  },
+  {
+    "name": "St. Georgen bei Obernberg am Inn",
+    "Hofer": 131,
+    "VdB": 159
+  },
+  {
+    "name": "St. Marienkirchen am Hausruck",
+    "Hofer": 253,
+    "VdB": 184
+  },
+  {
+    "name": "St. Martin im Innkreis",
+    "Hofer": 383,
+    "VdB": 345
+  },
+  {
+    "name": "Schildorn",
+    "Hofer": 281,
+    "VdB": 185
+  },
+  {
+    "name": "Senftenbach",
+    "Hofer": 222,
+    "VdB": 156
+  },
+  {
+    "name": "Taiskirchen im Innkreis",
+    "Hofer": 668,
+    "VdB": 516
+  },
+  {
+    "name": "Tumeltsham",
+    "Hofer": 376,
+    "VdB": 324
+  },
+  {
+    "name": "Utzenaich",
+    "Hofer": 406,
+    "VdB": 295
+  },
+  {
+    "name": "Waldzell",
+    "Hofer": 681,
+    "VdB": 336
+  },
+  {
+    "name": "Weilbach",
+    "Hofer": 148,
+    "VdB": 112
+  },
+  {
+    "name": "Wippenham",
+    "Hofer": 149,
+    "VdB": 117
+  },
+  {
+    "name": "Afiesl",
+    "Hofer": 139,
+    "VdB": 77
+  },
+  {
+    "name": "Ahorn",
+    "Hofer": 152,
+    "VdB": 137
+  },
+  {
+    "name": "Altenfelden",
+    "Hofer": 625,
+    "VdB": 520
+  },
+  {
+    "name": "Arnreit",
+    "Hofer": 309,
+    "VdB": 290
+  },
+  {
+    "name": "Atzesberg",
+    "Hofer": 157,
+    "VdB": 65
+  },
+  {
+    "name": "Auberg",
+    "Hofer": 144,
+    "VdB": 138
+  },
+  {
+    "name": "Haslach an der Mühl",
+    "Hofer": 523,
+    "VdB": 738
+  },
+  {
+    "name": "Helfenberg",
+    "Hofer": 248,
+    "VdB": 233
+  },
+  {
+    "name": "Hörbich",
+    "Hofer": 150,
+    "VdB": 82
+  },
+  {
+    "name": "Hofkirchen im Mühlkreis",
+    "Hofer": 374,
+    "VdB": 289
+  },
+  {
+    "name": "Julbach",
+    "Hofer": 374,
+    "VdB": 274
+  },
+  {
+    "name": "Kirchberg ob der Donau",
+    "Hofer": 258,
+    "VdB": 238
+  },
+  {
+    "name": "Klaffer am Hochficht",
+    "Hofer": 380,
+    "VdB": 190
+  },
+  {
+    "name": "Kleinzell im Mühlkreis",
+    "Hofer": 336,
+    "VdB": 423
+  },
+  {
+    "name": "Kollerschlag",
+    "Hofer": 388,
+    "VdB": 254
+  },
+  {
+    "name": "Lembach im Mühlkreis",
+    "Hofer": 387,
+    "VdB": 343
+  },
+  {
+    "name": "Lichtenau im Mühlkreis",
+    "Hofer": 141,
+    "VdB": 72
+  },
+  {
+    "name": "Nebelberg",
+    "Hofer": 144,
+    "VdB": 112
+  },
+  {
+    "name": "Neufelden",
+    "Hofer": 219,
+    "VdB": 305
+  },
+  {
+    "name": "Niederkappel",
+    "Hofer": 332,
+    "VdB": 190
+  },
+  {
+    "name": "Niederwaldkirchen",
+    "Hofer": 415,
+    "VdB": 458
+  },
+  {
+    "name": "Oberkappel",
+    "Hofer": 127,
+    "VdB": 107
+  },
+  {
+    "name": "Oepping",
+    "Hofer": 430,
+    "VdB": 326
+  },
+  {
+    "name": "Peilstein im Mühlviertel",
+    "Hofer": 451,
+    "VdB": 295
+  },
+  {
+    "name": "Pfarrkirchen im Mühlkreis",
+    "Hofer": 373,
+    "VdB": 304
+  },
+  {
+    "name": "Putzleinsdorf",
+    "Hofer": 380,
+    "VdB": 369
+  },
+  {
+    "name": "Neustift im Mühlkreis",
+    "Hofer": 271,
+    "VdB": 347
+  },
+  {
+    "name": "St. Johann am Wimberg",
+    "Hofer": 293,
+    "VdB": 211
+  },
+  {
+    "name": "St. Martin im Mühlkreis",
+    "Hofer": 910,
+    "VdB": 900
+  },
+  {
+    "name": "St. Oswald bei Haslach",
+    "Hofer": 122,
+    "VdB": 113
+  },
+  {
+    "name": "St. Peter am Wimberg",
+    "Hofer": 389,
+    "VdB": 502
+  },
+  {
+    "name": "St. Stefan am Walde",
+    "Hofer": 179,
+    "VdB": 236
+  },
+  {
+    "name": "St. Ulrich im Mühlkreis",
+    "Hofer": 155,
+    "VdB": 182
+  },
+  {
+    "name": "St. Veit im Mühlkreis",
+    "Hofer": 312,
+    "VdB": 304
+  },
+  {
+    "name": "Sarleinsbach",
+    "Hofer": 544,
+    "VdB": 611
+  },
+  {
+    "name": "Schönegg",
+    "Hofer": 155,
+    "VdB": 126
+  },
+  {
+    "name": "Schwarzenberg am Böhmerwald",
+    "Hofer": 153,
+    "VdB": 109
+  },
+  {
+    "name": "Ulrichsberg",
+    "Hofer": 809,
+    "VdB": 529
+  },
+  {
+    "name": "Aigen-Schlägl",
+    "Hofer": 765,
+    "VdB": 631
+  },
+  {
+    "name": "Rohrbach-Berg",
+    "Hofer": 1148,
+    "VdB": 1249
+  },
+  {
+    "name": "Altschwendt",
+    "Hofer": 218,
+    "VdB": 166
+  },
+  {
+    "name": "Andorf",
+    "Hofer": 1608,
+    "VdB": 983
+  },
+  {
+    "name": "Brunnenthal",
+    "Hofer": 528,
+    "VdB": 443
+  },
+  {
+    "name": "Diersbach",
+    "Hofer": 489,
+    "VdB": 315
+  },
+  {
+    "name": "Dorf an der Pram",
+    "Hofer": 249,
+    "VdB": 250
+  },
+  {
+    "name": "Eggerding",
+    "Hofer": 442,
+    "VdB": 226
+  },
+  {
+    "name": "Engelhartszell",
+    "Hofer": 229,
+    "VdB": 175
+  },
+  {
+    "name": "Enzenkirchen",
+    "Hofer": 626,
+    "VdB": 235
+  },
+  {
+    "name": "Esternberg",
+    "Hofer": 855,
+    "VdB": 454
+  },
+  {
+    "name": "Freinberg",
+    "Hofer": 249,
+    "VdB": 194
+  },
+  {
+    "name": "Kopfing im Innkreis",
+    "Hofer": 656,
+    "VdB": 270
+  },
+  {
+    "name": "Mayrhof",
+    "Hofer": 114,
+    "VdB": 57
+  },
+  {
+    "name": "Münzkirchen",
+    "Hofer": 769,
+    "VdB": 495
+  },
+  {
+    "name": "Raab",
+    "Hofer": 700,
+    "VdB": 419
+  },
+  {
+    "name": "Rainbach im Innkreis",
+    "Hofer": 440,
+    "VdB": 278
+  },
+  {
+    "name": "Riedau",
+    "Hofer": 443,
+    "VdB": 400
+  },
+  {
+    "name": "St. Aegidi",
+    "Hofer": 510,
+    "VdB": 324
+  },
+  {
+    "name": "St. Florian am Inn",
+    "Hofer": 786,
+    "VdB": 592
+  },
+  {
+    "name": "St. Marienkirchen bei Schärding",
+    "Hofer": 553,
+    "VdB": 270
+  },
+  {
+    "name": "St. Roman",
+    "Hofer": 651,
+    "VdB": 199
+  },
+  {
+    "name": "St. Willibald",
+    "Hofer": 398,
+    "VdB": 187
+  },
+  {
+    "name": "Schärding",
+    "Hofer": 932,
+    "VdB": 981
+  },
+  {
+    "name": "Schardenberg",
+    "Hofer": 554,
+    "VdB": 399
+  },
+  {
+    "name": "Sigharting",
+    "Hofer": 265,
+    "VdB": 163
+  },
+  {
+    "name": "Suben",
+    "Hofer": 267,
+    "VdB": 253
+  },
+  {
+    "name": "Taufkirchen an der Pram",
+    "Hofer": 732,
+    "VdB": 552
+  },
+  {
+    "name": "Vichtenstein",
+    "Hofer": 153,
+    "VdB": 89
+  },
+  {
+    "name": "Waldkirchen am Wesen",
+    "Hofer": 372,
+    "VdB": 215
+  },
+  {
+    "name": "Wernstein am Inn",
+    "Hofer": 398,
+    "VdB": 266
+  },
+  {
+    "name": "Zell an der Pram",
+    "Hofer": 465,
+    "VdB": 449
+  },
+  {
+    "name": "Adlwang",
+    "Hofer": 489,
+    "VdB": 407
+  },
+  {
+    "name": "Aschach an der Steyr",
+    "Hofer": 543,
+    "VdB": 612
+  },
+  {
+    "name": "Bad Hall",
+    "Hofer": 1115,
+    "VdB": 1132
+  },
+  {
+    "name": "Dietach",
+    "Hofer": 731,
+    "VdB": 868
+  },
+  {
+    "name": "Gaflenz",
+    "Hofer": 560,
+    "VdB": 382
+  },
+  {
+    "name": "Garsten",
+    "Hofer": 1605,
+    "VdB": 1652
+  },
+  {
+    "name": "Großraming",
+    "Hofer": 703,
+    "VdB": 678
+  },
+  {
+    "name": "Laussa",
+    "Hofer": 347,
+    "VdB": 330
+  },
+  {
+    "name": "Losenstein",
+    "Hofer": 379,
+    "VdB": 398
+  },
+  {
+    "name": "Maria Neustift",
+    "Hofer": 514,
+    "VdB": 279
+  },
+  {
+    "name": "Pfarrkirchen bei Bad Hall",
+    "Hofer": 580,
+    "VdB": 527
+  },
+  {
+    "name": "Reichraming",
+    "Hofer": 475,
+    "VdB": 450
+  },
+  {
+    "name": "Rohr im Kremstal",
+    "Hofer": 311,
+    "VdB": 291
+  },
+  {
+    "name": "St. Ulrich bei Steyr",
+    "Hofer": 738,
+    "VdB": 798
+  },
+  {
+    "name": "Schiedlberg",
+    "Hofer": 328,
+    "VdB": 271
+  },
+  {
+    "name": "Sierning",
+    "Hofer": 2303,
+    "VdB": 2168
+  },
+  {
+    "name": "Ternberg",
+    "Hofer": 929,
+    "VdB": 763
+  },
+  {
+    "name": "Waldneukirchen",
+    "Hofer": 624,
+    "VdB": 501
+  },
+  {
+    "name": "Wolfern",
+    "Hofer": 892,
+    "VdB": 666
+  },
+  {
+    "name": "Weyer",
+    "Hofer": 1101,
+    "VdB": 949
+  },
+  {
+    "name": "Alberndorf in der Riedmark",
+    "Hofer": 1075,
+    "VdB": 957
+  },
+  {
+    "name": "Altenberg bei Linz",
+    "Hofer": 1077,
+    "VdB": 1184
+  },
+  {
+    "name": "Bad Leonfelden",
+    "Hofer": 1092,
+    "VdB": 889
+  },
+  {
+    "name": "Eidenberg",
+    "Hofer": 432,
+    "VdB": 605
+  },
+  {
+    "name": "Engerwitzdorf",
+    "Hofer": 2040,
+    "VdB": 2354
+  },
+  {
+    "name": "Feldkirchen an der Donau",
+    "Hofer": 1367,
+    "VdB": 1572
+  },
+  {
+    "name": "Gallneukirchen",
+    "Hofer": 1040,
+    "VdB": 2109
+  },
+  {
+    "name": "Goldwörth",
+    "Hofer": 206,
+    "VdB": 263
+  },
+  {
+    "name": "Gramastetten",
+    "Hofer": 983,
+    "VdB": 1440
+  },
+  {
+    "name": "Haibach im Mühlkreis",
+    "Hofer": 262,
+    "VdB": 217
+  },
+  {
+    "name": "Hellmonsödt",
+    "Hofer": 457,
+    "VdB": 591
+  },
+  {
+    "name": "Herzogsdorf",
+    "Hofer": 656,
+    "VdB": 586
+  },
+  {
+    "name": "Kirchschlag bei Linz",
+    "Hofer": 424,
+    "VdB": 607
+  },
+  {
+    "name": "Lichtenberg",
+    "Hofer": 502,
+    "VdB": 916
+  },
+  {
+    "name": "Oberneukirchen",
+    "Hofer": 744,
+    "VdB": 833
+  },
+  {
+    "name": "Ottenschlag im Mühlkreis",
+    "Hofer": 161,
+    "VdB": 107
+  },
+  {
+    "name": "Ottensheim",
+    "Hofer": 827,
+    "VdB": 1492
+  },
+  {
+    "name": "Puchenau",
+    "Hofer": 809,
+    "VdB": 1460
+  },
+  {
+    "name": "Reichenau im Mühlkreis",
+    "Hofer": 307,
+    "VdB": 333
+  },
+  {
+    "name": "Reichenthal",
+    "Hofer": 344,
+    "VdB": 366
+  },
+  {
+    "name": "St. Gotthard im Mühlkreis",
+    "Hofer": 290,
+    "VdB": 375
+  },
+  {
+    "name": "Schenkenfelden",
+    "Hofer": 376,
+    "VdB": 383
+  },
+  {
+    "name": "Sonnberg im Mühlkreis",
+    "Hofer": 224,
+    "VdB": 266
+  },
+  {
+    "name": "Steyregg",
+    "Hofer": 1085,
+    "VdB": 1343
+  },
+  {
+    "name": "Vorderweißenbach",
+    "Hofer": 548,
+    "VdB": 528
+  },
+  {
+    "name": "Walding",
+    "Hofer": 787,
+    "VdB": 1221
+  },
+  {
+    "name": "Zwettl an der Rodl",
+    "Hofer": 345,
+    "VdB": 543
+  },
+  {
+    "name": "Ampflwang im Hausruckwald",
+    "Hofer": 825,
+    "VdB": 776
+  },
+  {
+    "name": "Attersee am Attersee",
+    "Hofer": 332,
+    "VdB": 446
+  },
+  {
+    "name": "Attnang-Puchheim",
+    "Hofer": 1598,
+    "VdB": 1711
+  },
+  {
+    "name": "Atzbach",
+    "Hofer": 335,
+    "VdB": 280
+  },
+  {
+    "name": "Aurach am Hongar",
+    "Hofer": 507,
+    "VdB": 306
+  },
+  {
+    "name": "Berg im Attergau",
+    "Hofer": 270,
+    "VdB": 160
+  },
+  {
+    "name": "Desselbrunn",
+    "Hofer": 447,
+    "VdB": 387
+  },
+  {
+    "name": "Fornach",
+    "Hofer": 337,
+    "VdB": 146
+  },
+  {
+    "name": "Frankenburg am Hausruck",
+    "Hofer": 1547,
+    "VdB": 975
+  },
+  {
+    "name": "Frankenmarkt",
+    "Hofer": 952,
+    "VdB": 713
+  },
+  {
+    "name": "Gampern",
+    "Hofer": 750,
+    "VdB": 681
+  },
+  {
+    "name": "Innerschwand am Mondsee",
+    "Hofer": 230,
+    "VdB": 243
+  },
+  {
+    "name": "Lenzing",
+    "Hofer": 1255,
+    "VdB": 1073
+  },
+  {
+    "name": "Manning",
+    "Hofer": 186,
+    "VdB": 216
+  },
+  {
+    "name": "Mondsee",
+    "Hofer": 577,
+    "VdB": 726
+  },
+  {
+    "name": "Neukirchen an der Vöckla",
+    "Hofer": 741,
+    "VdB": 584
+  },
+  {
+    "name": "Niederthalheim",
+    "Hofer": 326,
+    "VdB": 239
+  },
+  {
+    "name": "Nußdorf am Attersee",
+    "Hofer": 297,
+    "VdB": 242
+  },
+  {
+    "name": "Oberhofen am Irrsee",
+    "Hofer": 437,
+    "VdB": 297
+  },
+  {
+    "name": "Oberndorf bei Schwanenstadt",
+    "Hofer": 385,
+    "VdB": 334
+  },
+  {
+    "name": "Oberwang",
+    "Hofer": 455,
+    "VdB": 235
+  },
+  {
+    "name": "Ottnang am Hausruck",
+    "Hofer": 996,
+    "VdB": 757
+  },
+  {
+    "name": "Pfaffing",
+    "Hofer": 365,
+    "VdB": 319
+  },
+  {
+    "name": "Pilsbach",
+    "Hofer": 150,
+    "VdB": 176
+  },
+  {
+    "name": "Pitzenberg",
+    "Hofer": 133,
+    "VdB": 149
+  },
+  {
+    "name": "Pöndorf",
+    "Hofer": 768,
+    "VdB": 375
+  },
+  {
+    "name": "Puchkirchen am Trattberg",
+    "Hofer": 227,
+    "VdB": 222
+  },
+  {
+    "name": "Pühret",
+    "Hofer": 159,
+    "VdB": 152
+  },
+  {
+    "name": "Redleiten",
+    "Hofer": 147,
+    "VdB": 81
+  },
+  {
+    "name": "Redlham",
+    "Hofer": 364,
+    "VdB": 377
+  },
+  {
+    "name": "Regau",
+    "Hofer": 1722,
+    "VdB": 1472
+  },
+  {
+    "name": "Rüstorf",
+    "Hofer": 453,
+    "VdB": 479
+  },
+  {
+    "name": "Rutzenham",
+    "Hofer": 66,
+    "VdB": 70
+  },
+  {
+    "name": "St. Georgen im Attergau",
+    "Hofer": 1104,
+    "VdB": 757
+  },
+  {
+    "name": "St. Lorenz",
+    "Hofer": 520,
+    "VdB": 541
+  },
+  {
+    "name": "Schlatt",
+    "Hofer": 305,
+    "VdB": 273
+  },
+  {
+    "name": "Schörfling am Attersee",
+    "Hofer": 762,
+    "VdB": 829
+  },
+  {
+    "name": "Schwanenstadt",
+    "Hofer": 899,
+    "VdB": 894
+  },
+  {
+    "name": "Seewalchen am Attersee",
+    "Hofer": 1214,
+    "VdB": 1345
+  },
+  {
+    "name": "Steinbach am Attersee",
+    "Hofer": 171,
+    "VdB": 238
+  },
+  {
+    "name": "Straß im Attergau",
+    "Hofer": 419,
+    "VdB": 252
+  },
+  {
+    "name": "Tiefgraben",
+    "Hofer": 849,
+    "VdB": 680
+  },
+  {
+    "name": "Timelkam",
+    "Hofer": 1315,
+    "VdB": 1397
+  },
+  {
+    "name": "Ungenach",
+    "Hofer": 387,
+    "VdB": 374
+  },
+  {
+    "name": "Unterach am Attersee",
+    "Hofer": 283,
+    "VdB": 313
+  },
+  {
+    "name": "Vöcklabruck",
+    "Hofer": 2278,
+    "VdB": 2972
+  },
+  {
+    "name": "Vöcklamarkt",
+    "Hofer": 1217,
+    "VdB": 1073
+  },
+  {
+    "name": "Weißenkirchen im Attergau",
+    "Hofer": 315,
+    "VdB": 169
+  },
+  {
+    "name": "Weyregg am Attersee",
+    "Hofer": 329,
+    "VdB": 395
+  },
+  {
+    "name": "Wolfsegg am Hausruck",
+    "Hofer": 445,
+    "VdB": 434
+  },
+  {
+    "name": "Zell am Moos",
+    "Hofer": 359,
+    "VdB": 323
+  },
+  {
+    "name": "Zell am Pettenfirst",
+    "Hofer": 258,
+    "VdB": 306
+  },
+  {
+    "name": "Aichkirchen",
+    "Hofer": 153,
+    "VdB": 127
+  },
+  {
+    "name": "Bachmanning",
+    "Hofer": 157,
+    "VdB": 122
+  },
+  {
+    "name": "Bad Wimsbach-Neydharting",
+    "Hofer": 640,
+    "VdB": 536
+  },
+  {
+    "name": "Buchkirchen",
+    "Hofer": 1055,
+    "VdB": 898
+  },
+  {
+    "name": "Eberstalzell",
+    "Hofer": 752,
+    "VdB": 452
+  },
+  {
+    "name": "Edt bei Lambach",
+    "Hofer": 567,
+    "VdB": 430
+  },
+  {
+    "name": "Fischlham",
+    "Hofer": 355,
+    "VdB": 307
+  },
+  {
+    "name": "Gunskirchen",
+    "Hofer": 1518,
+    "VdB": 1296
+  },
+  {
+    "name": "Holzhausen",
+    "Hofer": 225,
+    "VdB": 196
+  },
+  {
+    "name": "Krenglbach",
+    "Hofer": 807,
+    "VdB": 782
+  },
+  {
+    "name": "Lambach",
+    "Hofer": 641,
+    "VdB": 596
+  },
+  {
+    "name": "Marchtrenk",
+    "Hofer": 3214,
+    "VdB": 2576
+  },
+  {
+    "name": "Neukirchen bei Lambach",
+    "Hofer": 237,
+    "VdB": 206
+  },
+  {
+    "name": "Offenhausen",
+    "Hofer": 434,
+    "VdB": 345
+  },
+  {
+    "name": "Pennewang",
+    "Hofer": 216,
+    "VdB": 227
+  },
+  {
+    "name": "Pichl bei Wels",
+    "Hofer": 780,
+    "VdB": 709
+  },
+  {
+    "name": "Sattledt",
+    "Hofer": 667,
+    "VdB": 489
+  },
+  {
+    "name": "Schleißheim",
+    "Hofer": 332,
+    "VdB": 303
+  },
+  {
+    "name": "Sipbachzell",
+    "Hofer": 563,
+    "VdB": 417
+  },
+  {
+    "name": "Stadl-Paura",
+    "Hofer": 1121,
+    "VdB": 774
+  },
+  {
+    "name": "Steinerkirchen an der Traun",
+    "Hofer": 644,
+    "VdB": 570
+  },
+  {
+    "name": "Steinhaus",
+    "Hofer": 610,
+    "VdB": 359
+  },
+  {
+    "name": "Thalheim bei Wels",
+    "Hofer": 1128,
+    "VdB": 1315
+  },
+  {
+    "name": "Weißkirchen an der Traun",
+    "Hofer": 956,
+    "VdB": 731
+  }
+]
